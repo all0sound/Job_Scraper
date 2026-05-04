@@ -1,29 +1,37 @@
 {
-  "scraped_at": "2026-05-03 22:45 UTC",
-  "total": 3,
+  "scraped_at": "2026-05-04 04:41 UTC",
+  "total": 4,
   "jobs": [
     {
-      "company": "Protingent",
-      "title": "Staff Machine Learning Engineer",
+      "company": "Cursor",
+      "title": "Data Scientist, Growth",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408397012/",
-      "date_posted": "2026-05-03",
+      "url": "https://www.linkedin.com/jobs/view/4409892834/",
+      "date_posted": "2026-05-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Haystack",
-      "title": "Senior AI Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403749110/",
-      "date_posted": "2026-05-03",
+      "company": "Tykhe Inc",
+      "title": "Machine Learning Engineer (Staff Level)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404212879/",
+      "date_posted": "2026-05-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408383809/",
-      "date_posted": "2026-05-03",
+      "company": "Uber",
+      "title": "Machine Learning Engineer II - AV Labs",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409891763/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TD SYNNEX North America",
+      "title": "Physical AI Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407734341/",
+      "date_posted": "2026-05-04",
       "ats": "LinkedIn"
     }
   ]
