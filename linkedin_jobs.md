@@ -1,52 +1,56 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-04 20:17 UTC*
+*Last updated: 2026-05-04 22:58 UTC*
 
-**12 role(s) posted in the last hour**
+**13 role(s) posted in the last hour**
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4408913110/) — Google
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4410206973/) — NotCo AI
+### [Data Scientist](https://www.linkedin.com/jobs/view/4408934379/) — Adaptive Machines, Inc
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-04
 
-### [Machine Learning Research Engineer, AI/ML for Drug Discovery](https://www.linkedin.com/jobs/view/4408911795/) — Numerion Labs
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4408335861/) — Shields Group Search
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-04
 
-### [Data Scientist, Global E-commerce](https://www.linkedin.com/jobs/view/4408915002/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4410222418/) — Diablo Canyon Power Plant
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4408924021/) — Jobs via Dice
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Senior Machine Learning Engineer Manager - TikTok Trust & Safety](https://www.linkedin.com/jobs/view/4408905949/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4408928073/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Staff Data Scientist](https://www.linkedin.com/jobs/view/4392812200/) — Coupang
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4410223639/) — Decagon
+### [Data Scientist II, Tech](https://www.linkedin.com/jobs/view/4410247747/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [Senior/Staff Machine Learning Engineer - Perception HD Mapping](https://www.linkedin.com/jobs/view/4410215724/) — Zoox
-- 📍 **Location:** Foster City, CA
+### [Senior Machine Learning Engineer - Moonshot AI](https://www.linkedin.com/jobs/view/4410252616/) — Uber
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [Sr. Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4408913274/) — TikTok
+### [Data Scientist, Payment Analytics - USDS](https://www.linkedin.com/jobs/view/4410250451/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Applied Scientist](https://www.linkedin.com/jobs/view/4410236957/) — Uber
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4410246657/) — Apex Systems
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Senior Staff Data Scientist, Perception](https://www.linkedin.com/jobs/view/4408917667/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Agentic-Workflow MLE (Pipeline)](https://www.linkedin.com/jobs/view/4410233342/) — Prophecy
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Principal Machine Learning Engineer](https://www.linkedin.com/jobs/view/4408122068/) — Headspace
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4408933460/) — Fieldguide
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [AI Engineer (Agents)](https://www.linkedin.com/jobs/view/4408932497/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Computational Biologist](https://www.linkedin.com/jobs/view/4408936318/) — RecruitSeq
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
