@@ -1,84 +1,140 @@
 {
-  "scraped_at": "2026-05-06 17:43 UTC",
-  "total": 10,
+  "scraped_at": "2026-05-06 20:25 UTC",
+  "total": 17,
   "jobs": [
     {
-      "company": "GRAIL",
-      "title": "Senior Data Scientist # 4630",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409951663/",
+      "company": "Gigascale Capital",
+      "title": "Machine Learning Engineer - Training Systems",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409973769/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Visa",
+      "company": "Gigascale Capital",
+      "title": "Machine Learning Engineer - Training Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409991091/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Avanciers Inc.",
+      "title": "Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408891857/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Checkr, Inc.",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411256374/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Replit",
       "title": "Data Scientist",
       "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411212478/",
+      "url": "https://www.linkedin.com/jobs/view/4411238230/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Visa",
-      "title": "Data Scientist - VCS",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411210557/",
-      "date_posted": "2026-05-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Atoms",
-      "title": "Machine Learning Engineer Internship - Mountain View, CA",
+      "company": "Google",
+      "title": "Business Data Scientist, Applied Machine Learning, GCS",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409953401/",
+      "url": "https://www.linkedin.com/jobs/view/4409981111/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kastech Software Solutions Group",
-      "title": "Data Science Specialist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409950445/",
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409974557/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Visa",
-      "title": "Data Scientist - Sr. Consultant Level",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411210556/",
+      "company": "Aurelius Systems",
+      "title": "Sr. Machine Learning Engineer, Perception",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411246330/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Principal Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380322181/",
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408888957/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "myGwork - LGBTQ+ Business Community",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408899575/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409207008/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409203330/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist, Product",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409908249/",
+      "url": "https://www.linkedin.com/jobs/view/4409986058/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "scalr",
-      "title": "AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408897182/",
+      "company": "Replit",
+      "title": "Data Scientist, Product",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411253059/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Saragossa",
-      "title": "Applied AI Engineer- Series B $250M hyperscaler- $300,000-$350,000 + equity!",
+      "company": "EY",
+      "title": "AI Engineering - Power & Utilities Sector - Senior Manager - Consulting",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408888956/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Knowledge Team",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408878737/",
+      "url": "https://www.linkedin.com/jobs/view/4409985166/",
+      "date_posted": "2026-05-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Knowledge Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409981292/",
       "date_posted": "2026-05-06",
       "ats": "LinkedIn"
     }

@@ -1,44 +1,72 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-06 17:43 UTC*
+*Last updated: 2026-05-06 20:25 UTC*
 
-**10 role(s) posted in the last hour**
+**17 role(s) posted in the last hour**
 
-### [Senior Data Scientist # 4630](https://www.linkedin.com/jobs/view/4409951663/) — GRAIL
-- 📍 **Location:** Menlo Park, CA
+### [Machine Learning Engineer - Training Systems](https://www.linkedin.com/jobs/view/4409973769/) — Gigascale Capital
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-06
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4411212478/) — Visa
-- 📍 **Location:** Foster City, CA
+### [Machine Learning Engineer - Training Platform](https://www.linkedin.com/jobs/view/4409991091/) — Gigascale Capital
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-06
 
-### [Data Scientist - VCS](https://www.linkedin.com/jobs/view/4411210557/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-05-06
-
-### [Machine Learning Engineer Internship - Mountain View, CA](https://www.linkedin.com/jobs/view/4409953401/) — Atoms
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-06
-
-### [Data Science Specialist](https://www.linkedin.com/jobs/view/4409950445/) — Kastech Software Solutions Group
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-06
-
-### [Data Scientist - Sr. Consultant Level](https://www.linkedin.com/jobs/view/4411210556/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-05-06
-
-### [Principal Data Scientist](https://www.linkedin.com/jobs/view/4380322181/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-06
-
-### [Applied Scientist II, Foundation Model, Industrial Robotics Group](https://www.linkedin.com/jobs/view/4409908249/) — myGwork - LGBTQ+ Business Community
+### [Data Scientist](https://www.linkedin.com/jobs/view/4408891857/) — Avanciers Inc.
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-06
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4408897182/) — scalr
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4411256374/) — Checkr, Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4411238230/) — Replit
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Business Data Scientist, Applied Machine Learning, GCS](https://www.linkedin.com/jobs/view/4409981111/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4409974557/) — Jobs via Dice
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Sr. Machine Learning Engineer, Perception](https://www.linkedin.com/jobs/view/4411246330/) — Aurelius Systems
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting](https://www.linkedin.com/jobs/view/4408888957/) — EY
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting](https://www.linkedin.com/jobs/view/4408899575/) — EY
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting](https://www.linkedin.com/jobs/view/4409207008/) — EY
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting](https://www.linkedin.com/jobs/view/4409203330/) — EY
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4409986058/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4411253059/) — Replit
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [AI Engineering - Power & Utilities Sector - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4408888956/) — EY
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-06
+
+### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4409985166/) — Anthropic
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-06
 
-### [Applied AI Engineer- Series B $250M hyperscaler- $300,000-$350,000 + equity!](https://www.linkedin.com/jobs/view/4408878737/) — Saragossa
-- 📍 **Location:** San Francisco Bay Area
+### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4409981292/) — Anthropic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-06
