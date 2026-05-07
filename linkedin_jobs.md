@@ -1,20 +1,24 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-07 04:35 UTC*
+*Last updated: 2026-05-07 17:49 UTC*
 
-**4 role(s) posted in the last hour**
+**5 role(s) posted in the last hour**
 
-### [Data Scientist II, Insurance](https://www.linkedin.com/jobs/view/4411429275/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-07
-
-### [Senior, Data Scientist](https://www.linkedin.com/jobs/view/4409237380/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-07
-
-### [Staff Data Scientist, Airports and Travel](https://www.linkedin.com/jobs/view/4411427511/) — Uber
+### [Staff ML Engineer, Life Sciences AI](https://www.linkedin.com/jobs/view/4411644980/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-07
 
-### [Lead AI Engineer — Nessence AI Practice](https://www.linkedin.com/jobs/view/4410442280/) — Nessence.co
+### [ML Engineer, Data Pipeline](https://www.linkedin.com/jobs/view/4407112278/) — Stand
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-07
+
+### [Data Scientist/Analytics V](https://www.linkedin.com/jobs/view/4409607312/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-05-07
+
+### [Archer Data Scientist](https://www.linkedin.com/jobs/view/4400185565/) — Archer Integrated Risk Management
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-05-07
+
+### [Member of Technical Staff, Applied AI Engineer](https://www.linkedin.com/jobs/view/4402939961/) — Microsoft
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-07

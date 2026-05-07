@@ -1,36 +1,44 @@
 {
-  "scraped_at": "2026-05-07 04:35 UTC",
-  "total": 4,
+  "scraped_at": "2026-05-07 17:49 UTC",
+  "total": 5,
   "jobs": [
     {
-      "company": "Uber",
-      "title": "Data Scientist II, Insurance",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411429275/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Walmart",
-      "title": "Senior, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409237380/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Staff Data Scientist, Airports and Travel",
+      "company": "Lila Sciences",
+      "title": "Staff ML Engineer, Life Sciences AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411427511/",
+      "url": "https://www.linkedin.com/jobs/view/4411644980/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Nessence.co",
-      "title": "Lead AI Engineer \u2014 Nessence AI Practice",
+      "company": "Stand",
+      "title": "ML Engineer, Data Pipeline",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407112278/",
+      "date_posted": "2026-05-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Scientist/Analytics V",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409607312/",
+      "date_posted": "2026-05-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Archer Integrated Risk Management",
+      "title": "Archer Data Scientist",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400185565/",
+      "date_posted": "2026-05-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Member of Technical Staff, Applied AI Engineer",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410442280/",
+      "url": "https://www.linkedin.com/jobs/view/4402939961/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     }
