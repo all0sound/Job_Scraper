@@ -1,93 +1,21 @@
 {
-  "scraped_at": "2026-05-08 22:57 UTC",
-  "total": 11,
+  "scraped_at": "2026-05-09 04:24 UTC",
+  "total": 2,
   "jobs": [
     {
-      "company": "Zoom",
-      "title": "Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411775515/",
-      "date_posted": "2026-05-08",
+      "company": "General Motors",
+      "title": "Senior AI/ML Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412425606/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "ChatGPT Jobs",
-      "title": "Staff Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411790262/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Staff Research Engineer, Gemini Audio, DeepMind",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412406036/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Applied Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412193609/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist - Transmission ROW Risk Analytics",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412157913/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist Transmission ROW Risk Analytics",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412161842/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist Transmission ROW Risk Analytics",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412153984/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zof AI",
-      "title": "Research Engineer, Autonomous Systems",
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4411775147/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scalr",
-      "title": "AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4411772784/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411763995/",
-      "date_posted": "2026-05-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Physical AI Engineer/Architect",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412153964/",
-      "date_posted": "2026-05-08",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     }
   ]
