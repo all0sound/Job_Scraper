@@ -1,79 +1,199 @@
 {
-  "scraped_at": "2026-05-10 05:33 UTC",
-  "total": 7,
-  "new_count": 2,
+  "scraped_at": "2026-05-10 15:54 UTC",
+  "total": 12,
+  "new_count": 12,
   "jobs": [
     {
-      "company": "Latent",
-      "title": "Machine Learning Engineer",
+      "company": "OpenAI",
+      "title": "Data Scientist, B2B",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4399578384/",
+      "url": "https://www.linkedin.com/jobs/view/4380295999/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bot Auto",
-      "title": "Software Engineer, Machine Learning Infrastructure",
+      "company": "OpenAI",
+      "title": "Research Engineer / Machine Learning Engineer - Applied Voice",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380806998/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Moloco",
+      "title": "Expression of Interest: Machine Learning Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4382188165/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Applied Data Scientist, Unit Economics Understanding",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4331495307/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Machine Learning Engineer - Model Evaluations, Public Sector",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4383831734/",
+      "url": "https://www.linkedin.com/jobs/view/4336953828/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Autodesk",
-      "title": "Sr Principal ML Engineer \u2013 eCommerce & Personalization",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4303833548/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Distinguished Applied AI Engineer, AI Transformation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330618546/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BioSpace",
-      "title": "Principal ML Scientist II - Biotherapeutics and Genetic Medicine",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412344871/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Federato",
-      "title": "Forward Deployed Machine Learning Engineer",
+      "company": "Tonal",
+      "title": "Senior Data Scientist",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "url": "https://www.linkedin.com/jobs/view/4368792156/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "BioSpace",
-      "title": "Associate Director/Senior Manager, Data Science (Statistical Programming)",
+      "company": "Faire",
+      "title": "Senior Applied AI/ML Scientist - Search",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4291971974/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Moloco",
+      "title": "Senior Applied Scientist, ML (MCM)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365369752/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4363467745/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zipline",
+      "title": "Senior or Staff MLE - Droid Perception (Offboard)",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411947467/",
+      "url": "https://www.linkedin.com/jobs/view/4290974875/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "AI/Generative AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380633523/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Character.AI",
+      "title": "Machine Learning Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4081454578/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "BioSpace",
-      "title": "Principal ML Scientist II - Biotherapeutics and Genetic Medicine",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412344871/",
+      "company": "OpenAI",
+      "title": "Data Scientist, B2B",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380295999/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "BioSpace",
-      "title": "Associate Director/Senior Manager, Data Science (Statistical Programming)",
+      "company": "OpenAI",
+      "title": "Research Engineer / Machine Learning Engineer - Applied Voice",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380806998/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Moloco",
+      "title": "Expression of Interest: Machine Learning Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4382188165/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Applied Data Scientist, Unit Economics Understanding",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4331495307/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Machine Learning Engineer - Model Evaluations, Public Sector",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4336953828/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tonal",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4368792156/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Faire",
+      "title": "Senior Applied AI/ML Scientist - Search",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4291971974/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Moloco",
+      "title": "Senior Applied Scientist, ML (MCM)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365369752/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4363467745/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zipline",
+      "title": "Senior or Staff MLE - Droid Perception (Offboard)",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411947467/",
+      "url": "https://www.linkedin.com/jobs/view/4290974875/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "AI/Generative AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380633523/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Character.AI",
+      "title": "Machine Learning Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4081454578/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
