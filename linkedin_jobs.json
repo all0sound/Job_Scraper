@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-10 05:19 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-05-10 05:33 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Latent",
@@ -20,14 +20,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Federato",
-      "title": "Forward Deployed Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409107814/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Autodesk",
       "title": "Sr Principal ML Engineer \u2013 eCommerce & Personalization",
       "location": "San Francisco, CA",
@@ -40,40 +32,48 @@
       "title": "Distinguished Applied AI Engineer, AI Transformation",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4330618546/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BioSpace",
+      "title": "Principal ML Scientist II - Biotherapeutics and Genetic Medicine",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412344871/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BioSpace",
+      "title": "Associate Director/Senior Manager, Data Science (Statistical Programming)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411947467/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Bot Auto",
-      "title": "Software Engineer, Machine Learning Infrastructure",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4383831734/",
+      "company": "BioSpace",
+      "title": "Principal ML Scientist II - Biotherapeutics and Genetic Medicine",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412344871/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Federato",
-      "title": "Forward Deployed Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409107814/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Sr Principal ML Engineer \u2013 eCommerce & Personalization",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4303833548/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Distinguished Applied AI Engineer, AI Transformation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330618546/",
+      "company": "BioSpace",
+      "title": "Associate Director/Senior Manager, Data Science (Statistical Programming)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411947467/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
