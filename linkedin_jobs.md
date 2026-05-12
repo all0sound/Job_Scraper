@@ -1,56 +1,84 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-12 17:10 UTC*
+*Last updated: 2026-05-12 20:28 UTC*
 
-**13 new role(s)** since last run · 13 total in last 2h
+**20 new role(s)** since last run · 20 total in last 2h
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4413456883/) — Roku
-- 📍 **Location:** San Jose, CA
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4412188215/) — Soley Therapeutics
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-05-12
 
-### [Data Scientist - Advanced Analyst, Guest Experience](https://www.linkedin.com/jobs/view/4413464422/) — ektello
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4413806141/) — Tranzeal Incorporated
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Research Data Scientist, YouTube Ads Bidding](https://www.linkedin.com/jobs/view/4413585651/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Senior Level  AI / Machine Learning Engineer - Optical Solutions](https://www.linkedin.com/jobs/view/4401677641/) — Molex
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Software Testing AI Engineer](https://www.linkedin.com/jobs/view/4413584603/) — Solar Jobs USA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4408335861/) — Shields Group Search
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-12
 
-### [Applied Scientist II (Bing Places)](https://www.linkedin.com/jobs/view/4401531365/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
+### [Machine Learning Engineer/Senior Machine Learning Engineer - Infra](https://www.linkedin.com/jobs/view/4413730108/) — Genentech
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-05-12
 
-### [Data Science Intern - Model Optimization](https://www.linkedin.com/jobs/view/4413590675/) — Quadric
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Data Scientist, Ads - USDS](https://www.linkedin.com/jobs/view/4402081843/) — TikTok USDS Joint Venture
+### [Mid-Level Machine Learning Engineer](https://www.linkedin.com/jobs/view/4403636486/) — TetraMem - Accelerate The World
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-12
 
-### [Data Science Manager, Borrow](https://www.linkedin.com/jobs/view/4365562900/) — SoFi
+### [Machine Learning Engineer Intern](https://www.linkedin.com/jobs/view/4413808932/) — Neuralink
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [Principal Machine Learning Engineer](https://www.linkedin.com/jobs/view/4413805432/) — Actor
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4413701387/) — AC Lion
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-12
+
+### [PhD Data Scientist, Intern](https://www.linkedin.com/jobs/view/4413480656/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-12
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4413458819/) — Cloud Chamber
-- 📍 **Location:** Novato, CA
+### [Staff Data Scientist](https://www.linkedin.com/jobs/view/4407662579/) — Heartflow
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-12
 
-### [AI Engineer (Agents)](https://www.linkedin.com/jobs/view/4413584582/) — Jobright.ai
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4413721872/) — daydream
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [PhD Machine Learning Engineer, Intern](https://www.linkedin.com/jobs/view/4413479692/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [Senior Research Engineer](https://www.linkedin.com/jobs/view/4413802682/) — Polaris Wireless
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-12
 
-### [Staff AI Engineer – Agentic AI and Automaton](https://www.linkedin.com/jobs/view/4392145669/) — Collective Health
+### [Senior Staff Machine Learning Engineer](https://www.linkedin.com/jobs/view/4413808565/) — GEICO
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [GenAI Engineer](https://www.linkedin.com/jobs/view/4413810797/) — Jobs via Dice
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [AI Engineer (Agent Systems & LLMs)](https://www.linkedin.com/jobs/view/4367367602/) — GenBio AI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4413819698/) — Vagaro
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [Forward Deployed Engineer, Lead - AI Engineer](https://www.linkedin.com/jobs/view/4413810939/) — Reflection
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [Distinguished AI Engineer](https://www.linkedin.com/jobs/view/4393528878/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [Senior DevOps / MLOps Engineer](https://www.linkedin.com/jobs/view/4392337110/) — GenBio AI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-12
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4412412561/) — Stanford University
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-05-12
