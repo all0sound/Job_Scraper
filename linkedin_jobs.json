@@ -1,21 +1,37 @@
 {
-  "scraped_at": "2026-05-12 20:28 UTC",
-  "total": 20,
-  "new_count": 20,
+  "scraped_at": "2026-05-12 22:11 UTC",
+  "total": 12,
+  "new_count": 9,
   "jobs": [
     {
-      "company": "Soley Therapeutics",
-      "title": "Senior Machine Learning Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412188215/",
+      "company": "The Fountain Group",
+      "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413739281/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Shields Group Search",
+      "company": "SPECTRAFORCE",
       "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413746443/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Eames Consulting",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
+      "url": "https://www.linkedin.com/jobs/view/4413822656/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Depot Automation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413833448/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
@@ -28,106 +44,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Mid-Level Machine Learning Engineer",
+      "company": "Cognichip",
+      "title": "Silicon ML Engineer II",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411281672/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PayPal",
+      "title": "Sr Machine Learning Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403636486/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413808932/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Actor",
-      "title": "Principal Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413805432/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AC Lion",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413701387/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "PhD Data Scientist, Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413480656/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Heartflow",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407662579/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "daydream",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413721872/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "PhD Machine Learning Engineer, Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413479692/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Polaris Wireless",
-      "title": "Senior Research Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413802682/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GEICO",
-      "title": "Senior Staff Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413808565/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "GenAI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413810797/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenBio AI",
-      "title": "AI Engineer (Agent Systems & LLMs)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367367602/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Vagaro",
-      "title": "AI Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413819698/",
+      "url": "https://www.linkedin.com/jobs/view/4413736670/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
@@ -140,188 +68,108 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393528878/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenBio AI",
-      "title": "Senior DevOps / MLOps Engineer",
+      "company": "Inflection AI",
+      "title": "Research Engineer, Voice",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392337110/",
+      "url": "https://www.linkedin.com/jobs/view/4413836121/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stanford University",
+      "company": "General Motors",
+      "title": "Staff ML Validation Applied Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413734787/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Vagaro",
       "title": "AI Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412412561/",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413819698/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RecruitSeq",
+      "title": "Bioinformatics Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413834138/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Soley Therapeutics",
-      "title": "Senior Machine Learning Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412188215/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shields Group Search",
+      "company": "The Fountain Group",
       "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Infra",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413730108/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Mid-Level Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403636486/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413808932/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Actor",
-      "title": "Principal Machine Learning Engineer",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413805432/",
+      "url": "https://www.linkedin.com/jobs/view/4413739281/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "AC Lion",
-      "title": "Senior Data Scientist",
+      "company": "SPECTRAFORCE",
+      "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413746443/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Eames Consulting",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413701387/",
+      "url": "https://www.linkedin.com/jobs/view/4413822656/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stripe",
-      "title": "PhD Data Scientist, Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413480656/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Depot Automation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413833448/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Heartflow",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407662579/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "daydream",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413721872/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "PhD Machine Learning Engineer, Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413479692/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Polaris Wireless",
-      "title": "Senior Research Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413802682/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GEICO",
-      "title": "Senior Staff Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413808565/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "GenAI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413810797/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenBio AI",
-      "title": "AI Engineer (Agent Systems & LLMs)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367367602/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Vagaro",
-      "title": "AI Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413819698/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Reflection",
-      "title": "Forward Deployed Engineer, Lead - AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413810939/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393528878/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenBio AI",
-      "title": "Senior DevOps / MLOps Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392337110/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stanford University",
-      "title": "AI Engineer",
+      "company": "Cognichip",
+      "title": "Silicon ML Engineer II",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412412561/",
+      "url": "https://www.linkedin.com/jobs/view/4411281672/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PayPal",
+      "title": "Sr Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413736670/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Inflection AI",
+      "title": "Research Engineer, Voice",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413836121/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff ML Validation Applied Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413734787/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RecruitSeq",
+      "title": "Bioinformatics Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413834138/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     }
