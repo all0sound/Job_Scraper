@@ -1,88 +1,60 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-14 16:57 UTC*
+*Last updated: 2026-05-14 18:53 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [AI ML Engineer](https://www.linkedin.com/jobs/view/4414499242/) — Innoventrics
+### [Machine Learning Engineer - New Grad 2026](https://www.linkedin.com/jobs/view/4391777468/) — Nextdoor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior ML Engineer, Multi-Sensor Modeling](https://www.linkedin.com/jobs/view/4381735899/) — Gridware
+### [Staff ML Engineer, Life Sciences AI](https://www.linkedin.com/jobs/view/4414676095/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4402047132/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4414714264/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4409038047/) — Talener
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Senior MLOps / ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4414714197/) — IMCS Group
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-14
 
-### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4414499717/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4414692025/) — Cohesity
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Staff Data Scientist, Funnel Analytics & Optimization](https://www.linkedin.com/jobs/view/4414632502/) — Mulligan Funding, LLC
+### [AI Engineer / Data Scientist, AI Senior Associate](https://www.linkedin.com/jobs/view/4404460108/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Staff Data Scientist, Credit Strategy](https://www.linkedin.com/jobs/view/4414626681/) — Mulligan Funding, LLC
+### [Sr Data Scientist](https://www.linkedin.com/jobs/view/4414729388/) — LendingClub
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Data Science Intern](https://www.linkedin.com/jobs/view/4414641729/) — Tencent
-- 📍 **Location:** Palo Alto, CA
+### [AI Research Engineer - Applied Scientist Compilers](https://www.linkedin.com/jobs/view/4404496593/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4393063318/) — Cohere
+### [AI & GenAI Data Scientist - EUR- Director](https://www.linkedin.com/jobs/view/4392449234/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4384382908/) — Crusoe
+### [Senior AI Research Engineer](https://www.linkedin.com/jobs/view/4414665359/) — Zero RFI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior Data Scientist, Marketplace Product](https://www.linkedin.com/jobs/view/4414633837/) — Shipt
+### [Java AI Engineer](https://www.linkedin.com/jobs/view/4414714307/) — Innoventrics
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Research Engineer / Scientist, Societal Impacts](https://www.linkedin.com/jobs/view/4366405617/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Staff Machine Learning Engineer, AI Agent](https://www.linkedin.com/jobs/view/4411197707/) — Zendesk
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Sr. Applied Scientist, Ads AI Core Infrastructure](https://www.linkedin.com/jobs/view/4393975851/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Applied Scientist, Rufus Experience Science](https://www.linkedin.com/jobs/view/4405459780/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Principal Applied Scientist](https://www.linkedin.com/jobs/view/4393975919/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Staff Data Scientist, Credit Strategy](https://www.linkedin.com/jobs/view/4414628674/) — Mulligan Funding, LLC
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4408237495/) — Open Select
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-14
-
-### [Principal Machine Learning Engineer, Content Safety](https://www.linkedin.com/jobs/view/4373042128/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4414706280/) — Fidelis Companies
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-14
-
-### [Full-Stack AI Engineer](https://www.linkedin.com/jobs/view/4414488820/) — BayOne Solutions
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Principal Machine Learning Engineer, Alt Defense](https://www.linkedin.com/jobs/view/4365916910/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Principal Applied ML Engineer](https://www.linkedin.com/jobs/view/4414490802/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Research Engineer, Economic Research](https://www.linkedin.com/jobs/view/4382863007/) — Anthropic
-- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
