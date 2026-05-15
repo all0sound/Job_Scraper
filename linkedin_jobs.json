@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-15 21:52 UTC",
-  "total": 22,
-  "new_count": 22,
+  "scraped_at": "2026-05-15 22:48 UTC",
+  "total": 10,
+  "new_count": 8,
   "jobs": [
     {
       "company": "Spira AI",
@@ -12,122 +12,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineers (Multiple Opportunities)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4320754623/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding ML Engineer \u2013 Search & Agents",
+      "company": "UCSF Health",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368901221/",
+      "url": "https://www.linkedin.com/jobs/view/4415570518/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "OpenAI",
-      "title": "Machine Learning Engineer, Distributed Data Systems - Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412028922/",
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415560456/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding Machine Learning Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321144312/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Research ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321124397/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "People Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412045440/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, People Innovation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412037726/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, Integrity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412036721/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, API",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412036718/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, ChatGPT for Work",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412029819/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer / Machine Learning Engineer - Applied Voice",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412048125/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock",
-      "title": "Founding ML Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4310985019/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding MLE (On-device AI)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410852522/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer, Privacy",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412039687/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer, 3D & Multi-View Geometry",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412043549/",
+      "company": "NewsBreak",
+      "title": "Senior Machine Learning Engineer, Recommendation & AI Applications",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415132028/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
@@ -140,220 +44,108 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding Applied Scientist (LLM)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4288084700/",
+      "company": "Sony Interactive Entertainment",
+      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412033957/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock",
-      "title": "Founding AI Scientist (Agents)",
+      "company": "Sony Interactive Entertainment",
+      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412051193/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415113988/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CallSphere LLC",
+      "title": "Founding AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4373387753/",
+      "url": "https://www.linkedin.com/jobs/view/4415128332/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Sr. Machine Learning Engineer (LLM)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4259912174/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4280349879/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DDN",
-      "title": "Senior/Staff AI Engineer",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415533093/",
+      "company": "Silverspace Inc",
+      "title": "Staff AI Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412041877/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Spira AI",
-      "title": "Data Scientist Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413115446/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineers (Multiple Opportunities)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4320754623/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding ML Engineer \u2013 Search & Agents",
+      "company": "UCSF Health",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368901221/",
+      "url": "https://www.linkedin.com/jobs/view/4415570518/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "OpenAI",
-      "title": "Machine Learning Engineer, Distributed Data Systems - Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412028922/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Machine Learning Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321144312/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Research ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321124397/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "People Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412045440/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, People Innovation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412037726/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, Integrity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412036721/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, API",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412036718/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Scientist, ChatGPT for Work",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412029819/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer / Machine Learning Engineer - Applied Voice",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412048125/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock",
-      "title": "Founding ML Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4310985019/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding MLE (On-device AI)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410852522/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer, Privacy",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412039687/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer, 3D & Multi-View Geometry",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412043549/",
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415560456/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
       "company": "NewsBreak",
-      "title": "Staff Machine Learning Engineer, Recommendation & AI Platform",
+      "title": "Senior Machine Learning Engineer, Recommendation & AI Applications",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415124554/",
+      "url": "https://www.linkedin.com/jobs/view/4415132028/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding Applied Scientist (LLM)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4288084700/",
+      "company": "Sony Interactive Entertainment",
+      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412033957/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock",
-      "title": "Founding AI Scientist (Agents)",
+      "company": "Sony Interactive Entertainment",
+      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412051193/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415113988/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CallSphere LLC",
+      "title": "Founding AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4373387753/",
+      "url": "https://www.linkedin.com/jobs/view/4415128332/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Sr. Machine Learning Engineer (LLM)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4259912174/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4280349879/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DDN",
-      "title": "Senior/Staff AI Engineer",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415533093/",
+      "company": "Silverspace Inc",
+      "title": "Staff AI Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412041877/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }
