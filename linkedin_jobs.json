@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-17 17:52 UTC",
-  "total": 3,
-  "new_count": 2,
+  "scraped_at": "2026-05-17 18:58 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Docusign",
@@ -18,32 +18,7 @@
       "url": "https://www.linkedin.com/jobs/view/4351770248/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Staff Applied ML Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385320061/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Docusign",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367544478/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Suno",
-      "title": "Machine Learning Engineering Manager, Recommendations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4351770248/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }
