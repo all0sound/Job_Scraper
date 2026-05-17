@@ -1,55 +1,23 @@
 {
-  "scraped_at": "2026-05-17 02:28 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-05-17 06:16 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Jobs via Dice",
-      "title": "Principal AI/ML Engineer, AV ML Infra",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415422156/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior Software Engineer, MLOps",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415419673/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415412804/",
+      "company": "Edufesto",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416015142/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobs via Dice",
-      "title": "Principal AI/ML Engineer, AV ML Infra",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415422156/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior Software Engineer, MLOps",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415419673/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415412804/",
+      "company": "Edufesto",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416015142/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
