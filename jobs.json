@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-18 06:55 UTC",
-  "total": 8,
-  "new_count": 2,
+  "scraped_at": "2026-05-19 06:47 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -52,37 +52,21 @@
       "ats": "Greenhouse"
     },
     {
-      "company": "Tempus AI",
-      "title": "Data Scientist II, Real World Evidence (RWE), Pharma R&D",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4344874654/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Calico Life Sciences",
-      "title": "Senior Machine Learning Software Engineer (MLOps)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385128288/",
-      "date_posted": "2026-05-17",
+      "company": "Personalis, Inc.",
+      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416449236/",
+      "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tempus AI",
-      "title": "Data Scientist II, Real World Evidence (RWE), Pharma R&D",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4344874654/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Calico Life Sciences",
-      "title": "Senior Machine Learning Software Engineer (MLOps)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385128288/",
-      "date_posted": "2026-05-17",
+      "company": "Personalis, Inc.",
+      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416449236/",
+      "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ]
