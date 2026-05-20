@@ -1,11 +1,10 @@
 name: LinkedIn MLE/DS Watcher
 
 on:
-  schedule:
-    # Every hour at :13 past, 8am–8pm PDT (UTC-7) → 15–23 + 0–3 UTC. Drifts 1h earlier under PST.
-    # Off-hour minute (:13) avoids GitHub Actions throttling at :00.
-    - cron: "13 15-23,0-3 * * *"
-
+  # Scheduling is driven externally by cron-job.org (hourly at :17 PT, 8am-8pm).
+  # GH Actions cron was unreliable — losing 50%+ of scheduled fires under load.
+  # Watchdog workflow (linkedin_watch_backup.yml at :33) is the in-GH backup
+  # in case cron-job.org has an outage.
   workflow_dispatch:
 
 concurrency:
