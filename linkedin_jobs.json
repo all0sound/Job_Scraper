@@ -1,37 +1,21 @@
 {
-  "scraped_at": "2026-05-21 17:17 UTC",
-  "total": 13,
-  "new_count": 13,
+  "scraped_at": "2026-05-21 18:17 UTC",
+  "total": 9,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Ellisor Group",
-      "title": "ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416585768/",
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4396363797/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Blue Signal Search",
-      "title": "ML Engineer \u2013 AI-Powered Automation & Workflow Intelligence",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4320966459/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416569762/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
+      "company": "NVIDIA",
+      "title": "Senior Scientific Machine Learning Engineer \u2013 Earth-2",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395479544/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
@@ -44,172 +28,116 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Microsoft AI",
+      "title": "Member of Technical Staff - Data Research Engineer - MAI Superintelligence Team",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377423891/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405297950/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal, Data Science & Analytics",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387248139/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Microsoft",
-      "title": "Member of Technical Staff - Data Scientist",
+      "title": "Principal Applied Scientist",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4358193119/",
+      "url": "https://www.linkedin.com/jobs/view/4362840331/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Member of Technical Staff - Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377422985/",
+      "company": "AVEVA",
+      "title": "Distinguished AI Engineer",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385631282/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Data Scientist, Field Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408787007/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal / Sr. Principal BioML Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417754978/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378768551/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Member of Technical Staff, Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377428659/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "company": "NVIDIA AI",
+      "title": "Principal Machine Learning Engineer, Accelerated Apache Spark",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416585807/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Principal Machine Learning Engineer, App SW",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385026451/",
+      "url": "https://www.linkedin.com/jobs/view/4414028349/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Ellisor Group",
-      "title": "ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416585768/",
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4396363797/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Blue Signal Search",
-      "title": "ML Engineer \u2013 AI-Powered Automation & Workflow Intelligence",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4320966459/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416569762/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
+      "company": "NVIDIA",
+      "title": "Senior Scientific Machine Learning Engineer \u2013 Earth-2",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395479544/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
       "company": "Microsoft AI",
-      "title": "Senior Data Scientist - Microsoft Advertising",
+      "title": "Member of Technical Staff - Data Research Engineer - MAI Superintelligence Team",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378756775/",
+      "url": "https://www.linkedin.com/jobs/view/4377423891/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405297950/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal, Data Science & Analytics",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387248139/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
       "company": "Microsoft",
-      "title": "Member of Technical Staff - Data Scientist",
+      "title": "Principal Applied Scientist",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4358193119/",
+      "url": "https://www.linkedin.com/jobs/view/4362840331/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Member of Technical Staff - Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377422985/",
+      "company": "AVEVA",
+      "title": "Distinguished AI Engineer",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385631282/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Data Scientist, Field Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408787007/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal / Sr. Principal BioML Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417754978/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378768551/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Member of Technical Staff, Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377428659/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "company": "NVIDIA AI",
+      "title": "Principal Machine Learning Engineer, Accelerated Apache Spark",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416585807/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Principal Machine Learning Engineer, App SW",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385026451/",
+      "url": "https://www.linkedin.com/jobs/view/4414028349/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
