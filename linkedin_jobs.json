@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-22 02:17 UTC",
+  "scraped_at": "2026-05-22 03:17 UTC",
   "total": 13,
-  "new_count": 13,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Genentech",
@@ -20,58 +20,34 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist- AI",
-      "location": "Mountain House, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758099/",
+      "company": "TikTok",
+      "title": "Data Scientist (Open Platform Mini Games) - TikTok Infrastructure (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414071083/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416753148/",
+      "company": "Airwallex",
+      "title": "Senior Data Scientist, Growth Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414048961/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Senior MLOps Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416749175/",
+      "company": "Target",
+      "title": "Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414064888/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceX",
-      "title": "AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758305/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758285/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416750353/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416755336/",
+      "company": "David Joseph & Company",
+      "title": "Forward Deployed AI Engineer \u2014 Judgment Labs",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414070437/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -85,9 +61,25 @@
     },
     {
       "company": "SpaceX",
+      "title": "AI Engineer, Special Programs",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416758285/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
       "title": "AI Engineer, Platform Infrastructure, Special Programs",
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4416755322/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Sr. AI Engineer, Special Programs",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416750353/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -100,116 +92,52 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Applied AI Engineer Intern",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416743185/",
+      "company": "SpaceX",
+      "title": "AI Engineer, Special Programs - Top Secret Clearance",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416758305/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Sr. AI Engineer, Special Programs - Top Secret Clearance",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416755336/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Foundation",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416762334/",
+      "company": "TikTok",
+      "title": "Data Scientist (Open Platform Mini Games) - TikTok Infrastructure (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414071083/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Application",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416741689/",
+      "company": "Airwallex",
+      "title": "Senior Data Scientist, Growth Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414048961/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist- AI",
-      "location": "Mountain House, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758099/",
+      "company": "Target",
+      "title": "Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414064888/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416753148/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior MLOps Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416749175/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758305/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758285/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416750353/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416755336/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Iron Systems, Inc",
-      "title": "AI Engineer",
-      "location": "Austin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416762331/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Platform Infrastructure, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416755322/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758302/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Applied AI Engineer Intern",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416743185/",
+      "company": "David Joseph & Company",
+      "title": "Forward Deployed AI Engineer \u2014 Judgment Labs",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414070437/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
