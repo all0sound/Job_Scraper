@@ -1,37 +1,21 @@
 {
-  "scraped_at": "2026-05-23 16:17 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-05-23 17:17 UTC",
+  "total": 9,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Whatnot",
-      "title": "Data Scientist, Finance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407964096/",
+      "company": "Applied Materials",
+      "title": "Data Scientist - Agentic AI / ML",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414824467/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Anthropic",
-      "title": "Research Engineer / Scientist, Alignment Science",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322241769/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SAP",
-      "title": "Principal Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376492318/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kikoff",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400685486/",
+      "url": "https://www.linkedin.com/jobs/view/4417567433/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
@@ -44,60 +28,116 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "GlobalLogic",
-      "title": "Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408305065/",
+      "company": "Hippocratic AI",
+      "title": "Senior AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4333291067/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408583413/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Open Talent",
+      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pair Team",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387777984/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Senior Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408579790/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Senior Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404522316/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Whatnot",
-      "title": "Data Scientist, Finance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407964096/",
+      "company": "Applied Materials",
+      "title": "Data Scientist - Agentic AI / ML",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414824467/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Anthropic",
-      "title": "Research Engineer / Scientist, Alignment Science",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322241769/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SAP",
-      "title": "Principal Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376492318/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kikoff",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400685486/",
+      "url": "https://www.linkedin.com/jobs/view/4417567433/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
       "company": "Hippocratic AI",
-      "title": "Applied Scientist",
+      "title": "Senior AI Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398097882/",
+      "url": "https://www.linkedin.com/jobs/view/4333291067/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "GlobalLogic",
-      "title": "Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408305065/",
+      "company": "Hippocratic AI",
+      "title": "Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408583413/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Open Talent",
+      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pair Team",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387777984/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Senior Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408579790/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Senior Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404522316/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }

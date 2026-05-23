@@ -1,28 +1,36 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-23 16:17 UTC*
+*Last updated: 2026-05-23 17:17 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**8 new role(s)** since last run · 9 total in last 1h
 
-### [Data Scientist, Finance](https://www.linkedin.com/jobs/view/4407964096/) — Whatnot
+### [Data Scientist - Agentic AI / ML](https://www.linkedin.com/jobs/view/4414824467/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-05-23
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4417567433/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-23
 
-### [Research Engineer / Scientist, Alignment Science](https://www.linkedin.com/jobs/view/4322241769/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-23
-
-### [Principal Machine Learning Engineer](https://www.linkedin.com/jobs/view/4376492318/) — SAP
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4333291067/) — Hippocratic AI
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-23
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4400685486/) — Kikoff
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-23
-
-### [Applied Scientist](https://www.linkedin.com/jobs/view/4398097882/) — Hippocratic AI
+### [Staff AI Engineer](https://www.linkedin.com/jobs/view/4408583413/) — Hippocratic AI
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-23
 
-### [Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762](https://www.linkedin.com/jobs/view/4408305065/) — GlobalLogic
-- 📍 **Location:** San Jose, CA
+### [Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF](https://www.linkedin.com/jobs/view/4414055269/) — Open Talent
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-23
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4387777984/) — Pair Team
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-23
+
+### [Senior Staff AI Engineer](https://www.linkedin.com/jobs/view/4408579790/) — Hippocratic AI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-23
+
+### [Senior Staff AI Engineer](https://www.linkedin.com/jobs/view/4404522316/) — Hippocratic AI
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-23
