@@ -1,7 +1,41 @@
 {
-  "scraped_at": "2026-05-24 03:17 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-05-24 04:49 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "General Motors",
+      "title": "Senior AI/ML Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418662345/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "XPENG",
+      "title": "Senior Staff Research Engineer \u2013 Reinforcement Learning for AI Agents",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418663347/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "General Motors",
+      "title": "Senior AI/ML Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418662345/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "XPENG",
+      "title": "Senior Staff Research Engineer \u2013 Reinforcement Learning for AI Agents",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418663347/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    }
+  ]
 }
