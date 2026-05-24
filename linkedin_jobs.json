@@ -1,41 +1,7 @@
 {
-  "scraped_at": "2026-05-24 02:17 UTC",
-  "total": 2,
-  "new_count": 2,
-  "jobs": [
-    {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Factory Vision Systems",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418645224/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417599049/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Factory Vision Systems",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418645224/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417599049/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-05-24 03:17 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
