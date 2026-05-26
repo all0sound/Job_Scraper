@@ -1,32 +1,8 @@
 {
-  "scraped_at": "2026-05-26 22:17 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-05-26 23:17 UTC",
+  "total": 5,
+  "new_count": 4,
   "jobs": [
-    {
-      "company": "GMI Cloud",
-      "title": "Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419524862/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418523141/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418502793/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
     {
       "company": "Themesoft Inc.",
       "title": "AI Data Scientist",
@@ -36,76 +12,68 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "American Arbitration Association",
-      "title": "Data Scientist",
+      "company": "Moloco",
+      "title": "Machine Learning Engineer, Infrastructure",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419549602/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Applied Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418514625/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zendesk",
+      "title": "Senior Machine Learning Engineer (Hybrid - Austin or SF)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419518656/",
+      "url": "https://www.linkedin.com/jobs/view/4416864158/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Waymo",
-      "title": "Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402752370/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418510507/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418506550/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402751810/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402760215/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402772054/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "company": "Real",
+      "title": "Principal AI Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418507483/",
+      "url": "https://www.linkedin.com/jobs/view/4419521919/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Themesoft Inc.",
-      "title": "AI Data Scientist",
+      "company": "Moloco",
+      "title": "Machine Learning Engineer, Infrastructure",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419549602/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Applied Scientist",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419515973/",
+      "url": "https://www.linkedin.com/jobs/view/4418514625/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zendesk",
+      "title": "Senior Machine Learning Engineer (Hybrid - Austin or SF)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416864158/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Real",
+      "title": "Principal AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419521919/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
