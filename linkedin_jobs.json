@@ -1,7 +1,41 @@
 {
-  "scraped_at": "2026-05-26 03:17 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-05-26 05:47 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Sonilo",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418231369/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quince",
+      "title": "Sr. Engineering Manager, MLOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418249096/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Sonilo",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418231369/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quince",
+      "title": "Sr. Engineering Manager, MLOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418249096/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    }
+  ]
 }
