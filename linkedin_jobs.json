@@ -1,39 +1,199 @@
 {
-  "scraped_at": "2026-05-26 05:47 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-05-26 15:17 UTC",
+  "total": 12,
+  "new_count": 12,
   "jobs": [
     {
-      "company": "Sonilo",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418231369/",
+      "company": "Wand AI",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418257611/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Quince",
-      "title": "Sr. Engineering Manager, MLOps",
+      "company": "Anthropic",
+      "title": "ML/Research Engineer, Safeguards",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322259791/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Sr Machine Learning Engineer - Safety Experience",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4308549261/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "David Joseph & Company",
+      "title": "ML Engineer \u2014 Simula",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418253697/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wand AI",
+      "title": "Staff Machine Learning Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418249096/",
+      "url": "https://www.linkedin.com/jobs/view/4418254859/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer/Research Scientist, Pre-training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322290299/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Machine Learning Engineer, Monetization Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/3981023528/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416816471/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419440062/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410206146/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Machine Learning Engineer, Responsible AI\u2013 Applied Research Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401542714/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359199009/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Sonilo",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418231369/",
+      "company": "Wand AI",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418257611/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Quince",
-      "title": "Sr. Engineering Manager, MLOps",
+      "company": "Anthropic",
+      "title": "ML/Research Engineer, Safeguards",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322259791/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Sr Machine Learning Engineer - Safety Experience",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4308549261/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "David Joseph & Company",
+      "title": "ML Engineer \u2014 Simula",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418253697/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wand AI",
+      "title": "Staff Machine Learning Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418249096/",
+      "url": "https://www.linkedin.com/jobs/view/4418254859/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer/Research Scientist, Pre-training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322290299/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Machine Learning Engineer, Monetization Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/3981023528/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416816471/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419440062/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410206146/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Machine Learning Engineer, Responsible AI\u2013 Applied Research Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401542714/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359199009/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
