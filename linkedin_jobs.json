@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-05-27 15:17 UTC",
-  "total": 14,
-  "new_count": 14,
+  "scraped_at": "2026-05-27 16:17 UTC",
+  "total": 17,
+  "new_count": 11,
   "jobs": [
+    {
+      "company": "Largeton Group",
+      "title": "AI Data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419892482/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Pinterest",
       "title": "Machine Learning Engineer, Core Engineering",
@@ -12,10 +20,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Middesk",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419892108/",
+      "company": "Acceler8 Talent",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417234182/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
@@ -28,6 +36,14 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Sharp Decisions",
+      "title": "Senior Data Scientist II",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414522100/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Roblox",
       "title": "Senior Machine Learning Engineer, Ads",
       "location": "San Mateo, CA",
@@ -36,26 +52,66 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Crunchyroll",
-      "title": "Senior Machine Learning Engineer, Recommendation and Personalization",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407086342/",
+      "company": "Typeface",
+      "title": "Principal ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409715518/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Middesk",
-      "title": "Lead Data Scientist",
+      "company": "Anthropic",
+      "title": "Research Engineer, Performance RL",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419893100/",
+      "url": "https://www.linkedin.com/jobs/view/4388955858/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Systems",
+      "title": "AI Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419591381/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Williams-Sonoma, Inc.",
+      "title": "Research Engineering Internship - AI, Computer Vision, & Visualization",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4279104491/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Data Scientist",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419899579/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Systems",
+      "title": "Data Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416078433/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
       "company": "EY",
       "title": "Physical AI Engineering Consultant - Manager - Consulting - Open Location",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4399795288/",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399907223/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "Physical AI Engineering Consultant - Manager - Consulting - Open Location",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399790377/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
@@ -71,161 +127,105 @@
       "company": "Amazon",
       "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
       "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410906463/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408847238/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "San Francisco County, CA",
       "url": "https://www.linkedin.com/jobs/view/4408852037/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410906460/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SCIGON",
-      "title": "Senior AI Engineer \u2013 Enterprise Applications",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418596719/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418806329/",
+      "company": "Crunchyroll",
+      "title": "Senior Machine Learning Engineer, Recommendation and Personalization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407086342/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Pinterest",
-      "title": "Machine Learning Engineer, Core Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4182357321/",
+      "company": "Largeton Group",
+      "title": "AI Data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419892482/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Middesk",
+      "company": "Acceler8 Talent",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417234182/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sharp Decisions",
+      "title": "Senior Data Scientist II",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414522100/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Typeface",
+      "title": "Principal ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409715518/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Performance RL",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4388955858/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Systems",
+      "title": "AI Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419591381/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Williams-Sonoma, Inc.",
+      "title": "Research Engineering Internship - AI, Computer Vision, & Visualization",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4279104491/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
       "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419892108/",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419899579/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pinterest",
-      "title": "Sr. Machine Learning Engineer, Core Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4122325478/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Machine Learning Engineer, Ads",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4318612722/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Crunchyroll",
-      "title": "Senior Machine Learning Engineer, Recommendation and Personalization",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407086342/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Middesk",
-      "title": "Lead Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419893100/",
+      "company": "Apex Systems",
+      "title": "Data Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416078433/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
       "company": "EY",
       "title": "Physical AI Engineering Consultant - Manager - Consulting - Open Location",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4399795288/",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399907223/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, Prime Video Personalization & Discovery",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401529350/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410906463/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408847238/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408852037/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Industrial Robotics Group",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410906460/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SCIGON",
-      "title": "Senior AI Engineer \u2013 Enterprise Applications",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418596719/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418806329/",
+      "company": "EY",
+      "title": "Physical AI Engineering Consultant - Manager - Consulting - Open Location",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399790377/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
