@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-27 18:17 UTC",
-  "total": 10,
-  "new_count": 1,
+  "scraped_at": "2026-05-27 19:17 UTC",
+  "total": 16,
+  "new_count": 15,
   "jobs": [
     {
       "company": "Samba TV",
@@ -12,84 +12,244 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410726944/",
+      "company": "Kodiak Sciences",
+      "title": "Senior Machine Learning Engineer \u2014 VETi Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418824866/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Calico Life Sciences",
-      "title": "Senior Machine Learning Research Engineer (ML Platform)",
+      "company": "Pharmaceutical Company",
+      "title": "Image Data Scientist \u2013 Digital Pathology",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410786496/",
+      "url": "https://www.linkedin.com/jobs/view/4417242557/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Data Science Manager, Machine Learning - Lyft Ads",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401799733/",
+      "company": "AppLab Systems, Inc",
+      "title": "AI/ML Engineer (US Citizen)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418835654/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "ServiceNow",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419556662/",
+      "company": "GEICO",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418841308/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "ServiceNow",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419571464/",
+      "company": "GEICO",
+      "title": "Staff Machine Learning Engineer Document Intelligence",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418838436/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bessemer Venture Partners India",
-      "title": "Senior Product Data Scientist, Pickups & Dropoffs",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419901747/",
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418844164/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418822859/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418838471/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Senior Machine Learning Engineer, Fraud Detection",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418826218/",
+      "url": "https://www.linkedin.com/jobs/view/4314088323/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Head of Data Science - Identity & Compliance",
+      "company": "BayOne Solutions",
+      "title": "Chief Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416307949/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aequor",
+      "title": "Computational Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418827751/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Senior Applied Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419914438/",
+      "url": "https://www.linkedin.com/jobs/view/4406248115/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Mastercard",
-      "title": "Director of Data Science (AdTech)",
-      "location": "San Carlos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385498445/",
+      "company": "Wayfair",
+      "title": "Staff Applied Scientist - Search & Personalization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419932425/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer, AI Agent Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418837454/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418841297/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Bessemer Venture Partners India",
-      "title": "Senior Product Data Scientist, Pickups & Dropoffs",
+      "company": "Kodiak Sciences",
+      "title": "Senior Machine Learning Engineer \u2014 VETi Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418824866/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pharmaceutical Company",
+      "title": "Image Data Scientist \u2013 Digital Pathology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417242557/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AppLab Systems, Inc",
+      "title": "AI/ML Engineer (US Citizen)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418835654/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418841308/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Staff Machine Learning Engineer Document Intelligence",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418838436/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418844164/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418822859/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418838471/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Senior Machine Learning Engineer, Fraud Detection",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4314088323/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BayOne Solutions",
+      "title": "Chief Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416307949/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aequor",
+      "title": "Computational Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418827751/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406248115/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wayfair",
+      "title": "Staff Applied Scientist - Search & Personalization",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419901747/",
+      "url": "https://www.linkedin.com/jobs/view/4419932425/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Senior Staff Machine Learning Engineer, AI Agent Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418837454/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GEICO",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418841297/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
