@@ -1,0 +1,41 @@
+{
+  "scraped_at": "2026-05-28 03:52 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "HARVEY",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4c9f21bfc2c673ab",
+      "date_posted": "2026-05-27",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Zoom Communications",
+      "title": "Senior Software Engineer",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7486b3f07d8a8b80",
+      "date_posted": "2026-05-27",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "HARVEY",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4c9f21bfc2c673ab",
+      "date_posted": "2026-05-27",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Zoom Communications",
+      "title": "Senior Software Engineer",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7486b3f07d8a8b80",
+      "date_posted": "2026-05-27",
+      "ats": "Indeed"
+    }
+  ]
+}
