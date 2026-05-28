@@ -54,6 +54,21 @@ The `.html` files are styled email-ready digests; the `.md` files render nicely 
 
 Both workflows keep a GitHub history of generated digests: result files are committed when changed, and each scheduled workflow still runs `git push`.
 
+### Interactive triage dashboard — `triage.html`
+
+A single-file dashboard hosted on GitHub Pages that merges all three latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and an "export saved as Claude prompt" action.
+
+**View it:** [`https://ernestod1998.github.io/Job_Scraper/triage.html`](https://ernestod1998.github.io/Job_Scraper/triage.html)
+
+The dashboard fetches `jobs.json` / `linkedin_jobs.json` / `indeed_jobs.json` from the same repo at view time, so it always reflects the latest committed scrape. Refresh in the browser to see new data after a cron fire (Pages serves with ~1–2 min lag after each push). No bake-on-cron step in the scraper — `triage.html` is committed once and never modified by automation.
+
+To run locally (e.g. to edit the dashboard UI):
+```bash
+python3 -m http.server 8000
+# then visit http://localhost:8000/triage.html
+```
+Opening from `file://` won't work — the dashboard needs same-origin HTTP to `fetch()` the source JSONs.
+
 ## Setup
 
 ### Gmail secrets (for email delivery)
@@ -92,6 +107,7 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
 ├── jobs.{json,md,html}             # Curated biotech sweep output
 ├── linkedin_jobs.{json,md,html}    # LinkedIn last-2h output
 ├── indeed_jobs.{json,md,html}      # Indeed last-2h output
+├── triage.html                     # Interactive dashboard (fetches the 3 JSONs at view time)
 ├── checked_companies.json          # Legacy tracking file
 ├── deep-dive/                      # Notes / analysis
 └── .github/workflows/

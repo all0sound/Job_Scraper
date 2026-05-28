@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Job Triage — SF Bay Area</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="theme-color" content="#fafaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131310" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Job Triage">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --panel: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e8e6e1;
+    --linkedin: #ff6b35;
+    --biotech: #2ea04f;
+    --indeed: #6366f1;
+    --accent: #d94f1e;
+    --pill-bg: #f3f1ec;
+    --pill-active: #1a1a1a;
+    --pill-active-ink: #ffffff;
+    --shadow: 0 1px 2px rgba(0,0,0,0.04), 0 1px 3px rgba(0,0,0,0.04);
+    --save: #d97706;
+    --applied: #059669;
+    --dismiss: #9ca3af;
+  }
+  [data-theme="dark"] {
+    --bg: #131310;
+    --panel: #1c1c19;
+    --ink: #ece9e2;
+    --muted: #8c887e;
+    --line: #2a2a25;
+    --pill-bg: #25241f;
+    --pill-active: #ece9e2;
+    --pill-active-ink: #131310;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 2px 6px rgba(0,0,0,0.2);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.45; -webkit-font-smoothing: antialiased; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 24px 64px; }
+
+  header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 4px; flex-wrap: wrap; }
+  h1 { font-size: 26px; margin: 0; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .grow { flex: 1; }
+  .iconbtn { background: var(--pill-bg); border: 1px solid var(--line); color: var(--ink);
+    padding: 6px 10px; border-radius: 6px; font-size: 12px; cursor: pointer; font-family: inherit; }
+  .iconbtn:hover { background: var(--line); }
+
+  /* KPI cards */
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 20px 0 18px; }
+  .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 14px 16px; box-shadow: var(--shadow); }
+  .kpi .num { font-size: 26px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; }
+  .kpi .lbl { font-size: 11px; color: var(--muted); text-transform: uppercase;
+    letter-spacing: 0.06em; margin-top: 4px; }
+  .kpi.saved .num { color: var(--save); }
+  .kpi.applied .num { color: var(--applied); }
+
+  /* Charts row */
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 18px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 14px 16px; box-shadow: var(--shadow); }
+  .card h3 { margin: 0 0 10px 0; font-size: 12px; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+  .barlist { display: flex; flex-direction: column; gap: 6px; }
+  .barrow { display: grid; grid-template-columns: 110px 1fr 32px; gap: 8px;
+    align-items: center; font-size: 13px; }
+  .barrow .name { color: var(--ink); overflow: hidden; text-overflow: ellipsis;
+    white-space: nowrap; }
+  .bar { background: var(--pill-bg); border-radius: 3px; height: 10px; overflow: hidden; }
+  .bar > span { display: block; height: 100%; border-radius: 3px;
+    background: linear-gradient(90deg, var(--linkedin), var(--accent)); }
+  .barrow .count { font-variant-numeric: tabular-nums; color: var(--muted);
+    text-align: right; font-size: 12px; }
+
+  /* Controls */
+  .controls { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
+  .controls-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .search { flex: 1; min-width: 220px; padding: 8px 12px; border: 1px solid var(--line);
+    border-radius: 8px; background: var(--panel); color: var(--ink); font-size: 14px;
+    font-family: inherit; }
+  .search:focus { outline: none; outline-offset: 0; border-color: var(--accent); }
+  .pill { background: var(--pill-bg); border: 1px solid transparent; color: var(--ink);
+    padding: 5px 11px; border-radius: 14px; font-size: 12px; cursor: pointer;
+    font-family: inherit; user-select: none; transition: all 0.1s; }
+  .pill:hover { border-color: var(--line); }
+  .pill.on { background: var(--pill-active); color: var(--pill-active-ink); }
+  .pill .ct { opacity: 0.55; margin-left: 4px; font-variant-numeric: tabular-nums; }
+  .pillgroup-label { font-size: 11px; color: var(--muted); text-transform: uppercase;
+    letter-spacing: 0.06em; margin-right: 4px; }
+
+  /* Jobs */
+  .jobs { display: flex; flex-direction: column; gap: 8px; }
+  .job { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 12px 16px; display: grid; grid-template-columns: 1fr auto; gap: 8px 14px;
+    align-items: start; box-shadow: var(--shadow); transition: opacity 0.15s; }
+  .job[data-state="dismissed"] { opacity: 0.38; }
+  .job[data-state="saved"] { border-left: 3px solid var(--save); }
+  .job[data-state="applied"] { border-left: 3px solid var(--applied); }
+  .job-main .title { font-size: 15px; font-weight: 600; line-height: 1.35;
+    margin-bottom: 4px; }
+  .job-main .title a { color: var(--ink); }
+  .job-main .title a:hover { color: var(--accent); text-decoration: underline; }
+  .meta { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
+  .meta .co { font-weight: 500; color: var(--ink); }
+  .src { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
+    font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+    vertical-align: middle; margin-left: 6px; }
+  .src.linkedin { background: rgba(255,107,53,0.12); color: var(--linkedin); }
+  .src.biotech { background: rgba(46,160,79,0.12); color: var(--biotech); }
+  .src.indeed { background: rgba(99,102,241,0.12); color: var(--indeed); }
+  .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
+    background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
+  .tag.role { color: var(--ink); }
+
+  .actions { display: flex; gap: 4px; align-items: center; }
+  .act { background: transparent; border: 1px solid var(--line); border-radius: 6px;
+    padding: 4px 8px; font-size: 11px; cursor: pointer; color: var(--muted);
+    font-family: inherit; transition: all 0.1s; }
+  .act:hover { color: var(--ink); border-color: var(--ink); }
+  .act.on.save { background: var(--save); color: white; border-color: var(--save); }
+  .act.on.applied { background: var(--applied); color: white; border-color: var(--applied); }
+  .act.on.dismiss { background: var(--dismiss); color: white; border-color: var(--dismiss); }
+
+  /* Focus visibility — only for keyboard nav, not mouse */
+  .pill:focus-visible, .act:focus-visible, .iconbtn:focus-visible,
+  .btn:focus-visible, .search:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px;
+  }
+
+  /* Footer / export */
+  .export-bar { position: sticky; bottom: 12px; margin-top: 18px; background: var(--panel);
+    border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08); display: flex; gap: 10px;
+    align-items: center; flex-wrap: wrap; }
+  .export-bar .label { font-size: 13px; color: var(--muted); }
+  .export-bar .count { color: var(--ink); font-weight: 600; }
+  .btn { background: var(--ink); color: var(--bg); border: none; border-radius: 6px;
+    padding: 7px 14px; font-size: 13px; cursor: pointer; font-family: inherit;
+    font-weight: 500; }
+  .btn:hover { opacity: 0.88; }
+  .btn.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+  .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+    background: var(--ink); color: var(--bg); padding: 10px 18px; border-radius: 6px;
+    font-size: 13px; opacity: 0; pointer-events: none; transition: opacity 0.2s;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 100; }
+  .toast.show { opacity: 1; }
+
+  /* Modal */
+  .modal-bg { position: fixed; inset: 0; background: rgba(0,0,0,0.45);
+    display: none; align-items: center; justify-content: center; z-index: 200; }
+  .modal-bg.show { display: flex; }
+  .modal { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    width: min(640px, 92vw); padding: 20px 22px; box-shadow: 0 20px 60px rgba(0,0,0,0.25);
+    position: relative; }
+  .modal h2 { margin: 0 0 8px 0; font-size: 18px; padding-right: 36px; }
+  .modal p { color: var(--muted); font-size: 13px; margin: 0 0 12px 0; }
+  .modal textarea { width: 100%; min-height: 200px; font-family: ui-monospace,
+    SFMono-Regular, Menlo, monospace; font-size: 12px; padding: 10px; border-radius: 6px;
+    border: 1px solid var(--line); background: var(--bg); color: var(--ink); resize: vertical; }
+  .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 12px; }
+  .modal-close-x { position: absolute; top: 10px; right: 10px;
+    background: transparent; border: 1px solid transparent; color: var(--muted);
+    width: 32px; height: 32px; border-radius: 6px; font-size: 14px; cursor: pointer;
+    font-family: inherit; line-height: 1; }
+  .modal-close-x:hover { background: var(--pill-bg); color: var(--ink); }
+
+  .empty { text-align: center; padding: 40px; color: var(--muted); font-style: italic;
+    background: var(--panel); border: 1px dashed var(--line); border-radius: 10px; }
+
+  /* Mobile (iPhone 16 Pro + Chrome / iOS Safari WebKit) */
+  @media (max-width: 760px) {
+    .wrap { padding: 16px 14px 96px; }
+    .kpis { grid-template-columns: repeat(2, 1fr); }
+    .charts { grid-template-columns: 1fr; }
+    .job { grid-template-columns: 1fr; }
+    .actions { justify-content: flex-start; }
+
+    /* Touch targets: 44pt minimum per Apple HIG */
+    .act { padding: 10px 14px; font-size: 13px; flex: 1; min-height: 44px; }
+    .iconbtn { padding: 10px 14px; font-size: 13px; min-height: 44px; }
+    .btn { padding: 12px 18px; font-size: 14px; min-height: 44px; }
+    .pill { padding: 9px 14px; font-size: 13px; min-height: 36px;
+      display: inline-flex; align-items: center; }
+
+    /* Prevent iOS auto-zoom on input focus — any input <16px triggers it */
+    .search, .modal textarea { font-size: 16px; }
+    .search { padding: 12px 14px; min-height: 44px; }
+
+    /* Fixed (not sticky) export-bar — sticky is flaky on iOS WebKit + jumps
+       with Chrome's auto-hiding toolbar. env() keeps it above the home indicator. */
+    .export-bar { position: fixed; left: 12px; right: 12px; bottom: 12px;
+      padding-bottom: calc(10px + env(safe-area-inset-bottom)); margin-top: 0; }
+    body { padding-bottom: 96px; }
+
+    /* Sticky filter/search row so they stay accessible while scrolling */
+    .controls { position: sticky; top: 0; z-index: 10; background: var(--bg);
+      padding: 8px 0; margin-bottom: 8px; }
+
+    /* Header layout: snapshot line wraps to its own row */
+    header { gap: 8px; }
+    header .sub { width: 100%; order: 99; }
+    h1 { font-size: 22px; }
+
+    /* Kill the iOS gray tap-flash on interactive elements */
+    .act, .pill, .iconbtn, .btn, .modal-close-x {
+      -webkit-tap-highlight-color: transparent;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Job Triage</h1>
+  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">SF Bay Area · loading…</span>
+  <span class="grow"></span>
+  <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
+  <button type="button" class="iconbtn" id="paste-btn">Paste fresh JSON</button>
+  <button type="button" class="iconbtn" id="theme-btn">Theme</button>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><div class="num" id="kpi-total">0</div><div class="lbl">Total</div></div>
+  <div class="kpi"><div class="num" id="kpi-new">0</div><div class="lbl">New this run</div></div>
+  <div class="kpi saved"><div class="num" id="kpi-saved">0</div><div class="lbl">Saved</div></div>
+  <div class="kpi applied"><div class="num" id="kpi-applied">0</div><div class="lbl">Applied</div></div>
+</div>
+
+<div class="charts">
+  <div class="card"><h3>Top companies</h3><div class="barlist" id="chart-companies"></div></div>
+  <div class="card"><h3>Role mix</h3><div class="barlist" id="chart-roles"></div></div>
+</div>
+
+<div class="controls">
+  <div class="controls-row">
+    <input class="search" id="search" type="search" autocomplete="off" autocorrect="off"
+      autocapitalize="none" spellcheck="false"
+      placeholder="Search titles, companies, locations…" />
+    <button type="button" class="iconbtn" id="clear-filters">Clear filters</button>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Source</span>
+    <div id="filter-source" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Role</span>
+    <div id="filter-role" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Seniority</span>
+    <div id="filter-sen" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Show</span>
+    <div id="filter-state" class="controls-row" style="gap:6px"></div>
+  </div>
+</div>
+
+<div class="jobs" id="jobs"></div>
+
+<div class="export-bar">
+  <span class="label"><span class="count" id="bar-count">0</span> saved · <span class="count" id="bar-applied-count">0</span> applied</span>
+  <span class="grow"></span>
+  <button type="button" class="btn ghost" id="export-json">Copy saved as JSON</button>
+  <button type="button" class="btn" id="export-prompt">Copy as Claude prompt</button>
+</div>
+
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<div class="modal-bg" id="modal-bg" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div class="modal">
+    <button type="button" class="modal-close-x" id="modal-close-x" aria-label="Close">✕</button>
+    <h2 id="modal-title">Update with fresh data</h2>
+    <p>Paste the contents of <code>linkedin_jobs.json</code> or <code>jobs.json</code> (or any object with a <code>jobs</code> array). New jobs merge with existing triage state.</p>
+    <textarea id="paste-area" placeholder='{"scraped_at":"…","jobs":[…]}'></textarea>
+    <div class="modal-actions">
+      <button type="button" class="btn ghost" id="modal-cancel">Cancel</button>
+      <button type="button" class="btn" id="modal-merge">Merge</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // ---------- Sources ----------
+  const SOURCES = [
+    { name: 'jobs.json',          src: 'Biotech'  },
+    { name: 'linkedin_jobs.json', src: 'LinkedIn' },
+    { name: 'indeed_jobs.json',   src: 'Indeed'   },
+  ];
+
+  // ---------- Persistence ----------
+  const STORAGE_KEY = 'jobTriage:v1';
+  const state = (() => {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+    catch { return {}; }
+  })();
+  state.triage = state.triage || {};
+  state.jobs = state.jobs || [];
+
+  // ---------- Classifiers ----------
+  function classifyRole(title) {
+    const t = (title || '').toLowerCase();
+    if (/bioinformatic|computational biolog|genomic|ngs/.test(t)) return 'Bioinformatics';
+    if (/mlops|ml platform|ml infra|ml infrastructure|fullstack machine learning/.test(t)) return 'MLOps/Platform';
+    if (/applied scientist|ml scientist|research scientist|research engineer/.test(t)) return 'Scientist';
+    if (/data scientist|analytics/.test(t)) return 'Data Science';
+    if (/\bai engineer|ai\/ml engineer|applied ai|genai|llm|agent/.test(t)) return 'AI Engineer';
+    if (/machine learning engineer|ml engineer|mle\b/.test(t)) return 'MLE';
+    if (/software engineer|swe\b|backend|frontend|full[- ]?stack/.test(t)) return 'SWE';
+    return 'Other';
+  }
+  function classifySeniority(title) {
+    const t = (title || '').toLowerCase();
+    if (/founding/.test(t)) return 'Founding';
+    if (/principal|distinguished/.test(t)) return 'Principal';
+    if (/\bstaff\b/.test(t)) return 'Staff';
+    if (/\bsr\.?\b|\bsenior\b|\blead\b/.test(t)) return 'Senior';
+    if (/intern\b/.test(t)) return 'Intern';
+    return 'Mid';
+  }
+  function classifySource(j) {
+    if (j.ats === 'LinkedIn') return 'LinkedIn';
+    if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Biotech';
+    if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
+    return 'Other';
+  }
+  function enrich(j) {
+    j._role = classifyRole(j.title);
+    j._sen  = classifySeniority(j.title);
+    j._src  = classifySource(j);
+  }
+
+  // ---------- Data loading ----------
+  let SEED = { scraped_at: '', new_count: 0, jobs: [], new_jobs: [] };
+
+  async function loadJobs() {
+    const bust = `?v=${Date.now()}`;
+    const settled = await Promise.allSettled(
+      SOURCES.map(s => fetch(s.name + bust).then(r => {
+        if (!r.ok) throw new Error(`${s.name}: ${r.status}`);
+        return r.json();
+      }))
+    );
+    const byUrl = new Map();
+    let scraped_at = '', new_count = 0, new_jobs = [];
+    let okCount = 0;
+    settled.forEach((r, i) => {
+      if (r.status !== 'fulfilled') {
+        console.warn(`[loadJobs] ${SOURCES[i].name}:`, r.reason?.message || r.reason);
+        return;
+      }
+      okCount++;
+      const d = r.value;
+      (d.jobs || []).forEach(j => {
+        if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
+        if (!byUrl.has(j.url)) byUrl.set(j.url, j);
+      });
+      (d.new_jobs || []).forEach(j => new_jobs.push(j));
+      new_count += (d.new_count || 0);
+      if ((d.scraped_at || '') > scraped_at) scraped_at = d.scraped_at;
+    });
+    if (okCount === 0) throw new Error('all sources failed');
+    const jobs = [...byUrl.values()].sort(
+      (a, b) => (b.date_posted || '').localeCompare(a.date_posted || '')
+    );
+    return { scraped_at, new_count, new_jobs, jobs };
+  }
+
+  // ---------- Merge (additive — preserves triage history) ----------
+  function mergeJobs(incoming) {
+    const seen = new Map(state.jobs.map(j => [j.url, j]));
+    let added = 0;
+    for (const j of incoming) {
+      if (!seen.has(j.url)) {
+        state.jobs.push(j);
+        seen.set(j.url, j);  // prevent internal dupes within incoming
+        added++;
+      }
+    }
+    return added;
+  }
+
+  // ---------- Filters ----------
+  const filters = {
+    source: new Set(),
+    role: new Set(),
+    sen: new Set(),
+    state: new Set(['active', 'saved', 'applied']),
+    q: '',
+  };
+
+  function visibleJobs() {
+    const q = filters.q.trim().toLowerCase();
+    return state.jobs.filter(j => {
+      if (filters.source.size && !filters.source.has(j._src)) return false;
+      if (filters.role.size && !filters.role.has(j._role)) return false;
+      if (filters.sen.size && !filters.sen.has(j._sen)) return false;
+      const st = state.triage[j.url] || 'active';
+      if (!filters.state.has(st)) return false;
+      if (q && !(`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q))) return false;
+      return true;
+    });
+  }
+
+  // ---------- Render ----------
+  const $ = id => document.getElementById(id);
+
+  function renderFilterGroup(containerId, key, values) {
+    const el = $(containerId);
+    el.innerHTML = '';
+    const counts = {};
+    state.jobs.forEach(j => {
+      const v = key === 'source' ? j._src : key === 'role' ? j._role : j._sen;
+      counts[v] = (counts[v] || 0) + 1;
+    });
+    values.forEach(v => {
+      const ct = counts[v] || 0;
+      if (!ct) return;
+      const active = filters[key].has(v);
+      const p = document.createElement('button');
+      p.type = 'button';
+      p.className = 'pill' + (active ? ' on' : '');
+      p.setAttribute('aria-pressed', active ? 'true' : 'false');
+      p.innerHTML = `${escape(v)}<span class="ct">${ct}</span>`;
+      p.onclick = () => {
+        if (filters[key].has(v)) filters[key].delete(v);
+        else filters[key].add(v);
+        renderAll();
+      };
+      el.appendChild(p);
+    });
+  }
+
+  function renderStateFilter() {
+    const el = $('filter-state');
+    el.innerHTML = '';
+    const opts = [
+      ['active', 'Untriaged'],
+      ['saved', 'Saved'],
+      ['applied', 'Applied'],
+      ['dismissed', 'Dismissed'],
+    ];
+    const counts = { active: 0, saved: 0, applied: 0, dismissed: 0 };
+    state.jobs.forEach(j => { counts[state.triage[j.url] || 'active']++; });
+    opts.forEach(([k, label]) => {
+      const active = filters.state.has(k);
+      const p = document.createElement('button');
+      p.type = 'button';
+      p.className = 'pill' + (active ? ' on' : '');
+      p.setAttribute('aria-pressed', active ? 'true' : 'false');
+      p.innerHTML = `${label}<span class="ct">${counts[k]}</span>`;
+      p.onclick = () => {
+        if (filters.state.has(k)) filters.state.delete(k);
+        else filters.state.add(k);
+        renderAll();
+      };
+      el.appendChild(p);
+    });
+  }
+
+  function renderKpis() {
+    $('kpi-total').textContent = state.jobs.length;
+    $('kpi-new').textContent = (SEED.new_jobs || []).length || SEED.new_count || 0;
+    const saved = state.jobs.filter(j => state.triage[j.url] === 'saved').length;
+    const applied = state.jobs.filter(j => state.triage[j.url] === 'applied').length;
+    $('kpi-saved').textContent = saved;
+    $('kpi-applied').textContent = applied;
+    $('bar-count').textContent = saved;
+    $('bar-applied-count').textContent = applied;
+  }
+
+  function renderCharts() {
+    const jobs = visibleJobs();
+    const byCo = {};
+    jobs.forEach(j => byCo[j.company] = (byCo[j.company] || 0) + 1);
+    const topCo = Object.entries(byCo).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    const maxCo = topCo[0] ? topCo[0][1] : 1;
+    $('chart-companies').innerHTML = topCo.map(([name, n]) =>
+      `<div class="barrow"><span class="name" title="${escape(name)}">${escape(name)}</span>
+       <div class="bar"><span style="width:${(n/maxCo)*100}%"></span></div>
+       <span class="count">${n}</span></div>`).join('') ||
+      '<div style="color:var(--muted);font-size:13px">No jobs match current filters.</div>';
+
+    const byRole = {};
+    jobs.forEach(j => byRole[j._role] = (byRole[j._role] || 0) + 1);
+    const topRole = Object.entries(byRole).sort((a, b) => b[1] - a[1]);
+    const maxRole = topRole[0] ? topRole[0][1] : 1;
+    $('chart-roles').innerHTML = topRole.map(([name, n]) =>
+      `<div class="barrow"><span class="name">${escape(name)}</span>
+       <div class="bar"><span style="width:${(n/maxRole)*100}%"></span></div>
+       <span class="count">${n}</span></div>`).join('') ||
+      '<div style="color:var(--muted);font-size:13px">—</div>';
+  }
+
+  function escape(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  function renderJobs() {
+    const jobs = visibleJobs();
+    const el = $('jobs');
+    if (!jobs.length) {
+      el.innerHTML = '<div class="empty">No jobs match the current filters.</div>';
+      return;
+    }
+    el.innerHTML = jobs.map(j => {
+      const st = state.triage[j.url] || 'active';
+      const srcCls = j._src.toLowerCase();
+      return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
+        <div class="job-main">
+          <div class="title"><a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="meta">
+            <span class="co">${escape(j.company)}<span class="src ${srcCls}">${j._src}</span></span>
+            <span>📍 ${escape(j.location || 'Not specified')}</span>
+            <span>🕒 ${escape(j.date_posted || '')}</span>
+            <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span></span>
+          </div>
+        </div>
+        <div class="actions">
+          <button type="button" class="act save ${st==='saved'?'on':''}" data-act="saved" aria-pressed="${st==='saved'}">★ Save</button>
+          <button type="button" class="act applied ${st==='applied'?'on':''}" data-act="applied" aria-pressed="${st==='applied'}">✓ Applied</button>
+          <button type="button" class="act dismiss ${st==='dismissed'?'on':''}" data-act="dismissed" aria-pressed="${st==='dismissed'}">✕ Dismiss</button>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  function renderAll() {
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Biotech', 'Indeed']);
+    renderFilterGroup('filter-role', 'role',
+      ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Data Science',
+       'SWE', 'Bioinformatics', 'Other']);
+    renderFilterGroup('filter-sen', 'sen',
+      ['Founding', 'Principal', 'Staff', 'Senior', 'Mid', 'Intern']);
+    renderStateFilter();
+    renderKpis();
+    renderCharts();
+    renderJobs();
+    save();
+  }
+
+  function save() {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+    catch (e) { console.warn('[save] localStorage write failed:', e.message); }
+  }
+
+  // ---------- Refresh flow ----------
+  async function refresh() {
+    $('snapshot-line').textContent = 'Loading…';
+    try {
+      SEED = await loadJobs();
+      SEED.jobs.forEach(enrich);
+      mergeJobs(SEED.jobs);
+      state.jobs.forEach(enrich);  // re-classify all (handles classifier updates)
+      state._lastLoaded = Date.now();
+      renderAll();
+      updateSnapshotLine();
+    } catch (e) {
+      $('snapshot-line').innerHTML =
+        `Error loading data: ${escape(e.message)} ` +
+        `<button type="button" class="iconbtn" id="retry-btn">Retry</button>`;
+      const retry = $('retry-btn');
+      if (retry) retry.onclick = refresh;
+    }
+  }
+
+  function updateSnapshotLine() {
+    const mins = Math.floor((Date.now() - (state._lastLoaded||0)) / 60000);
+    const ago = mins < 1 ? 'just now' : `${mins}m ago`;
+    $('snapshot-line').textContent =
+      `SF Bay Area · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${state.jobs.length} jobs`;
+  }
+  setInterval(() => {
+    if (!document.hidden && state._lastLoaded) updateSnapshotLine();
+  }, 60000);
+
+  // ---------- Events ----------
+  $('jobs').addEventListener('click', e => {
+    const btn = e.target.closest('.act');
+    if (!btn) return;
+    const card = btn.closest('.job');
+    const url = card.dataset.url;
+    const act = btn.dataset.act;
+    if (state.triage[url] === act) delete state.triage[url];
+    else state.triage[url] = act;
+    renderAll();
+  });
+
+  $('search').addEventListener('input', e => {
+    filters.q = e.target.value;
+    renderCharts();
+    renderJobs();
+  });
+
+  $('clear-filters').onclick = () => {
+    filters.source.clear(); filters.role.clear(); filters.sen.clear();
+    filters.state = new Set(['active', 'saved', 'applied']);
+    filters.q = ''; $('search').value = '';
+    renderAll();
+  };
+
+  // Theme
+  function applyTheme(t) {
+    document.documentElement.dataset.theme = t;
+    try { localStorage.setItem('jobTriage:theme', t); } catch {}
+  }
+  applyTheme(localStorage.getItem('jobTriage:theme') ||
+    (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+  $('theme-btn').onclick = () =>
+    applyTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark');
+
+  // Toast
+  function toast(msg) {
+    const t = $('toast'); t.textContent = msg; t.classList.add('show');
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => t.classList.remove('show'), 1800);
+  }
+
+  // ---------- Modal (paste fresh JSON — offline escape hatch) ----------
+  let _modalPrevFocus = null;
+  function openModal() {
+    _modalPrevFocus = document.activeElement;
+    $('modal-bg').classList.add('show');
+    setTimeout(() => $('paste-area').focus(), 0);
+  }
+  function closeModal() {
+    $('modal-bg').classList.remove('show');
+    if (_modalPrevFocus && _modalPrevFocus.focus) _modalPrevFocus.focus();
+  }
+  $('paste-btn').onclick = openModal;
+  $('modal-cancel').onclick = closeModal;
+  $('modal-close-x').onclick = closeModal;
+  $('modal-bg').addEventListener('click', e => {
+    if (e.target === $('modal-bg')) closeModal();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && $('modal-bg').classList.contains('show')) closeModal();
+  });
+  $('modal-merge').onclick = () => {
+    try {
+      const txt = $('paste-area').value.trim();
+      if (!txt) return;
+      const obj = JSON.parse(txt);
+      const arr = obj.jobs || (Array.isArray(obj) ? obj : []);
+      if (!arr.length) { toast('No jobs[] found in pasted JSON'); return; }
+      const valid = arr.filter(j => j && j.url && /^https?:\/\//i.test(j.url));
+      valid.forEach(enrich);
+      const added = mergeJobs(valid);
+      closeModal();
+      $('paste-area').value = '';
+      renderAll();
+      toast(`Merged ${added} new job${added === 1 ? '' : 's'}`);
+    } catch (err) {
+      toast('Invalid JSON: ' + err.message);
+    }
+  };
+
+  // ---------- Export ----------
+  async function copy(text) {
+    try { await navigator.clipboard.writeText(text); toast('Copied to clipboard'); }
+    catch { toast('Copy failed — select text manually'); }
+  }
+  $('export-json').onclick = () => {
+    const saved = state.jobs.filter(j =>
+      state.triage[j.url] === 'saved' || state.triage[j.url] === 'applied');
+    if (!saved.length) return toast('Nothing saved yet');
+    copy(JSON.stringify(saved.map(({_role, _sen, _src, ...rest}) => rest), null, 2));
+  };
+  $('export-prompt').onclick = () => {
+    const saved = state.jobs.filter(j => state.triage[j.url] === 'saved');
+    if (!saved.length) return toast('Save a few jobs first');
+    const list = saved.map((j, i) =>
+      `${i+1}. ${j.title} — ${j.company} (${j.location})\n   ${j.url}`).join('\n');
+    const prompt = `I'm prioritizing my SF Bay Area job applications. Here are ${saved.length} role(s) I've saved from this morning's scrape:
+
+${list}
+
+For each role:
+1. Score fit 1-5 against my background (ML/biotech, looking for senior IC roles).
+2. Flag any signal in the title (founding/staff/seniority, niche domain) that should bump priority.
+3. Suggest one concrete resume bullet tweak per role I'd actually want to apply to.
+4. End with a recommended apply-order top-3 with rationale.`;
+    copy(prompt);
+  };
+
+  // ---------- Refresh button + tab-focus auto-refresh ----------
+  $('refresh-btn').onclick = refresh;
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden && Date.now() - (state._lastLoaded || 0) > 5 * 60 * 1000) refresh();
+  });
+
+  // ---------- Hide export-bar when on-screen keyboard is up (iOS) ----------
+  if (window.visualViewport) {
+    const bar = document.querySelector('.export-bar');
+    window.visualViewport.addEventListener('resize', () => {
+      const kbOpen = window.innerHeight - window.visualViewport.height > 100;
+      if (bar) bar.style.display = kbOpen ? 'none' : '';
+    });
+  }
+
+  // ---------- Initial load ----------
+  refresh();
+</script>
+</body>
+</html>
