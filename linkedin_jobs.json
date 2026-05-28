@@ -1,13 +1,53 @@
 {
-  "scraped_at": "2026-05-27 23:17 UTC",
-  "total": 10,
-  "new_count": 7,
+  "scraped_at": "2026-05-28 00:17 UTC",
+  "total": 11,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "Shipt",
-      "title": "Staff Machine Learning Engineer",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419975655/",
+      "url": "https://www.linkedin.com/jobs/view/4418870361/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418865404/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Maxonic Inc.",
+      "title": "Data Scientist",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418863593/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Outcomes Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418871090/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417272352/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rezo Therapeutics",
+      "title": "Staff/Senior Staff, Bioinformatics Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419989542/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
@@ -29,115 +69,75 @@
     },
     {
       "company": "Thinking Machines Lab",
-      "title": "Research Engineer Infrastructure Inference",
+      "title": "Research Engineer Infrastructure RL Systems",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419990381/",
+      "url": "https://www.linkedin.com/jobs/view/4419990399/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
       "company": "Thinking Machines Lab",
-      "title": "Research Engineer Infrastructure Kernels",
+      "title": "Research Engineer Infrastructure Training Systems",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419990389/",
+      "url": "https://www.linkedin.com/jobs/view/4419980621/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Materials Science",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419988251/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Maxonic Inc.",
-      "title": "Data Scientist",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418863593/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer Infrastructure Numerics",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "American Arbitration Association",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418865404/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tempus AI",
-      "title": "Data Scientist II, Outcomes Research",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418871090/",
+      "url": "https://www.linkedin.com/jobs/view/4419983539/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Strava",
-      "title": "Staff AI Engineer",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417278084/",
+      "url": "https://www.linkedin.com/jobs/view/4418870361/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417272352/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Atoms",
-      "title": "Senior Software Engineer - Machine Learning Infrastructure - San Francisco, CA",
+      "company": "Rezo Therapeutics",
+      "title": "Staff/Senior Staff, Bioinformatics Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418850929/",
+      "url": "https://www.linkedin.com/jobs/view/4419989542/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
       "company": "Thinking Machines Lab",
-      "title": "Research Engineer Infrastructure Inference",
+      "title": "Research Engineer Infrastructure RL Systems",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419990381/",
+      "url": "https://www.linkedin.com/jobs/view/4419990399/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
       "company": "Thinking Machines Lab",
-      "title": "Research Engineer Infrastructure Kernels",
+      "title": "Research Engineer Infrastructure Training Systems",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419990389/",
+      "url": "https://www.linkedin.com/jobs/view/4419980621/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Maxonic Inc.",
-      "title": "Data Scientist",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418863593/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "American Arbitration Association",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418865404/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tempus AI",
-      "title": "Data Scientist II, Outcomes Research",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418871090/",
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer Infrastructure Numerics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419983539/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
