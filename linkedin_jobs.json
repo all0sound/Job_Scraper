@@ -1,461 +1,77 @@
 {
-  "scraped_at": "2026-05-29 19:17 UTC",
-  "total": 63,
-  "new_count": 43,
+  "scraped_at": "2026-05-29 20:17 UTC",
+  "total": 84,
+  "new_count": 70,
   "jobs": [
     {
-      "company": "Ursus, Inc.",
-      "title": "Machine Learning Engineer (HROS)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417959677/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OSI Engineering",
+      "company": "Checkr, Inc.",
       "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421219568/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, AI/ML, Google Play",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422047050/",
+      "url": "https://www.linkedin.com/jobs/view/4422038380/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Engineer - MLOps & Scientific Platforms - Data Foundry",
+      "company": "Jack & Jill",
+      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420290184/",
+      "url": "https://www.linkedin.com/jobs/view/4422045400/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Andiamo",
-      "title": "Staff Data Scientist - Global Tech Leader",
+      "company": "Jack & Jill",
+      "title": "Founding Machine Learning Engineer ($180K \u2013 $220K + Equity) at $60M Series B AI-native insurance platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380637295/",
+      "url": "https://www.linkedin.com/jobs/view/4422055204/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Epic",
-      "title": "Software Engineer",
+      "company": "Jobs via Dice",
+      "title": "Machine Learning Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422040518/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sandisk",
+      "title": "Senior Staff data science engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421225415/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pylon",
+      "title": "Software Engineer (AI Agents)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421226084/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, AI/ML, Applied AI",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/3986118126/",
+      "url": "https://www.linkedin.com/jobs/view/4422041333/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Artie",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417976234/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. AI / Machine Learning Platform Engineer - Voice Agents",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410876201/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Deep Learning Software Engineer, LLM Performance",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402324620/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Data Scientist, Voice of the Customer - GeForce NOW",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410871520/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Senior Software Engineer - LLM and Agentic AI Applications - Profitable AI Startup",
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4407985156/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 5",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420993359/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Mid to Sr. to Lead Software QA / Test Engineer \u2013 Distributed Systems & Kubernetes - High Growth Network Security Company",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388983924/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "SMTS/LMTS Full Stack Software Engineer, Tableau Next",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421212164/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 5",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420991365/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI Engineer / Data Scientist, AI Sr. Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422028813/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Advatix LATAM",
-      "title": "Software Developer \u2013 Backend (AI-Powered CAD Startup)",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422033793/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Software Engineer, Agentic Systems - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411842775/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - DFX Software",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402313723/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Deep Learning Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4395473430/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Staff ML Engineer, Fine Tuning - Slack",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421201767/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Lead AI Engineer, Data Solutions",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420994877/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cerebras",
-      "title": "AI Engineer, Model Quality and Performance",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421204538/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sierra Business Solution",
-      "title": "Software Engineer, Agent",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421217096/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI Engineer / Data Scientist, AI Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422031677/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI Engineer / Data Scientist, AI Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422030781/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OSI Engineering",
-      "title": "Battery Simulation Software Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419080984/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. to Lead Software Engineer / Product Engineer - AI Video Security Startup",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380023921/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420994377/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420990521/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Founding DevOps / Systems / ML Ops Engineer - Physical AI Startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380041216/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Invovia",
-      "title": "Only w2--Full Stack AI Engineer--W2 only",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417961748/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Fireworks AI",
-      "title": "Member of Technical Staff, Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382904533/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Deloitte",
-      "title": "Software Engineer II- Full-stack Developer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420987849/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "System Software Engineer, GPU Development Tools",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402307640/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Atomic Machines",
-      "title": "Software Engineer, Robotic Distributed Systems",
-      "location": "Emeryville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378172966/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Andiamo",
-      "title": "Full Stack Engineer - AI Platform Leader",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380628883/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. to Staff Firmware / Embedded Software Engineer - Delivery Drones",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400796303/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Staff Data + DevOps Engineer - Pre-IPO Network Security Company",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416325564/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Andiamo",
-      "title": "Backend Engineer - Elite Hedge Fund",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380639256/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. Backend Software Engineer - Hypergrowth Conversational AI Startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393890630/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scribe",
-      "title": "Staff Full-Stack Engineer, Growth",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421205575/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Staff Software Engineer, Agentic AI Systems - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369062023/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "DevOps and Software Lab Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409299472/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Agoda",
-      "title": "Senior Lead Engineer (DevOps and Process Optimization/Automation) \u2013 Bangkok based, relocation provided",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411333693/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Agoda",
-      "title": "Senior Lead Engineer (DevOps and Process Optimization/Automation) \u2013 Bangkok based, relocation provided",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411333702/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "KellyMitchell Group",
-      "title": "Cloud Engineer (Azure)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420986912/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Eli Lilly and Company",
-      "title": "Bioinformatics Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394309251/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "DevOps Engineer (not on-call) - Consumer Health Platform",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4394200605/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Site Reliability Engineer - Observability and Telemetry Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410874471/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Multi Cloud Site Reliability Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410895199/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MongoDB",
-      "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4391304572/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr Staff Site Reliability Engineer - Veza",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406104677/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GEICO",
-      "title": "Staff Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422028981/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Check Point Software",
-      "title": "Security Engineer, Workspace Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420993758/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Check Point Software",
-      "title": "Security Engineer, Workspace Security",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420992820/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "iitjobs, Inc.",
-      "title": "Software Engineer[golang, python, Vectordb]: Onsite: Cupertino",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422043035/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Clorox Company",
-      "title": "Senior Data Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4390381975/",
+      "url": "https://www.linkedin.com/jobs/view/4421229481/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
@@ -468,18 +84,274 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Software Development Engineer, Data Platform, Prime Video Personalization & Discovery",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420985797/",
+      "company": "Salesforce",
+      "title": "Staff ML Engineer, Fine Tuning - Slack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421201767/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Network Software Engineer ($250K \u2013 $300K + Equity) at First Round-backed AI cloud startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422047314/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Lead AI Engineer, Data Solutions",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420994877/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Infrastructure, Google Ads",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037456/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Citadel Securities",
+      "title": "C++ Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4281727037/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Diagnostic Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422041462/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Data Engineer \u2013 Life Sciences / Pharma",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422058099/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Full Stack Software Engineer \u2013 Robotics & AI Infrastructure",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037583/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, Mobile (Android), YouTube",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422036510/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Software Engineer  Enterprise AI (Platform & Infrastructure)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422056223/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Software Infrastructure Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422049268/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Snowflake Data Engineer - Onsite",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037563/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Software Engineer",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422050296/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quadric",
+      "title": "Software Engineer Intern - Compiler",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421208634/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wise Skulls",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417976429/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SciPro",
+      "title": "Principal ML/AI Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422034907/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
       "company": "Eli Lilly and Company",
-      "title": "Scientific Software Developer, Data Foundry",
+      "title": "Engineer - MLOps & Scientific Platforms - Data Foundry",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418090235/",
+      "url": "https://www.linkedin.com/jobs/view/4420290184/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Software Engineer ($150k-$250k + Equity) at Greylock-backed AI startup for physical sciences",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422045341/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Applied AI Engineer at Moveworks-founded stealth enterprise AI startup",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037614/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Software Engineer ($160k\u2013$210k + 1.5\u20132% Equity) at VC-backed healthtech startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422052243/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Software Engineer at fast-growing Series A healthtech startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422039538/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421213993/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421237014/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421220762/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data engineer + life-science & Pharma background is a must",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044418/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "SMTS/LMTS Full Stack Software Engineer, Tableau Next",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421212164/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crusoe",
+      "title": "Software Engineer II, SDN Networking",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421217627/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Software Engineer - Machine Learning III",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422035616/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422051248/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Nimble",
+      "title": "Software Engineer III",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421227091/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ridgeline",
+      "title": "Software Engineer, Migrations Engineering",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417972646/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI Engineer ($180K \u2013 $250K + Equity) at Index Ventures-backed agentic AI startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422048297/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding AI Engineer Intern at San Francisco AI agent startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044368/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CriticalRiver Inc.",
+      "title": "Generative AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421233004/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
@@ -500,356 +372,868 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Technical Lead - Software Developer, Data Foundry",
+      "company": "Jack & Jill",
+      "title": "Founding Full Stack Engineer (+ Equity) at HealthTech startup building the system of record for nursing excellence",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387464701/",
+      "url": "https://www.linkedin.com/jobs/view/4422058082/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Software Engineer (Reliability)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675381/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422043410/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Site Reliability Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421225567/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sierra Business Solution",
+      "title": "Software Engineer, Agent",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421217096/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Box",
+      "title": "Senior Software Engineer, Agents Platform",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421210943/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer, Operational Tools",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421219584/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Eli Lilly and Company",
+      "title": "Senior Director, Software Engineering - Silicon Valley Hub",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419951815/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Software Engineer at VC-backed B2B software platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422057114/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, Core",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044280/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Principal Software Engineer, Data",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421225340/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zoox",
+      "title": "Senior Software Engineer - 3D Simulation Applications",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421230286/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shrive Technologies",
+      "title": "Python Backend Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421226072/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Backend Engineer ($180k-$220k + Equity) at SF cloud financial data platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422039516/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Fullstack Engineer at Leading Sui DeFi Protocol backed by OKX Ventures & Hashed",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422052254/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Backend Engineer at cash-flow positive seed-stage fintech marketplace",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422058062/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Full Stack AI Engineer at a confidential company",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422050240/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scribe",
+      "title": "Staff Full-Stack Engineer, Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421205575/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Software Engineer ($300k-$400k + Equity) at high-growth frontier AI startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422053254/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Litmus",
+      "title": "Senior Software Engineer - Golang",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419324139/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Mobile (Android), Platforms and Devices",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044279/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Founding Full Stack Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422050234/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "IBM",
+      "title": "Entry Level Software Developer 2026",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417968790/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Endpoint Security Software Engineer, Android - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421211524/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Infrastructure, Google Cloud Compute Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422036512/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Speakeasy",
+      "title": "Platform Engineer (SRE) - AI Control Plane",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421231169/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Product Infrastructure Engineer ($200k-$220k + Equity) at Thomson Reuters-backed $17M Series A AI accounting startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422046254/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Hiring! W2 Employment: Python Backend Engineer (Only Local Candidate San Jose, CA) // Onsite",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422053241/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Python Backend Engineer :: 5 Days Onsite :: San Jose, CA :: On W2 :: Only Locals",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422056153/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AWS DevOps Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422036641/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AiDASH",
+      "title": "Principal / Staff Security Engineer - AI Platform & DevSecOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417047053/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atomic Machines",
+      "title": "Software Engineer, Robotic Distributed Systems",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4378172966/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Staff Software Engineer ($190K \u2013 $250K + Equity) at Stealth-stage healthtech AI startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422046298/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Eli Lilly and Company",
+      "title": "Bioinformatics Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394309251/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421211959/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Check Point Software",
+      "title": "Security Engineer, Workspace Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420993758/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Check Point Software",
+      "title": "Security Engineer, Workspace Security",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420992820/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Eli Lilly and Company",
+      "title": "Scientific Software Developer, Data Foundry",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418090235/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "OSI Engineering",
+      "company": "Checkr, Inc.",
       "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421219568/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, AI/ML, Google Play",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422047050/",
+      "url": "https://www.linkedin.com/jobs/view/4422038380/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Engineer - MLOps & Scientific Platforms - Data Foundry",
+      "company": "Jack & Jill",
+      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420290184/",
+      "url": "https://www.linkedin.com/jobs/view/4422045400/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Andiamo",
-      "title": "Staff Data Scientist - Global Tech Leader",
+      "company": "Jack & Jill",
+      "title": "Founding Machine Learning Engineer ($180K \u2013 $220K + Equity) at $60M Series B AI-native insurance platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380637295/",
+      "url": "https://www.linkedin.com/jobs/view/4422055204/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Epic",
-      "title": "Software Engineer",
+      "company": "Jobs via Dice",
+      "title": "Machine Learning Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422040518/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sandisk",
+      "title": "Senior Staff data science engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421225415/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pylon",
+      "title": "Software Engineer (AI Agents)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421226084/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, AI/ML, Applied AI",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/3986118126/",
+      "url": "https://www.linkedin.com/jobs/view/4422041333/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. AI / Machine Learning Platform Engineer - Voice Agents",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410876201/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Deep Learning Software Engineer, LLM Performance",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402324620/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Senior Software Engineer - LLM and Agentic AI Applications - Profitable AI Startup",
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4407985156/",
+      "url": "https://www.linkedin.com/jobs/view/4421229481/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Skyrocket Ventures",
-      "title": "Mid to Sr. to Lead Software QA / Test Engineer \u2013 Distributed Systems & Kubernetes - High Growth Network Security Company",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388983924/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "SMTS/LMTS Full Stack Software Engineer, Tableau Next",
+      "company": "Jack & Jill",
+      "title": "Network Software Engineer ($250K \u2013 $300K + Equity) at First Round-backed AI cloud startup",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421212164/",
+      "url": "https://www.linkedin.com/jobs/view/4422047314/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - DFX Software",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402313723/",
+      "company": "Google",
+      "title": "Software Engineer III, Infrastructure, Google Ads",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037456/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Deep Learning Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4395473430/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Staff ML Engineer, Fine Tuning - Slack",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421201767/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Lead AI Engineer, Data Solutions",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420994877/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cerebras",
-      "title": "AI Engineer, Model Quality and Performance",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421204538/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sierra Business Solution",
-      "title": "Software Engineer, Agent",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421217096/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OSI Engineering",
-      "title": "Battery Simulation Software Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419080984/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. to Lead Software Engineer / Product Engineer - AI Video Security Startup",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380023921/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Founding DevOps / Systems / ML Ops Engineer - Physical AI Startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380041216/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Invovia",
-      "title": "Only w2--Full Stack AI Engineer--W2 only",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417961748/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Fireworks AI",
-      "title": "Member of Technical Staff, Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382904533/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "System Software Engineer, GPU Development Tools",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402307640/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Atomic Machines",
-      "title": "Software Engineer, Robotic Distributed Systems",
-      "location": "Emeryville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378172966/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Andiamo",
-      "title": "Full Stack Engineer - AI Platform Leader",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380628883/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. to Staff Firmware / Embedded Software Engineer - Delivery Drones",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400796303/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Staff Data + DevOps Engineer - Pre-IPO Network Security Company",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416325564/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Andiamo",
-      "title": "Backend Engineer - Elite Hedge Fund",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380639256/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "Sr. Backend Software Engineer - Hypergrowth Conversational AI Startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393890630/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scribe",
-      "title": "Staff Full-Stack Engineer, Growth",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421205575/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Agoda",
-      "title": "Senior Lead Engineer (DevOps and Process Optimization/Automation) \u2013 Bangkok based, relocation provided",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411333693/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "KellyMitchell Group",
-      "title": "Cloud Engineer (Azure)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420986912/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Eli Lilly and Company",
-      "title": "Bioinformatics Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394309251/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "DevOps Engineer (not on-call) - Consumer Health Platform",
+      "company": "Citadel Securities",
+      "title": "C++ Software Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4394200605/",
+      "url": "https://www.linkedin.com/jobs/view/4281727037/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "MongoDB",
-      "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
+      "company": "Jobs via Dice",
+      "title": "Diagnostic Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422041462/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Data Engineer \u2013 Life Sciences / Pharma",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4391304572/",
+      "url": "https://www.linkedin.com/jobs/view/4422058099/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "ServiceNow",
-      "title": "Sr Staff Site Reliability Engineer - Veza",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406104677/",
+      "company": "Jobs via Dice",
+      "title": "Senior Full Stack Software Engineer \u2013 Robotics & AI Infrastructure",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037583/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "GEICO",
-      "title": "Staff Software Engineer",
+      "company": "Google",
+      "title": "Senior Software Engineer, Mobile (Android), YouTube",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422036510/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Software Engineer  Enterprise AI (Platform & Infrastructure)",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422028981/",
+      "url": "https://www.linkedin.com/jobs/view/4422056223/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Check Point Software",
-      "title": "Security Engineer, Workspace Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420993758/",
+      "company": "Jobs via Dice",
+      "title": "Software Infrastructure Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422049268/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Check Point Software",
-      "title": "Security Engineer, Workspace Security",
+      "company": "Jobs via Dice",
+      "title": "Snowflake Data Engineer - Onsite",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420992820/",
+      "url": "https://www.linkedin.com/jobs/view/4422037563/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "The Clorox Company",
-      "title": "Senior Data Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4390381975/",
+      "company": "Jobs via Dice",
+      "title": "Senior Software Engineer",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422050296/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quadric",
+      "title": "Software Engineer Intern - Compiler",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421208634/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wise Skulls",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417976429/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SciPro",
+      "title": "Principal ML/AI Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422034907/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Software Engineer ($150k-$250k + Equity) at Greylock-backed AI startup for physical sciences",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422045341/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Applied AI Engineer at Moveworks-founded stealth enterprise AI startup",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422037614/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Software Engineer ($160k\u2013$210k + 1.5\u20132% Equity) at VC-backed healthtech startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422052243/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Software Engineer at fast-growing Series A healthtech startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422039538/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421213993/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421237014/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer ($300/hr.)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421220762/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data engineer + life-science & Pharma background is a must",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044418/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crusoe",
+      "title": "Software Engineer II, SDN Networking",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421217627/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Software Engineer - Machine Learning III",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422035616/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422051248/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Nimble",
+      "title": "Software Engineer III",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421227091/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ridgeline",
+      "title": "Software Engineer, Migrations Engineering",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417972646/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI Engineer ($180K \u2013 $250K + Equity) at Index Ventures-backed agentic AI startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422048297/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding AI Engineer Intern at San Francisco AI agent startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044368/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CriticalRiver Inc.",
+      "title": "Generative AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421233004/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Full Stack Engineer (+ Equity) at HealthTech startup building the system of record for nursing excellence",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422058082/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Software Engineer (Reliability)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675381/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422043410/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Site Reliability Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421225567/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Box",
+      "title": "Senior Software Engineer, Agents Platform",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421210943/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer, Operational Tools",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421219584/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
       "company": "Eli Lilly and Company",
-      "title": "Scientific Lead - Scientific Data Engineer",
+      "title": "Senior Director, Software Engineering - Silicon Valley Hub",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398960410/",
+      "url": "https://www.linkedin.com/jobs/view/4419951815/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Scientific Software Developer, Data Foundry",
+      "company": "Jack & Jill",
+      "title": "Senior Software Engineer at VC-backed B2B software platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418090235/",
+      "url": "https://www.linkedin.com/jobs/view/4422057114/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Scientific Lead, Generative AI Engineer, Applied Intelligence for Discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378607070/",
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, Core",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044280/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Scientific Lead - Forward Deployed AI Engineer, Applied Intelligence for Discovery",
+      "company": "Lila Sciences",
+      "title": "Principal Software Engineer, Data",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378600744/",
+      "url": "https://www.linkedin.com/jobs/view/4421225340/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eli Lilly and Company",
-      "title": "Technical Lead - Software Developer, Data Foundry",
+      "company": "Zoox",
+      "title": "Senior Software Engineer - 3D Simulation Applications",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421230286/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shrive Technologies",
+      "title": "Python Backend Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421226072/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Backend Engineer ($180k-$220k + Equity) at SF cloud financial data platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387464701/",
+      "url": "https://www.linkedin.com/jobs/view/4422039516/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Fullstack Engineer at Leading Sui DeFi Protocol backed by OKX Ventures & Hashed",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422052254/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Backend Engineer at cash-flow positive seed-stage fintech marketplace",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422058062/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior Full Stack AI Engineer at a confidential company",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422050240/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Software Engineer ($300k-$400k + Equity) at high-growth frontier AI startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422053254/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Litmus",
+      "title": "Senior Software Engineer - Golang",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419324139/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Mobile (Android), Platforms and Devices",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422044279/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Founding Full Stack Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422050234/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "IBM",
+      "title": "Entry Level Software Developer 2026",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417968790/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Endpoint Security Software Engineer, Android - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421211524/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Infrastructure, Google Cloud Compute Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422036512/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Speakeasy",
+      "title": "Platform Engineer (SRE) - AI Control Plane",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421231169/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Product Infrastructure Engineer ($200k-$220k + Equity) at Thomson Reuters-backed $17M Series A AI accounting startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422046254/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Hiring! W2 Employment: Python Backend Engineer (Only Local Candidate San Jose, CA) // Onsite",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422053241/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Python Backend Engineer :: 5 Days Onsite :: San Jose, CA :: On W2 :: Only Locals",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422056153/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AWS DevOps Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422036641/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AiDASH",
+      "title": "Principal / Staff Security Engineer - AI Platform & DevSecOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417047053/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Staff Software Engineer ($190K \u2013 $250K + Equity) at Stealth-stage healthtech AI startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422046298/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421211959/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     }
