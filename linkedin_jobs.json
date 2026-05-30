@@ -1,61 +1,29 @@
 {
-  "scraped_at": "2026-05-30 02:17 UTC",
-  "total": 49,
-  "new_count": 46,
+  "scraped_at": "2026-05-30 03:17 UTC",
+  "total": 13,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "KonstructIQ",
-      "title": "Software Engineer - Frontend",
-      "location": "Los Altos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422070583/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, AI Data Infrastructure (Fall 2026)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421286204/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoverPin",
-      "title": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422065920/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior/Staff Software Engineer ($120k-$200k) at Venture-backed AI Mental Health Startup",
+      "company": "Zoox",
+      "title": "Machine Learning Engineer - Semantic Reasoning (Highway)",
       "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422083386/",
+      "url": "https://www.linkedin.com/jobs/view/4421281684/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "Robotics Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421285473/",
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer II - Identity",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417997343/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422074538/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "AI Data Infrastructure Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421279681/",
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer II - Commerce",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417990554/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -63,31 +31,23 @@
       "company": "Decagon",
       "title": "Senior Software Engineer, Data Infrastructure",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421286444/",
+      "url": "https://www.linkedin.com/jobs/view/4421287454/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "ML Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422077607/",
+      "company": "Palo Alto Networks",
+      "title": "Sr Principal Software Engineer (Prisma Browser)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417991820/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer II - AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421288149/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoox",
-      "title": "Machine Learning Engineer - Semantic Reasoning (Highway)",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421281684/",
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (L7 Security)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418317004/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -100,50 +60,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Senior Staff Software Engineer: Data & Storage Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421287165/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zero RFI",
-      "title": "Senior AI Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421294253/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer at Bay Area AI hardware startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422066752/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Principal AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421280689/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Orb",
-      "title": "Software Engineer, Infrastructure - San Francisco HQ",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421293286/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421270981/",
+      "company": "Bio-Rad Laboratories",
+      "title": "Software Developer V",
+      "location": "Hercules, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418329179/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -156,226 +76,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Truewind",
-      "title": "Staff Software Engineer",
+      "company": "SpaceX",
+      "title": "Principal AI Engineer, Special Programs",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421280689/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quantifind",
+      "title": "Staff DevOps Engineer (Linux)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422071863/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stripe",
+      "title": "Security Engineer, Bridge",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422060950/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Casca",
-      "title": "Senior Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421280468/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Eve",
-      "title": "Lead Application Security Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421274952/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Decagon",
-      "title": "Senior Software Engineer, Core Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421300095/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "AI Infrastructure Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284505/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "VMware Platform Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284509/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Senior Backend Engineer (High-Throughput Platforms)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421283469/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Senior Backend Engineer (Distributed Systems)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284499/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "AI Security Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421299066/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Full Stack Engineer ($150k\u2013$180k + Equity) at VC-backed AI supply chain startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422073615/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TaxGPT",
-      "title": "Sr. Backend Engineer, Django, US Remote",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422064699/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Fullstack Engineer ($180k-$220k + Equity) at Seed-stage healthcare commerce startup backed by investors in Airbnb and Figma",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422082455/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Software Engineer ($120K - $180K + Equity) at YC-backed AI accounting startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422078532/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UL Solutions",
-      "title": "Software Engineer - Consumer Medical Testing",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417994398/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Software Engineer- Uber Eats Search Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421280512/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Java Full Stack Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422074560/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Sr Software Engineer - AV Data Quality, AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421291083/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Staff DSP Software Engineer ($155k-$200k + Equity) at high-growth wireless technology leader",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422085009/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Sr. Full Stack Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422083378/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "PLM Platform Engineer (Windchill / Teamcenter)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421279685/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Sr. Principal Software Engineer (NetSec-PanOS Dev)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422073582/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior Principal Software Engineer - Layer 7 Security",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422068781/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Worldly",
-      "title": "Senior DevOps Lead",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421299188/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Site Reliability Engineer (SRE)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421286302/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Azure Cloud Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421288235/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Oracle Cloud Security Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421296107/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Principal Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421283463/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Staff Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284498/",
+      "url": "https://www.linkedin.com/jobs/view/4421300205/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -384,64 +104,24 @@
       "title": "Security Engineer",
       "location": "Burlingame, CA",
       "url": "https://www.linkedin.com/jobs/view/4420969766/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Engineer (I)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422077606/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, AI Data Infrastructure (Fall 2026)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421286204/",
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer II - Identity",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417997343/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "CoverPin",
-      "title": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422065920/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior/Staff Software Engineer ($120k-$200k) at Venture-backed AI Mental Health Startup",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422083386/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Robotics Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421285473/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422074538/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "AI Data Infrastructure Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421279681/",
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer II - Commerce",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417990554/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -449,319 +129,47 @@
       "company": "Decagon",
       "title": "Senior Software Engineer, Data Infrastructure",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421286444/",
+      "url": "https://www.linkedin.com/jobs/view/4421287454/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "ML Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422077607/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II - AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421288149/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoox",
-      "title": "Machine Learning Engineer - Semantic Reasoning (Highway)",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421281684/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer ELH",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417989587/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Staff Software Engineer: Data & Storage Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421287165/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zero RFI",
-      "title": "Senior AI Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421294253/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer at Bay Area AI hardware startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422066752/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Principal AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421280689/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Orb",
-      "title": "Software Engineer, Infrastructure - San Francisco HQ",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421293286/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421270981/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zero RFI",
-      "title": "Principal AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421285656/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Casca",
-      "title": "Senior Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421280468/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Eve",
-      "title": "Lead Application Security Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421274952/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Decagon",
-      "title": "Senior Software Engineer, Core Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421300095/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "AI Infrastructure Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284505/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "VMware Platform Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284509/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Senior Backend Engineer (High-Throughput Platforms)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421283469/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Senior Backend Engineer (Distributed Systems)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284499/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "AI Security Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421299066/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Full Stack Engineer ($150k\u2013$180k + Equity) at VC-backed AI supply chain startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422073615/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Fullstack Engineer ($180k-$220k + Equity) at Seed-stage healthcare commerce startup backed by investors in Airbnb and Figma",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422082455/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Software Engineer ($120K - $180K + Equity) at YC-backed AI accounting startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422078532/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UL Solutions",
-      "title": "Software Engineer - Consumer Medical Testing",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417994398/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Software Engineer- Uber Eats Search Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421280512/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Java Full Stack Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422074560/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Sr Software Engineer - AV Data Quality, AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421291083/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Staff DSP Software Engineer ($155k-$200k + Equity) at high-growth wireless technology leader",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422085009/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Sr. Full Stack Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422083378/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "PLM Platform Engineer (Windchill / Teamcenter)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421279685/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Sr. Principal Software Engineer (NetSec-PanOS Dev)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422073582/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior Principal Software Engineer - Layer 7 Security",
+      "company": "Palo Alto Networks",
+      "title": "Sr Principal Software Engineer (Prisma Browser)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422068781/",
+      "url": "https://www.linkedin.com/jobs/view/4417991820/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Worldly",
-      "title": "Senior DevOps Lead",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421299188/",
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (L7 Security)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418317004/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "Site Reliability Engineer (SRE)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421286302/",
+      "company": "Bio-Rad Laboratories",
+      "title": "Software Developer V",
+      "location": "Hercules, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418329179/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "Azure Cloud Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421288235/",
+      "company": "Quantifind",
+      "title": "Staff DevOps Engineer (Linux)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422071863/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "Oracle Cloud Security Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421296107/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Principal Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421283463/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Staff Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421284498/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Security Engineer",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420969766/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Engineer (I)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422077606/",
+      "company": "Stripe",
+      "title": "Security Engineer, Bridge",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421300205/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
