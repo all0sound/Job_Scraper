@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30 22:33 UTC",
-  "total": 74,
+  "scraped_at": "2026-05-30 23:38 UTC",
+  "total": 67,
   "new_count": 0,
   "jobs": [
     {
@@ -108,14 +108,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Advatix",
-      "title": "Software Developer \u2013 Backend (AI-Powered CAD Startup)",
-      "location": "San Mateo, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=7d4955328d5178b1",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
       "company": "Apple",
       "title": "Full Stack Engineer (AML), AI & Data Platforms (AiDP)",
       "location": "Sunnyvale, CA, US",
@@ -184,22 +176,6 @@
       "title": "Senior Manager, Product Data Science - Fleet Optimization and Orchestration",
       "location": "Mountain View, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=47e8f37eb92b1bfb",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Eikon Therapeutics",
-      "title": "Senior Data Scientist, Biology",
-      "location": "Millbrae, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9a90b7a48a7e1f7c",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Gametime United",
-      "title": "Senior AI & ML Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=d14181cc7b76e76b",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
@@ -452,22 +428,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "UL Solutions",
-      "title": "Software Engineer - Consumer Medical Testing",
-      "location": "Fremont, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=035a02ae8b39f9c7",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Principal Full-Stack Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=16154d753904f5ad",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
       "company": "Saviynt",
       "title": "Associate Principal Software Engineer, AI Onboarding",
       "location": "San Francisco, CA, US",
@@ -556,14 +516,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Databricks",
-      "title": "Staff Software Engineer - Security Infrastructure",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=7ef6ecaa86f7b1f5",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
       "company": "Lockheed Martin",
       "title": "Cyber Security Engineer",
       "location": "Sunnyvale, CA, US",
@@ -576,14 +528,6 @@
       "title": "Staff Data Engineer",
       "location": "San Francisco, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=799482891c1d4789",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Staff Software Engineer - Data Platform",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=24d08f839a2a77e7",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
