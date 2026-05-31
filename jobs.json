@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-30 06:30 UTC",
-  "total": 18,
-  "new_count": 4,
+  "scraped_at": "2026-05-31 07:06 UTC",
+  "total": 16,
+  "new_count": 1,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -124,62 +124,22 @@
       "ats": "Greenhouse"
     },
     {
-      "company": "Intel",
-      "title": "Senior Infrastructure and DevOps Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401476672/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Persona",
-      "title": "Security Engineer, Enterprise",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422052857/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AbbVie",
-      "title": "Senior Data Scientist II \u2013 Precision Medicine, Allergan & Omics",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410847901/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
+      "company": "Gilead Sciences",
+      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday"
     }
   ],
   "new_jobs": [
     {
-      "company": "Eikon Therapeutics",
-      "title": "Senior Data Scientist, Biology",
-      "location": "Millbrae, CA",
-      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5072518007",
-      "date_posted": "2026-05-29",
-      "ats": "Greenhouse"
-    },
-    {
-      "company": "Intel",
-      "title": "Senior Infrastructure and DevOps Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401476672/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Persona",
-      "title": "Security Engineer, Enterprise",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422052857/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AbbVie",
-      "title": "Senior Data Scientist II \u2013 Precision Medicine, Allergan & Omics",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410847901/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
+      "company": "Gilead Sciences",
+      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday"
     }
   ]
 }
