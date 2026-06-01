@@ -1,8 +1,24 @@
 {
-  "scraped_at": "2026-06-01 00:17 UTC",
-  "total": 8,
-  "new_count": 7,
+  "scraped_at": "2026-06-01 01:17 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Lead Machine Learning and Bioinformatics Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418395764/",
+      "date_posted": "2026-06-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Guardant Health",
+      "title": "Senior Bioinformatics Software Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422587407/",
+      "date_posted": "2026-06-01",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Inside Higher Ed",
       "title": "Research Engineer, GUIDE-AI",
@@ -13,25 +29,9 @@
     },
     {
       "company": "kadence",
-      "title": "ML Infrastructure Engineer - Quantum AI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413764275/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422565974/",
+      "title": "Senior Software Engineer - Business Automations",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420976808/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
@@ -45,9 +45,9 @@
     },
     {
       "company": "kadence",
-      "title": "Senior Software Engineer - Business Automations",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420976808/",
+      "title": "Staff Software Engineer - Django",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402019453/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
@@ -56,73 +56,25 @@
       "title": "Senior Frontend Software Engineer",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4416421169/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Staff Software Engineer - Django",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402019453/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Inside Higher Ed",
-      "title": "Research Engineer, GUIDE-AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421634404/",
+      "company": "ChatGPT Jobs",
+      "title": "Lead Machine Learning and Bioinformatics Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418395764/",
       "date_posted": "2026-06-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "kadence",
-      "title": "ML Infrastructure Engineer - Quantum AI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413764275/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4389782681/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Senior Software Engineer - Business Automations",
+      "company": "Guardant Health",
+      "title": "Senior Bioinformatics Software Engineer",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420976808/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Frontend Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416421169/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Staff Software Engineer - Django",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402019453/",
-      "date_posted": "2026-05-31",
+      "url": "https://www.linkedin.com/jobs/view/4422587407/",
+      "date_posted": "2026-06-01",
       "ats": "LinkedIn"
     }
   ]
