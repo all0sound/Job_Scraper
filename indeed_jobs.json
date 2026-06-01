@@ -1,16 +1,8 @@
 {
-  "scraped_at": "2026-06-01 01:42 UTC",
-  "total": 93,
+  "scraped_at": "2026-06-01 07:31 UTC",
+  "total": 77,
   "new_count": 1,
   "jobs": [
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer, AI/RL Infrastructure (Research)",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3a4799377bf009f9",
-      "date_posted": "2026-05-30",
-      "ats": "Indeed"
-    },
     {
       "company": "Samsara",
       "title": "Software Engineer II, AI Platform",
@@ -181,6 +173,14 @@
     },
     {
       "company": "Apple",
+      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bf7d78a607309499",
+      "date_posted": "2026-02-17",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
       "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
       "location": "Cupertino, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=42ce7f6f3a00fb84",
@@ -216,14 +216,6 @@
       "title": "Generative AI Applications Engineer (Agents & RAG)",
       "location": "San Francisco, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=7d39cdbe1aaa478f",
-      "date_posted": "2026-05-18",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Instacart",
-      "title": "Senior Data Scientist - Ads Auctions",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=96ba23ab7bfabde7",
       "date_posted": "2026-05-18",
       "ats": "Indeed"
     },
@@ -348,27 +340,11 @@
       "ats": "Indeed"
     },
     {
-      "company": "Box",
-      "title": "Software Engineer III, Partner Integrations",
-      "location": "Redwood City, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=bdd681d97d31d7a6",
-      "date_posted": "2026-05-18",
-      "ats": "Indeed"
-    },
-    {
       "company": "Databricks",
       "title": "Senior Software Engineer (Backend) - AI/ML Environments",
       "location": "Mountain View, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=9a950517d317bb33",
       "date_posted": "2026-04-09",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Guidewire",
-      "title": "Senior AI/ML Platform Engineer",
-      "location": "San Mateo, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=c8ebbbc1d7b8af0a",
-      "date_posted": "2026-05-30",
       "ats": "Indeed"
     },
     {
@@ -500,78 +476,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Speechify",
-      "title": "Software Engineer, iOS Core Product - San Jose, CA, USA",
-      "location": "San Jose, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=e65c8579d3dc7ee0",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - San Francisco, CA, USA",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9dac8d11bca16053",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Platform - San Francisco, CA, USA",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=0ebd24682262b730",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Senior Software Engineer, Core Experiences - San Francisco, CA, USA",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=efb32af501d4b2b4",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Santa Clara, CA, USA",
-      "location": "Santa Clara, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=762b26f6d935717d",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Menlo Park, CA, USA",
-      "location": "Menlo Park, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=0152b0dd3ac4ab87",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Senior Software Engineer, Core Experiences - Cupertino, CA, USA",
-      "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=36f9b7a370a01505",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Platform - Santa Clara, CA, USA",
-      "location": "Santa Clara, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=f3a21925078f584a",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Platform - Oakland, CA, USA",
-      "location": "Oakland, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=7ee1653bc864275b",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
       "company": "DoorDash",
       "title": "Senior Staff Software Engineer - Launchpad",
       "location": "San Francisco, CA, US",
@@ -593,6 +497,14 @@
       "location": "San Francisco, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=0248f8f11cc16778",
       "date_posted": "2026-05-28",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Box",
+      "title": "Software Engineer III, Partner Integrations",
+      "location": "Redwood City, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bdd681d97d31d7a6",
+      "date_posted": "2026-05-18",
       "ats": "Indeed"
     },
     {
@@ -668,46 +580,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Speechify",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - San Francisco, CA, USA",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=75bbd7f9e9ccb4c7",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Fremont, CA, USA",
-      "location": "Fremont, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=01008a2f74fb83d7",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Sunnyvale, CA, USA",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=cf2dd75a25420c77",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Berkeley, CA, USA",
-      "location": "Berkeley, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=586cb121acfa1f35",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Speechify",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Mountain View, CA, USA",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=894af081ad2d71a6",
-      "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
       "company": "DoorDash",
       "title": "Software Engineer, Data Platform (All Teams)",
       "location": "San Francisco, CA, US",
@@ -750,11 +622,11 @@
   ],
   "new_jobs": [
     {
-      "company": "AXS",
-      "title": "Director, Software Engineering -B2B",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=98ca3c3bce70c6ac",
-      "date_posted": "2026-05-31",
+      "company": "Apple",
+      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bf7d78a607309499",
+      "date_posted": "2026-02-17",
       "ats": "Indeed"
     }
   ]
