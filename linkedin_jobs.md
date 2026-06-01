@@ -1,96 +1,116 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-01 22:17 UTC*
+*Last updated: 2026-06-01 23:17 UTC*
 
-**23 new role(s)** since last run · 35 total in last 1h
+**28 new role(s)** since last run · 34 total in last 1h
 
-### [Staff Machine Learning Engineer](https://www.linkedin.com/jobs/view/4422133536/) — AppFolio
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [AI Engineer, TikTok Risk & Integrity - USDS](https://www.linkedin.com/jobs/view/4422131740/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Founding AI Engineer](https://www.linkedin.com/jobs/view/4423282317/) — Tyle
+### [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4419224216/) — Ema
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-01
 
-### [Senior Machine Learning Infrastructure Engineer, Simulation](https://www.linkedin.com/jobs/view/4423284172/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior ML Engineer, LLM / VLM Distillation](https://www.linkedin.com/jobs/view/4406235372/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4422142188/) — Raydar
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Staff Software Engineer – Secondary Driving System](https://www.linkedin.com/jobs/view/4422136277/) — General Motors
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4423268889/) — Robert Half
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Software Engineer, Simulation Infrastructure](https://www.linkedin.com/jobs/view/4423280222/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4419202501/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior Software Engineer, Truework](https://www.linkedin.com/jobs/view/4422140403/) — Tessera Data
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4363098497/) — Discover International
+### [Machine Learning/Research Engineer](https://www.linkedin.com/jobs/view/4422148601/) — Goliath Partners
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-01
 
-### [Sr. Fullstack Software Engineer, Diagnostics](https://www.linkedin.com/jobs/view/4422139270/) — Tesla
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4419216370/) — Ema
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-01
 
-### [Senior Product OS and DevOps Engineer](https://www.linkedin.com/jobs/view/4422150207/) — Johnson & Johnson MedTech
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4419211367/) — Ema
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Data Scientist II](https://www.linkedin.com/jobs/view/4423274549/) — Ericsson
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4423291001/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Staff Android Software Engineer](https://www.linkedin.com/jobs/view/4409720246/) — Rivian and Volkswagen Group Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4423288300/) — Insight Global
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Platform Engineering Lead - Distributed Systems](https://www.linkedin.com/jobs/view/4413380599/) — Discover International
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior Systems Engineer, Vehicle Security](https://www.linkedin.com/jobs/view/4423290141/) — Waymo
+### [Software Engineer, Google Ads, Actor Safety ML Infrastructure](https://www.linkedin.com/jobs/view/4423292080/) — Google
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Principal, Software Engineer](https://www.linkedin.com/jobs/view/4419222070/) — Walmart Data Ventures
+### [Data AI/ML Engineer](https://www.linkedin.com/jobs/view/4423294264/) — Quest Global
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Analytics Engineer, Thermal & Chassis](https://www.linkedin.com/jobs/view/4422147196/) — Tesla
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4423284113/) — Jobright.ai
+### [Sr. Data Engineer - Growth and Marketing Platform](https://www.linkedin.com/jobs/view/4422153318/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Data Engineer with marketing operations](https://www.linkedin.com/jobs/view/4419207280/) — Signature IT World Inc
-- 📍 **Location:** Cupertino, CA
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4419206412/) — Ema
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4419204491/) — Headspace
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer, Cash App Banking](https://www.linkedin.com/jobs/view/4419206282/) — Cash App
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4423291229/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4422144770/) — Samsung Electronics America
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer, Cash App - Lending Products](https://www.linkedin.com/jobs/view/4419219305/) — Cash App
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Cash App Banking](https://www.linkedin.com/jobs/view/4419219186/) — Cash App
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Data Engineer (1043) - DataSF - Office of City Administrator](https://www.linkedin.com/jobs/view/4422149515/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4422140601/) — Indax Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Director, Principal AI Engineer](https://www.linkedin.com/jobs/view/4422152681/) — Bristol Myers Squibb
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4423273596/) — Jobright.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4423271639/) — FutureTech Recruitment
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4419214357/) — Ema
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Consumer Revenue](https://www.linkedin.com/jobs/view/4387199825/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer, DevOps](https://www.linkedin.com/jobs/view/4419222229/) — Ema
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer, Cash App Banking](https://www.linkedin.com/jobs/view/4419204320/) — Cash App
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer - Site Controller, Energy Storage](https://www.linkedin.com/jobs/view/4423272540/) — Redwood Materials
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4419210354/) — Zendesk
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Principal Software Engineer - Interactive Media](https://www.linkedin.com/jobs/view/4419211349/) — Oracle
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4422154372/) — NimbleRx
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-01
