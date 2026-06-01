@@ -1,6 +1,8 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-05-31 22:35 UTC*
+*Last updated: 2026-06-01 01:42 UTC*
 
-**0 new role(s)** since last run · 103 total in last 24h
+**1 new role(s)** since last run · 93 total in last 24h
 
-No new roles since the last run.
+### [Director, Software Engineering -B2B](https://www.indeed.com/viewjob?jk=98ca3c3bce70c6ac) — AXS
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-05-31
