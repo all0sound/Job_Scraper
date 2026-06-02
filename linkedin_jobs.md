@@ -1,208 +1,352 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-02 18:17 UTC*
+*Last updated: 2026-06-02 19:02 UTC*
 
-**51 new role(s)** since last run · 65 total in last 1h
+**87 new role(s)** since last run · 94 total in last 1h
 
-### [Machine Learning Engineer 5 - Decisioning & Optimization](https://www.linkedin.com/jobs/view/4419602626/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4346548369/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410363089/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4421233004/) — CriticalRiver Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4416999961/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4417008892/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation](https://www.linkedin.com/jobs/view/4413193032/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4338361913/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422452284/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422451640/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-02
-
-### [Sr. Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4423950814/) — Cloudera
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422470016/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422466083/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422452292/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422461113/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Applied Machine Learning Engineer, Asset Intelligence](https://www.linkedin.com/jobs/view/4422473367/) — MaintainX
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Applied Scientist II (Bing Places)](https://www.linkedin.com/jobs/view/4401531365/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior/Principal AI/ML Computational Scientist](https://www.linkedin.com/jobs/view/4413285690/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Computer Vision/Machine Learning Engineer](https://www.linkedin.com/jobs/view/4419602701/) — The Select Group
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Firmware Software Engineer V](https://www.linkedin.com/jobs/view/4422454473/) — EPITEC
+### [Software Engineer - Prediction and Behavior ML](https://www.linkedin.com/jobs/view/4423966480/) — Applied Intuition
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Applied AI Engineer - VLSI Design](https://www.linkedin.com/jobs/view/4419613608/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4422456834/) — K&K Global Talent Solutions INC.
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Backend Engineer, RCM AI Core](https://www.linkedin.com/jobs/view/4389754782/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Evals and AI Infra](https://www.linkedin.com/jobs/view/4410364157/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Evals and AI Infra](https://www.linkedin.com/jobs/view/4318298390/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415804754/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415808643/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410356514/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Fullstack Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4410359121/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4335399819/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Fullstack Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4372143595/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Backend Engineer, RCM AI](https://www.linkedin.com/jobs/view/4410371007/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer (Teradyne, San Jose)](https://www.linkedin.com/jobs/view/4401686466/) — Teradyne
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4423952573/) — Building Ventures
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer - Motion Planning](https://www.linkedin.com/jobs/view/4423961636/) — Lumicity
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4422458074/) — Turing
+### [Staff Machine Learning Engineer, Credit Products (Square Financial Services)](https://www.linkedin.com/jobs/view/4413173676/) — Block
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-02
 
-### [Senior Software Engineer, Information Security](https://www.linkedin.com/jobs/view/4410284972/) — Commure
+### [Research Engineer - AI/RL Infrastructure](https://www.linkedin.com/jobs/view/4423947990/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer - ML Infrastructure](https://www.linkedin.com/jobs/view/4423950921/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Embedded AI Engineer – Android Automotive (On-Device Intelligence)](https://www.linkedin.com/jobs/view/4423956881/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Perception (Fallback Stack)](https://www.linkedin.com/jobs/view/4423961738/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Research Engineer - Robot Learning](https://www.linkedin.com/jobs/view/4423958870/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Research Engineer - Reinforcement Learning, Self-Driving](https://www.linkedin.com/jobs/view/4423951882/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Validation Toolset](https://www.linkedin.com/jobs/view/4423953837/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer – Autonomy Tooling](https://www.linkedin.com/jobs/view/4423972024/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer – Autonomy Stack](https://www.linkedin.com/jobs/view/4423955847/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Data Scientist, Payment Analytics - USDS](https://www.linkedin.com/jobs/view/4410250451/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [ML Perception Software Engineer](https://www.linkedin.com/jobs/view/4423970221/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Research Scientist - Reinforcement Learning, Self-Driving](https://www.linkedin.com/jobs/view/4423960800/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Python](https://www.linkedin.com/jobs/view/4423959813/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Research Intern - Reinforcement Learning, Robotics](https://www.linkedin.com/jobs/view/4423969284/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Research Scientist - Reinforcement Learning, Robotics](https://www.linkedin.com/jobs/view/4423966477/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Research Engineer - 3D Vision and Generation, Self-Driving](https://www.linkedin.com/jobs/view/4423949911/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Data & ML Pipeline Software Engineer](https://www.linkedin.com/jobs/view/4423954899/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Low Speed Motion Planning & Control](https://www.linkedin.com/jobs/view/4423960801/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Performance Optimization](https://www.linkedin.com/jobs/view/4423973059/) — Applied Intuition
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4323903692/) — Commure
+### [Software Engineer - Calibration](https://www.linkedin.com/jobs/view/4423969292/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - AI Engineering](https://www.linkedin.com/jobs/view/4423947984/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Sensor Sim - ML Engineer](https://www.linkedin.com/jobs/view/4423969295/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior AI Data Engineer](https://www.linkedin.com/jobs/view/4423955816/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Security Engineer (Purple Team)](https://www.linkedin.com/jobs/view/4423955852/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Software Engineer, Infrastructure - Marimo](https://www.linkedin.com/jobs/view/4419602764/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Software Engineer, Infrastructure - Marimo](https://www.linkedin.com/jobs/view/4419615710/) — CoreWeave
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4423961732/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Backend](https://www.linkedin.com/jobs/view/4423955850/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Developer Infrastructure](https://www.linkedin.com/jobs/view/4423970213/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Kafka](https://www.linkedin.com/jobs/view/4423953843/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Mapping and Localization](https://www.linkedin.com/jobs/view/4423958874/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Systems Engineering AI Tooling](https://www.linkedin.com/jobs/view/4423952827/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Telematics](https://www.linkedin.com/jobs/view/4423958873/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - E2E Autonomy](https://www.linkedin.com/jobs/view/4423954906/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4423955848/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4423947964/) — FutureTech Recruitment
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4423967478/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer - C++](https://www.linkedin.com/jobs/view/4423967470/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Embedded Software Engineer - Firmware](https://www.linkedin.com/jobs/view/4423954903/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Engineer, Data Platform](https://www.linkedin.com/jobs/view/4422461503/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Embedded Software Engineer [NO SPONSORSHIP]](https://www.linkedin.com/jobs/view/4423961723/) — Grid Aero
+- 📍 **Location:** San Leandro, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Systems Engineer, Vehicle OS](https://www.linkedin.com/jobs/view/4423969288/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer 3, Atlas Search Systems](https://www.linkedin.com/jobs/view/4404369498/) — MongoDB
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4423956987/) — CHAOS Industries
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Founding Software Engineer / Infrastructure, Backend & Platforms](https://www.linkedin.com/jobs/view/4423967360/) — Arbor AI, Inc
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Cloud Infrastructure](https://www.linkedin.com/jobs/view/4423969282/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Maps Infrastructure](https://www.linkedin.com/jobs/view/4423954901/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4423958867/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Middleware](https://www.linkedin.com/jobs/view/4423966475/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer - Maps Infrastructure](https://www.linkedin.com/jobs/view/4423952819/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Android Software Engineer - Platform](https://www.linkedin.com/jobs/view/4423957789/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4422452632/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-02
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4422462578/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-02
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4422470508/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-02
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4422476412/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-02
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4422469559/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Client Platform Engineer](https://www.linkedin.com/jobs/view/4419606753/) — Okta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Site Reliability Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4423950965/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4423970220/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [OpenShift DevOps Engineer](https://www.linkedin.com/jobs/view/4422462721/) — NTT DATA North America
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Site Reliability Engineer - Data Infrastructure (San Jose)](https://www.linkedin.com/jobs/view/4423957841/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer - Operating Systems](https://www.linkedin.com/jobs/view/4423963743/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Model Based Systems Engineer](https://www.linkedin.com/jobs/view/4423957793/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Planning](https://www.linkedin.com/jobs/view/4423952820/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Insights Platform](https://www.linkedin.com/jobs/view/4423947987/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Embedded Software Engineer](https://www.linkedin.com/jobs/view/4423951888/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, AOSP - Core OS](https://www.linkedin.com/jobs/view/4423949905/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - C++](https://www.linkedin.com/jobs/view/4423971135/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer - Fallback Stack](https://www.linkedin.com/jobs/view/4423971134/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Product Security Engineer](https://www.linkedin.com/jobs/view/4423949908/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Embedded Security Engineer](https://www.linkedin.com/jobs/view/4423973054/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Over-the-Air Updates](https://www.linkedin.com/jobs/view/4423949903/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Business Systems Engineer](https://www.linkedin.com/jobs/view/4423947982/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer III, Apple](https://www.linkedin.com/jobs/view/4413593777/) — Crunchyroll
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Mission Control](https://www.linkedin.com/jobs/view/4423954902/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Data Engineer III (6193)](https://www.linkedin.com/jobs/view/4422466576/) — itD
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4419603764/) — OP
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer - Axion Data Engine and ML Ops](https://www.linkedin.com/jobs/view/4423967477/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Data Engineer Consultant](https://www.linkedin.com/jobs/view/4419609801/) — RGP
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4339891543/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Backend Engineer, RCM AI Core](https://www.linkedin.com/jobs/view/4389754783/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff Backend Engineer](https://www.linkedin.com/jobs/view/4384584696/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4410284973/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff Backend Engineer](https://www.linkedin.com/jobs/view/4384581866/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4410288851/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4423962525/) — Ora Apps Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff AI Platform Engineer](https://www.linkedin.com/jobs/view/4315352869/) — AlphaSense
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior FPGA Prototyping Platform Engineer](https://www.linkedin.com/jobs/view/4419601706/) — NVIDIA AI
+### [Senior Developer Relations Manager – Data Processing and Data Science](https://www.linkedin.com/jobs/view/4413171999/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Senior Mobile Infrastructure Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4380133163/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Mobile Infrastructure Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410358137/) — Commure
+### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4422468494/) — LatchBio
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Cyber Security Engineer - Sr. Consultant level](https://www.linkedin.com/jobs/view/4422442999/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4410351130/) — Commure
+### [Bioinformatics Engineer, Therapeutics](https://www.linkedin.com/jobs/view/4422457723/) — LatchBio
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-02
 
-### [Senior Tech Lead - Clinical Data Engineering/ Data Platforms](https://www.linkedin.com/jobs/view/4423953550/) — Silicontek Inc
-- 📍 **Location:** Alameda, CA
+### [Bioinformatics Engineer, Genomics](https://www.linkedin.com/jobs/view/4422468659/) — LatchBio
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-02
+
+### [Bioinformatics Engineer, Epigenetics](https://www.linkedin.com/jobs/view/4422454770/) — LatchBio
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-02
