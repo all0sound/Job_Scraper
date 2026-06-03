@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-03 18:17 UTC",
-  "total": 95,
-  "new_count": 90,
+  "scraped_at": "2026-06-03 19:10 UTC",
+  "total": 84,
+  "new_count": 33,
   "jobs": [
     {
       "company": "IFS",
@@ -12,162 +12,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Meltwater",
-      "title": "Senior AI/ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424219975/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Vsolutions Technologies",
-      "title": "AI/ML Engineer \u2013 Data Science",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423000237/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Infra, AI for Drug Discovery",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413730108/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Pinterest",
       "title": "Software Engineer I, Backend",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4422988988/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer (AI Infra)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422997117/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Valid",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424224427/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer (AI Agents)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422996149/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422986859/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI/ML Engineer (Platform, kubeflow)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411609804/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393535507/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361175657/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409923953/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4363820702/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411983940/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409932319/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4098515145/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4364030669/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361145705/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Software Engineer, DevOps / MLOps (Agentic Workflows, AI/ML Guardrails, Kubernetes, Python, AWS)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400934499/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Data Scientist - Optimization, Central Market Management & AI",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393236322/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -188,6 +36,46 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Engineer - AI/ML, AWS Neuron Distributed Training - Multimodal",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423014043/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "6sense",
+      "title": "Sr. Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423015538/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Box",
+      "title": "Software Engineer III, Kubernetes",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414689537/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - BQuant",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402436211/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "FutureTech Recruitment",
+      "title": "Senior Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424250165/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Stripe",
       "title": "Staff Data Scientist",
       "location": "San Francisco, CA",
@@ -196,10 +84,42 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Senior Staff Data Scientist, Borrow",
+      "company": "Skydio",
+      "title": "Staff Software Engineer - Security",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423000790/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Director, Software Engineer - Card Tech AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365580096/",
+      "url": "https://www.linkedin.com/jobs/view/4408704278/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Embedded Software Engineer, Emerging Devices Software",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423000341/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Back-End Distributed Systems (AWS, Go, Kubernetes, MCP, Lua, Python)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411295818/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, DevOps / MLOps (Agentic Workflows, AI/ML Guardrails, Kubernetes, Python, AWS)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400934499/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -212,14 +132,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA AI",
-      "title": "Senior Research Engineer - Video Search",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420140394/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Amazon Web Services (AWS)",
       "title": "Applied Scientist, AWS Automated Reasoning",
       "location": "Santa Clara, CA",
@@ -228,42 +140,34 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Applied Scientist, Amazon AWS Agentic AI, AWS AI Fundamental Research",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423010108/",
+      "company": "Amazon",
+      "title": "Software Engineer II, Search Science Data Infra",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423010115/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Engineer II, Search Science Data Infra",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423007164/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Principal Data Scientist, AI Foundations",
+      "title": "Manager, Data Science - LLM Customization Team",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4360785500/",
+      "url": "https://www.linkedin.com/jobs/view/4381195531/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Baseten",
-      "title": "Software Engineer - Training Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380550090/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Software Engineer - OS, Robot Software",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4364766770/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Principal Applied Scientist - Auction & Bidding",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392958290/",
+      "company": "Capital One",
+      "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397330671/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -272,22 +176,6 @@
       "title": "Manager, Data Science - GenAI Digital Assistant",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4406807979/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Docusign",
-      "title": "Sr. Data Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404269469/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Software Engineer - AI/ML, AWS Neuron Distributed Training - Multimodal",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423014043/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -301,49 +189,33 @@
     },
     {
       "company": "Capital One",
-      "title": "Lead AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405672625/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Machine Learning Engineer",
+      "title": "Distinguished Data Engineer - Enterprise Data Technology",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413978760/",
+      "url": "https://www.linkedin.com/jobs/view/4400261282/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397469576/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4395369587/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer",
+      "title": "Lead AI/ML Engineer (Platform, kubeflow)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405675597/",
+      "url": "https://www.linkedin.com/jobs/view/4411609804/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
+      "company": "Pylon",
+      "title": "Software Engineer (AI Infra)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386872273/",
+      "url": "https://www.linkedin.com/jobs/view/4422997117/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pylon",
+      "title": "Software Engineer (AI Agents)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422996149/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -396,58 +268,82 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388523713/",
+      "company": "Genentech",
+      "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Infra, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413730108/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Distinguished AI Engineer (Agentic AI Platform)",
+      "title": "Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409126325/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398514167/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Distinguished AI Engineer (Agentic AI Platform)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403061599/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387821778/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365677639/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4362373930/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MeeBoss",
-      "title": "Senior Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422994814/",
+      "url": "https://www.linkedin.com/jobs/view/4369060501/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406617192/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411395294/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397417891/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
+      "title": "Lead AI Engineer (MLX)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375483355/",
+      "url": "https://www.linkedin.com/jobs/view/4390365860/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399412707/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Distinguished AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4390890370/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -460,18 +356,74 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Box",
-      "title": "Software Engineer III, Kubernetes",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414689537/",
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4098515145/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Emerald AI",
-      "title": "Software Engineer - Backend/Distributed Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4345039901/",
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369080272/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409810417/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369066429/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4386872273/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Distinguished Software Engineer - IFX",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408533648/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366286760/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Principal Data Scientist, AI Foundations",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4360785500/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377451114/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -484,98 +436,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Okta",
-      "title": "Staff Software Engineer, Non-Human Identity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4381779741/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Loft Orbital",
-      "title": "Satellite Systems Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420140424/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Protegrity",
-      "title": "Senior GenAI Backend Software Engineer 773",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404948137/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Engineer II, Search Science Data Infra",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423010115/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Engineer II, Search Science Data Infra",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423007164/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Embedded Software Engineer, Emerging Devices Software",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423000341/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Muon Space",
-      "title": "Senior Systems Engineer, Mission Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423005373/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Conversion",
-      "title": "Staff Backend Engineer (Platform)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410351125/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424236538/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Senior Full-Stack Engineer, Webshops",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420135365/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Alura",
-      "title": "Frontend Developer",
+      "company": "Emerald AI",
+      "title": "Software Engineer - Backend/Distributed Systems",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424237429/",
+      "url": "https://www.linkedin.com/jobs/view/4345039901/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Software Engineer, Enterprise Platform)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424230597/",
+      "company": "Sensys Networks",
+      "title": "Embedded Computer Vision Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424235652/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -589,25 +461,49 @@
     },
     {
       "company": "Capital One",
-      "title": "Lead Software Engineer, Back End",
+      "title": "Sr. Director, Product Management - AI/ML Platform Intelligence",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400250679/",
+      "url": "https://www.linkedin.com/jobs/view/4362497809/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Sr Director, Software Engineer - Card Tech AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408703501/",
+      "company": "Pink Moon Consulting",
+      "title": "Full Stack Engineer / Technical Lead",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423014336/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bloomberg",
-      "title": "Senior Software Engineer - BQuant",
+      "company": "Alura",
+      "title": "Frontend Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424237429/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pylon",
+      "title": "Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402436211/",
+      "url": "https://www.linkedin.com/jobs/view/4422986859/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Software Engineer, Enterprise Platform)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424230597/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Senior Software Engineer, Apple",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413831859/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -628,6 +524,14 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424236538/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Socure",
       "title": "Senior Software Engineer - SRE",
       "location": "San Francisco, CA",
@@ -636,10 +540,50 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Valid",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424224427/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Docusign",
+      "title": "Sr. Data Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404269469/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Conversion",
+      "title": "Staff Backend Engineer (Platform)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410351125/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Sigmaways Inc",
       "title": "DevOps Engineer",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4381280625/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MeeBoss",
+      "title": "Senior Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422994814/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Muon Space",
+      "title": "Senior Systems Engineer, Mission Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423005373/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -653,6 +597,54 @@
     },
     {
       "company": "Capital One",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397416877/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Platform Engineer, Workday Financials",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4381013035/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer,(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397414955/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397417891/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4375481455/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406617192/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
       "title": "Lead Platform Engineer, Workday (Finance)",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4381600417/",
@@ -661,97 +653,17 @@
     },
     {
       "company": "Capital One",
-      "title": "Lead Platform Engineer, Workday - Integrations (HCM & Financials)",
+      "title": "Senior Lead AI Engineer,(MLX, Agentic AI, Gen AI platform Services)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402531759/",
+      "url": "https://www.linkedin.com/jobs/view/4397415864/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Lead Platform Engineer, Workday (Finance)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4381492591/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Lead Software Engineer, Fleet Management - DGX Cloud",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403677527/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "C-Serv",
-      "title": "AI Offensive Security Engineer",
+      "company": "Abridge",
+      "title": "Senior Enterprise Security Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422987919/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Daswani AI",
-      "title": "Robot Cybersecurity Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424227642/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer, Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422995583/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Staff Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422981879/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MW Partners",
-      "title": "Data Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424237375/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359276672/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Science - AI for Data",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400941140/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406610363/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NexInfo Solutions, Inc.",
-      "title": "Bioinformatics Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424236512/",
+      "url": "https://www.linkedin.com/jobs/view/4423000851/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -766,266 +678,50 @@
   ],
   "new_jobs": [
     {
-      "company": "IFS",
-      "title": "AI/Machine Learning Engineer - Python - Loops",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422999432/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Vsolutions Technologies",
-      "title": "AI/ML Engineer \u2013 Data Science",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423000237/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Infra, AI for Drug Discovery",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413730108/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Software Engineer I, Backend",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422988988/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer (AI Infra)",
+      "company": "6sense",
+      "title": "Sr. Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422997117/",
+      "url": "https://www.linkedin.com/jobs/view/4423015538/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Valid",
+      "company": "FutureTech Recruitment",
       "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424224427/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer (AI Agents)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422996149/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422986859/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI/ML Engineer (Platform, kubeflow)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411609804/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393535507/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361175657/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409923953/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4363820702/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411983940/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409932319/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4098515145/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4364030669/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361145705/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Software Engineer, DevOps / MLOps (Agentic Workflows, AI/ML Guardrails, Kubernetes, Python, AWS)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400934499/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Data Scientist - Optimization, Central Market Management & AI",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393236322/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, Search - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423015179/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "IFS",
-      "title": "Data Scientist - Agentic AI Systems - Loops",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423008263/",
+      "url": "https://www.linkedin.com/jobs/view/4424250165/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stripe",
-      "title": "Staff Data Scientist",
+      "company": "Skydio",
+      "title": "Staff Software Engineer - Security",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423000790/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Director, Software Engineer - Card Tech AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413491658/",
+      "url": "https://www.linkedin.com/jobs/view/4408704278/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Manager, Data Science - Emerging ML",
+      "title": "Senior Lead Software Engineer, Back-End Distributed Systems (AWS, Go, Kubernetes, MCP, Lua, Python)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406398738/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA AI",
-      "title": "Senior Research Engineer - Video Search",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420140394/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, AWS Automated Reasoning",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422993970/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Applied Scientist, Amazon AWS Agentic AI, AWS AI Fundamental Research",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423010108/",
+      "url": "https://www.linkedin.com/jobs/view/4411295818/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Principal Data Scientist, AI Foundations",
+      "title": "Manager, Data Science - LLM Customization Team",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4360785500/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Software Engineer - OS, Robot Software",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4364766770/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Principal Applied Scientist - Auction & Bidding",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392958290/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Science - GenAI Digital Assistant",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406807979/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Docusign",
-      "title": "Sr. Data Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404269469/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Software Engineer - AI/ML, AWS Neuron Distributed Training - Multimodal",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423014043/",
+      "url": "https://www.linkedin.com/jobs/view/4381195531/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -1033,135 +729,95 @@
       "company": "Capital One",
       "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408027407/",
+      "url": "https://www.linkedin.com/jobs/view/4397330671/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Lead AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405672625/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Machine Learning Engineer",
+      "title": "Distinguished Data Engineer - Enterprise Data Technology",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413978760/",
+      "url": "https://www.linkedin.com/jobs/view/4400261282/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations)",
+      "title": "Lead AI Engineer (Gen AI Platform Services)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397469576/",
+      "url": "https://www.linkedin.com/jobs/view/4409126325/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations)",
+      "title": "Sr. Lead AI Engineer (Gen AI Platform Services)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4395369587/",
+      "url": "https://www.linkedin.com/jobs/view/4398514167/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Distinguished AI Engineer (Agentic AI Platform)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403061599/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
       "title": "Senior Lead AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405675597/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386872273/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405681284/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4381003450/",
+      "url": "https://www.linkedin.com/jobs/view/4387821778/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Zeta Global",
-      "title": "Senior Agentic AI Engineer",
+      "company": "Capital One",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365677639/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414125816/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BMC Software",
-      "title": "Lead AI Engineer - AgenticAI",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413984801/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior AI-Native Systems Software Engineer, TensorRT",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404240282/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Machine Learning Engineer, Agentic Systems - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369057157/",
+      "url": "https://www.linkedin.com/jobs/view/4369060501/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388523713/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer (Agentic AI Platform)",
+      "title": "Lead AI Engineer (MLX)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4362373930/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MeeBoss",
-      "title": "Senior Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422994814/",
+      "url": "https://www.linkedin.com/jobs/view/4390365860/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406617192/",
+      "url": "https://www.linkedin.com/jobs/view/4399412707/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Distinguished AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4390890370/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369080272/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
@@ -1169,319 +825,119 @@
       "company": "Capital One",
       "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411395294/",
+      "url": "https://www.linkedin.com/jobs/view/4409810417/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Senior Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397417891/",
+      "url": "https://www.linkedin.com/jobs/view/4369066429/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Distinguished Software Engineer - IFX",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408533648/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366286760/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377451114/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sensys Networks",
+      "title": "Embedded Computer Vision Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424235652/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Director, Product Management - AI/ML Platform Intelligence",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4362497809/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pink Moon Consulting",
+      "title": "Full Stack Engineer / Technical Lead",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423014336/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Senior Software Engineer, Apple",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413831859/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397416877/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Platform Engineer, Workday Financials",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4381013035/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer,(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397414955/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
       "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375483355/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Sr. Lead AI Engineer (GenAI Platform)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413428752/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Box",
-      "title": "Software Engineer III, Kubernetes",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414689537/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Emerald AI",
-      "title": "Software Engineer - Backend/Distributed Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4345039901/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BillionToOne",
-      "title": "Software Engineering Intern",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423001461/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Software Engineer, Non-Human Identity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4381779741/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Loft Orbital",
-      "title": "Satellite Systems Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420140424/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Protegrity",
-      "title": "Senior GenAI Backend Software Engineer 773",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404948137/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Engineer II, Search Science Data Infra",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423010115/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Engineer II, Search Science Data Infra",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423007164/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Embedded Software Engineer, Emerging Devices Software",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423000341/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Muon Space",
-      "title": "Senior Systems Engineer, Mission Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423005373/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Conversion",
-      "title": "Staff Backend Engineer (Platform)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410351125/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424236538/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Alura",
-      "title": "Frontend Developer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424237429/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Software Engineer, Enterprise Platform)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424230597/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Emerald AI",
-      "title": "Software Engineer - Datacenter/Power Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4369966918/",
+      "url": "https://www.linkedin.com/jobs/view/4375481455/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
-      "title": "Lead Software Engineer, Back End",
+      "title": "Senior Lead AI Engineer,(MLX, Agentic AI, Gen AI platform Services)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400250679/",
+      "url": "https://www.linkedin.com/jobs/view/4397415864/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Sr Director, Software Engineer - Card Tech AI",
+      "company": "Abridge",
+      "title": "Senior Enterprise Security Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408703501/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bloomberg",
-      "title": "Senior Software Engineer - BQuant",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402436211/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "Android Engineer, Terminal Global Payments",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413493580/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "Android Engineer, Terminal Developer Productivity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413482719/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Senior Software Engineer - SRE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423004099/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sigmaways Inc",
-      "title": "DevOps Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4381280625/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer ( MLX, Gen AI Platform Services, Agentic AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397470558/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Platform Engineer, Workday (Finance)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4381600417/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Platform Engineer, Workday - Integrations (HCM & Financials)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402531759/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Platform Engineer, Workday (Finance)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4381492591/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Lead Software Engineer, Fleet Management - DGX Cloud",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403677527/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "C-Serv",
-      "title": "AI Offensive Security Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422987919/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Daswani AI",
-      "title": "Robot Cybersecurity Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424227642/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer, Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422995583/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Staff Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422981879/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359276672/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Science - AI for Data",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400941140/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406610363/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NexInfo Solutions, Inc.",
-      "title": "Bioinformatics Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424236512/",
-      "date_posted": "2026-06-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cube Hub Inc.",
-      "title": "Bioinformatics Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423255011/",
+      "url": "https://www.linkedin.com/jobs/view/4423000851/",
       "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     }
