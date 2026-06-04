@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-03 08:28 UTC",
-  "total": 19,
+  "scraped_at": "2026-06-04 08:00 UTC",
+  "total": 20,
   "new_count": 3,
   "jobs": [
     {
@@ -112,7 +112,7 @@
       "title": "Machine Learning Engineer/Machine Learning Scientist , Multi Modality",
       "location": "San Diego, CA; San Francisco Bay Area, CA",
       "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
-      "date_posted": "2026-06-01",
+      "date_posted": "2026-06-04",
       "ats": "Greenhouse"
     },
     {
@@ -120,7 +120,7 @@
       "title": "Senior Cybersecurity Engineer",
       "location": "San Francisco Bay Area, CA",
       "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5838128004",
-      "date_posted": "2026-06-01",
+      "date_posted": "2026-06-03",
       "ats": "Greenhouse"
     },
     {
@@ -136,49 +136,57 @@
       "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
-      "date_posted": "Posted 19 Days Ago",
+      "date_posted": "Posted 20 Days Ago",
       "ats": "Workday"
     },
     {
-      "company": "Amgen",
-      "title": "Sr Data Scientist - PKDM-BA",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422416685/",
-      "date_posted": "2026-06-02",
+      "company": "GRAIL",
+      "title": "Staff Site Reliability Engineer (SRE) | Dev Ops Engineer #4770",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404247035/",
+      "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lila Sciences",
-      "title": "Staff Engineer, Data Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422461503/",
-      "date_posted": "2026-06-02",
+      "company": "Intel",
+      "title": "Infra and DevOps Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424241696/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Statistical Methodology Data Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423035338/",
+      "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Profluent",
-      "title": "Machine Learning Scientist, Reinforcement Learning",
-      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
-      "url": "https://job-boards.greenhouse.io/profluent/jobs/5238462008",
-      "date_posted": "2026-06-02",
-      "ats": "Greenhouse"
-    },
-    {
-      "company": "Amgen",
-      "title": "Sr Data Scientist - PKDM-BA",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422416685/",
-      "date_posted": "2026-06-02",
+      "company": "GRAIL",
+      "title": "Staff Site Reliability Engineer (SRE) | Dev Ops Engineer #4770",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404247035/",
+      "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lila Sciences",
-      "title": "Staff Engineer, Data Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422461503/",
-      "date_posted": "2026-06-02",
+      "company": "Intel",
+      "title": "Infra and DevOps Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424241696/",
+      "date_posted": "2026-06-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Statistical Methodology Data Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423035338/",
+      "date_posted": "2026-06-03",
       "ats": "LinkedIn"
     }
   ]

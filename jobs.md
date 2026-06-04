@@ -1,16 +1,16 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-06-03 08:28 UTC*
+*Last updated: 2026-06-04 08:00 UTC*
 
-**3 new role(s)** since last run · 19 total in last 24h
+**3 new role(s)** since last run · 20 total in last 24h
 
-### [Machine Learning Scientist, Reinforcement Learning](https://job-boards.greenhouse.io/profluent/jobs/5238462008) — Profluent
-- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
-- 🕒 **Posted:** 2026-06-02
+### [Staff Site Reliability Engineer (SRE) | Dev Ops Engineer #4770](https://www.linkedin.com/jobs/view/4404247035/) — GRAIL
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-03
 
-### [Sr Data Scientist - PKDM-BA](https://www.linkedin.com/jobs/view/4422416685/) — Amgen
+### [Infra and DevOps Intern](https://www.linkedin.com/jobs/view/4424241696/) — Intel
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Statistical Methodology Data Scientist](https://www.linkedin.com/jobs/view/4423035338/) — Genentech
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff Engineer, Data Platform](https://www.linkedin.com/jobs/view/4422461503/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
+- 🕒 **Posted:** 2026-06-03
