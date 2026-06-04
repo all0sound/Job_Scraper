@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-06-04 20:36 UTC",
+  "updated_at": "2026-06-04 21:17 UTC",
   "jobs": [
+    {
+      "company": "Sprig",
+      "title": "Software Engineer, AI Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424454823/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Morph",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423519968/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Talent Groups",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423561668/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Anagh Technologies Inc",
+      "title": "Ai Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420753553/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "GlobalLogic",
+      "title": "Machine Learning Engineer (GCP) IRC296887",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424448916/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Software Engineer, Ad Serving",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423584080/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Recruiting from Scratch",
+      "title": "Backend Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424467575/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423577130/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423559580/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423562512/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Coupang",
+      "title": "Senior Staff Backend Engineer (Application Infra)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406205679/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Recruiting from Scratch",
+      "title": "Senior Software Engineer, Backend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407044212/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Brooksource",
+      "title": "Cloud Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424461794/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
+    {
+      "company": "Triune Infomatics Inc",
+      "title": "GPU Software Engineer (AMD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424465660/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-04T21:17:29Z"
+    },
     {
       "company": "NVIDIA",
       "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
