@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-06-06 05:38 UTC",
+  "updated_at": "2026-06-06 06:37 UTC",
   "jobs": [
+    {
+      "company": "Netic",
+      "title": "Software Engineer, Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4353932431/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T06:37:14Z"
+    },
+    {
+      "company": "Netic",
+      "title": "Founding Web Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4355730151/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T06:37:14Z"
+    },
+    {
+      "company": "Netic",
+      "title": "Founding Product Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4354102337/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T06:37:14Z"
+    },
+    {
+      "company": "Biohub",
+      "title": "Staff AI Infrastructure Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397163275/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T06:37:14Z"
+    },
+    {
+      "company": "Biohub",
+      "title": "Staff Data Scientist, Imaging",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4382515110/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T06:37:14Z"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Staff ML Engineer, Life Sciences AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414676095/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T06:37:14Z"
+    },
     {
       "company": "Genentech",
       "title": "Principal Data Scientist, Predictive AI",

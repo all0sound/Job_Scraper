@@ -1,16 +1,36 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-06-05 07:17 UTC*
+*Last updated: 2026-06-06 06:37 UTC*
 
-**3 new role(s)** since last run · 20 total in last 24h
+**8 new role(s)** since last run · 23 total in last 24h
 
-### [Computational Biologist II, CellxState](https://www.linkedin.com/jobs/view/4420757532/) — Biohub
+### [Principal Data Scientist, Predictive AI](https://www.linkedin.com/jobs/view/4424954672/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-06
+
+### [Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4402047132/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4353932431/) — Netic
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
+- 🕒 **Posted:** 2026-06-05
 
-### [(Senior) ML Scientist](https://www.linkedin.com/jobs/view/4405604535/) — insitro
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
+### [Founding Web Platform Engineer](https://www.linkedin.com/jobs/view/4355730151/) — Netic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
 
-### [AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID](https://www.linkedin.com/jobs/view/4405250531/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
+### [Founding Product Infrastructure Engineer](https://www.linkedin.com/jobs/view/4354102337/) — Netic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Staff AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4397163275/) — Biohub
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Staff Data Scientist, Imaging](https://www.linkedin.com/jobs/view/4382515110/) — Biohub
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Staff ML Engineer, Life Sciences AI](https://www.linkedin.com/jobs/view/4414676095/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
