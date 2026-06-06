@@ -1,175 +1,263 @@
 {
-  "scraped_at": "2026-06-06 03:17 UTC",
-  "total": 18,
-  "new_count": 3,
+  "scraped_at": "2026-06-06 05:36 UTC",
+  "total": 16,
+  "new_count": 16,
   "jobs": [
     {
-      "company": "Experis",
-      "title": "AI / ML Engineer / ServiceNow platform engineer",
+      "company": "Hire Feed",
+      "title": "Machine Learning Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424993041/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Authorium",
+      "title": "Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424635931/",
+      "url": "https://www.linkedin.com/jobs/view/4414066946/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Principal Data Scientist, Predictive AI",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424954672/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pivotal",
-      "title": "Senior Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424627820/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
+      "company": "OpenAI",
+      "title": "Software Engineer, Cloud Agents",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424628651/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Machine Learning Engineer ($250k + $100k/year Equity) at $13.7M Seed CRV-backed industrial AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424645500/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue River Technology",
-      "title": "ML Engineer, End-to-End Autonomy",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420279023/",
+      "url": "https://www.linkedin.com/jobs/view/4424661267/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
       "company": "Uber",
-      "title": "Senior AI/ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424950808/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Gen AI Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424952681/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI Engineer",
+      "title": "Senior Software Engineer - Data Storage",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424628673/",
+      "url": "https://www.linkedin.com/jobs/view/4424989001/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Modular",
-      "title": "Platform Engineer",
-      "location": "Los Altos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424933957/",
+      "company": "Zipline",
+      "title": "Embedded Software Engineer Intern (Fall 2026)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424993034/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Applied AI Engineer at Innovative AI simulation startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424627681/",
+      "company": "Bot Auto",
+      "title": "Senior Software Engineer, Simulation Systems",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424964999/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Skild AI",
-      "title": "Research Robotics/Computer Vision Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424965294/",
+      "company": "Hire Feed",
+      "title": "Senior Software Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424989053/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "AI Engineer ($180K \u2013 $250K + Equity) at Index Ventures-backed agentic AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424629736/",
+      "company": "Abbott",
+      "title": "Sr. Embedded Software Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424985009/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Senior Backend Engineer at cash-flow positive seed-stage fintech marketplace",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424625762/",
+      "company": "Hire Feed",
+      "title": "Senior Full Stack Software Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424995050/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Staff Software Engineer ($265k - $330k + Equity) at Series C fintech leader with $534M raised",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424622873/",
+      "company": "Trimble Inc.",
+      "title": "Embedded Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424968853/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Software Engineer, Product ($140k\u2013$250k + Equity) at fast-growing AI edtech startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424628665/",
+      "company": "Turing",
+      "title": "Remote Software Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424976876/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Senior Software Engineer ($120K - $180K + Equity) at YC-backed AI accounting startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424635693/",
+      "company": "Oracle",
+      "title": "Software Developer 3",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421510838/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Senior Software Engineer ($250K + $120K Equity/Signing) at $26.5M Series A industrial AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424645496/",
+      "company": "NimbleRx",
+      "title": "Senior Fullstack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424962971/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cisco",
+      "title": "Principal Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424971899/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Cloud Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424979241/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "DevOps Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424979270/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Experis",
-      "title": "AI / ML Engineer / ServiceNow platform engineer",
+      "company": "Hire Feed",
+      "title": "Machine Learning Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424993041/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Authorium",
+      "title": "Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424635931/",
+      "url": "https://www.linkedin.com/jobs/view/4414066946/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "AI Engineer",
+      "company": "OpenAI",
+      "title": "Software Engineer, Cloud Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424661267/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Software Engineer - Data Storage",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424628673/",
+      "url": "https://www.linkedin.com/jobs/view/4424989001/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Skild AI",
-      "title": "Research Robotics/Computer Vision Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424965294/",
+      "company": "Zipline",
+      "title": "Embedded Software Engineer Intern (Fall 2026)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424993034/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bot Auto",
+      "title": "Senior Software Engineer, Simulation Systems",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424964999/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Senior Software Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424989053/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Abbott",
+      "title": "Sr. Embedded Software Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424985009/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Senior Full Stack Software Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424995050/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Trimble Inc.",
+      "title": "Embedded Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424968853/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424976876/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Oracle",
+      "title": "Software Developer 3",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421510838/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NimbleRx",
+      "title": "Senior Fullstack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424962971/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cisco",
+      "title": "Principal Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424971899/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Cloud Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424979241/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "DevOps Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424979270/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
