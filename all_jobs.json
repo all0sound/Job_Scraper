@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-06-06 20:44 UTC",
+  "updated_at": "2026-06-06 21:17 UTC",
   "jobs": [
+    {
+      "company": "Lutris Wireless",
+      "title": "Senior Software Engineer",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422056384/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T21:17:23Z"
+    },
+    {
+      "company": "Tykhe Inc",
+      "title": "Machine Learning Engineer (Staff Level)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404212879/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T21:17:23Z"
+    },
     {
       "company": "Nimble Robotics",
       "title": "Senior Software Engineer, Embedded Linux",
