@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-07 03:17 UTC",
+  "updated_at": "2026-06-07 06:49 UTC",
   "jobs": [
+    {
+      "company": "BlackRock",
+      "title": "Associate, Modelling Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425173635/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T06:49:28Z"
+    },
+    {
+      "company": "WindBorne Systems",
+      "title": "Full Stack Security Software Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425160610/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T06:49:28Z"
+    },
+    {
+      "company": "Daswani AI",
+      "title": "Robot Cybersecurity Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424227642/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T06:49:28Z"
+    },
     {
       "company": "Tykhe Inc",
       "title": "Agentic AI Engineer",

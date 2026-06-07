@@ -1,159 +1,71 @@
 {
-  "scraped_at": "2026-06-07 03:17 UTC",
-  "total": 15,
+  "scraped_at": "2026-06-07 06:49 UTC",
+  "total": 4,
   "new_count": 4,
   "jobs": [
     {
-      "company": "Jack & Jill",
-      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424696270/",
+      "company": "BlackRock",
+      "title": "Associate, Modelling Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425173635/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Machine Learning Engineer ($175K \u2013 $250K + Equity) at Stanford-born AI governance startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424688851/",
+      "company": "WindBorne Systems",
+      "title": "Full Stack Security Software Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425160610/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Trubot Technology",
-      "title": "Robotics ML Engineer \u2013 Manipulation & Embodied AI",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424683873/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424683859/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424678832/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding AI Engineer ($160k-$220k + Equity) at Seed-stage SF startup backed by Paypal Mafia",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424689809/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Machine Learning Engineer ($250k + $100k/year Equity) at $13.7M Seed CRV-backed industrial AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424681883/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Software Engineer at well-funded industrial AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424688854/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding AI Engineer ($170k \u2013 $225k + Equity) at a16z-backed health-tech startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424683823/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Allogene Therapeutics",
-      "title": "Associate Director, Data Science",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421660805/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Growth Analytics Engineer at Accel-backed AI startup reaching $15M ARR in 10 weeks",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424693769/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tykhe Inc",
-      "title": "Agentic AI Engineer",
+      "company": "LuminX",
+      "title": "Robotics Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424696468/",
+      "url": "https://www.linkedin.com/jobs/view/4424626213/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "SynergisticIT",
-      "title": "junior software developer/data scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424692897/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425007018/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425002067/",
+      "company": "Daswani AI",
+      "title": "Robot Cybersecurity Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424227642/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tykhe Inc",
-      "title": "Agentic AI Engineer",
+      "company": "BlackRock",
+      "title": "Associate, Modelling Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425173635/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "WindBorne Systems",
+      "title": "Full Stack Security Software Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425160610/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LuminX",
+      "title": "Robotics Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424696468/",
+      "url": "https://www.linkedin.com/jobs/view/4424626213/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "SynergisticIT",
-      "title": "junior software developer/data scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424692897/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425007018/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425002067/",
+      "company": "Daswani AI",
+      "title": "Robot Cybersecurity Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424227642/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
