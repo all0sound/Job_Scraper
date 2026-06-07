@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-07 18:53 UTC",
-  "total": 20,
+  "scraped_at": "2026-06-07 20:50 UTC",
+  "total": 18,
   "new_count": 0,
   "jobs": [
     {
@@ -9,14 +9,6 @@
       "location": "San Jose, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=f65f25086660e68f",
       "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Meta",
-      "title": "Software Systems Engineer",
-      "location": "Fremont, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=651e3d4b4826b61f",
-      "date_posted": "2026-06-04",
       "ats": "Indeed"
     },
     {
@@ -96,14 +88,6 @@
       "title": "Senior Embedded Software Engineer - Ethernet Retimers New",
       "location": "San Jose, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=0147e4204b4fc27f",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Nimble Robotics",
-      "title": "Senior Software Engineer, Embedded Linux",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3a6b58ac7766be34",
       "date_posted": "2026-06-06",
       "ats": "Indeed"
     },
