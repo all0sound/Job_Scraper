@@ -1,6 +1,1158 @@
 {
-  "updated_at": "2026-06-08 23:01 UTC",
+  "updated_at": "2026-06-08 23:03 UTC",
   "jobs": [
+    {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "title": "Staff Software Engineer - AI Platform",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a4cebc4356ecdbc8",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Prisma Access)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=83ce048e979225a9",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Principal Software Engineer (L7 Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=09ebf2e6086ee7ac",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Distinguished Software Engineer (DLP Platform Architecture, Scale, and Advanced DLP Detection)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a51f51df06fa7d48",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Machine Learning Platform Engineer (Prisma AIRS)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=888c60b09fabc2e4",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Distinguished Software Engineer (Big Data & AI)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a981ef29c01bf602",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Director, Digital Platform Engineering",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4d5044d7d98cf122",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal IT Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6eb1a823837b9607",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Prisma Access)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a4f536fe9e567660",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Principal Software Engineer ( Cloud Infrastructure and Platform Engineering )",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d93f7e21ba84488c",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Cloud Infrastructure Engineer (Advanced Threat Protection)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8d2c3719c3e2ec42",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=89fe90e63c763676",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff Machine Learning Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d9c0810ad1f88715",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Principal AI-Data Scientist (ADEM)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=cb455802b90b3e16",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bbdbbccf5dc224e3",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Prisma Access)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9853279d266ea3c6",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff Machine Learning Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b464b2432a6c22f4",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Prisma Access)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e87c8d2e682df1c6",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff/Sr. Staff AI Engineer - Enterprise AI Solutions",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=58bdea655745c59b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior IT AI/ML Engineer - Data Analytics",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=71f249b5274bf4fb",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal AI Engineer - Enterprise AI Solutions",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=06bfdb00bc9c91f9",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Staff + Senior Software Engineer, Inference",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=07172c215e137046",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Lead Applied AI Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=29dbc26e8b79e929",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Twin Health",
+      "title": "Senior AI Platform Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b70067ae55c291ea",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Staff Hardware Design Engineer, Platforms Infrastructure Engineering",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1c9f13a6dc68ffda",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=987acf28437b64ab",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Research Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=72bbb26a74e9ba7a",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Information Security Engineering Manager, Product Security Engineering",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5a4f15ea46f10077",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a50601bec52dcbbd",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Software Engineer Opticaster, Energy Engineering (Fall 2026)",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=cfe53a88eb95f1a9",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Amazon Web Services",
+      "title": "Senior Applied Scientist, Applied AI Solutions GTM",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c49518775247a91c",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Amazon Web Services",
+      "title": "Senior Applied Scientist, Applied AI Solutions GTM",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d339bfbb4fdb84f5",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Deeproute.ai",
+      "title": "Software Engineer Planning",
+      "location": "Fremont, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=47cfa3446e69f12a",
+      "date_posted": "2025-03-02",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff AI-ML Data Scientist (ADEM)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=79125508a48aa13f",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Data Scientist",
+      "location": "San Bruno, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=62dcb0cf54d1766a",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Research Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bc331d61d9fecf63",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7338f7bb79543936",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=54bb6f5ca37a8d3e",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=54f29504e8a7fd03",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6a741a3c74020c14",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, AI/ML GenAI, Google Ads",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e855104d38ffe750",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Youtube",
+      "title": "Staff Software Engineer, YouTube Ads Machine Learning",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e031553c9fbe6a2b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Analytics Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f6970ebc1da672a3",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Network Value",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f2c7b4d72c2d9038",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Staff Machine Learning Engineer (Research Scientist) - DFAI",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=55db1deaae37ba60",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer (Research Scientist) - DFAI",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=342b48ed4bc30e61",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Data Foundations & AI",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=83538c6927930e13",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer - Credit",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=79e042c7109c86a3",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Credit",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d86d5791ba1a3c5b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Machine Learning Engineer, Applied Science",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b0c96215406542c2",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Software Engineer, Generalist, AI Inference",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=70ec5db71f15a258",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal AI Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=542ee4a1d87d7d15",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff Software Engineer (Next Gen Firewall - Dataplane)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=66a0afd68077e8c9",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Cortex Vulnerability Experience Platform)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=2003e159105dba41",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal IT Data Engineer - Data & Analytics",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c6039838f43e31d4",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Manager, Platform Engineering, Identity",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6962689ba69879e5",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (DLP)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=54eaa82cd9a8c5fa",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer, AI Platform for User Experiences",
+      "location": "Menlo Park, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=62210e1a98d3734d",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr. Director of Software Engineering, AI-Enabled Solutions & Products",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=14b18361cb746a62",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Software Engineer, Evaluation & Simulation - AV Labs",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ca2bbb2c9d3f03ab",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Cloud Nework and AI Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ee3a24206a1eeb97",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer ADEM (ADEM - Autonomous Digital Experience Management) - MacOS",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bca5f0e9e514d88d",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "\u200bSr Principal Software Engineer (C++ Prisma Browser)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=05e925a4e899a62b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer ( Cloud Security )",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fea70e1db380f886",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Principal Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=00549fdfa6085f8b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Software Engineer, Vulnerability Intelligence",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=aba4905680e132c5",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Cortex Xpanse)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c94c470ccb15519f",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Staff Automation/Test Software Engineer (Next Generation Firewall)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9db3d8aeca878409",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr. Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=18b9a027a38e2401",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=963be623c4201efa",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff Software Engineer (AI)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=40fde75f3fe3d9cf",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Principal AI Software Engineer - IT Go-To-Market & Customer Experience",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1061bd09e48c0bdc",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal MarTech SWE / AI Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=2427407237e07c33",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff IT Software Engineer - IT Go-To-Market & Customer Experience",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=386253f5f87427f9",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Prisma Access - Dataplane)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0a249f2b9f2e97eb",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer, Go-To-Market (GTM) and CX Products",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f2a0c8e2c62baacf",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer - SASE AI/ML",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=83748a3ea3d5694a",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff Software Engineer \u2013 Backend (Machine Identity Security, SaaS Control Plane)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a1e44567dd6cecf8",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Full-Stack Software Engineer (Shared Services)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1ca0991e182a8208",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer, Prisma Access",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a3b8b94946be0c4f",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr. Principal Software Engineer (Cortex Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=427ed0f8772254fa",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Cortex Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5388a31587e8d83b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Staff+ Software Engineer, GRC Platform",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3aa398ac5bb08fd1",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=887a0451295acbf9",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Software Engineer, Backend",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=adf70eeca87950a9",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Software Engineer, Backend",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b02657833889d271",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Software Engineer, Full Stack",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c642c7ae36f6d34f",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer - Frontend (Strata Cloud Manager)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=15c94fd2125cd125",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b16316bb324c6148",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff IT Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f906d0fd68e8f2e4",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "BRAIN",
+      "title": "Senior IT Systems Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=944ad4f982d7d379",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal DevOps Engineer (Prisma Browser Platform)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=df056ff0c7888fc3",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior DevOps Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=231a84194f18a8eb",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer (CIPE)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5a1971da8ec4c506",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer ( U.S Citizenship required )",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b052abf04c3b1f74",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ece04d231c441a59",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff / Principal Site Reliability Engineer- Network & Security Operations",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=764062132d887760",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Site Reliability Engineer (Internet Security Platform)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b1a278235c230fa3",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer (AIOps)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bacf7df6dd0cd1bf",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Site Reliability Engineer (DNS Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7978a7db71af3639",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer (DNS Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=268bee4a172ad19d",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Staff Site Reliability Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0c0adda6d269c8ed",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Site Reliability",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=31583d72c4358f3e",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff IT Systems Engineer (Google Workspace)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8dfc2b693a453a7e",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff IT Systems Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1aaa11740cfcf175",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer ( Backend )",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8617d1a0bc34faea",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Principal Software Engineer - ADEM Agent (Client/Endpoint Focus)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=167cf3c9c8ac8c17",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Manager, Software Engineering (Data Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a67b5103699e2785",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr. Principal Software Engineer (L7 Security)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d05ad275302e34a5",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer - Network Security - PanOS",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9354a504d3c36cbf",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Principal Software Engineer \u2014 Layer 7 Security",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=29aee55bc45ed2f5",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Principal Software Engineer - Network Security - PanOS",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f57e42af71de1562",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (L7 Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0c0f907b3b13dad1",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Cloud Network and AI Security)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=830009575795ecda",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (Malware Detection)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bdaf8da2eb71e5ce",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff Software Engineer (Infosec)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1700c21ab7cf3d79",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff Cloud Security Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f36019c0a76e3acf",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Offensive Security Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1fc8ec5952d17980",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Principal Software Engineer \u2014 Layer 7 Security",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7fc34e0284ef50fb",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Staff+ Security Engineer, Risk Engineering",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=90086d3a8117f052",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Candid Health",
+      "title": "Principal Security Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c902c22e3c248c82",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Skip",
+      "title": "Infrastructure Security Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3859efc1302287f2",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, AI-Empowered Security, Cloud CISO",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c8a2092ff9d509af",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e3a5f9851d5edd62",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Software Engineer - Data Infrastructure",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d6dffe62e62c75bf",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Data Engineer - Data Engineering",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=05e535445b7db63a",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Distinguished Software Engineer - ADEM (Backend)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b978835155975ea4",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, Dataproc, Control Plane",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=564db0a7e0be6ce4",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-08T23:03:08Z"
+    },
     {
       "company": "Google",
       "title": "Software Engineer",
