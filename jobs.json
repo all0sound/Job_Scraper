@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-07 07:13 UTC",
-  "total": 20,
-  "new_count": 5,
+  "scraped_at": "2026-06-08 08:22 UTC",
+  "total": 16,
+  "new_count": 0,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -128,82 +128,9 @@
       "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
-      "date_posted": "Posted 23 Days Ago",
+      "date_posted": "Posted 24 Days Ago",
       "ats": "Workday"
-    },
-    {
-      "company": "Genentech",
-      "title": "Expert Data Scientist, Early Clinical Development",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415817169/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Staff Data Scientist, Genomics",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382511241/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal ML Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415518289/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aptiv",
-      "title": "Data Platform Architect",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394938478/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Gilead Sciences",
-      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
-      "location": "United States - California - Foster City",
-      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
-      "date_posted": "Posted 23 Days Ago",
-      "ats": "Workday"
-    },
-    {
-      "company": "Genentech",
-      "title": "Expert Data Scientist, Early Clinical Development",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415817169/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Staff Data Scientist, Genomics",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382511241/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal ML Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415518289/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aptiv",
-      "title": "Data Platform Architect",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394938478/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }
