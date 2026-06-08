@@ -1,6 +1,303 @@
 {
-  "updated_at": "2026-06-08 21:17 UTC",
+  "updated_at": "2026-06-08 22:17 UTC",
   "jobs": [
+    {
+      "company": "Tessera Data",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425903967/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Data Scientist 2",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425539150/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Flexton Inc.",
+      "title": "Software Engineer I - Java - Bay Area (W2 Only)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425904798/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Multi-Modal Perception",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425548205/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Multi-Modal Perception",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425549176/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Inkitt",
+      "title": "Senior Software Engineer, Mobile Full-Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421655408/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425546289/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "PayPal",
+      "title": "Senior DevOps Engineer - Data Infra",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425698789/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Staff Software Engineer \u2013 Frontend Platform (Machine Identity Management)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422205358/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Frontend Software Engineer \u2013 React, TypeScript, GraphQL (Machine Identity Management) - hybrid",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421999391/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Salesforce Software Engineer III",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385621877/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Headway",
+      "title": "Senior Software Engineer (Trust Foundations)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425698942/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Headway",
+      "title": "Staff Data Scientist - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425911814/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "SAP",
+      "title": "Sr AI/ Machine Learning Engineer - SAP BTP Fabric",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425537160/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Inflection AI",
+      "title": "Research Engineer, Voice",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413836121/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Software Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399656781/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "AppZen",
+      "title": "AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425541293/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "PreSales Collective",
+      "title": "Applied AI Engineer - AI Solutions",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422211536/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Software Engineer, DevAI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407625703/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Software Engineer, DevAI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407646411/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "title": "Staff Software Engineer - AI Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425530273/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Stealth Startup",
+      "title": "Founding Fullstack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425901948/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Clover",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404493168/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Anyware Robotics",
+      "title": "Sr. Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425542172/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "Software Engineer III",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421998611/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Blackstone Talent Group",
+      "title": "Senior Software Engineer, Algorithms",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425694849/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Via",
+      "title": "Full Stack Software Engineer, Remix by Via",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425546239/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425534346/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Inflection AI",
+      "title": "Senior Backend Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413807900/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Robert Half",
+      "title": "DevOps Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4371325194/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Hyve Solutions",
+      "title": "Senior Platform Engineer (Multi-Cloud & AI Adoption)",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414654867/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "Stuut",
+      "title": "Lead Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425533309/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
+    {
+      "company": "hackajob",
+      "title": "Senior Lead Site Reliability Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425542144/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T22:17:33Z"
+    },
     {
       "company": "Chime",
       "title": "AI/ML Engineer",
