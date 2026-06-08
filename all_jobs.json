@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-06-08 15:17 UTC",
+  "updated_at": "2026-06-08 16:17 UTC",
   "jobs": [
+    {
+      "company": "Box",
+      "title": "Machine Learning Engineer III, Search Relevance",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425643283/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425266637/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "SoTalent",
+      "title": "Sr. Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421946986/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, DevAI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407646409/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Whatnot",
+      "title": "Manager, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405933837/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Universes",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4332215494/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Kiddom",
+      "title": "Senior Data Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425249874/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Last Mile Delivery Automation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359611498/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Research Lead / Principal Scientist & Manager Post-Training \u00b7 Alignment \u00b7 Reinforcement Learning Autodesk AI Lab: London \u00b7 San Francisco \u00b7 Toronto \u00b7 Remote (US/CA/EU)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380993863/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Saviynt",
+      "title": "AI Platform Engineer, Training and Inference",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425629350/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Oscar",
+      "title": "Staff AI Engineer",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421959791/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Aurora",
+      "title": "Full Stack Engineer - AI agents",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425628361/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, DevAI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407632651/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Signify Technology",
+      "title": "Senior Embedded Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421957798/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Kikoff",
+      "title": "Senior Software Engineer - Product Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397792210/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Staff Software Engineer, Core Automation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425630549/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "You.com",
+      "title": "Senior Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397406948/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Staff Security Engineer, SOAR",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383168137/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "You.com",
+      "title": "Senior Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374441980/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Staff Software Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425635433/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T16:17:37Z"
+    },
     {
       "company": "Trust In SODA",
       "title": "Junior Software Engineer",
