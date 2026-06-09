@@ -1,6 +1,330 @@
 {
-  "updated_at": "2026-06-09 17:36 UTC",
+  "updated_at": "2026-06-09 18:17 UTC",
   "jobs": [
+    {
+      "company": "Lyft",
+      "title": "Senior Machine Learning Engineer, Recommendations",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376106619/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Major League Baseball (MLB)",
+      "title": "Associate Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405182061/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Roc Search",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426383541/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Bessemer Venture Partners India",
+      "title": "Staff Product Data Scientist, Expansion",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426388071/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Machine Learning Engineer (India based, relocation provided)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4302804201/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Visa",
+      "title": "Sr. Data Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426370628/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "PwC",
+      "title": "Data Engineer - Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425852769/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Visa",
+      "title": "Sr. Data Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415571664/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Amazon Stores Economics & Science (SEAS)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426379731/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "People In AI",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426379637/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Ambient AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4335399819/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Fullstack Engineer, RCM AI Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410351134/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Software Engineer, Design Technology",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426386410/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Nubank",
+      "title": "Staff Software Engineer - Database Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426371725/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415721753/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Prosper Marketplace",
+      "title": "Sr. Software Engineer, React/ React Native",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409548741/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Terawatt",
+      "title": "Senior DevOps Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426383576/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Scientific Software Engineer, Analytics and Workflows",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398023267/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Security Software Engineer, Enterprise Security",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425858476/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Lead Software Engineer - Front End (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299773447/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Diligente Technologies",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426366852/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Fullstack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410288851/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Docusign",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406255116/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Fullstack Engineer, PatientKeeper",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4346637141/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer, RCM AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4388329753/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer, Ambient AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413250517/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "MeeBoss",
+      "title": "Android Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426376622/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Mobile Infrastructure Engineer, Ambient AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380133163/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Site Reliability Engineer - Observability and Telemetry Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415734583/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - Autonomous Vehicles",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406247254/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "OutSystems",
+      "title": "Senior Site Reliability Engineer",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426382680/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Software Engineer - Front End (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299780050/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Principal Software Engineer, Back End (Data Engineer) (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410069287/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Lead Software Engineer - Full Stack (Bangkok based, relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299769499/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Software Engineer - Full Stack AI (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4363582687/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Security Engineer (Bangkok Based, Relocation Support)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376196990/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T18:17:47Z"
+    },
     {
       "company": "ReadyOn",
       "title": "Data Scientist",

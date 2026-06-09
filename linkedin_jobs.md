@@ -1,224 +1,148 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-09 17:17 UTC*
+*Last updated: 2026-06-09 18:17 UTC*
 
-**55 new role(s)** since last run · 71 total in last 1h
+**36 new role(s)** since last run · 65 total in last 1h
 
-### [Software Engineer – AI/ML](https://www.linkedin.com/jobs/view/4425850933/) — Carnaby Fox
+### [Senior Machine Learning Engineer, Recommendations](https://www.linkedin.com/jobs/view/4376106619/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4405182061/) — Major League Baseball (MLB)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4426383541/) — Roc Search
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-09
 
-### [Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad)](https://www.linkedin.com/jobs/view/4422731306/) — Unity South APAC (SEA, ANZ, IND Subcont.)
+### [Staff Product Data Scientist, Expansion](https://www.linkedin.com/jobs/view/4426388071/) — Bessemer Venture Partners India
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4346548369/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410363089/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4416999961/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4417008892/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4378357101/) — Luma
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4338361913/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer (Mandarin-speaking)](https://www.linkedin.com/jobs/view/4426382049/) — Bellota Labs
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4426366362/) — TalentAlly
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Android Software Engineer III, Verily Me](https://www.linkedin.com/jobs/view/4414498994/) — Verily Health
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4425867185/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4426367378/) — TalentAlly
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Eye Tracking, Core](https://www.linkedin.com/jobs/view/4425860114/) — Google
+### [Staff Machine Learning Engineer (India based, relocation provided)](https://www.linkedin.com/jobs/view/4302804201/) — Agoda
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Senior Software Engineer, Agents](https://www.linkedin.com/jobs/view/4367551160/) — Harvey
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4426370628/) — Visa
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4425852769/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Staff Backend Engineer](https://www.linkedin.com/jobs/view/4384581866/) — Commure
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4415571664/) — Visa
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Applied Scientist, Amazon Stores Economics & Science (SEAS)](https://www.linkedin.com/jobs/view/4426379731/) — Amazon
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4398098188/) — Kikoff
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Applied AI Engineer | $50M Series A](https://www.linkedin.com/jobs/view/4406566894/) — Day One Partners
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4426379637/) — People In AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-09
 
-### [Research Engineer, Ads AI](https://www.linkedin.com/jobs/view/4425856172/) — Google
+### [Senior Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4335399819/) — Commure
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Senior Software Engineer, Evals and AI Infra](https://www.linkedin.com/jobs/view/4318298390/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff / Principal Platform Engineer](https://www.linkedin.com/jobs/view/4402728245/) — Inworld AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Backend Engineer, RCM AI Core](https://www.linkedin.com/jobs/view/4389754782/) — Commure
+### [Senior Fullstack Engineer, RCM AI Product](https://www.linkedin.com/jobs/view/4410351134/) — Commure
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Backend Engineer, RCM AI Core](https://www.linkedin.com/jobs/view/4389754783/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4410351130/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Evals and AI Infra](https://www.linkedin.com/jobs/view/4410364157/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415804754/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior/Principal Software Engineer](https://www.linkedin.com/jobs/view/4426382047/) — Bellota Labs
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4416472019/) — Scribe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4425861062/) — interface.ai
+### [Software Engineer, Design Technology](https://www.linkedin.com/jobs/view/4426386410/) — Tesla
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Staff Security Software Engineer](https://www.linkedin.com/jobs/view/4378339867/) — Luma
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-09
-
-### [Fullstack Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4410359121/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Fullstack Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4372143595/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff Backend Engineer](https://www.linkedin.com/jobs/view/4384584696/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4323903692/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4339891543/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4410284973/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4318505164/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff / Principal Software Engineer](https://www.linkedin.com/jobs/view/4281882205/) — Inworld AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Backend Engineer, RCM AI](https://www.linkedin.com/jobs/view/4410371007/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415808643/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Mobile Infrastructure Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410358137/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Mobile Infrastructure Engineer | AI Healthcare Startup](https://www.linkedin.com/jobs/view/4414786049/) — Day One Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff Software Engineer, AI/ML, XR](https://www.linkedin.com/jobs/view/4425850884/) — Google
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Mid/Senior Software Engineer, Product Development](https://www.linkedin.com/jobs/view/4425874018/) — Knightscope
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff Site Reliability Engineer (SRE), Agile](https://www.linkedin.com/jobs/view/4405169424/) — Okta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff Software Engineer, Feature Platform](https://www.linkedin.com/jobs/view/4422731316/) — Unity South APAC (SEA, ANZ, IND Subcont.)
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior AI Engineer – LLM, RAG](https://www.linkedin.com/jobs/view/4281883251/) — BrightAI
+### [Staff Software Engineer - Database Infrastructure](https://www.linkedin.com/jobs/view/4426371725/) — Nubank
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Staff Site Reliability Engineer, TCore (FedRamp)](https://www.linkedin.com/jobs/view/4412839436/) — Okta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410356514/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Microwave Plasma Systems Engineer](https://www.linkedin.com/jobs/view/4425855244/) — Gyga Force
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-09
-
-### [Manufacturing Linux & Network Infrastructure Engineer (Local Candidates ONLY)](https://www.linkedin.com/jobs/view/4416597654/) — Red Oak Technologies
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Systems Engineer IV - (E4)](https://www.linkedin.com/jobs/view/4422735208/) — Applied Materials
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4415721753/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Senior Software Engineer, Information Security](https://www.linkedin.com/jobs/view/4410284972/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Forward Deployed AI Engineer, United States - BCG X](https://www.linkedin.com/jobs/view/4406232822/) — BCG X
+### [Sr. Software Engineer, React/ React Native](https://www.linkedin.com/jobs/view/4409548741/) — Prosper Marketplace
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4407540801/) — Microsoft AI
-- 📍 **Location:** Sunnyvale, CA
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4426383576/) — Terawatt
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Scientific Software Engineer, Analytics and Workflows](https://www.linkedin.com/jobs/view/4398023267/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Principal Security Software Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4425858476/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Lead Software Engineer - Front End (Bangkok based, Relocation provided)](https://www.linkedin.com/jobs/view/4299773447/) — Agoda
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4426366852/) — Diligente Technologies
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4410288851/) — Commure
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4406255116/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Fullstack Engineer, PatientKeeper](https://www.linkedin.com/jobs/view/4346637141/) — Commure
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Backend Engineer, RCM AI](https://www.linkedin.com/jobs/view/4388329753/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4413250517/) — Commure
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Android Engineer](https://www.linkedin.com/jobs/view/4426376622/) — MeeBoss
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Mobile Infrastructure Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4380133163/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Principal Site Reliability Engineer - Observability and Telemetry Platform](https://www.linkedin.com/jobs/view/4415734583/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior System Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4406247254/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4426382680/) — OutSystems
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Staff Software Engineer - Front End (Bangkok based, Relocation provided)](https://www.linkedin.com/jobs/view/4299780050/) — Agoda
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Principal Software Engineer, Back End (Data Engineer) (Bangkok based, Relocation provided)](https://www.linkedin.com/jobs/view/4410069287/) — Agoda
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Lead Software Engineer - Full Stack (Bangkok based, relocation provided)](https://www.linkedin.com/jobs/view/4299769499/) — Agoda
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Staff Software Engineer - Full Stack AI (Bangkok based, Relocation provided)](https://www.linkedin.com/jobs/view/4363582687/) — Agoda
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Security Engineer (Bangkok Based, Relocation Support)](https://www.linkedin.com/jobs/view/4376196990/) — Agoda
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-09
