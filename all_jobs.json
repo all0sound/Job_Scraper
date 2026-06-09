@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-06-09 02:17 UTC",
+  "updated_at": "2026-06-09 03:17 UTC",
   "jobs": [
+    {
+      "company": "Northbeam",
+      "title": "Senior Software Engineer, Data Systems (Python)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425971264/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T03:17:29Z"
+    },
+    {
+      "company": "AMD",
+      "title": "Staff Research Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422226223/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T03:17:29Z"
+    },
     {
       "company": "Jack & Jill",
       "title": "Machine Learning Engineer ($175K \u2013 $250K + Equity) at Stanford-born AI governance startup",
