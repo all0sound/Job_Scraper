@@ -1,6 +1,501 @@
 {
-  "updated_at": "2026-06-09 16:17 UTC",
+  "updated_at": "2026-06-09 17:17 UTC",
   "jobs": [
+    {
+      "company": "Carnaby Fox",
+      "title": "Software Engineer \u2013 AI/ML",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425850933/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422731306/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Software Engineer, Ambient AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4346548369/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Software Engineer, Ambient AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410363089/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Software Engineer, Air AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416999961/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Software Engineer, Air AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417008892/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Luma",
+      "title": "Software Engineer - Product",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4378357101/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, AI Agents",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4338361913/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Bellota Labs",
+      "title": "Senior Software Engineer (Mandarin-speaking)",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426382049/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Data Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426366362/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Verily Health",
+      "title": "Android Software Engineer III, Verily Me",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414498994/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425867185/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426367378/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, Eye Tracking, Core",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425860114/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Harvey",
+      "title": "Senior Software Engineer, Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367551160/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Staff Backend Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384581866/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Kikoff",
+      "title": "Marketing Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398098188/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Day One Partners",
+      "title": "Applied AI Engineer | $50M Series A",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4406566894/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Google",
+      "title": "Research Engineer, Ads AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425856172/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Evals and AI Infra",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318298390/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Inworld AI",
+      "title": "Staff / Principal Platform Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402728245/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Backend Engineer, RCM AI Core",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389754782/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Backend Engineer, RCM AI Core",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389754783/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, AI Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410351130/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Evals and AI Infra",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410364157/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Air AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415804754/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Bellota Labs",
+      "title": "Senior/Principal Software Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426382047/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Scribe",
+      "title": "Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416472019/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "interface.ai",
+      "title": "Software Engineer II",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425861062/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Luma",
+      "title": "Staff Security Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4378339867/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Fullstack Engineer, AI Integrations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410359121/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Fullstack Engineer, AI Integrations",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4372143595/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Staff Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384584696/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4323903692/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339891543/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Fullstack Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410284973/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer, Ambient AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318505164/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Inworld AI",
+      "title": "Staff / Principal Software Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4281882205/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer, RCM AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410371007/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Air AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415808643/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Mobile Infrastructure Engineer, Ambient AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410358137/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Day One Partners",
+      "title": "Senior Mobile Infrastructure Engineer | AI Healthcare Startup",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414786049/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Google",
+      "title": "Staff Software Engineer, AI/ML, XR",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425850884/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Knightscope",
+      "title": "Mid/Senior Software Engineer, Product Development",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425874018/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Site Reliability Engineer (SRE), Agile",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405169424/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Staff Software Engineer, Feature Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422731316/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "BrightAI",
+      "title": "Senior AI Engineer \u2013 LLM, RAG",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4281883251/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Site Reliability Engineer, TCore (FedRamp)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412839436/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Ambient AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410356514/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Gyga Force",
+      "title": "Microwave Plasma Systems Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425855244/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Red Oak Technologies",
+      "title": "Manufacturing Linux & Network Infrastructure Engineer (Local Candidates ONLY)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416597654/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Systems Engineer IV - (E4)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422735208/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Information Security",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410284972/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "BCG X",
+      "title": "Senior Forward Deployed AI Engineer, United States - BCG X",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406232822/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Applied Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407540801/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T17:17:42Z"
+    },
     {
       "company": "Luma",
       "title": "Software Engineer - Growth",
