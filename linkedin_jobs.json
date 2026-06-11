@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-11 00:17 UTC",
-  "total": 34,
-  "new_count": 29,
+  "scraped_at": "2026-06-11 01:17 UTC",
+  "total": 35,
+  "new_count": 19,
   "jobs": [
     {
       "company": "ClimateAi",
@@ -12,18 +12,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Senior Data Scientist, Causal Inference",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427123347/",
+      "company": "Mochi Health",
+      "title": "Data Scientist, Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426198097/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "AutoComplete",
-      "title": "Full Stack Software Engineer, AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420254067/",
+      "company": "Lyft",
+      "title": "Senior Data Scientist, Causal Inference",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427123347/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
@@ -36,18 +36,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426184010/",
+      "company": "Nuro",
+      "title": "Software Engineer, Onboard Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426196077/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426164925/",
+      "company": "Knowtex",
+      "title": "Software Engineer (Applications Engineering)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426188202/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
@@ -60,26 +60,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Peregrine",
-      "title": "Software Engineer, Infrastructure",
+      "company": "AutoComplete",
+      "title": "Full Stack Software Engineer, AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426173915/",
+      "url": "https://www.linkedin.com/jobs/view/4420254067/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Verkada",
-      "title": "Staff Software Engineer - Command Connector",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427119314/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stanford University",
-      "title": "Clinical AI Scientist",
-      "location": "Stanford, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426168999/",
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426184010/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
@@ -92,10 +84,50 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Peregrine",
-      "title": "Software Engineer, Data Infrastructure",
+      "company": "Syntra",
+      "title": "Applied Healthcare AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426166964/",
+      "url": "https://www.linkedin.com/jobs/view/4426200057/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Numeral",
+      "title": "Software Engineer (API + Infra)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426191183/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SPREEAI",
+      "title": "Principal Engineer, AI Platform & Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406805535/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insight Partners for Enterprise",
+      "title": "Senior AI Engineer - Developer Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426189119/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commercial Programming Systems",
+      "title": "Lead Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416337275/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426166965/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
@@ -108,6 +140,94 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Abridge",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427138050/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426173915/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426166964/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Full Stack Engineer, Manager - Tax Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427125588/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Full Stack Engineer, Manager - Tax Transformation",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427117763/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Software Engineering SMTS",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427118917/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "F2",
+      "title": "Staff Software Engineer, Frontend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426198155/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Nuro",
+      "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426175982/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426197124/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Full Stack Engineer, Senior - Tax Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119659/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Full Stack Engineer, Senior - Tax Transformation",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427136181/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "NVIDIA",
       "title": "Senior Site Reliability Engineer",
       "location": "Santa Clara, CA",
@@ -116,10 +236,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Peregrine",
-      "title": "Software Engineer, Platform",
+      "company": "DensityAI",
+      "title": "Systems Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426185128/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Product Security Engineer, Senior & Lead (Enterprise Security - Security AI)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426166965/",
+      "url": "https://www.linkedin.com/jobs/view/4427120861/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
@@ -140,19 +268,11 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423180565/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "F2",
-      "title": "Staff Software Engineer, Infrastructure",
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426168944/",
-      "date_posted": "2026-06-10",
+      "url": "https://www.linkedin.com/jobs/view/4426197111/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
@@ -160,353 +280,161 @@
       "title": "Embedded Software Engineer (C/C++)",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4427133014/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427131049/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427112740/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427131050/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPREEAI",
-      "title": "Principal Engineer, AI Platform & Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406805535/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Backend Software Engineer, API Multicloud",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426170568/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Samsara",
-      "title": "Sr. Software Engineer II",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423180464/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Embedded Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426163918/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, UGC Validation \u2013 Avatar Heads and Bodies",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426159841/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426154873/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423191100/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aditi Consulting",
-      "title": "DevOps/Automation Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427114185/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Cloud Security Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426162762/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ACL Digital",
-      "title": "Senior Network Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406920172/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Gigamon",
-      "title": "Sr. Staff Software Engineer - Santa Clara, CA - Hybrid",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426155911/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "ClimateAi",
-      "title": "Data Engineer I",
+      "company": "Mochi Health",
+      "title": "Data Scientist, Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427116528/",
+      "url": "https://www.linkedin.com/jobs/view/4426198097/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Senior Data Scientist, Causal Inference",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427123347/",
+      "company": "Nuro",
+      "title": "Software Engineer, Onboard Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426196077/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "AutoComplete",
-      "title": "Full Stack Software Engineer, AI",
+      "company": "Knowtex",
+      "title": "Software Engineer (Applications Engineering)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420254067/",
+      "url": "https://www.linkedin.com/jobs/view/4426188202/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Peregrine",
-      "title": "Software Engineer, Applied AI/ML",
+      "company": "Syntra",
+      "title": "Applied Healthcare AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426164985/",
+      "url": "https://www.linkedin.com/jobs/view/4426200057/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426184010/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426164925/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Data Scientist, Ads Product",
+      "company": "Numeral",
+      "title": "Software Engineer (API + Infra)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427114540/",
+      "url": "https://www.linkedin.com/jobs/view/4426191183/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Peregrine",
-      "title": "Software Engineer, Infrastructure",
+      "company": "Insight Partners for Enterprise",
+      "title": "Senior AI Engineer - Developer Products",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426173915/",
+      "url": "https://www.linkedin.com/jobs/view/4426189119/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Verkada",
-      "title": "Staff Software Engineer - Command Connector",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427119314/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stanford University",
-      "title": "Clinical AI Scientist",
-      "location": "Stanford, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426168999/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, ML Codesign",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427133163/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Peregrine",
-      "title": "Software Engineer, Data Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426166964/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Peregrine",
-      "title": "Software Engineer, Data Governance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426169939/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Site Reliability Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426170901/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Peregrine",
-      "title": "Software Engineer, Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426166965/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Staff Software Engineer, Advertiser and Seller Experience",
+      "company": "Commercial Programming Systems",
+      "title": "Lead Software Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427116461/",
+      "url": "https://www.linkedin.com/jobs/view/4416337275/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pinterest",
-      "title": "Sr. Staff Software Engineer, Advertiser and Seller Experience",
+      "company": "Abridge",
+      "title": "Senior Backend Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427125276/",
+      "url": "https://www.linkedin.com/jobs/view/4427138050/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423180565/",
-      "date_posted": "2026-06-10",
+      "company": "Deloitte",
+      "title": "AI Full Stack Engineer, Manager - Tax Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427125588/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Full Stack Engineer, Manager - Tax Transformation",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427117763/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Software Engineering SMTS",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427118917/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
       "company": "F2",
-      "title": "Staff Software Engineer, Infrastructure",
+      "title": "Staff Software Engineer, Frontend",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426168944/",
-      "date_posted": "2026-06-10",
+      "url": "https://www.linkedin.com/jobs/view/4426198155/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Luxoft",
-      "title": "Embedded Software Engineer (C/C++)",
+      "company": "Nuro",
+      "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427133014/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427131049/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427112740/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427131050/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPREEAI",
-      "title": "Principal Engineer, AI Platform & Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406805535/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Embedded Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426163918/",
-      "date_posted": "2026-06-10",
+      "url": "https://www.linkedin.com/jobs/view/4426175982/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426154873/",
-      "date_posted": "2026-06-10",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426197124/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423191100/",
-      "date_posted": "2026-06-10",
+      "company": "Deloitte",
+      "title": "Full Stack Engineer, Senior - Tax Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119659/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "ACL Digital",
-      "title": "Senior Network Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406920172/",
-      "date_posted": "2026-06-10",
+      "company": "Deloitte",
+      "title": "Full Stack Engineer, Senior - Tax Transformation",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427136181/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gigamon",
-      "title": "Sr. Staff Software Engineer - Santa Clara, CA - Hybrid",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426155911/",
-      "date_posted": "2026-06-10",
+      "company": "DensityAI",
+      "title": "Systems Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426185128/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Product Security Engineer, Senior & Lead (Enterprise Security - Security AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427120861/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426197111/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }
   ]

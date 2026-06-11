@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-06-11 00:17 UTC",
+  "updated_at": "2026-06-11 01:17 UTC",
   "jobs": [
+    {
+      "company": "Mochi Health",
+      "title": "Data Scientist, Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426198097/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Onboard Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426196077/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Knowtex",
+      "title": "Software Engineer (Applications Engineering)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426188202/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Syntra",
+      "title": "Applied Healthcare AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426200057/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Numeral",
+      "title": "Software Engineer (API + Infra)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426191183/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Insight Partners for Enterprise",
+      "title": "Senior AI Engineer - Developer Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426189119/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Commercial Programming Systems",
+      "title": "Lead Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416337275/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Abridge",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427138050/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Full Stack Engineer, Manager - Tax Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427125588/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Full Stack Engineer, Manager - Tax Transformation",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427117763/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Software Engineering SMTS",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427118917/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "F2",
+      "title": "Staff Software Engineer, Frontend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426198155/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Nuro",
+      "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426175982/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426197124/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Full Stack Engineer, Senior - Tax Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119659/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Full Stack Engineer, Senior - Tax Transformation",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427136181/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "DensityAI",
+      "title": "Systems Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426185128/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Product Security Engineer, Senior & Lead (Enterprise Security - Security AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427120861/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426197111/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T01:17:34Z"
+    },
     {
       "company": "ClimateAi",
       "title": "Data Engineer I",
