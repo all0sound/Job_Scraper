@@ -895,7 +895,7 @@ def save_linkedin_results(jobs: list):
         basename="linkedin_jobs",
         title="🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)",
         subtitle=f"SF Bay Area · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
-        accent="#ff6b35",
+        accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
     )
@@ -965,7 +965,7 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans
   max-width: 720px; margin: 24px auto; padding: 0 16px; color: #1a1a1a; background: #fff; line-height: 1.5; }}
 h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 .subtitle {{ color: #666; font-size: 14px; margin-bottom: 16px; }}
-.summary {{ background: #fff7f2; padding: 12px 16px; border-left: 4px solid {accent};
+.summary {{ background: #f4f6fb; padding: 12px 16px; border-left: 4px solid {accent};
   margin: 16px 0; border-radius: 4px; font-size: 14px; }}
 .summary strong {{ font-size: 18px; color: {accent}; }}
 .job {{ background: #fafafa; border: 1px solid #e8e8e8; border-radius: 8px;
