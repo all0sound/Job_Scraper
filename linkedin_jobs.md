@@ -1,24 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-12 03:17 UTC*
+*Last updated: 2026-06-12 05:21 UTC*
 
-**5 new role(s)** since last run · 23 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Software Engineer – Identity Management](https://www.linkedin.com/jobs/view/4424823716/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-12
-
-### [Senior Software Engineer, Actimize](https://www.linkedin.com/jobs/view/4424837334/) — NiCE
+### [Software Engineer](https://www.linkedin.com/jobs/view/4427912211/) — Hitachi Energy
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-12
 
-### [Senior Lead Software Engineer - Windows Server Infrastructure](https://www.linkedin.com/jobs/view/4427694911/) — JPMorganChase
+### [Full Stack Software Engineer, Codex](https://www.linkedin.com/jobs/view/4426917341/) — OpenAI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-12
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4425274681/) — Shields Group Search
+### [System Software Engineer](https://www.linkedin.com/jobs/view/4427157764/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4424860129/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4424859141/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [Sr Software Engineer - Wired Assurance](https://www.linkedin.com/jobs/view/4427141973/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [Senior Software Engineer - Optical Transceiver](https://www.linkedin.com/jobs/view/4424845366/) — Molex
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [Analytics Engineer](https://www.linkedin.com/jobs/view/4427905555/) — Calm
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-12
 
-### [Computational Biologist - Fully Remote | Upto $100/hr](https://www.linkedin.com/jobs/view/4426907610/) — Mercor
+### [AI Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4424839433/) — Retool
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4426698784/) — Employia
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-12
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4427919477/) — Bristol Myers Squibb
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [Senior Cloud Engineer](https://www.linkedin.com/jobs/view/4427916452/) — Bristol Myers Squibb
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-06-12
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4424846458/) — Palo Alto Networks Unit 42
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-12
