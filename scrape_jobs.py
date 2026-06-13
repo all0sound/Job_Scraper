@@ -570,6 +570,8 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
         ) or re.search(r'base-search-card__subtitle[^>]*>\s*([^<]+)', card)
         location_m = re.search(r'job-search-card__location[^>]*>\s*([^<]+)', card)
         time_m = re.search(r'<time[^>]*datetime="([^"]+)"', card)
+        # LinkedIn shows pay on the card when the poster provides it.
+        salary_m = re.search(r'job-search-card__salary-info[^>]*>\s*([^<]+)', card)
 
         title = html_mod.unescape(title_m.group(1).strip()) if title_m else ""
         if not title or not is_mle_role(title):
@@ -581,12 +583,17 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
         location = html_mod.unescape(
             (location_m.group(1).strip() if location_m else "")
         ).replace("\n", " ")
+        salary = (
+            re.sub(r'\s+', ' ', html_mod.unescape(salary_m.group(1).strip()))
+            if salary_m else ""
+        )
         parsed.append({
             "id": urn.group(1),
             "company": company,
             "title": title,
             "location": location,
             "date_posted": time_m.group(1) if time_m else "",
+            "salary": salary,
         })
     return parsed, raw_count
 
@@ -634,6 +641,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                     "location": p["location"],
                     "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
                     "date_posted": p["date_posted"],
+                    "salary": p.get("salary", ""),
                     "ats": "LinkedIn",
                 }
 
