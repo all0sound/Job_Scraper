@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-06-15 22:59 UTC",
-  "total": 1,
+  "scraped_at": "2026-06-15 23:56 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist - Contaminated Land, Brisbane",
-      "location": "Brisbane, Queensland, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4421800129/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }

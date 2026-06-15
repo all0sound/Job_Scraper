@@ -1,6 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology / Risk Roles (CA · OR · AU)
-*Last updated: 2026-06-15 22:59 UTC*
+*Last updated: 2026-06-15 23:56 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
 No new roles since the last run.
