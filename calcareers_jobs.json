@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-15 04:21 UTC",
-  "total": 11,
+  "scraped_at": "2026-06-15 17:48 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -80,6 +80,15 @@
       "title": "Environmental Scientist",
       "location": "Solano County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521250",
+      "date_posted": "2026-06-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Napa County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521254",
       "date_posted": "2026-06-10",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
