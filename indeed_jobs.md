@@ -1,18 +1,14 @@
-# 🟦 Indeed — Environmental / Toxicology / Risk Roles (CA · OR · AU)
-*Last updated: 2026-06-16 17:31 UTC*
+# 🟦 Indeed — Environmental / Toxicology Roles
+*Last updated: 2026-06-16 19:02 UTC*
 
-**3 new role(s)** since last run · 7 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=152a6fffb0855fb2) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Project Manager – Environmental Scientist (Hazardous Building Materials)](https://www.indeed.com/viewjob?jk=2d3e09c384de079b) — SOCOTEC Group
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $110k–$130k/yr
 - 🕒 **Posted:** 2026-06-16
 
-### [Site Assessment and Remediation Specialist](https://www.indeed.com/viewjob?jk=fb647e5c056525a8) — NV5
-- 📍 **Location:** Torrance, CA, US
-- 💰 **Salary:** $90k–$110k/yr
-- 🕒 **Posted:** 2026-06-15
-
-### [Environmental Scientist](https://au.indeed.com/viewjob?jk=d2fd1c093354becb) — KBR
-- 📍 **Location:** Melbourne, VIC, AU
+### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=ec70e9c6f96685e7) — DEPARTMENT OF WATER RESOURCES
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$13k/mo
 - 🕒 **Posted:** 2026-06-16
