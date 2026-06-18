@@ -1,13 +1,175 @@
 {
-  "scraped_at": "2026-06-18 03:29 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-06-18 16:30 UTC",
+  "total": 19,
+  "new_count": 19,
   "jobs": [
     {
-      "company": "Fyfe",
-      "title": "Principal Environmental Scientist - Contaminated Land",
+      "company": "Pharmaron",
+      "title": "Senior Director, Toxicology",
+      "location": "Ningbo, Zhejiang, China",
+      "url": "https://www.linkedin.com/jobs/view/4419969504/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Hobart, Tasmania, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427858275/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Melbourne, Victoria, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427849329/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pharmaron",
+      "title": "(Senior) Director, Toxicology",
+      "location": "Beijing, Beijing, China",
+      "url": "https://www.linkedin.com/jobs/view/4417263278/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Geosyntec Consultants",
+      "title": "Experienced Environmental Data Manager",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418835933/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Technical Specialist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4411413163/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Technical Specialist",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4411417125/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411419053/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Manager",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4411417124/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Manager",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4411408552/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Director",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411422027/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Director",
+      "location": "Arvada, CO",
+      "url": "https://www.linkedin.com/jobs/view/4411407560/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Townsville, Queensland, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427846397/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
       "location": "Adelaide, South Australia, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4428776800/",
+      "url": "https://www.linkedin.com/jobs/view/4427852324/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Darwin, Northern Territory, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427852323/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Perth, Western Australia, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427859281/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Brisbane, Queensland, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427858272/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Canberra, Australian Capital Territory, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427849328/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427850337/",
       "date_posted": "2026-06-18",
       "salary": "",
       "ats": "LinkedIn"
@@ -15,10 +177,172 @@
   ],
   "new_jobs": [
     {
-      "company": "Fyfe",
-      "title": "Principal Environmental Scientist - Contaminated Land",
+      "company": "Pharmaron",
+      "title": "Senior Director, Toxicology",
+      "location": "Ningbo, Zhejiang, China",
+      "url": "https://www.linkedin.com/jobs/view/4419969504/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Hobart, Tasmania, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427858275/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Melbourne, Victoria, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427849329/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pharmaron",
+      "title": "(Senior) Director, Toxicology",
+      "location": "Beijing, Beijing, China",
+      "url": "https://www.linkedin.com/jobs/view/4417263278/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Geosyntec Consultants",
+      "title": "Experienced Environmental Data Manager",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418835933/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Technical Specialist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4411413163/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Technical Specialist",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4411417125/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411419053/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Manager",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4411417124/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Manager",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4411408552/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Director",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411422027/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Air Quality Project Director",
+      "location": "Arvada, CO",
+      "url": "https://www.linkedin.com/jobs/view/4411407560/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Townsville, Queensland, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427846397/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
       "location": "Adelaide, South Australia, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4428776800/",
+      "url": "https://www.linkedin.com/jobs/view/4427852324/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Darwin, Northern Territory, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427852323/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Perth, Western Australia, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427859281/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Brisbane, Queensland, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427858272/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Canberra, Australian Capital Territory, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427849328/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ACCC",
+      "title": "Regulation Officer, APS5, Risk Assessment and Operations (EA2026/131)",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4427850337/",
       "date_posted": "2026-06-18",
       "salary": "",
       "ats": "LinkedIn"
