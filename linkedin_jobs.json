@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-18 22:00 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-06-18 22:58 UTC",
+  "total": 5,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Proclinical Staffing",
+      "title": "Toxicology Director",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4429982477/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
     {
       "company": "worldswin",
       "title": "Hazardous Materials & Occupational Hygiene Consultant - Senior to Senior Associate-levelHybrid",
@@ -40,5 +49,15 @@
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Proclinical Staffing",
+      "title": "Toxicology Director",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4429982477/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ]
 }
