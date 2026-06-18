@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-06-18 18:15 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Thousand Oaks, CA",
-      "url": "https://www.linkedin.com/jobs/view/4430725002/",
-      "date_posted": "2026-06-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Thousand Oaks, CA",
-      "url": "https://www.linkedin.com/jobs/view/4430725002/",
-      "date_posted": "2026-06-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-06-18 19:10 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
