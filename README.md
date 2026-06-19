@@ -45,12 +45,12 @@ Use this when GitHub blocks forking because you already own the repo, or when yo
    cp config.example.json config.json
    cp scoring_profile.example.json scoring_profile.json
    # edit both files, then:
-   git add config.json scoring_profile.json
+   git add -f config.json scoring_profile.json
    git commit -m "chore: personal config"
    git push
    ```
 
-See [FORK_SETUP.md](FORK_SETUP.md) for the full secrets and Pages checklist.
+   > `config.json` and `scoring_profile.json` are gitignored upstream (so upstream never overwrites them), which is why `-f` is required.
 
 ---
 
@@ -104,8 +104,15 @@ Want it on a custom domain (like `you.com/jobs`)? See [Managing a custom domain]
 
 ## Step 4 — Turn on the scrapers (GitHub Actions)
 
-1.  Open the **Actions** tab → click **"I understand my workflows, enable them."**
-2.  **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → **Save**. (This lets the scrapers commit the jobs they find back to your repo.)
+1. Open the **Actions** tab → click **"I understand my workflows, enable them."**
+2. **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → **Save**.
+3. **Settings → Secrets and variables → Actions → Variables tab** → add a new variable:
+
+   | Variable | Value |
+   |----------|-------|
+   | `ENABLE_DATA_COMMITS` | `true` |
+
+   This tells CI to commit scraped results back to your repo. Without it, scrapers run but nothing is saved. The upstream template repo deliberately leaves this unset so its CI never commits data that would conflict with your copy when you sync.
 
 ## Step 5 — Run it the first time
 
@@ -424,19 +431,31 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
 ## Repo Structure
 
 ```
-├── config.json                     # ⭐ YOUR settings: keywords, locations, employers, branding
-├── docs/cv-to-config-prompt.md     # LLM prompt to generate config.json from a CV
+├── config.example.json             # ⭐ Template config — copy to config.json and edit
+├── scoring_profile.example.json    # Template scoring profile — copy to scoring_profile.json
+├── config.json                     # YOUR settings (gitignored; not committed upstream)
+├── scoring_profile.json            # YOUR scoring weights (gitignored; not committed upstream)
+├── triage.html                     # Interactive dashboard (served by GitHub Pages)
 ├── scrape_jobs.py                  # All scraping logic (reads config.json)
 ├── notify.py                       # Pushover notifications (optional)
 ├── triage_agent.py                 # Optional nightly fit-scoring agent (Claude API)
-├── eval_triage.py                  # Golden-case evals for the triage agent (legacy ML cases)
+├── eval_triage.py                  # Golden-case evals for the triage agent
 ├── requirements.txt                # python-jobspy (Indeed only)
-├── jobs.{json,md,html}             # Priority-employer digest (last 24h)
-├── linkedin_jobs.{json,md,html}    # LinkedIn watcher (last 1h)
-├── indeed_jobs.{json,md,html}      # Indeed watcher (last 24h)
-├── all_jobs.json                   # Cumulative 14-day master
-├── scores.json                     # Triage verdicts (optional)
-├── triage.html                     # Interactive dashboard
+├── output/                         # Scraped data — gitignored upstream, populated by your CI
+│   ├── jobs.{json,md,html}         # Priority-employer digest (last 24h)
+│   ├── linkedin_jobs.{json,md,html}
+│   ├── indeed_jobs.{json,md,html}
+│   ├── calcareers_jobs.{json,md,html}
+│   ├── usajobs_jobs.{json,md,html}
+│   ├── governmentjobs_jobs.{json,md,html}
+│   ├── calopps_jobs.{json,md,html}
+│   ├── all_jobs.json               # Cumulative 14-day master (feeds dashboard + triage)
+│   ├── scores.json                 # Triage verdicts (optional)
+│   ├── notified.json               # Push-notification dedup log
+│   └── workflow_runs.jsonl         # CI run audit log
+├── docs/
+│   ├── cv-to-config-prompt.md      # LLM prompt to generate config.json from a CV
+│   └── triage.gif                  # Dashboard demo
 └── .github/workflows/
     ├── scrape_jobs.yml             # Daily — priority-employer digest
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h)
@@ -447,7 +466,8 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
     ├── linkedin_watch_backup.yml   # Watchdog :33 PT — re-dispatches missed runs
     ├── weekly_digest.yml           # Weekly — optional Pushover summary brief
     ├── triage.yml                  # Nightly — optional fit scoring (needs secrets)
-    └── evals.yml                   # Triage-agent evals (optional)
+    ├── evals.yml                   # Triage-agent evals (optional)
+    └── sync_upstream.yml           # Weekly — auto-merge code updates from upstream
 ```
 
 ## Tuning the search
