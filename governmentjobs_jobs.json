@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-06-18 17:27 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-06-19 17:07 UTC",
+  "total": 3,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "City of Salem",
+      "title": "Stormwater Quality Seasonal Maintenance Worker",
+      "location": "1457 23rd St SE Salem, OR",
+      "url": "https://www.governmentjobs.com/jobs/5373090-0/stormwater-quality-seasonal-maintenance-worker",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Sacramento",
+      "title": "Utilities Operations and Maintenance Superintendent (Water Quality Lab and R&D)",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5348244-0/utilities-operations-and-maintenance-superintendent-water-quality-lab-and-rd",
+      "date_posted": "",
+      "salary": "$114,176.67 - $160,658.04 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "Bay Area Air District",
       "title": "Senior Air Quality Specialist (Ambient Air Quality Analysis)",
@@ -13,5 +31,24 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Salem",
+      "title": "Stormwater Quality Seasonal Maintenance Worker",
+      "location": "1457 23rd St SE Salem, OR",
+      "url": "https://www.governmentjobs.com/jobs/5373090-0/stormwater-quality-seasonal-maintenance-worker",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Sacramento",
+      "title": "Utilities Operations and Maintenance Superintendent (Water Quality Lab and R&D)",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5348244-0/utilities-operations-and-maintenance-superintendent-water-quality-lab-and-rd",
+      "date_posted": "",
+      "salary": "$114,176.67 - $160,658.04 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
