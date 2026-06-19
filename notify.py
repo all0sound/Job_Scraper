@@ -124,6 +124,46 @@ def _load_config() -> dict:
         return {}
 
 
+def _repair_json_regex_escapes(text: str) -> str:
+    r"""LLMs often emit regex JSON with single backslashes, e.g. "\bword\b"
+    or "\d+". JSON either rejects those escapes or turns "\b" into a backspace.
+    This keeps already-valid JSON escapes intact while doubling regex escapes."""
+    out = []
+    in_string = False
+    i = 0
+    regex_escapes = set("AbBdDsSwWZzGQE.?+*^$()[]{}|-")
+    while i < len(text):
+        ch = text[i]
+        if ch == '"':
+            # Count preceding backslashes to decide whether this quote is escaped.
+            bs = 0
+            j = i - 1
+            while j >= 0 and text[j] == "\\":
+                bs += 1
+                j -= 1
+            if bs % 2 == 0:
+                in_string = not in_string
+            out.append(ch)
+            i += 1
+            continue
+        if in_string and ch == "\\" and i + 1 < len(text):
+            nxt = text[i + 1]
+            if nxt in {'"', "\\", "/", "u", "n", "r", "t"}:
+                out.append(ch)
+                out.append(nxt)
+            elif nxt in regex_escapes:
+                out.append("\\\\")
+                out.append(nxt)
+            else:
+                out.append("\\\\")
+                out.append(nxt)
+            i += 2
+            continue
+        out.append(ch)
+        i += 1
+    return "".join(out)
+
+
 def _compile_patterns(items: list) -> list:
     out = []
     for item in items or []:
@@ -133,7 +173,7 @@ def _compile_patterns(items: list) -> list:
         try:
             out.append(re.compile(str(pattern), re.I))
         except re.error as e:
-            print(f"  ⚠️  scoring_profile.json ignored invalid regex {pattern!r}: {e}")
+            print(f"  Warning: scoring_profile.json ignored invalid regex {pattern!r}: {e}")
     return out
 
 
@@ -153,7 +193,7 @@ def _compile_weighted_patterns(items: list, value_key: str) -> list:
             value = float(value)
             out.append((re.compile(str(pattern), re.I), value))
         except (TypeError, ValueError, re.error) as e:
-            print(f"  ⚠️  scoring_profile.json ignored invalid scoring rule {pattern!r}: {e}")
+            print(f"  Warning: scoring_profile.json ignored invalid scoring rule {pattern!r}: {e}")
     return out
 
 
@@ -170,12 +210,13 @@ def _scoring_profile() -> dict:
     }
     try:
         with open(SCORING_PROFILE_PATH, encoding="utf-8") as f:
-            raw = json.load(f)
+            raw_text = f.read()
+            raw = json.loads(_repair_json_regex_escapes(raw_text))
     except FileNotFoundError:
         _SCORING_PROFILE = profile
         return profile
     except json.JSONDecodeError as e:
-        print(f"  ⚠️  scoring_profile.json is invalid JSON; using built-in scoring ({e})")
+        print(f"  Warning: scoring_profile.json is invalid JSON even after regex-escape repair; using built-in scoring ({e})")
         _SCORING_PROFILE = profile
         return profile
 
@@ -192,9 +233,15 @@ def _scoring_profile() -> dict:
                 if key in settings:
                     profile["settings"][key] = float(settings[key])
             except (TypeError, ValueError):
-                print(f"  ⚠️  scoring_profile.json ignored invalid setting {key!r}")
+                print(f"  Warning: scoring_profile.json ignored invalid setting {key!r}")
 
     _SCORING_PROFILE = profile
+    print(
+        "scoring_profile.json loaded: "
+        f"{len(profile['fit_terms'])} fit, "
+        f"{len(profile['signature_terms'])} signature, "
+        f"{len(profile['poor_fit_terms'])} penalty rule(s)"
+    )
     return profile
 
 

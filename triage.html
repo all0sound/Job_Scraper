@@ -524,11 +524,34 @@
       return re && Number.isFinite(value) ? [re, value] : null;
     }).filter(Boolean);
   }
+  function repairJsonRegexEscapes(text) {
+    const regexEscapes = new Set('AbBdDsSwWZzGQE.?+*^$()[]{}|-'.split(''));
+    let out = '', inString = false;
+    for (let i = 0; i < text.length; i++) {
+      const ch = text[i];
+      if (ch === '"') {
+        let bs = 0;
+        for (let j = i - 1; j >= 0 && text[j] === '\\'; j--) bs++;
+        if (bs % 2 === 0) inString = !inString;
+        out += ch;
+        continue;
+      }
+      if (inString && ch === '\\' && i + 1 < text.length) {
+        const nxt = text[++i];
+        if ('"\\/unrt'.includes(nxt)) out += '\\' + nxt;
+        else if (regexEscapes.has(nxt)) out += '\\\\' + nxt;
+        else out += '\\\\' + nxt;
+        continue;
+      }
+      out += ch;
+    }
+    return out;
+  }
   async function loadScoringProfile(bust) {
     try {
       const r = await fetch('scoring_profile.json' + bust);
       if (!r.ok) return;
-      const profile = await r.json();
+      const profile = JSON.parse(repairJsonRegexEscapes(await r.text()));
       const fit = compileWeightedRules(profile.fit_terms, 'weight');
       const signatures = Array.isArray(profile.signature_terms)
         ? profile.signature_terms.map(compileScoringRegex).filter(Boolean) : [];
@@ -1092,13 +1115,29 @@
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
 
-  // Resume-fit chip (always shown). Color by tier; tooltip notes the agent
-  // score too, when the optional nightly triage agent has scored this URL.
+  function rankScore(j) {
+    const hasAgent = j._score != null;
+    const value = hasAgent ? j._score : (j._fit == null ? 0 : j._fit);
+    return {
+      value,
+      source: hasAgent ? 'agent' : 'profile',
+      detail: hasAgent
+        ? `Agent score ${j._score}/100${j._verdict ? ` (${j._verdict})` : ''}; profile fallback ${j._fit ?? 0}/100`
+        : `Profile score ${value}/100 from deterministic scoring profile`,
+    };
+  }
+
+  function scoreMeta(j) {
+    const s = rankScore(j);
+    return `Best-fit score ${s.value}/100 (${s.source})`;
+  }
+
+  // Best-fit chip (always shown). It uses the same score the Rank view sorts by:
+  // optional agent score first, then deterministic profile score.
   function fitChip(j) {
-    const f = j._fit == null ? 0 : j._fit;
-    const cls = f >= 60 ? 'hi' : f >= 30 ? 'mid' : 'lo';
-    const agent = j._score != null ? ` · agent ${j._score}${j._verdict ? ' (' + j._verdict + ')' : ''}` : '';
-    return `<span class="scorechip fit ${cls}" title="Resume fit ${f}/100${escape(agent)}">${f}</span>`;
+    const s = rankScore(j);
+    const cls = s.value >= 60 ? 'hi' : s.value >= 30 ? 'mid' : 'lo';
+    return `<span class="scorechip fit ${cls}" title="${escape(s.detail)}">${s.value}</span>`;
   }
 
   function renderJobs() {
@@ -1113,12 +1152,16 @@
 
     let jobs = visibleJobs();
     if (viewMode === 'rank') {
-      // Best-fit order by resume match; agent score breaks ties.
-      jobs = jobs.slice().sort((a, b) => (b._fit - a._fit) || ((b._score ?? -1) - (a._score ?? -1)));
+      // Best-fit order by the same score displayed on each card: optional
+      // scores.json agent score first, deterministic scoring_profile fallback.
+      jobs = jobs.slice().sort((a, b) =>
+        (rankScore(b).value - rankScore(a).value)
+        || ((b._fit ?? -1) - (a._fit ?? -1))
+        || (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0));
       const nIrr = VIEW.filter(j => state.triage[j.url] === 'irrelevant').length;
       info.hidden = false;
-      info.textContent = '★ Best fit — ranked by match to your specializations '
-        + '(microplastics, ecotoxicology, risk assessment, exposure, QSAR, PFAS, drinking water…)'
+      info.textContent = '★ Best fit — ranked by best available score '
+        + '(agent score from scores.json when present; otherwise deterministic scoring_profile score)'
         + (nIrr ? ` · learning from ${nIrr} “not relevant” mark${nIrr === 1 ? '' : 's'}` : '');
     } else {
       info.hidden = true;
@@ -1132,6 +1175,7 @@
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
+      const score = viewMode === 'rank' ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const star = j._star
         ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
         : '';
@@ -1144,6 +1188,7 @@
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
             <span>🕒 ${escape(j.date_posted || '')}</span>
+            ${score}
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
@@ -1326,10 +1371,10 @@
     buckets.forEach(b => {
       const n = b.jobs.length;
       const r = 7 + 13 * Math.sqrt(n / maxN);
-      const top = b.jobs.slice().sort((x, y) => y._fit - x._fit).slice(0, 12);
+      const top = b.jobs.slice().sort((x, y) => rankScore(y).value - rankScore(x).value).slice(0, 12);
       const list = top.map(j =>
         `<div style="margin:3px 0">${j._star ? '<span style="color:#d97706">★</span> ' : ''}`
-        + `<a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a> <span style="color:#888">· fit ${j._fit}</span>`
+        + `<a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a> <span style="color:#888">· score ${rankScore(j).value}</span>`
         + `<br><span style="color:#666">${escape(j.company)}${j._salDisp ? ' · ' + escape(j._salDisp) : ''}</span></div>`).join('');
       const where = b.remote ? 'Remote / Statewide' : escape(top[0].location || 'California');
       const m = L.circleMarker([b.lat, b.lng], {
@@ -1338,7 +1383,7 @@
       }).addTo(_markerLayer);
       m.bindTooltip(`${where}: ${n} role${n === 1 ? '' : 's'}`, { direction: 'top' });
       m.bindPopup(`<strong>${where}</strong> — ${n} role${n === 1 ? '' : 's'}`
-        + `${n > top.length ? ` (top ${top.length} by fit)` : ''}<div style="max-height:240px;overflow:auto;margin-top:4px">${list}</div>`,
+        + `${n > top.length ? ` (top ${top.length} by score)` : ''}<div style="max-height:240px;overflow:auto;margin-top:4px">${list}</div>`,
         { maxWidth: 320 });
     });
 

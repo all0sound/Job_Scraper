@@ -1,4 +1,4 @@
-﻿# 🧪 Job Scraper + Triage Dashboard
+# 🧪 Job Scraper + Triage Dashboard
 
 GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, USAJOBS, NEOGOV, CalOpps, CalCareers) on a schedule, commit the results to the repo, and surface them in a single filterable [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard hosted **free** on GitHub Pages — with a map, salary harmonization, cross-source de-duplication, save/applied/dismiss triage, and optional phone notifications. **No server, no paid services, and no API keys required.**
 
@@ -249,19 +249,19 @@ Weekly brief: the `Weekly Job Digest` workflow runs Monday morning and is off by
 
 #### Calibrating fallback fit scoring
 
-The weekly digest does not need an LLM at send time. When `scores.json` is empty, it uses deterministic criteria to pick the closest matches. If `scoring_profile.json` exists, both `notify.py` and `triage.html` use that file; otherwise they fall back to the built-in example scoring. Calibrate `scoring_profile.json` from a real gold-standard duty statement before trusting the fallback. A gold-standard role is the kind of posting that should be treated as a perfect match for the target user and score `100`.
+The weekly digest does not need an LLM at send time. When `scores.json` is empty, it uses deterministic criteria in `notify.py` (`FIT_TERMS`, `SIGNATURE_TERMS`, and `POOR_FIT_TERMS`) to pick the closest matches. Calibrate those criteria from a real gold-standard duty statement before trusting the fallback. A gold-standard role is the kind of posting that should be treated as a perfect match for the target user and score `100`.
 
 Beginner workflow:
 
-1. Collect examples. You do not need to read or paste code.
-   - 1-3 perfect-fit job descriptions or duty statements that should score `100`.
-   - 5-10 good-fit jobs that should score roughly `70-89`.
-   - 10-20 false positives that should score below `25`.
-   - Your CV/resume, or a short profile of your target roles.
-2. Paste the "simple calibration prompt" below into your preferred LLM.
-3. In GitHub, create or edit a file named `scoring_profile.json` at the repo root.
-4. Paste the LLM's JSON output into that file and commit it.
-5. Run `python notify.py --weekly-digest --dry-run` or manually dispatch the weekly digest workflow and check whether the listed matches look right.
+1.  Collect examples. You do not need to read or paste code.
+    -   1-3 perfect-fit job descriptions or duty statements that should score `100`.
+    -   5-10 good-fit jobs that should score roughly `70-89`.
+    -   10-20 false positives that should score below `25`.
+    -   Your CV/resume, or a short profile of your target roles.
+2.  Paste the "simple calibration prompt" below into your preferred LLM.
+3.  In GitHub, create or edit a file named `scoring_profile.json` at the repo root.
+4.  Paste the LLM's JSON output into that file and commit it.
+5.  Run `python notify.py --weekly-digest --dry-run` or manually dispatch the weekly digest workflow and check whether the listed matches look right.
 
 Simple calibration prompt:
 
