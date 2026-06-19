@@ -1,44 +1,26 @@
 {
-  "scraped_at": "2026-06-19 03:30 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-06-19 16:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Tetra Tech",
-      "title": "Remediation Associate",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425918279/",
+      "company": "Jacobs",
+      "title": "Mid-Level Environmental Scientist/Ecological Risk Assessor",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402614450/",
       "date_posted": "2026-06-19",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Melbourne Water",
-      "title": "Manager Drinking Water Research",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4427889569/",
-      "date_posted": "2026-06-19",
-      "salary": "",
+      "salary": "$98,900.00/yr - $149,600.00/yr",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tetra Tech",
-      "title": "Remediation Associate",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425918279/",
+      "company": "Jacobs",
+      "title": "Mid-Level Environmental Scientist/Ecological Risk Assessor",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402614450/",
       "date_posted": "2026-06-19",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Melbourne Water",
-      "title": "Manager Drinking Water Research",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4427889569/",
-      "date_posted": "2026-06-19",
-      "salary": "",
+      "salary": "$98,900.00/yr - $149,600.00/yr",
       "ats": "LinkedIn"
     }
   ]

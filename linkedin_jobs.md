@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-19 03:30 UTC*
+*Last updated: 2026-06-19 16:17 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Remediation Associate](https://www.linkedin.com/jobs/view/4425918279/) — Tetra Tech
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Manager Drinking Water Research](https://www.linkedin.com/jobs/view/4427889569/) — Melbourne Water
-- 📍 **Location:** Melbourne, Victoria, Australia
+### [Mid-Level Environmental Scientist/Ecological Risk Assessor](https://www.linkedin.com/jobs/view/4402614450/) — Jacobs
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $98,900.00/yr - $149,600.00/yr
 - 🕒 **Posted:** 2026-06-19
