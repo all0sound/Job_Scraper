@@ -9,6 +9,12 @@ on:
   schedule:
     - cron: "47 15-23,0-3 * * *"
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: "One-time backfill: fetch last 50 days instead of last 24h (run once when setting up)"
+        required: false
+        type: boolean
+        default: false
 
 concurrency:
   group: job-scraper-commit-push
@@ -36,8 +42,13 @@ jobs:
       - name: Install Indeed deps
         run: pip install -r requirements.txt
 
-      - name: Scrape Indeed (last 24h)
-        run: python scrape_jobs.py --indeed-only
+      - name: Scrape Indeed (last 24h, or 50-day backfill)
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scrape_jobs.py --indeed-backfill
+          else
+            python scrape_jobs.py --indeed-only
+          fi
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}

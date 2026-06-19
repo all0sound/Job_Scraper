@@ -6,6 +6,12 @@ on:
   schedule:
     - cron: "22 16 * * *"
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: "One-time backfill: fetch last 60 days of NEOGOV instead of 21 (run once when setting up)"
+        required: false
+        type: boolean
+        default: false
 
 concurrency:
   group: job-scraper-commit-push
@@ -28,8 +34,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Scrape GovernmentJobs / NEOGOV (CA/OR state & local)
-        run: python scrape_jobs.py --governmentjobs-only
+      - name: Scrape GovernmentJobs / NEOGOV (CA/OR state & local, or 60-day backfill)
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scrape_jobs.py --governmentjobs-backfill
+          else
+            python scrape_jobs.py --governmentjobs-only
+          fi
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}

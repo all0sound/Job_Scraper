@@ -75,9 +75,24 @@ Want it on a custom domain (like `you.com/jobs`)? See [Managing a custom domain]
 
 ## Step 5 — Run it the first time
 
-In the **Actions** tab, open each watcher and click **Run workflow** (afterwards they run automatically on a schedule): - **LinkedIn** and **Indeed** watchers (work anywhere). - **USAJOBS** (US federal). **NEOGOV** / **CalOpps** / **CalCareers** are US / California public-sector boards — run them only if relevant, or [disable them](#turning-sources-on--off).
+In the **Actions** tab, open each watcher and click **Run workflow**. Afterwards they run automatically on their schedule — this first manual run seeds your dataset.
 
-Give it 1–2 minutes, then open your `…/triage.html` URL. 🎉 Hard-refresh (ctrl+R) after each scrape to see new jobs.
+**One-time historical backfill (recommended for new setups):**
+
+Several watchers have a `backfill` toggle in the "Run workflow" dialog that pulls a longer historical window to give you a full initial picture:
+
+| Watcher | Default window | Backfill window |
+|---|---|---|
+| **LinkedIn Watcher** | last 1 hour | last 30 days |
+| **Indeed Watcher** | last 24 hours | last 50 days |
+| **Priority Employer Digest** | last 24 hours | last 30 days |
+| **Local & State Gov Watcher (NEOGOV)** | last 21 days | last 60 days |
+
+To use: **Actions → [Watcher name] → Run workflow → check "One-time backfill" → Run workflow**.
+
+**No backfill needed** for **CalCareers**, **USAJOBS**, and **CalOpps** — these sources return all current open listings on every run, so a single normal run is already a full snapshot.
+
+Give it 1–2 minutes per watcher, then open your `…/triage.html` URL. 🎉 Hard-refresh (ctrl+R) after each scrape to see new jobs.
 
 ## Step 6 — Phone notifications (optional)
 

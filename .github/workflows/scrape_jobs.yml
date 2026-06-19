@@ -7,6 +7,12 @@ on:
     - cron: "13 3 * * *"
 
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: "One-time backfill: fetch last 30 days of priority-employer LinkedIn instead of 24h (run once when setting up)"
+        required: false
+        type: boolean
+        default: false
 
 concurrency:
   group: job-scraper-commit-push
@@ -29,8 +35,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run scraper (priority-employer LinkedIn, last 24h, allowlist-filtered)
-        run: python scrape_jobs.py --biotech-only
+      - name: Run scraper (priority-employer LinkedIn, last 24h, or 30-day backfill)
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scrape_jobs.py --priority-backfill
+          else
+            python scrape_jobs.py --biotech-only
+          fi
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}

@@ -919,6 +919,7 @@ def scrape_linkedin_biotech() -> list:
 
 INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h window
 # returns almost nothing; the hourly watcher's cross-run dedupe trims the overlap.
+INDEED_BACKFILL_DAYS = 50  # one-time historical backfill window
 
 # Indeed geographies. country sets the Indeed domain (USA → indeed.com,
 # Australia → au.indeed.com). Searched per term, so we use a tighter term list
@@ -942,9 +943,10 @@ INDEED_SEARCH_TERMS = _cfg("search_terms.indeed", [
 INDEED_JD_MAX_CHARS = 6000
 
 
-def scrape_indeed_recent() -> list:
-    """Indeed MLE/DS roles posted in the last INDEED_LOOKBACK_HOURS, SF Bay Area."""
-    print(f"🟦 Scraping Indeed (last {INDEED_LOOKBACK_HOURS}h)...")
+def scrape_indeed_recent(hours_old: int | None = None) -> list:
+    """Indeed MLE/DS roles posted in the last hours_old hours (default INDEED_LOOKBACK_HOURS)."""
+    h = hours_old if hours_old is not None else INDEED_LOOKBACK_HOURS
+    print(f"🟦 Scraping Indeed (last {h}h)...")
     try:
         from jobspy import scrape_jobs as jobspy_scrape
     except ImportError:
@@ -967,7 +969,7 @@ def scrape_indeed_recent() -> list:
                 search_term=term,
                 location=geo["location"],
                 results_wanted=50,
-                hours_old=INDEED_LOOKBACK_HOURS,
+                hours_old=h,
                 country_indeed=geo["country"],
             )
         except Exception as e:
@@ -1313,12 +1315,14 @@ GOVERNMENTJOBS_TERMS = [
     "hazardous materials", "environmental specialist",
 ]
 GOVERNMENTJOBS_DAYS = 21
+GOVERNMENTJOBS_BACKFILL_DAYS = 60  # one-time historical backfill window
 GOVERNMENTJOBS_PAGES = 2
 
 
-def scrape_governmentjobs_recent() -> list:
+def scrape_governmentjobs_recent(days: int | None = None) -> list:
     """State/local-gov env roles via governmentjobs.com, filtered to CA/OR."""
-    print("🏛  Scraping GovernmentJobs/NEOGOV (state & local gov)...")
+    d = days if days is not None else GOVERNMENTJOBS_DAYS
+    print(f"🏛  Scraping GovernmentJobs/NEOGOV (last {d} days)...")
     item_re = re.compile(r'<li[^>]*class=["\'][^"\']*\bjob-item\b[^"\']*["\'][^>]*>([\s\S]*?)</li>', re.I)
     link_re = re.compile(r'<a[^>]*class=["\'][^"\']*\bjob-details-link\b[^"\']*["\'][^>]*href=["\']([^"\']+)["\'][^>]*>([\s\S]*?)</a>', re.I)
     org_re = re.compile(r'<div[^>]*class=["\'][^"\']*\bjob-organization\b[^"\']*["\'][^>]*>([\s\S]*?)</div>', re.I)
@@ -1334,7 +1338,7 @@ def scrape_governmentjobs_recent() -> list:
         for page in range(1, GOVERNMENTJOBS_PAGES + 1):
             time.sleep(REQUEST_DELAY)
             url = (f"{GOVERNMENTJOBS_BASE}/jobs?keyword={urllib.parse.quote(term)}"
-                   f"&daysposted={GOVERNMENTJOBS_DAYS}&isFiltered=true&page={page}")
+                   f"&daysposted={d}&isFiltered=true&page={page}")
             page_html = fetch(url)
             items = item_re.findall(page_html)
             raw_items += len(items)
@@ -1852,6 +1856,11 @@ if __name__ == "__main__":
         save_indeed_results(scrape_indeed_recent())
         sys.exit(0)
 
+    if "--indeed-backfill" in sys.argv:
+        print(f"🔁 Indeed backfill (last {INDEED_BACKFILL_DAYS} days)…")
+        save_indeed_results(scrape_indeed_recent(hours_old=INDEED_BACKFILL_DAYS * 24))
+        sys.exit(0)
+
     if "--linkedin-only" in sys.argv:
         save_linkedin_results(scrape_linkedin_recent())
         sys.exit(0)
@@ -1881,6 +1890,11 @@ if __name__ == "__main__":
         save_governmentjobs_results(scrape_governmentjobs_recent())
         sys.exit(0)
 
+    if "--governmentjobs-backfill" in sys.argv:
+        print(f"🔁 GovernmentJobs/NEOGOV backfill (last {GOVERNMENTJOBS_BACKFILL_DAYS} days)…")
+        save_governmentjobs_results(scrape_governmentjobs_recent(days=GOVERNMENTJOBS_BACKFILL_DAYS))
+        sys.exit(0)
+
     if "--calopps-only" in sys.argv:
         save_calopps_results(scrape_calopps_recent())
         sys.exit(0)
@@ -1908,6 +1922,29 @@ if __name__ == "__main__":
               f"(from {len(jobs)} across sources)")
 
         save_biotech_linkedin_results(deduped)
+        sys.exit(0)
+
+    if "--priority-backfill" in sys.argv:
+        # One-time backfill for priority employers: uses the same 30-day LinkedIn
+        # window as --linkedin-backfill but filtered to the priority-employer allowlist.
+        backfill_s = LINKEDIN_BACKFILL_DAYS * 24 * 3600
+        print(f"🔁 Priority Employer backfill (last {LINKEDIN_BACKFILL_DAYS} days)…")
+        raw, _ = _linkedin_search(list(LINKEDIN_SEARCH_TERMS), backfill_s)
+        jobs = [j for j in raw if _is_biotech_company(j["company"])]
+        if jobs:
+            _enrich_linkedin_postings(jobs)
+        jobs = list(scrape_curated_biotechs()) + jobs
+        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        seen: set[tuple[str, str]] = set()
+        deduped_p: list[dict] = []
+        for j in jobs:
+            key = (j["company"].strip().lower(), j["title"].strip().lower())
+            if key in seen:
+                continue
+            seen.add(key)
+            deduped_p.append(j)
+        print(f"  ✅ Backfill: {len(deduped_p)} unique priority-employer role(s)")
+        save_biotech_linkedin_results(deduped_p)
         sys.exit(0)
 
     # Legacy default: direct-ATS sweep (CURATED_BIOTECHS). Empty by default for
