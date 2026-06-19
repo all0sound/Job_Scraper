@@ -67,5 +67,5 @@ jobs:
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
           git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase origin main
+          git pull --rebase -X ours origin main
           git push

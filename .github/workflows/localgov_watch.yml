@@ -49,5 +49,5 @@ jobs:
           git add -f output/governmentjobs_jobs.json output/governmentjobs_jobs.md output/governmentjobs_jobs.html \
                      output/calopps_jobs.json output/calopps_jobs.md output/calopps_jobs.html output/all_jobs.json output/notified.json
           git diff --cached --quiet || git commit -m "chore: update local-gov listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase origin main
+          git pull --rebase -X ours origin main
           git push

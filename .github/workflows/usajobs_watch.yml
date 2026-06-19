@@ -41,5 +41,5 @@ jobs:
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f output/usajobs_jobs.json output/usajobs_jobs.md output/usajobs_jobs.html output/all_jobs.json output/notified.json
           git diff --cached --quiet || git commit -m "chore: update usajobs listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase origin main
+          git pull --rebase -X ours origin main
           git push
