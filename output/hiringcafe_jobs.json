@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-20 19:29 UTC",
-  "total": 53,
-  "new_count": 1,
+  "scraped_at": "2026-06-20 20:25 UTC",
+  "total": 51,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -285,19 +285,6 @@
       "date_posted": "2026-06-15T13:57:24.000Z",
       "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
       "salary": "$50k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cherokee Federal",
-      "title": "Environmental Scientist Journeyman",
-      "location": "Murfreesboro, Tennessee, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/42560",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/42560",
-      "date_posted": "2026-05-21T20:23:28.000Z",
-      "description": "Bachelor’s in engineering or science; 3-10 years in environmental restoration; U.S. citizenship and Secret clearance; contract experience; MS Office proficiency.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -678,34 +665,7 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Integral Consulting Inc",
-      "title": "Environmental Chemist/Scientist",
-      "location": "Santa Cruz, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3944462",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3944462",
-      "date_posted": "2026-05-21T19:41:35.005Z",
-      "description": "Chemist with 3-5 years of experience in reviewing and validating environmental data, managing a small wet laboratory, and supporting field programs.",
-      "salary": "$52k–$75k/yr",
-      "job_type": "Full Time, Internship, Temporary, Contract, Part Time, Seasonal, Volunteer",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Other Agencies and Independent Organizations",
-      "title": "Pharmacologist/Physiologist/Toxicologist",
-      "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872779100",
-      "direct_url": "https://www.usajobs.gov/job/872779100",
-      "date_posted": "2026-06-11T15:08:14.100Z",
-      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
-      "salary": "$85k–$158k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
