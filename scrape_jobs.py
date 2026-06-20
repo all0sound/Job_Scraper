@@ -965,7 +965,10 @@ def _jobspy_proxies():
 
 
 def _jobspy_user_agent():
-    return str(_cfg("jobspy.user_agent", os.environ.get("JOBSPY_USER_AGENT", "")) or "") or None
+    raw = _cfg("jobspy.user_agent", None)
+    if raw in (None, "", []):
+        raw = os.environ.get("JOBSPY_USER_AGENT", "")
+    return str(raw or "").strip() or None
 
 # jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
 # in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
@@ -1288,7 +1291,14 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
             url = "https://hiring.cafe/job/" + urllib.parse.quote(job_id)
     if not url:
         return None
-    company = str(_deep_first(raw, ("company", "companyName", "company_name", "source", "employer", "organization")) or "Unknown")
+    company = _deep_first(raw, ("company_name", "companyName", "employer_name", "organization_name"))
+    if not company:
+        enriched_company = raw.get("enriched_company_data")
+        if isinstance(enriched_company, dict):
+            company = enriched_company.get("name")
+    if not company:
+        company = _deep_first(raw, ("company", "employer", "organization", "source"))
+    company = str(company or "Unknown")
     location = _deep_first(raw, (
         "location", "formatted_address", "formattedAddress", "formatted_workplace_location",
         "workplace_cities", "workplace_states", "workplace_countries", "city", "region",
@@ -1990,10 +2000,10 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     kept = [j for j in by_url.values() if j.get("first_seen", stamp) >= cutoff]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         # Compact separators: the dashboard downloads this file on every load.
         json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
-                  f, separators=(",", ":"))
+                  f, separators=(",", ":"), ensure_ascii=False)
     print(
         f"all_jobs.json: +{added} new, {enriched} enriched, "
         f"{len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)"
@@ -2047,8 +2057,8 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         "jobs": jobs,
         "new_jobs": new_jobs,
     }
-    with open(json_path, "w") as f:
-        json.dump(output, f, indent=2)
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
 
     lines = [
         f"# {title}",
@@ -2066,10 +2076,10 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
             if job.get("date_posted"):
                 lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
             lines.append("")
-    with open(md_path, "w") as f:
+    with open(md_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    with open(html_path, "w") as f:
+    with open(html_path, "w", encoding="utf-8") as f:
         f.write(_render_jobs_html(
             title=title,
             subtitle=subtitle,
@@ -2241,8 +2251,8 @@ def save_results(jobs: list):
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
-    with open(os.path.join(OUTPUT_DIR, "jobs.json"), "w") as f:
-        json.dump(output, f, indent=2)
+    with open(os.path.join(OUTPUT_DIR, "jobs.json"), "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
 
     lines = [
         "# 🏛 Fresh Environmental / Toxicology Job Listings (California)",
@@ -2260,10 +2270,10 @@ def save_results(jobs: list):
                 lines.append(f"- 📅 **Posted:** {job['date_posted']}")
             lines.append("")
 
-    with open(os.path.join(OUTPUT_DIR, "jobs.md"), "w") as f:
+    with open(os.path.join(OUTPUT_DIR, "jobs.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    with open(os.path.join(OUTPUT_DIR, "jobs.html"), "w") as f:
+    with open(os.path.join(OUTPUT_DIR, "jobs.html"), "w", encoding="utf-8") as f:
         f.write(_render_jobs_html(
             title=f"🏛 Fresh {PROFILE_LABEL} Job Listings",
             subtitle=f"{PROFILE_SUBTITLE} · posted in the last 24 hours",

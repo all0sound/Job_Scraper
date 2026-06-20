@@ -53,6 +53,8 @@ jobs:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+          JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
+          JOBSPY_USER_AGENT: ${{ vars.JOBSPY_USER_AGENT }}
 
       - name: Record workflow run
         run: |
