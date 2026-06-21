@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-20 19:03 UTC",
+  "scraped_at": "2026-06-21 16:45 UTC",
   "total": 11,
-  "new_count": 11,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Fish and Wildlife",
@@ -67,6 +67,15 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist (Biologist)",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521506",
+      "date_posted": "2026-06-12",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -81,15 +90,6 @@
       "location": "San Joaquin County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521940",
       "date_posted": "2026-06-17",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Environmental Scientist (Biologist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521506",
-      "date_posted": "2026-06-12",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -103,105 +103,5 @@
       "ats": "CalCareers"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=510577",
-      "date_posted": "2026-06-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Riverside County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520546",
-      "date_posted": "2026-06-05",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Environmental Scientist",
-      "location": "San Diego County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521123",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521213",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Solano County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521250",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Napa County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521254",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521257",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521876",
-      "date_posted": "2026-06-18",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521940",
-      "date_posted": "2026-06-17",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Environmental Scientist (Biologist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521506",
-      "date_posted": "2026-06-12",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Environmental Health Hazard Assessment Office",
-      "title": "Environmental Health Education and Community Science Program Specialist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518467",
-      "date_posted": "2026-05-14",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers"
-    }
-  ]
+  "new_jobs": []
 }
