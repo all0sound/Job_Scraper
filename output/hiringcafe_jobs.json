@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21 20:29 UTC",
-  "total": 44,
-  "new_count": 1,
+  "scraped_at": "2026-06-21 21:27 UTC",
+  "total": 45,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -43,13 +43,26 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Insmed",
+      "title": "Senior Scientist, Study Toxicologist",
+      "location": "Bridgewater or United States",
+      "url": "https://insmed.wd504.myworkdayjobs.com/external/job/NJ-Corporate-Headquarters/Senior-Scientist--Study-Toxicologist_R3493",
+      "direct_url": "https://insmed.wd504.myworkdayjobs.com/external/job/NJ-Corporate-Headquarters/Senior-Scientist--Study-Toxicologist_R3493",
+      "date_posted": "2026-05-29T00:00:00.000Z",
+      "description": "PhD/MS with 3 years toxicology experience or BS with 5 years; experience overseeing safety pharmacology and toxicology studies, GLP knowledge, CRO study management, SEND datasets, and regulatory submission support; occasional travel (~20%).",
+      "salary": "$133k–$173k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Other Agencies and Independent Organizations",
       "title": "Pharmacologist/Physiologist/Toxicologist",
       "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872778700",
-      "direct_url": "https://www.usajobs.gov/job/872778700",
-      "date_posted": "2026-06-11T15:06:50.420Z",
-      "description": "U.S. citizen required; Public Trust background investigation; degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework; 1+ year specialized experience in toxicology/pharmacology/physiology analyses and report preparation; transcripts required.",
+      "url": "https://www.usajobs.gov/job/872779100",
+      "direct_url": "https://www.usajobs.gov/job/872779100",
+      "date_posted": "2026-06-11T15:08:14.100Z",
+      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
       "salary": "$85k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -578,13 +591,26 @@
   ],
   "new_jobs": [
     {
+      "company": "Insmed",
+      "title": "Senior Scientist, Study Toxicologist",
+      "location": "Bridgewater or United States",
+      "url": "https://insmed.wd504.myworkdayjobs.com/external/job/NJ-Corporate-Headquarters/Senior-Scientist--Study-Toxicologist_R3493",
+      "direct_url": "https://insmed.wd504.myworkdayjobs.com/external/job/NJ-Corporate-Headquarters/Senior-Scientist--Study-Toxicologist_R3493",
+      "date_posted": "2026-05-29T00:00:00.000Z",
+      "description": "PhD/MS with 3 years toxicology experience or BS with 5 years; experience overseeing safety pharmacology and toxicology studies, GLP knowledge, CRO study management, SEND datasets, and regulatory submission support; occasional travel (~20%).",
+      "salary": "$133k–$173k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Other Agencies and Independent Organizations",
       "title": "Pharmacologist/Physiologist/Toxicologist",
       "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872778700",
-      "direct_url": "https://www.usajobs.gov/job/872778700",
-      "date_posted": "2026-06-11T15:06:50.420Z",
-      "description": "U.S. citizen required; Public Trust background investigation; degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework; 1+ year specialized experience in toxicology/pharmacology/physiology analyses and report preparation; transcripts required.",
+      "url": "https://www.usajobs.gov/job/872779100",
+      "direct_url": "https://www.usajobs.gov/job/872779100",
+      "date_posted": "2026-06-11T15:08:14.100Z",
+      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
       "salary": "$85k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
