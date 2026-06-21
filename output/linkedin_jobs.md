@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-21 22:49 UTC*
+*Last updated: 2026-06-21 23:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4428587845/) — City Of Monash
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 🕒 **Posted:** 2026-06-21
