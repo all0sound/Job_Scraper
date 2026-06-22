@@ -1,5 +1,5 @@
-# 🟧 ZipRecruiter — Environmental / Toxicology Roles
-*Last updated: 2026-06-22 18:00 UTC*
+# 🟧 ZipRecruiter — Music Technology & Audio Roles
+*Last updated: 2026-06-22 20:06 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
