@@ -1,6 +1,6 @@
-# 🏛 CalOpps — California Local-Agency Environmental / Toxicology Roles
-*Last updated: 2026-06-22 17:55 UTC*
+# 🏛 CalOpps — California Local-Agency Music Technology & Audio Roles
+*Last updated: 2026-06-22 19:44 UTC*
 
-**0 new role(s)** since last run · 3 total in recent CalOpps postings
+**0 new role(s)** since last run · 0 total in recent CalOpps postings
 
 No new CalOpps roles since the last run.
