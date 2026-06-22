@@ -13,6 +13,8 @@ Tune the search in config.json: title keywords, board-specific search terms,
 priority employers, locations, and LinkedIn geoIds / JobSpy locations.
 """
 
+from __future__ import annotations
+
 import http.cookiejar
 import base64
 import json
@@ -213,6 +215,23 @@ def is_mle_role_text(title: str, *parts: str) -> bool:
         return False
     text = " ".join([title or "", *(p or "" for p in parts)])
     return bool(_KEYWORD_RE.search(text))
+
+
+def _matches_current_config(job: dict) -> bool:
+    """Keep only jobs that still match the active config.json keywords."""
+    return is_mle_role_text(
+        str(job.get("title", "") or ""),
+        str(job.get("description", "") or ""),
+        str(job.get("summary", "") or ""),
+    )
+
+
+def _filter_current_config_jobs(jobs: list[dict], *, label: str = "jobs") -> list[dict]:
+    filtered = [j for j in jobs if _matches_current_config(j)]
+    dropped = len(jobs) - len(filtered)
+    if dropped:
+        print(f"  🧹 Dropped {dropped} stale {label} no longer matching config.json")
+    return filtered
 
 
 # Geographic scope for the curated/legacy ATS path. Primary base is California,
@@ -2692,9 +2711,10 @@ def _load_prev_jobs(json_path: str) -> list[dict]:
     """Read the `jobs` list from a previously-saved jobs JSON (empty if missing)."""
     try:
         with open(json_path, encoding="utf-8") as f:
-            return json.load(f).get("jobs", [])
+            jobs = json.load(f).get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
         return []
+    return _filter_current_config_jobs(jobs, label=os.path.basename(json_path))
 
 
 def _load_prev_ids(json_path: str) -> set[str]:
@@ -2728,6 +2748,8 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             master = json.load(f).get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
         master = []
+    master = _filter_current_config_jobs(master, label="all_jobs.json entries")
+    new_jobs = _filter_current_config_jobs(new_jobs, label="incoming jobs")
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")

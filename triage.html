@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Job Triage — Environmental / Toxicology (California)</title>
+<title>Job Triage</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -390,7 +390,7 @@
 
 <header>
   <h1>Job Triage</h1>
-  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">California · Environmental / Toxicology · loading…</span>
+  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">Loading…</span>
   <span class="grow"></span>
   <div class="theme-toggle" id="theme-controls" aria-label="Theme">
     <button type="button" data-theme-mode="system" title="Match system theme">System</button>
@@ -641,6 +641,46 @@
   //            topics, and company exclusion). These are the fallback defaults;
   //            applyConfig() overrides them from config.json at load. ----------
   let CONFIG = {};
+  let INCLUDE_KEYWORDS = [];
+  let EXCLUDE_KEYWORDS = [];
+
+  function escapeRegex(s) {
+    return String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function keywordRegex(term) {
+    const src = String(term || '').trim();
+    if (!src) return null;
+    return new RegExp(src.includes(' ') ? escapeRegex(src) : `\\b${escapeRegex(src)}\\b`, 'i');
+  }
+
+  function matchesConfigKeywords(j) {
+    if (!INCLUDE_KEYWORDS.length) return true;
+    const title = String(j.title || '');
+    if (EXCLUDE_KEYWORDS.some(re => re.test(title))) return false;
+    const text = `${title} ${j.description || ''} ${j.summary || ''}`;
+    return INCLUDE_KEYWORDS.some(re => re.test(text));
+  }
+
+  function inferGitHubRepo() {
+    const host = window.location.hostname;
+    const parts = window.location.pathname.split('/').filter(Boolean);
+    if (host.endsWith('.github.io') && parts.length) {
+      return `${host.split('.')[0]}/${parts[0]}`;
+    }
+    return '';
+  }
+
+  function applyRepoLinks() {
+    const repo = inferGitHubRepo();
+    if (!repo) return;
+    const repoUrl = `https://github.com/${repo}`;
+    const repoLink = document.getElementById('repo-link');
+    const clearLink = document.getElementById('clear-data-link');
+    if (repoLink) repoLink.href = repoUrl;
+    if (clearLink) clearLink.href = `${repoUrl}/actions/workflows/clear_data.yml`;
+  }
+  applyRepoLinks();
 
   // Company exclusion — drop roles from these companies (case-insensitive
   // substring on the company name). Mirrors employers.exclude in config.json.
@@ -689,12 +729,16 @@
       if (Array.isArray(pt)) STAR_TERMS = pt.map(([n, src]) => [n, new RegExp(src, 'i')]);
       const ex = (cfg.employers || {}).exclude;
       if (Array.isArray(ex)) EXCLUDE_COMPANY = ex.map(t => String(t).toLowerCase());
+      const kw = cfg.keywords || {};
+      if (Array.isArray(kw.include)) INCLUDE_KEYWORDS = kw.include.map(keywordRegex).filter(Boolean);
+      if (Array.isArray(kw.exclude)) EXCLUDE_KEYWORDS = kw.exclude.map(keywordRegex).filter(Boolean);
       const p = cfg.profile || {};
       if (p.title) {
         document.title = 'Job Triage — ' + p.title;
         const h1 = document.querySelector('header h1');
         if (h1) h1.textContent = (p.emoji ? p.emoji + ' ' : '') + p.title;
       }
+      applyRepoLinks();
     } catch (e) { console.warn('[applyConfig] ignored bad config:', e.message); }
   }
 
@@ -1225,7 +1269,8 @@
     });
     if (okCount === 0) throw new Error('all sources failed');
     const jobs = [...byUrl.values()]
-      .filter(j => !isPharma(j.company))   // env-tox only — drop pharma/drug-dev
+      .filter(j => !isPharma(j.company))
+      .filter(matchesConfigKeywords)
       .sort((a, b) => (b.date_posted || '').localeCompare(a.date_posted || ''));
     return { scraped_at, new_count, new_jobs, jobs };
   }
@@ -2135,18 +2180,21 @@
   }
 
   // ---------- Prune (keeps localStorage bounded) ----------
-  // Drops untriaged jobs that are junior/student/trainee postings (excluded at
-  // the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
-  // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
-  // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|engineer|engineering|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
+  // Drops untriaged jobs excluded by config.json or older than 30 days.
+  // Anything saved/applied/dismissed is kept — that's the user's triage history.
+  const DEFAULT_EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
+  function isExcludedTitle(title) {
+    const text = String(title || '');
+    if (EXCLUDE_KEYWORDS.length) return EXCLUDE_KEYWORDS.some(re => re.test(text));
+    return DEFAULT_EXCLUDED_TITLE_RE.test(text);
+  }
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (state.triage[j.url]) return true;
-      if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
-      if (isPharma(j.company)) return false;   // env-tox only — drop cached pharma
+      if (isExcludedTitle(j.title)) return false;
+      if (isPharma(j.company)) return false;
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
     });
