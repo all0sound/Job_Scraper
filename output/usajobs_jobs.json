@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21 16:20 UTC",
+  "scraped_at": "2026-06-22 20:29 UTC",
   "total": 8,
-  "new_count": 8,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Consumer Product Safety Commission",
@@ -76,78 +76,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Consumer Product Safety Commission",
-      "title": "Pharmacologist/Physiologist/Toxicologist",
-      "location": "Rockville, Maryland",
-      "url": "https://www.usajobs.gov/job/872779100",
-      "date_posted": "2026-06-11",
-      "salary": "Starting at $85,447 Per year (GS 11-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Logistics Agency",
-      "title": "Environmental Protection Specialist",
-      "location": "Battle Creek, Michigan",
-      "url": "https://www.usajobs.gov/job/873512600",
-      "date_posted": "2026-06-17",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Fallon, Nevada",
-      "url": "https://www.usajobs.gov/job/873326400",
-      "date_posted": "2026-06-17",
-      "salary": "Starting at $61,965 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Aviation Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Singapore, Singapore",
-      "url": "https://www.usajobs.gov/job/873325900",
-      "date_posted": "2026-06-17",
-      "salary": "Starting at $53,528 Per year (FV G-I)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Roseburg, Oregon",
-      "url": "https://www.usajobs.gov/job/873183700",
-      "date_posted": "2026-06-16",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "SUPERVISORY ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Camp Pendleton, California",
-      "url": "https://www.usajobs.gov/job/873069200",
-      "date_posted": "2026-06-15",
-      "salary": "Starting at $85,307 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Consumer Product Safety Commission",
-      "title": "Director for Hazard Identification",
-      "location": "Bethesda, Maryland",
-      "url": "https://www.usajobs.gov/job/872968600",
-      "date_posted": "2026-06-12",
-      "salary": "Starting at $151,661 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Materiel Command",
-      "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
-      "location": "Kelly AFB, Texas",
-      "url": "https://www.usajobs.gov/job/872100900",
-      "date_posted": "2026-06-08",
-      "salary": "Starting at $90,823 Per year (NH 3)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
