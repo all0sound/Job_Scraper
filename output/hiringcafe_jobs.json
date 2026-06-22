@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-22 05:45 UTC",
+  "scraped_at": "2026-06-22 18:20 UTC",
   "total": 45,
   "new_count": 0,
   "jobs": [
@@ -14,7 +14,8 @@
       "salary": "$122k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "State of Washington",
@@ -27,7 +28,8 @@
       "salary": "$79k–$106k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Robson Forensic",
@@ -40,7 +42,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Insmed",
@@ -53,7 +56,8 @@
       "salary": "$133k–$173k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Other Agencies and Independent Organizations",
@@ -66,7 +70,8 @@
       "salary": "$85k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Consumer Reports",
@@ -79,7 +84,8 @@
       "salary": "$65k–$70k/yr",
       "job_type": "Part Time, Temporary",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Tricounty Health Department",
@@ -92,7 +98,8 @@
       "salary": "$48k–$81k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "GHD",
@@ -105,7 +112,8 @@
       "salary": "$60k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Oneida Total Integrated Enterprises",
@@ -118,7 +126,8 @@
       "salary": "$65k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Trilon Group",
@@ -131,7 +140,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Tucsonaz",
@@ -144,7 +154,8 @@
       "salary": "$61k–$91k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Crystal Clean",
@@ -157,7 +168,8 @@
       "salary": "$75k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "J.S. Held LLC",
@@ -170,7 +182,8 @@
       "salary": "$68k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Terracon Career Site",
@@ -183,7 +196,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Arcadis",
@@ -196,7 +210,8 @@
       "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "HDR",
@@ -209,7 +224,8 @@
       "salary": "$80k–$126k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Arcadis",
@@ -222,7 +238,8 @@
       "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Energy & Environment Cabinet",
@@ -235,7 +252,8 @@
       "salary": "$52k–$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Dewberry",
@@ -248,7 +266,8 @@
       "salary": "$62k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Alliance Technical Group",
@@ -261,7 +280,8 @@
       "salary": "$68k–$72k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Johnson, Mirmiran & Thompson, Inc.",
@@ -274,7 +294,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "VRX, Inc.",
@@ -287,7 +308,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "South Dakota State Government",
@@ -300,7 +322,8 @@
       "salary": "$59k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Verdantas",
@@ -313,7 +336,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "CDR Maguire",
@@ -326,7 +350,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Olsson",
@@ -339,7 +364,8 @@
       "salary": "$80k–$140k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Spheros Environmental",
@@ -352,7 +378,8 @@
       "salary": "$52k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Usbank",
@@ -365,7 +392,8 @@
       "salary": "$133k–$157k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Ulse",
@@ -378,7 +406,8 @@
       "salary": "$119k–$164k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Td",
@@ -391,7 +420,8 @@
       "salary": "$91k–$146k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Cambridge Healthcare Services",
@@ -404,7 +434,8 @@
       "salary": "$165k–$180k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "CLS-Group",
@@ -417,7 +448,8 @@
       "salary": "",
       "job_type": "Contract",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Common Sense Media",
@@ -430,7 +462,8 @@
       "salary": "$62k–$79k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "CoBank",
@@ -443,7 +476,8 @@
       "salary": "$110k–$135k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Regions",
@@ -456,7 +490,8 @@
       "salary": "$81k–$118k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "JPMorgan Chase",
@@ -469,7 +504,8 @@
       "salary": "$92k–$140k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Cognizant",
@@ -482,7 +518,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Stantec",
@@ -495,7 +532,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Apex Companies",
@@ -508,7 +546,8 @@
       "salary": "$104k–$146k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Trinity River Authority of Texas",
@@ -521,7 +560,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Son",
@@ -534,7 +574,8 @@
       "salary": "$43k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "WSP",
@@ -547,7 +588,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Department of Environmental Quality",
@@ -560,7 +602,8 @@
       "salary": "$53k–$109k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Apex Companies",
@@ -573,7 +616,8 @@
       "salary": "$70k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Audubon",
@@ -586,7 +630,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "work_arrangement": "On-site"
     }
   ],
   "new_jobs": []
