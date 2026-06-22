@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-20 19:02 UTC",
+  "scraped_at": "2026-06-22 17:55 UTC",
   "total": 3,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County Transit District Samtrans",
@@ -31,33 +31,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo County Transit District Samtrans",
-      "title": "Environmental Compliance Administrator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20750448",
-      "date_posted": "",
-      "salary": "$117,163.00-$164,868.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Mountain View",
-      "title": "Senior Hazardous Materials Specialist",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/mountain-view/job-20749958",
-      "date_posted": "",
-      "salary": "$171,085.46-$231,468.38 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Redwood City",
-      "title": "Water Resources Specialist #26A-20",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20739377",
-      "date_posted": "",
-      "salary": "$9,272.00-$11,275.00 Monthly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

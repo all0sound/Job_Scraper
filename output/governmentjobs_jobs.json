@@ -1,26 +1,8 @@
 {
-  "scraped_at": "2026-06-20 19:02 UTC",
-  "total": 5,
-  "new_count": 5,
+  "scraped_at": "2026-06-22 17:54 UTC",
+  "total": 3,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "City of Salem",
-      "title": "Stormwater Quality Seasonal Maintenance Worker",
-      "location": "1457 23rd St SE Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5373090-0/stormwater-quality-seasonal-maintenance-worker",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Electrician (Regional Water Quality Control Plant)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/electrician-regional-water-quality-control-plant",
-      "date_posted": "",
-      "salary": "$119,953.60 - $146,702.40 Annually",
-      "ats": "NEOGOV"
-    },
     {
       "company": "San Bernardino County",
       "title": "Hazardous Materials Specialist I (Fire District)",
@@ -49,51 +31,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Salem",
-      "title": "Stormwater Quality Seasonal Maintenance Worker",
-      "location": "1457 23rd St SE Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5373090-0/stormwater-quality-seasonal-maintenance-worker",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Electrician (Regional Water Quality Control Plant)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/electrician-regional-water-quality-control-plant",
-      "date_posted": "",
-      "salary": "$119,953.60 - $146,702.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
-      "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Mountain View (CA)",
-      "title": "Senior Hazardous Materials Specialist",
-      "location": "City of Mountain View",
-      "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
-      "date_posted": "",
-      "salary": "$171,085.46 - $231,468.38 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
