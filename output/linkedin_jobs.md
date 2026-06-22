@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-22 01:38 UTC*
+*Last updated: 2026-06-22 03:35 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Principal Air Quality Consultant](https://www.linkedin.com/jobs/view/4431625278/) — WSP in Australia
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 🕒 **Posted:** 2026-06-22
+No new roles since the last run.
