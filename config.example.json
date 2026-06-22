@@ -1,185 +1,511 @@
 {
-  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
-
-  "profile": {
-    "title": "Environmental / Toxicology Job Tracker",
-    "subtitle": "California · Oregon · Australia",
-    "emoji": "🧪"
-  },
-
-  "keywords": {
-    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
-    "include": [
-      "toxicologist", "toxicology", "toxicological", "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
-      "environmental toxicolog", "regulatory toxicolog", "computational toxicolog", "predictive toxicolog",
-      "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
-      "risk assess", "risk assessor", "human health risk", "ecological risk", "exposure scien",
-      "exposure assess", "exposure modeling", "exposure modelling", "hazard assess", "hazard identification",
-      "dose-response", "dose response", "pharmacokinetic", "toxicokinetic", "pbpk",
-      "environmental scien", "environmental health", "environmental chemist", "environmental chemistry",
-      "environmental specialist", "environmental analyst", "environmental protection", "environmental epidemiolog",
-      "environmental data", "environmental monitoring", "environmental assessment", "exposure epidemiolog",
-      "water quality", "drinking water", "watershed", "water resources", "aquatic scien", "limnolog",
-      "microplastic", "microplastics", "nanoplastic", "nanomaterial", "pfas", "per- and polyfluoro",
-      "emerging contaminant", "contaminant", "pollutant", "air pollution", "water pollution", "air quality",
-      "remediation", "environmental remediation", "chemical safety", "chemical risk", "chemical assess",
-      "chemical regulatory", "product steward", "hazardous materials", "hazardous waste",
-      "environmental compliance", "conservation toxicolog"
-    ],
-    "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
-    "exclude": [
-      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
-      "research assistant", "lab assistant", "teaching assistant", "undergraduate", "postdoc",
-      "postdoctoral", "work-study", "volunteer", "fellowship", "engineer", "engineering",
-      "ehs", "occupational safety", "occupational health", "health and safety", "health & safety"
-    ]
-  },
-
-  "search_terms": {
-    "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
-    "linkedin": [
-      "toxicologist", "environmental toxicologist", "ecotoxicologist", "regulatory toxicologist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment",
-      "exposure scientist", "exposure assessment", "environmental scientist", "environmental health scientist",
-      "environmental chemist", "environmental epidemiologist", "water quality scientist", "microplastics",
-      "PFAS", "emerging contaminants", "air quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist"
-    ],
-    "indeed": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
-    ],
-    "glassdoor": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
-    ],
-    "ziprecruiter": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
-    ],
-    "google_jobs": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
-    ],
-    "hiring_cafe": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
-    ]
-  },
-
-  "locations": {
-    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
-    "linkedin": [
-      { "name": "California",  "location": "California, United States",          "geoId": "102095887" },
-      { "name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079" },
-      { "name": "Bend OR",     "location": "Bend, Oregon, United States",        "geoId": "" },
-      { "name": "Australia",   "location": "Australia",                          "geoId": "101452733" }
-    ],
-    "indeed": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
-    ],
-    "glassdoor": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
-    ],
-    "ziprecruiter": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" }
-    ],
-    "google_jobs": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
-    ],
-    "hiring_cafe": [
-      { "location": "United States" }
-    ]
-  },
-
-  "google_jobs": {
-    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build queries such as '<term> jobs near <location> since yesterday' from search_terms.google_jobs and locations.google_jobs. If the free JobSpy path is blocked, set SERPAPI_API_KEY or OXYLABS_USERNAME/OXYLABS_PASSWORD as GitHub Actions secrets for an API fallback.",
-    "queries": [],
-    "serpapi_api_key": "",
-    "oxylabs_username": "",
-    "oxylabs_password": ""
-  },
-
-  "jobspy": {
-    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
-    "proxies": [],
-    "user_agent": ""
-  },
-
-  "hiring_cafe": {
-    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
-    "max_pages": 3
-  },
-
-  "employers": {
-    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
-    "priority": [
-      "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno", "Stantec", "Tetra Tech",
-      "ICF International", "Abt Associates", "Eastern Research Group", "Integral Consulting",
-      "Geosyntec", "Arcadis", "AECOM", "Montrose Environmental", "Trinity Consultants", "GHD Group",
-      "Environmental Resources Management", "SLR Consulting", "Wood Environment", "Sciome", "ChemRisk",
-      "Southern California Coastal Water Research Project", "SCCWRP", "San Francisco Estuary Institute",
-      "Silent Spring Institute", "Environmental Defense Fund", "Natural Resources Defense Council",
-      "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts", "Health Effects Institute",
-      "RTI International", "Battelle", "Green Science Policy Institute", "Defend Our Health", "Moore Institute",
-      "Environmental Protection Agency", "California Environmental Protection", "Office of Environmental Health Hazard",
-      "State Water Resources Control", "California Air Resources Board", "Department of Toxic Substances Control",
-      "National Institute of Environmental Health", "Geological Survey", "Procter & Gamble", "Unilever",
-      "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation"
-    ],
-    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
-    "exclude": [
-      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
-      "genomics", "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
-      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
-      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
-      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers"
-    ]
-  },
-
-  "priority_topics": {
-    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
-    "terms": [
-      ["microplastics", "microplastic|nanoplastic|microfiber"],
-      ["ecotoxicology", "ecotoxicolog"],
-      ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
-      ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
-    ]
-  },
-
-  "role_categories": {
-    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
-    "terms": [
-      ["Toxicology", "toxicolog"],
-      ["Risk/Exposure", "risk assess|exposure|hazard|dose.response|pharmacokinetic|toxicokinetic"],
-      ["Water", "water|drinking water|watershed|aquatic|marine|limnolog"],
-      ["Contaminants", "microplastic|nanoplastic|pfas|contaminant|pollution|remediation"],
-      ["Environmental Health", "environmental health|epidemiolog|public health"],
-      ["Environmental Science", "environmental|ecolog|sustainab|conservation|chemist"],
-      ["Policy/Regulatory", "policy|regulatory|stewardship|registration|reach\\b|affairs"],
-      ["Data Science", "data scien|data analyst|biostatistic|informatic"],
-      ["Academic", "professor|faculty|lecturer"]
-    ]
-  },
-
-  "notify": {
-    "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
-    "min_fit": 75,
-    "weekly_digest": {
-      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
-      "enabled": false,
-      "days": 7
-    }
-  }
+"profile": {
+"title": "Music Technology & Audio Jobs",
+"subtitle": "Inland Empire · Greater Los Angeles · Remote",
+"emoji": "🎛️"
+},
+"keywords": {
+"include": [
+"assistant professor of music technology",
+"assistant professor of recording technology",
+"assistant professor of audio production",
+"assistant professor of music production",
+"assistant professor of sound design",
+"assistant professor of composition",
+"assistant professor of digital composition",
+"assistant professor of game audio",
+"assistant professor of media scoring",
+"assistant professor of film scoring",
+"assistant professor of music industry",
+"lecturer in music technology",
+"lecturer in audio production",
+"lecturer in recording technology",
+"lecturer in music production",
+"lecturer in sound design",
+"lecturer in composition",
+"lecturer in digital media",
+"lecturer in game audio",
+"part-time lecturer in music",
+"adjunct professor of music technology",
+"adjunct professor of audio production",
+"adjunct professor of music production",
+"adjunct professor of recording arts",
+"adjunct instructor of music technology",
+"adjunct instructor of audio production",
+"adjunct instructor of sound design",
+"adjunct instructor of digital audio",
+"instructor of music technology",
+"instructor of audio production",
+"instructor of recording technology",
+"instructor of music production",
+"instructor of sound design",
+"instructor of electronic music",
+"instructor of composition",
+"music technology instructor",
+"audio production instructor",
+"recording technology instructor",
+"recording arts instructor",
+"music production instructor",
+"sound design instructor",
+"digital audio instructor",
+"electronic music instructor",
+"game audio instructor",
+"film sound instructor",
+"media scoring instructor",
+"audio engineering instructor",
+"audio engineering faculty",
+"music technology faculty",
+"recording arts faculty",
+"music production faculty",
+"sound design faculty",
+"game audio faculty",
+"audio engineer",
+"recording engineer",
+"mixing engineer",
+"sound designer",
+"audio editor",
+"dialogue editor",
+"audio post production engineer",
+"game audio designer",
+"technical sound designer",
+"interactive audio designer",
+"music technologist",
+"audio quality expert",
+"music content specialist",
+"music analyst"
+],
+"exclude": [
+"intern",
+"internship",
+"co-op",
+"trainee",
+"postdoc",
+"postdoctoral",
+"junior",
+"student assistant",
+"graduate assistant",
+"music therapist",
+"music therapy",
+"choir director",
+"choral director",
+"band director",
+"orchestra director",
+"elementary music teacher",
+"middle school music teacher",
+"high school music teacher",
+"worship",
+"pastor",
+"sales",
+"account executive",
+"recruiter",
+"nurse",
+"physician",
+"physical therapist",
+"speech therapist",
+"clinical"
+]
+},
+"search_terms": {
+"linkedin": [
+"music technology professor",
+"audio production professor",
+"recording technology professor",
+"music production professor",
+"sound design professor",
+"game audio professor",
+"composition professor",
+"media scoring professor",
+"music technology lecturer",
+"audio production lecturer",
+"recording arts lecturer",
+"music production lecturer",
+"sound design lecturer",
+"game audio lecturer",
+"adjunct music technology",
+"adjunct audio production",
+"audio engineering instructor",
+"music technology instructor",
+"recording arts instructor",
+"game audio instructor",
+"sound designer",
+"technical sound designer",
+"audio post production",
+"interactive audio designer",
+"music analyst"
+],
+"indeed": [
+"music technology instructor",
+"audio production instructor",
+"recording technology instructor",
+"sound design instructor",
+"game audio designer",
+"audio post production",
+"music production instructor",
+"audio engineer",
+"music analyst"
+],
+"glassdoor": [
+"music technology instructor",
+"audio production instructor",
+"recording technology instructor",
+"sound design instructor",
+"game audio designer",
+"audio post production",
+"music production instructor",
+"audio engineer",
+"music analyst"
+],
+"ziprecruiter": [
+"music technology instructor",
+"audio production instructor",
+"recording technology instructor",
+"sound design instructor",
+"game audio designer",
+"audio post production",
+"music production instructor",
+"audio engineer"
+],
+"google_jobs": [
+"music technology lecturer",
+"audio production lecturer",
+"recording technology instructor",
+"music production instructor",
+"sound design instructor",
+"game audio designer",
+"audio post production engineer",
+"technical sound designer",
+"music analyst"
+],
+"hiring_cafe": [
+"music technology",
+"audio production",
+"recording technology",
+"music production",
+"sound design",
+"game audio",
+"audio post production",
+"technical sound design",
+"music analyst"
+]
+},
+"locations": {
+"linkedin": [
+{
+"name": "Loma Linda",
+"location": "Loma Linda, CA, United States",
+"geoId": ""
+},
+{
+"name": "Riverside",
+"location": "Riverside, CA, United States",
+"geoId": ""
+},
+{
+"name": "San Bernardino",
+"location": "San Bernardino, CA, United States",
+"geoId": ""
+},
+{
+"name": "Redlands",
+"location": "Redlands, CA, United States",
+"geoId": ""
+},
+{
+"name": "Inland Empire",
+"location": "Inland Empire, CA, United States",
+"geoId": ""
+},
+{
+"name": "Los Angeles",
+"location": "Los Angeles, CA, United States",
+"geoId": ""
+},
+{
+"name": "Orange County",
+"location": "Orange County, CA, United States",
+"geoId": ""
+},
+{
+"name": "San Diego",
+"location": "San Diego, CA, United States",
+"geoId": ""
+},
+{
+"name": "Remote",
+"location": "Remote, United States",
+"geoId": ""
+}
+],
+"indeed": [
+{
+"location": "Loma Linda, CA",
+"country": "USA"
+},
+{
+"location": "Riverside, CA",
+"country": "USA"
+},
+{
+"location": "San Bernardino, CA",
+"country": "USA"
+},
+{
+"location": "Redlands, CA",
+"country": "USA"
+},
+{
+"location": "Inland Empire, CA",
+"country": "USA"
+},
+{
+"location": "Los Angeles, CA",
+"country": "USA"
+},
+{
+"location": "Orange County, CA",
+"country": "USA"
+},
+{
+"location": "San Diego, CA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"glassdoor": [
+{
+"location": "Loma Linda, CA",
+"country": "USA"
+},
+{
+"location": "Riverside, CA",
+"country": "USA"
+},
+{
+"location": "San Bernardino, CA",
+"country": "USA"
+},
+{
+"location": "Redlands, CA",
+"country": "USA"
+},
+{
+"location": "Inland Empire, CA",
+"country": "USA"
+},
+{
+"location": "Los Angeles, CA",
+"country": "USA"
+},
+{
+"location": "Orange County, CA",
+"country": "USA"
+},
+{
+"location": "San Diego, CA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"ziprecruiter": [
+{
+"location": "Loma Linda, CA",
+"country": "USA"
+},
+{
+"location": "Riverside, CA",
+"country": "USA"
+},
+{
+"location": "San Bernardino, CA",
+"country": "USA"
+},
+{
+"location": "Redlands, CA",
+"country": "USA"
+},
+{
+"location": "Inland Empire, CA",
+"country": "USA"
+},
+{
+"location": "Los Angeles, CA",
+"country": "USA"
+},
+{
+"location": "Orange County, CA",
+"country": "USA"
+},
+{
+"location": "San Diego, CA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"google_jobs": [
+{
+"location": "Loma Linda, CA",
+"country": "USA"
+},
+{
+"location": "Riverside, CA",
+"country": "USA"
+},
+{
+"location": "San Bernardino, CA",
+"country": "USA"
+},
+{
+"location": "Redlands, CA",
+"country": "USA"
+},
+{
+"location": "Inland Empire, CA",
+"country": "USA"
+},
+{
+"location": "Los Angeles, CA",
+"country": "USA"
+},
+{
+"location": "Orange County, CA",
+"country": "USA"
+},
+{
+"location": "San Diego, CA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"hiring_cafe": [
+{
+"location": "United States"
+}
+]
+},
+"google_jobs": {
+"queries": [],
+"serpapi_api_key": "",
+"oxylabs_username": "",
+"oxylabs_password": ""
+},
+"hiring_cafe": {
+"max_pages": 3
+},
+"employers": {
+"priority": [
+"California State University",
+"University of California",
+"University of California Riverside",
+"California Institute of the Arts",
+"University of Southern California",
+"University of California Los Angeles",
+"Chapman University",
+"Berklee College of Music",
+"Riverside City College",
+"San Bernardino Valley College",
+"Chaffey College",
+"Loma Linda University",
+"Activision",
+"Blizzard Entertainment",
+"Riot Games",
+"Electronic Arts",
+"Sony Interactive Entertainment",
+"Netflix",
+"Apple",
+"Avid",
+"Audiokinetic"
+],
+"exclude": [
+"Music & Arts",
+"School of Rock",
+"Guitar Center Lessons",
+"TakeLessons",
+"Varsity Tutors",
+"Superprof",
+"Care.com"
+]
+},
+"priority_topics": {
+"terms": [
+[
+"Game Audio",
+"\b(game audio|videogame audio|video game audio|wwise|unreal|unity|interactive audio)\b"
+],
+[
+"Music Technology",
+"\b(music technology|electronic music|digital audio|computer music|music technologist)\b"
+],
+[
+"Audio Production",
+"\b(audio production|recording technology|recording arts|music production|audio engineering|studio recording)\b"
+],
+[
+"Sound Design",
+"\b(sound design|sound designer|procedural sound|technical sound designer|foley|adr)\b"
+],
+[
+"AI Music",
+"\b(ai music|generative music|algorithmic composition|machine learning|human-centered|co-creative)\b"
+],
+[
+"Interactive Systems",
+"\b(interactive systems|digital instrument|midi|max\/msp|pure data|hci|nime|controllerism)\b"
+]
+]
+},
+"role_categories": {
+"terms": [
+[
+"Game Audio",
+"\b(game audio|videogame audio|video game audio|technical sound designer|interactive audio designer)\b"
+],
+[
+"Music Technology Faculty",
+"\b(music technology|electronic music|digital audio|computer music|recording technology|recording arts)\b"
+],
+[
+"Audio Production Faculty",
+"\b(audio production|music production|audio engineering|studio recording|recording engineer|mixing engineer)\b"
+],
+[
+"Sound Design",
+"\b(sound design|sound designer|foley|adr|dialogue editor|audio editor)\b"
+],
+[
+"Composition and Media Scoring",
+"\b(composition|composer|media scoring|film scoring|music for media|film sound|screen scoring)\b"
+],
+[
+"Audio Post Production",
+"\b(audio post|post production|post-production|surround|immersive audio|spatial audio)\b"
+],
+[
+"Interactive Music and HCI",
+"\b(interactive music|digital instrument|controllerism|max\/msp|pure data|hci|nime|midi)\b"
+],
+[
+"Music AI and Analysis",
+"\b(ai music|generative music|algorithmic composition|music analysis|music analyst|audio quality|machine learning)\b"
+],
+[
+"Music Industry and Media",
+"\b(music industry|music business|creative technology|media arts|digital media)\b"
+]
+]
+},
+"notify": {
+"min_fit": 75
+}
 }
