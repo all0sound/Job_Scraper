@@ -215,6 +215,39 @@
     background: var(--input-bg); color: var(--ink);
   }
   .note-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  .note-row { display: flex; align-items: flex-start; gap: 6px; }
+  .note-row .note-input { flex: 1; }
+
+  /* ---- Score floor filter ---- */
+  .score-ctl { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .score-ctl .rng { display: flex; align-items: center; gap: 6px; }
+  .score-ctl input[type=range] { width: 120px; accent-color: var(--accent); }
+  .score-ctl .scoreval { font-variant-numeric: tabular-nums; color: var(--ink); font-size: 12px; min-width: 70px; }
+  .score-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
+
+  /* ---- Manual star rating (1–5) ---- */
+  .star-rating { display: inline-flex; gap: 1px; flex-shrink: 0; padding-top: 7px; }
+  .star-rating button { background: none; border: none; cursor: pointer; color: var(--muted);
+    font-size: 16px; padding: 0 1px; line-height: 1; }
+  .star-rating button.on { color: #f59e0b; }
+  .star-rating button:hover { color: #f59e0b; }
+
+  /* ---- Per-job event timeline ---- */
+  .tl-wrap { margin-top: 7px; border-top: 1px solid var(--line); padding-top: 6px; }
+  .tl-entries { list-style: none; margin: 0 0 5px; padding: 0; }
+  .tl-entry { display: flex; gap: 7px; align-items: baseline; font-size: 11.5px; margin-bottom: 3px; }
+  .tl-entry .tl-ts { color: var(--muted); white-space: nowrap; min-width: 80px; flex-shrink: 0; }
+  .tl-entry .tl-text { flex: 1; color: var(--ink); }
+  .tl-del { background: none; border: none; cursor: pointer; color: var(--muted); font-size: 10px; padding: 0 2px; }
+  .tl-del:hover { color: var(--accent); }
+  .tl-add { display: flex; gap: 5px; }
+  .tl-add input { flex: 1; background: var(--input-bg); border: 1px solid var(--line);
+    border-radius: 4px; padding: 3px 6px; font-size: 12px; color: var(--ink); font-family: inherit; min-width: 0; }
+  .tl-add input:focus { outline: none; border-color: var(--accent); }
+  .tl-add button { background: var(--pill-bg); border: 1px solid var(--line); border-radius: 4px;
+    padding: 3px 8px; font-size: 11px; cursor: pointer; color: var(--ink); font-family: inherit; }
+  .tl-add button:hover { background: var(--line); }
+
   .bulkbar {
     display: none; align-items: center; gap: 8px; flex-wrap: wrap; position: sticky; top: 0;
     z-index: 20; margin: 0 0 10px; padding: 8px 10px; border: 1px solid var(--line);
@@ -474,6 +507,21 @@
       <label><input type="checkbox" id="sal-unknown" /> include unlisted</label>
     </div>
   </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Score</span>
+    <div class="score-ctl">
+      <div class="rng">
+        <input type="range" id="score-min" min="0" max="100" step="5" value="0"
+          aria-label="Minimum fit score" />
+        <span class="scoreval" id="score-val">Any</span>
+      </div>
+      <label><input type="checkbox" id="score-unscored" checked /> include unscored</label>
+    </div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Min ★</span>
+    <div id="filter-stars" class="controls-row" style="gap:6px"></div>
+  </div>
 </div>
 
 <div id="rank-info" hidden></div>
@@ -540,6 +588,8 @@
   })();
   state.triage = state.triage || {};
   state.notes = state.notes || {};
+  state.stars = state.stars || {};
+  state.timeline = state.timeline || {};
   state.blockedCompanies = state.blockedCompanies || [];
   state.jobs = state.jobs || [];
   const selectedUrls = new Set();
@@ -1221,6 +1271,9 @@
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
     salUnknown: false,  // when a floor is set, exclude roles with no listed salary (toggle to include)
+    scoreMin: 0,       // minimum fit/agent score (0–100); 0 = no floor
+    scoreUnscored: true, // when a floor is set, include roles with no score
+    minStars: 0,       // minimum user star rating (1–5); 0 = any
     starOnly: false,   // show only priority-topic (starred) roles
     q: '',
   };
@@ -1277,6 +1330,14 @@
       else if (j._salMax < filters.salMin) return false;
     }
     if (filters.starOnly && !j._star) return false;
+    if (except !== 'score' && filters.scoreMin > 0) {
+      const sc = j._score != null ? j._score : (j._fit != null ? j._fit : null);
+      if (sc == null) { if (!filters.scoreUnscored) return false; }
+      else if (sc < filters.scoreMin) return false;
+    }
+    if (except !== 'stars' && filters.minStars > 0) {
+      if ((state.stars[j.url] || 0) < filters.minStars) return false;
+    }
     if (except !== 'q') {
       const q = filters.q.trim().toLowerCase();
       if (q && !(`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q))) return false;
@@ -1727,6 +1788,10 @@
       const star = j._star
         ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
         : '';
+      const userStars = state.stars[j.url] || 0;
+      const starBtns = [1,2,3,4,5].map(n =>
+        `<button type="button" data-set-star="${n}" class="${n <= userStars ? 'on' : ''}" aria-label="${n} star${n > 1 ? 's' : ''}" aria-pressed="${n <= userStars}">${n <= userStars ? '★' : '☆'}</button>`
+      ).join('');
       return `<div class="job${j._star ? ' starred' : ''}" data-url="${escape(j.url)}" data-state="${st}" data-focused="${j.url === focusedUrl}" data-selected="${selected}">
         <div class="job-main">
           <div class="title"><label class="selectbox" title="Select for bulk actions"><input type="checkbox" data-select aria-label="Select ${escape(j.title)}" ${selected ? 'checked' : ''}></label>${star}${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
@@ -1741,7 +1806,8 @@
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
-          <div class="note-row"><textarea class="note-input" data-note rows="1" placeholder="Notes, follow-up, contact, deadline...">${escape(note)}</textarea></div>
+          <div class="note-row"><textarea class="note-input" data-note rows="1" placeholder="Notes, follow-up, contact, deadline...">${escape(note)}</textarea><div class="star-rating" title="Rate your interest (click to set, click again to clear)">${starBtns}</div></div>
+          <div class="tl-wrap" data-tl="${escape(j.url)}">${timelineInnerHtml(j.url)}</div>
         </div>
         <div class="actions">
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
@@ -1970,6 +2036,8 @@
     renderDateFilter();
     renderStateFilter();
     renderSalaryControl();
+    renderScoreControl();
+    renderStarsFilter();
     renderKpis();
     renderCharts();
     renderSalaryChart();
@@ -1991,6 +2059,64 @@
         && (j._salMax != null ? j._salMax >= v : filters.salUnknown)).length;
       lbl.textContent = `≥ $${Math.round(v / 1000)}k/yr · ${pass}`;
     }
+  }
+
+  // Score slider: reflect the current floor + how many roles clear it.
+  function renderScoreControl() {
+    const v = filters.scoreMin;
+    const lbl = $('score-val');
+    if (!lbl) return;
+    if (v <= 0) { lbl.textContent = 'Any'; return; }
+    const pass = VIEW.filter(j => {
+      if (!matchesFilters(j, 'score')) return false;
+      const sc = j._score != null ? j._score : (j._fit != null ? j._fit : null);
+      return sc == null ? filters.scoreUnscored : sc >= v;
+    }).length;
+    lbl.textContent = `≥ ${v} · ${pass}`;
+  }
+
+  // Min star rating pills.
+  function renderStarsFilter() {
+    const host = $('filter-stars');
+    if (!host) return;
+    const opts = [
+      { label: 'Any', val: 0 },
+      { label: '★', val: 1 },
+      { label: '★★', val: 2 },
+      { label: '★★★', val: 3 },
+      { label: '★★★★', val: 4 },
+    ];
+    host.innerHTML = opts.map(o => {
+      const active = filters.minStars === o.val;
+      const count = VIEW.filter(j =>
+        matchesFilters(j, 'stars') && (state.stars[j.url] || 0) >= o.val
+      ).length;
+      return `<button type="button" class="pill${active ? ' active' : ''}" data-minstar="${o.val}" aria-pressed="${active}">${o.label} <small style="opacity:0.65">${count}</small></button>`;
+    }).join('');
+    host.querySelectorAll('[data-minstar]').forEach(btn => {
+      btn.onclick = () => { filters.minStars = Number(btn.dataset.minstar); renderAll(); };
+    });
+  }
+
+  // Build timeline HTML for a single job URL (inner content of .tl-wrap).
+  function timelineInnerHtml(url) {
+    const events = state.timeline[url] || [];
+    const entries = events.slice().reverse().map((ev, ri) => {
+      const i = events.length - 1 - ri;
+      const d = new Date(ev.ts);
+      const ds = `${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} `
+        + `${d.getHours().toString().padStart(2,'0')}:${d.getMinutes().toString().padStart(2,'0')}`;
+      return `<li class="tl-entry">`
+        + `<span class="tl-ts">${ds}</span>`
+        + `<span class="tl-text">${escape(ev.text)}</span>`
+        + `<button type="button" class="tl-del" data-tl-del="${i}" title="Remove">✕</button>`
+        + `</li>`;
+    }).join('');
+    return (entries ? `<ul class="tl-entries">${entries}</ul>` : '')
+      + `<div class="tl-add">`
+      + `<input type="text" placeholder="Log event (phone screen, offer, follow-up…)" data-tl-input aria-label="Add event to timeline">`
+      + `<button type="button" data-tl-add>+ Log</button>`
+      + `</div>`;
   }
 
   // Strip derived (_-prefixed) fields and bulky JD text before persisting —
@@ -2029,6 +2155,8 @@
     }
     const live = new Set(state.jobs.map(j => j.url));
     Object.keys(state.notes).forEach(url => { if (!live.has(url) && !state.triage[url]) delete state.notes[url]; });
+    Object.keys(state.stars).forEach(url => { if (!live.has(url) && !state.triage[url]) delete state.stars[url]; });
+    Object.keys(state.timeline).forEach(url => { if (!live.has(url) && !state.triage[url]) delete state.timeline[url]; });
   }
 
   // ---------- Refresh flow ----------
@@ -2073,6 +2201,61 @@
   $('jobs').addEventListener('click', e => {
     const cardForFocus = e.target.closest('.job');
     if (cardForFocus) setFocusedUrl(cardForFocus.dataset.url);
+
+    // Star rating
+    const starBtn = e.target.closest('[data-set-star]');
+    if (starBtn) {
+      const card = starBtn.closest('.job');
+      const url = card?.dataset.url;
+      if (url) {
+        const n = Number(starBtn.dataset.setStar);
+        state.stars[url] = (state.stars[url] || 0) === n ? 0 : n;
+        if (!state.stars[url]) delete state.stars[url];
+        save();
+        const rating = state.stars[url] || 0;
+        card.querySelectorAll('[data-set-star]').forEach(b => {
+          const v = Number(b.dataset.setStar);
+          b.classList.toggle('on', v <= rating);
+          b.setAttribute('aria-pressed', String(v <= rating));
+          b.textContent = v <= rating ? '★' : '☆';
+        });
+        if (filters.minStars > 0) renderAll();
+      }
+      return;
+    }
+
+    // Timeline: add event
+    const tlAddBtn = e.target.closest('[data-tl-add]');
+    if (tlAddBtn) {
+      const tlWrap = tlAddBtn.closest('[data-tl]');
+      const url = tlWrap?.dataset.tl;
+      const input = tlWrap?.querySelector('[data-tl-input]');
+      const text = input?.value.trim();
+      if (url && text) {
+        state.timeline[url] = state.timeline[url] || [];
+        state.timeline[url].push({ ts: Date.now(), text });
+        input.value = '';
+        save();
+        tlWrap.innerHTML = timelineInnerHtml(url);
+      }
+      return;
+    }
+
+    // Timeline: delete event
+    const tlDelBtn = e.target.closest('[data-tl-del]');
+    if (tlDelBtn) {
+      const tlWrap = tlDelBtn.closest('[data-tl]');
+      const url = tlWrap?.dataset.tl;
+      const idx = Number(tlDelBtn.dataset.tlDel);
+      if (url && state.timeline[url]) {
+        state.timeline[url].splice(idx, 1);
+        if (!state.timeline[url].length) delete state.timeline[url];
+        save();
+        tlWrap.innerHTML = timelineInnerHtml(url);
+      }
+      return;
+    }
+
     const btn = e.target.closest('.act');
     if (!btn) return;
     const card = btn.closest('.job');
@@ -2119,6 +2302,43 @@
     if (value) state.notes[url] = note.value;
     else delete state.notes[url];
     save();
+  });
+
+  // Timeline: Enter in the log input submits the event.
+  $('jobs').addEventListener('keydown', e => {
+    if (e.key !== 'Enter') return;
+    const input = e.target.closest('[data-tl-input]');
+    if (!input) return;
+    e.preventDefault();
+    const tlWrap = input.closest('[data-tl]');
+    const url = tlWrap?.dataset.tl;
+    const text = input.value.trim();
+    if (url && text) {
+      state.timeline[url] = state.timeline[url] || [];
+      state.timeline[url].push({ ts: Date.now(), text });
+      input.value = '';
+      save();
+      tlWrap.innerHTML = timelineInnerHtml(url);
+    }
+  });
+
+  // Star hover: fill stars up to the hovered button; reset on leave.
+  $('jobs').addEventListener('mouseover', e => {
+    const starBtn = e.target.closest('[data-set-star]');
+    if (!starBtn) return;
+    const n = Number(starBtn.dataset.setStar);
+    const container = starBtn.closest('.star-rating');
+    container?.querySelectorAll('[data-set-star]').forEach(b => {
+      b.style.color = Number(b.dataset.setStar) <= n ? '#f59e0b' : '';
+    });
+  });
+
+  $('jobs').addEventListener('mouseout', e => {
+    const starBtn = e.target.closest('[data-set-star]');
+    if (!starBtn) return;
+    const container = starBtn.closest('.star-rating');
+    if (!container || container.contains(e.relatedTarget)) return;
+    container.querySelectorAll('[data-set-star]').forEach(b => { b.style.color = ''; });
   });
 
   $('bulkbar').addEventListener('click', e => {
@@ -2269,6 +2489,18 @@
     renderAll();
   });
 
+  // Score floor slider
+  $('score-min').addEventListener('input', e => {
+    filters.scoreMin = Number(e.target.value) || 0;
+    renderScoreControl();
+    renderJobs();
+  });
+  $('score-min').addEventListener('change', renderAll);
+  $('score-unscored').addEventListener('change', e => {
+    filters.scoreUnscored = e.target.checked;
+    renderAll();
+  });
+
   $('search').addEventListener('input', e => {
     filters.q = e.target.value;
     renderAll();   // facet badges now count `q`, so refresh the pill bars too
@@ -2280,6 +2512,9 @@
     filters.days = null;
     filters.salMin = 0; filters.salUnknown = false;
     $('sal-min').value = 0; $('sal-unknown').checked = false;
+    filters.scoreMin = 0; filters.scoreUnscored = true;
+    $('score-min').value = 0; $('score-unscored').checked = true;
+    filters.minStars = 0;
     filters.starOnly = false;
     $('star-only').classList.remove('on'); $('star-only').setAttribute('aria-pressed', 'false');
     filters.q = ''; $('search').value = '';
