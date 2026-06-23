@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-23 20:40 UTC",
+  "scraped_at": "2026-06-23 21:31 UTC",
   "total": 48,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -495,13 +495,13 @@
     },
     {
       "company": "Common Sense Media",
-      "title": "Risk Assessment Analyst (Youth AI Safety Institute)",
+      "title": "Risk Assessment Associate (Youth AI Safety Institute)",
       "location": "San Francisco, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159742&clientkey=4AA7E7402507528EEEA6308617BB1F08",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159742&clientkey=4AA7E7402507528EEEA6308617BB1F08",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
       "date_posted": "2026-06-02T00:00:00.000Z",
-      "description": "Bachelor's degree; 3–5 years in research/data analysis/safety evaluations; technical tools for automated testing; strong communication and content safety experience.",
-      "salary": "$90k–$110k/yr",
+      "description": "Bachelor's degree; 2+ years in research/tech; analytical, strong communication; technical aptitude with AI tools; ability to handle sensitive content.",
+      "salary": "$62k–$79k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -676,34 +676,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "SNA International",
-      "title": "Analytical Toxicologist 1 (AT1) -Human Performance/Postmortem",
-      "location": "Dover, Delaware, United States",
-      "url": "https://jobs.jobvite.com/snainternational/job/oKEnAfw5?nl=1&fr=true",
-      "direct_url": "https://jobs.jobvite.com/snainternational/job/oKEnAfw5?nl=1&fr=true",
-      "date_posted": "2026-06-23T12:00:00.000Z",
-      "description": "Bench-level forensic toxicology analyst performing GC/MS, LC/MS, tandem MS, sample extractions, spectrophotometric analyses, chain-of-custody, instrument calibration, SOP evaluation, record keeping; B.S. or M.S. in a science field; U.S. citizenship and ability to complete a NAC-I background check.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Mid-level Environmental Scientist",
-      "location": "San Jose, California, United States",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000133618959-mid-level-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000133618959-mid-level-environmental-scientist",
-      "date_posted": "2026-06-23T14:14:33.479Z",
-      "description": "Bachelor's degree in environmental science/engineering/chemistry, 4+ years environmental compliance experience, US citizenship required, valid driver's license, regulatory knowledge (Clean Air, Clean Water, RCRA, TSCA, EPCRA), and proficiency with compliance tracking tools and spreadsheets.",
-      "salary": "$85k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
