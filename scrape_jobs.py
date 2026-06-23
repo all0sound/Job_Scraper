@@ -17,7 +17,9 @@ from __future__ import annotations
 
 import http.cookiejar
 import base64
+import html as html_lib
 import json
+import math
 import os
 import random
 import re
@@ -231,6 +233,212 @@ def _filter_current_config_jobs(jobs: list[dict], *, label: str = "jobs") -> lis
     dropped = len(jobs) - len(filtered)
     if dropped:
         print(f"  🧹 Dropped {dropped} stale {label} no longer matching config.json")
+    return filtered
+
+
+# Optional config-driven guardrail: filter out part-time roles that are too far
+# from a configured home base. Remote roles are kept; unknown cities can still be
+# dropped when their state falls outside filters.part_time.near_state_codes.
+PART_TIME_DISTANCE_FILTER = _cfg("filters.part_time", {})
+if not isinstance(PART_TIME_DISTANCE_FILTER, dict):
+    PART_TIME_DISTANCE_FILTER = {}
+PART_TIME_HOME_ZIP = str(PART_TIME_DISTANCE_FILTER.get("home_zip", "") or "").strip()
+try:
+    PART_TIME_MAX_MILES = float(PART_TIME_DISTANCE_FILTER.get("max_miles", 0) or 0)
+except (TypeError, ValueError):
+    PART_TIME_MAX_MILES = 0.0
+_near_states_raw = PART_TIME_DISTANCE_FILTER.get("near_state_codes", [])
+if isinstance(_near_states_raw, str):
+    _near_states_raw = [_near_states_raw]
+PART_TIME_NEAR_STATES = {
+    str(s).strip().lower()
+    for s in _near_states_raw
+    if str(s).strip()
+}
+
+_ZIP_COORDS = {
+    # Common Inland Empire center used by this fork. Keep the exact requested
+    # 92534 key configurable because public ZIP data does not resolve it cleanly.
+    "92534": (34.0528, -117.2513),
+    "92354": (34.0528, -117.2513),  # Loma Linda, CA
+}
+
+_STATE_ABBR = {
+    "alabama": "al", "alaska": "ak", "arizona": "az", "arkansas": "ar",
+    "california": "ca", "colorado": "co", "connecticut": "ct", "delaware": "de",
+    "florida": "fl", "georgia": "ga", "hawaii": "hi", "idaho": "id",
+    "illinois": "il", "indiana": "in", "iowa": "ia", "kansas": "ks",
+    "kentucky": "ky", "louisiana": "la", "maine": "me", "maryland": "md",
+    "massachusetts": "ma", "michigan": "mi", "minnesota": "mn", "mississippi": "ms",
+    "missouri": "mo", "montana": "mt", "nebraska": "ne", "nevada": "nv",
+    "new hampshire": "nh", "new jersey": "nj", "new mexico": "nm", "new york": "ny",
+    "north carolina": "nc", "north dakota": "nd", "ohio": "oh", "oklahoma": "ok",
+    "oregon": "or", "pennsylvania": "pa", "rhode island": "ri", "south carolina": "sc",
+    "south dakota": "sd", "tennessee": "tn", "texas": "tx", "utah": "ut",
+    "vermont": "vt", "virginia": "va", "washington": "wa", "west virginia": "wv",
+    "wisconsin": "wi", "wyoming": "wy",
+}
+
+_CITY_COORDS = {
+    "loma linda, ca": (34.0528, -117.2513),
+    "riverside, ca": (33.9806, -117.3755),
+    "san bernardino, ca": (34.1083, -117.2898),
+    "redlands, ca": (34.0556, -117.1825),
+    "inland empire, ca": (34.0633, -117.6509),
+    "los angeles, ca": (34.0522, -118.2437),
+    "long beach, ca": (33.7701, -118.1937),
+    "pasadena, ca": (34.1478, -118.1445),
+    "pomona, ca": (34.0551, -117.7490),
+    "claremont, ca": (34.0967, -117.7198),
+    "la mirada, ca": (33.9172, -118.0120),
+    "northridge, ca": (34.2381, -118.5301),
+    "orange county, ca": (33.7175, -117.8311),
+    "irvine, ca": (33.6846, -117.8265),
+    "fullerton, ca": (33.8704, -117.9242),
+    "anaheim, ca": (33.8366, -117.9143),
+    "costa mesa, ca": (33.6411, -117.9187),
+    "san diego, ca": (32.7157, -117.1611),
+    "santa barbara, ca": (34.4208, -119.6982),
+    "san luis obispo, ca": (35.2828, -120.6596),
+    "fresno, ca": (36.7378, -119.7871),
+    "monterey, ca": (36.6002, -121.8947),
+    "sacramento, ca": (38.5816, -121.4944),
+    "davis, ca": (38.5449, -121.7405),
+    "san francisco, ca": (37.7749, -122.4194),
+    "oakland, ca": (37.8044, -122.2712),
+    "berkeley, ca": (37.8715, -122.2730),
+    "palo alto, ca": (37.4419, -122.1430),
+    "san jose, ca": (37.3382, -121.8863),
+    "santa clara, ca": (37.3541, -121.9552),
+    "portland, or": (45.5152, -122.6784),
+    "seattle, wa": (47.6062, -122.3321),
+    "phoenix, az": (33.4484, -112.0740),
+    "las vegas, nv": (36.1716, -115.1391),
+    "salt lake city, ut": (40.7608, -111.8910),
+    "denver, co": (39.7392, -104.9903),
+    "austin, tx": (30.2672, -97.7431),
+    "dallas, tx": (32.7767, -96.7970),
+    "denton, tx": (33.2148, -97.1331),
+    "tulsa, ok": (36.1540, -95.9928),
+    "tuscaloosa, al": (33.2098, -87.5692),
+    "kennesaw, ga": (34.0234, -84.6155),
+    "highland, il": (38.7395, -89.6712),
+    "chicago, il": (41.8781, -87.6298),
+    "ann arbor, mi": (42.2808, -83.7430),
+    "detroit, mi": (42.3314, -83.0458),
+    "indiana, pa": (40.6215, -79.1525),
+    "new york, ny": (40.7128, -74.0060),
+    "boston, ma": (42.3601, -71.0589),
+    "nashville, tn": (36.1627, -86.7816),
+    "miami, fl": (25.7617, -80.1918),
+    "tampa, fl": (27.9506, -82.4572),
+}
+
+
+def _configured_part_time_center() -> tuple[float, float] | None:
+    center = PART_TIME_DISTANCE_FILTER.get("center")
+    if isinstance(center, dict):
+        lat = center.get("latitude", center.get("lat"))
+        lon = center.get("longitude", center.get("lng", center.get("lon")))
+        try:
+            return float(lat), float(lon)
+        except (TypeError, ValueError):
+            pass
+    if PART_TIME_HOME_ZIP:
+        return _ZIP_COORDS.get(PART_TIME_HOME_ZIP)
+    return None
+
+
+PART_TIME_HOME_COORDS = _configured_part_time_center()
+PART_TIME_DISTANCE_ACTIVE = bool(PART_TIME_DISTANCE_FILTER and PART_TIME_MAX_MILES > 0 and PART_TIME_HOME_COORDS)
+if PART_TIME_DISTANCE_FILTER and not PART_TIME_HOME_COORDS:
+    print(f"  ⚠️  Part-time distance filter configured, but no coordinates found for ZIP {PART_TIME_HOME_ZIP!r}")
+
+
+def _is_remote_location(*parts: str) -> bool:
+    text = " ".join(str(p or "") for p in parts).lower()
+    return bool(re.search(r"\b(remote|work from home|anywhere|online)\b", text))
+
+
+def _is_part_time_job(job: dict) -> bool:
+    text = " ".join(str(job.get(k, "") or "") for k in (
+        "title", "job_type", "employment_type", "description", "summary",
+    ))
+    return bool(re.search(
+        r"\b(part[-\s]?time|pt|adjunct|hourly|pool|temporary)\b",
+        text,
+        re.IGNORECASE,
+    ))
+
+
+def _normalize_location_text(location: str) -> str:
+    loc = re.sub(r"\([^)]*\)", " ", str(location or "").lower())
+    loc = loc.replace("&nbsp;", " ")
+    loc = re.sub(r"\b(united states|usa|u\.s\.a\.|us)\b", " ", loc)
+    loc = re.sub(r"\s+", " ", loc).strip(" ,;-")
+    for state, abbr in _STATE_ABBR.items():
+        loc = re.sub(rf"\b{re.escape(state)}\b", abbr, loc)
+    return loc
+
+
+def _coords_for_location(location: str) -> tuple[float, float] | None:
+    loc = _normalize_location_text(location)
+    if not loc or _is_remote_location(loc):
+        return None
+    for key, coords in _CITY_COORDS.items():
+        if key in loc:
+            return coords
+    tokens = [p.strip() for p in re.split(r"[,;/|]", loc) if p.strip()]
+    for i in range(len(tokens) - 1):
+        state = tokens[i + 1].split()[0]
+        key = f"{tokens[i]}, {state}"
+        if key in _CITY_COORDS:
+            return _CITY_COORDS[key]
+    return None
+
+
+def _state_code_for_location(location: str) -> str:
+    loc = _normalize_location_text(location)
+    for token in re.split(r"[,;/|]", loc):
+        first = token.strip().split()
+        if first and first[0] in _STATE_ABBR.values():
+            return first[0]
+    return ""
+
+
+def _haversine_miles(a: tuple[float, float], b: tuple[float, float]) -> float:
+    lat1, lon1 = map(math.radians, a)
+    lat2, lon2 = map(math.radians, b)
+    dlat = lat2 - lat1
+    dlon = lon2 - lon1
+    h = math.sin(dlat / 2) ** 2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2) ** 2
+    return 3958.8 * 2 * math.asin(math.sqrt(h))
+
+
+def _passes_part_time_distance_filter(job: dict) -> bool:
+    if not PART_TIME_DISTANCE_ACTIVE or not _is_part_time_job(job):
+        return True
+    if _is_remote_location(job.get("location", ""), job.get("work_arrangement", "")):
+        return True
+    coords = _coords_for_location(job.get("location", ""))
+    if coords is None:
+        state = _state_code_for_location(job.get("location", ""))
+        if PART_TIME_NEAR_STATES and state and state not in PART_TIME_NEAR_STATES:
+            return False
+        return True
+    miles = _haversine_miles(PART_TIME_HOME_COORDS, coords)  # type: ignore[arg-type]
+    job["distance_miles"] = round(miles, 1)
+    return miles <= PART_TIME_MAX_MILES
+
+
+def _filter_part_time_distance_jobs(jobs: list[dict], *, label: str = "jobs") -> list[dict]:
+    filtered = [j for j in jobs if _passes_part_time_distance_filter(j)]
+    dropped = len(jobs) - len(filtered)
+    if dropped:
+        print(
+            f"  📍 Dropped {dropped} part-time {label} more than "
+            f"{PART_TIME_MAX_MILES:g} miles from {PART_TIME_HOME_ZIP or 'configured home base'}"
+        )
     return filtered
 
 
@@ -1790,6 +1998,326 @@ def scrape_hiringcafe_recent(days: int | None = None) -> list:
 
 
 # ---------------------------------------------------------------------------
+# Academic boards — ScholarshipDB and HigherEdJobs
+# ---------------------------------------------------------------------------
+
+SCHOLARSHIPDB_LOOKBACK_DAYS = 30
+SCHOLARSHIPDB_BACKFILL_DAYS = 120
+SCHOLARSHIPDB_MAX_PAGES = max(1, int(_cfg("scholarshipdb.max_pages", 2)))
+SCHOLARSHIPDB_SEARCH_TERMS = _cfg("search_terms.scholarshipdb", INDEED_SEARCH_TERMS)
+SCHOLARSHIPDB_LOCATIONS = _cfg("locations.scholarshipdb", [{"location": "United States"}])
+
+HIGHEREDJOBS_LOOKBACK_DAYS = 30
+HIGHEREDJOBS_BACKFILL_DAYS = 120
+HIGHEREDJOBS_MAX_PAGES = max(1, int(_cfg("higheredjobs.max_pages", 1)))
+HIGHEREDJOBS_SEARCH_TERMS = _cfg("search_terms.higheredjobs", INDEED_SEARCH_TERMS)
+
+ACADEMIC_BOARD_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def _academic_fetch_html(url: str, *, referer: str = "") -> str:
+    headers = dict(ACADEMIC_BOARD_HEADERS)
+    if referer:
+        headers["Referer"] = referer
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=35) as resp:
+        return resp.read().decode("utf-8", errors="replace")
+
+
+def _html_text(fragment: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", str(fragment or ""))
+    return re.sub(r"\s+", " ", html_lib.unescape(text)).strip()
+
+
+def _html_lines(fragment: str) -> list[str]:
+    text = re.sub(r"</?(?:br|p|div|li|tr|td|th|span|h[1-6])\b[^>]*>", "\n", str(fragment or ""), flags=re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    lines = [re.sub(r"\s+", " ", html_lib.unescape(line)).strip() for line in text.splitlines()]
+    return [line for line in lines if line]
+
+
+def _academic_date_to_iso(value: str) -> str:
+    raw = re.sub(r"\s+", " ", str(value or "")).strip()
+    if not raw:
+        return ""
+    rel = _posted_text_to_iso(raw)
+    if rel != raw:
+        return rel
+    clean = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", raw, flags=re.I)
+    for fmt in ("%B %d, %Y", "%b %d, %Y", "%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(clean[:30], fmt).date().isoformat()
+        except ValueError:
+            continue
+    return raw
+
+
+def _academic_recent_enough(date_posted: str, days: int) -> bool:
+    if not date_posted:
+        return True
+    parsed = _parse_posted_at(date_posted)
+    if parsed is None:
+        return True
+    return parsed >= datetime.now(timezone.utc) - timedelta(days=days)
+
+
+def _infer_academic_job_type(*parts: str) -> str:
+    text = " ".join(str(p or "") for p in parts).lower()
+    if re.search(r"\b(part[-\s]?time|adjunct|hourly|pool|temporary)\b", text):
+        return "Part-time"
+    if re.search(r"\b(full[-\s]?time|tenure[-\s]?track|tenured)\b", text):
+        return "Full-time"
+    return ""
+
+
+def _location_value(item) -> str:
+    if isinstance(item, dict):
+        return str(item.get("location") or item.get("name") or "").strip()
+    return str(item or "").strip()
+
+
+def _scholarshipdb_url(term: str, location: str, page: int) -> str:
+    params = {"q": term, "l": location}
+    if page > 1:
+        params["page"] = str(page)
+    return "https://scholarshipdb.net/scholarships?" + urllib.parse.urlencode(params)
+
+
+def _parse_scholarshipdb_results(html: str) -> tuple[list[dict], int]:
+    jobs: list[dict] = []
+    raw_rows = 0
+    for match in re.finditer(r"<a\b([^>]*)>(.*?)</a>", html, flags=re.I | re.S):
+        attrs, anchor_html = match.groups()
+        if 'data-ev-cat="Search"' not in attrs or "Posts::Page" not in attrs:
+            continue
+        href_m = re.search(r'href=["\']([^"\']+)["\']', attrs, flags=re.I)
+        if not href_m:
+            continue
+        raw_rows += 1
+        title = _html_text(anchor_html)
+        if not title:
+            continue
+        start = html.rfind("<li", 0, match.start())
+        end = html.find("</li>", match.end())
+        block = html[start:end + 5] if start >= 0 and end >= 0 else html[match.start():match.end() + 1200]
+        tail = block.split("</h4>", 1)[1] if "</h4>" in block else block
+        company_m = re.search(r"<a\b[^>]*>(.*?)</a>", tail, flags=re.I | re.S)
+        location_m = re.search(r'<span\b[^>]*class=["\']text-success["\'][^>]*>(.*?)</span>', tail, flags=re.I | re.S)
+        posted_m = re.search(r'<span\b[^>]*class=["\']text-muted["\'][^>]*>(.*?)</span>', tail, flags=re.I | re.S)
+        desc_m = re.search(r"<p\b[^>]*>(.*?)</p>", block, flags=re.I | re.S)
+        company = _html_text(company_m.group(1)) if company_m else "Unknown"
+        location = _html_text(location_m.group(1)) if location_m else ""
+        posted = _academic_date_to_iso(_html_text(posted_m.group(1)) if posted_m else "")
+        description = _html_text(desc_m.group(1)) if desc_m else _html_text(tail)
+        if not is_mle_role_text(title, description):
+            continue
+        url = urllib.parse.urljoin("https://scholarshipdb.net", html_lib.unescape(href_m.group(1)))
+        job_type = _infer_academic_job_type(title, description)
+        is_remote = True if _is_remote_location(title, location, description) else None
+        jobs.append({
+            "company": company,
+            "title": title,
+            "location": location,
+            "url": url,
+            "direct_url": "",
+            "date_posted": posted,
+            "description": description[:JOBSPY_JD_MAX_CHARS],
+            "salary": "",
+            "job_type": job_type,
+            "is_remote": is_remote,
+            "work_arrangement": classify_work_arrangement(location, job_type, description, is_remote=is_remote),
+            "ats": "ScholarshipDB",
+        })
+    return jobs, raw_rows
+
+
+def scrape_scholarshipdb_recent(days: int | None = None) -> list:
+    d = days if days is not None else SCHOLARSHIPDB_LOOKBACK_DAYS
+    print(f"🎓 Scraping ScholarshipDB (last {d}d)...")
+    jobs_by_id: dict[str, dict] = {}
+    ok_pages = errored_pages = raw_rows = 0
+    locations = [_location_value(x) for x in SCHOLARSHIPDB_LOCATIONS]
+    locations = [x for x in locations if x] or ["United States"]
+    for term in SCHOLARSHIPDB_SEARCH_TERMS:
+        for location in locations:
+            for page in range(1, SCHOLARSHIPDB_MAX_PAGES + 1):
+                time.sleep(REQUEST_DELAY)
+                url = _scholarshipdb_url(str(term), location, page)
+                try:
+                    html = _academic_fetch_html(url, referer="https://scholarshipdb.net/")
+                except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError) as e:
+                    errored_pages += 1
+                    print(f"  ⚠️  ScholarshipDB ({term!r}, {location}, page {page}): {e}")
+                    break
+                ok_pages += 1
+                parsed, count = _parse_scholarshipdb_results(html)
+                raw_rows += count
+                if count == 0:
+                    break
+                for job in parsed:
+                    if not _academic_recent_enough(job.get("date_posted", ""), d):
+                        continue
+                    ident = _job_identity(job.get("url", ""))
+                    if ident and ident not in jobs_by_id:
+                        jobs_by_id[ident] = job
+    jobs = list(jobs_by_id.values())
+    print(
+        f"  📊 ScholarshipDB: {ok_pages} page(s) ok / {errored_pages} errored · "
+        f"{raw_rows} raw, {len(jobs)} matched"
+    )
+    if raw_rows == 0:
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "scholarshipdb_jobs.json"))
+        print(
+            f"  ⛔ ScholarshipDB returned 0 rows across all terms; preserving previous "
+            f"{len(prev)} result(s)"
+        )
+        return prev
+    return jobs
+
+
+def _higheredjobs_url(term: str, page: int) -> str:
+    params = {"Keyword": term}
+    if page > 1:
+        params["StartRow"] = str((page - 1) * 25 + 1)
+    return "https://www.higheredjobs.com/search/advanced_action.cfm?" + urllib.parse.urlencode(params)
+
+
+def _higheredjobs_blocked(html: str) -> bool:
+    text = html.lower()
+    return any(token in text for token in (
+        "_incapsula_resource",
+        "incapsula incident",
+        "request unsuccessful",
+        "request blocked",
+    ))
+
+
+def _extract_labeled_value(text: str, labels: tuple[str, ...]) -> str:
+    stop = (
+        "Institution|Company|Employer|Location|Posted|Date Posted|Category|Type|"
+        "Job Type|Employment Type|Salary|Application Due|Job Code"
+    )
+    for label in labels:
+        m = re.search(rf"\b{re.escape(label)}\s*:\s*(.*?)(?=\s+(?:{stop})\s*:|$)", text, flags=re.I)
+        if m:
+            return re.sub(r"\s+", " ", m.group(1)).strip(" -")
+    return ""
+
+
+def _parse_higheredjobs_results(html: str) -> tuple[list[dict], int]:
+    jobs: list[dict] = []
+    raw_rows = 0
+    seen_urls: set[str] = set()
+    for match in re.finditer(r"<a\b([^>]*href=[\"'][^\"']*details\.cfm\?JobCode=[^\"']+[\"'][^>]*)>(.*?)</a>", html, flags=re.I | re.S):
+        attrs, anchor_html = match.groups()
+        href_m = re.search(r'href=["\']([^"\']+)["\']', attrs, flags=re.I)
+        if not href_m:
+            continue
+        title = _html_text(anchor_html)
+        if not title:
+            continue
+        raw_rows += 1
+        url = urllib.parse.urljoin("https://www.higheredjobs.com/search/", html_lib.unescape(href_m.group(1)))
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        start = max(0, html.rfind("<div", 0, match.start()))
+        if start == 0:
+            start = max(0, match.start() - 1800)
+        end = html.find("</div>", match.end())
+        if end < 0:
+            end = min(len(html), match.end() + 2600)
+        block = html[start:end + 6]
+        block_text = _html_text(block)
+        lines = _html_lines(block)
+        company = _extract_labeled_value(block_text, ("Institution", "Company", "Employer"))
+        location = _extract_labeled_value(block_text, ("Location",))
+        posted = _academic_date_to_iso(_extract_labeled_value(block_text, ("Date Posted", "Posted")))
+        job_type = _extract_labeled_value(block_text, ("Employment Type", "Job Type", "Type"))
+        if not company and title in lines:
+            idx = lines.index(title)
+            for line in lines[idx + 1:idx + 5]:
+                if not re.search(r"\b(location|posted|category|type|salary)\b", line, re.I):
+                    company = line
+                    break
+        if not job_type:
+            job_type = _infer_academic_job_type(title, block_text)
+        if not is_mle_role_text(title, block_text):
+            continue
+        is_remote = True if _is_remote_location(title, location, block_text) else None
+        jobs.append({
+            "company": company or "Unknown",
+            "title": title,
+            "location": location,
+            "url": url,
+            "direct_url": "",
+            "date_posted": posted,
+            "description": block_text[:JOBSPY_JD_MAX_CHARS],
+            "salary": _extract_labeled_value(block_text, ("Salary",)),
+            "job_type": job_type,
+            "is_remote": is_remote,
+            "work_arrangement": classify_work_arrangement(location, job_type, block_text, is_remote=is_remote),
+            "ats": "HigherEdJobs",
+        })
+    return jobs, raw_rows
+
+
+def scrape_higheredjobs_recent(days: int | None = None) -> list:
+    d = days if days is not None else HIGHEREDJOBS_LOOKBACK_DAYS
+    print(f"🎓 Scraping HigherEdJobs (last {d}d)...")
+    jobs_by_id: dict[str, dict] = {}
+    ok_pages = errored_pages = raw_rows = 0
+    blocked = False
+    for term in HIGHEREDJOBS_SEARCH_TERMS:
+        for page in range(1, HIGHEREDJOBS_MAX_PAGES + 1):
+            time.sleep(REQUEST_DELAY)
+            url = _higheredjobs_url(str(term), page)
+            try:
+                html = _academic_fetch_html(url, referer="https://www.higheredjobs.com/")
+            except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError) as e:
+                errored_pages += 1
+                print(f"  ⚠️  HigherEdJobs ({term!r}, page {page}): {e}")
+                break
+            if _higheredjobs_blocked(html):
+                blocked = True
+                print(f"  ⛔ HigherEdJobs blocked automated access for {term!r}")
+                break
+            ok_pages += 1
+            parsed, count = _parse_higheredjobs_results(html)
+            raw_rows += count
+            if count == 0:
+                break
+            for job in parsed:
+                if not _academic_recent_enough(job.get("date_posted", ""), d):
+                    continue
+                ident = _job_identity(job.get("url", ""))
+                if ident and ident not in jobs_by_id:
+                    jobs_by_id[ident] = job
+        if blocked:
+            break
+    jobs = list(jobs_by_id.values())
+    print(
+        f"  📊 HigherEdJobs: {ok_pages} page(s) ok / {errored_pages} errored · "
+        f"{raw_rows} raw, {len(jobs)} matched"
+    )
+    if raw_rows == 0:
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "higheredjobs_jobs.json"))
+        print(
+            f"  ⛔ HigherEdJobs returned 0 rows across all terms; preserving previous "
+            f"{len(prev)} result(s)"
+        )
+        return prev
+    return jobs
+
+
+# ---------------------------------------------------------------------------
 # CalCareers (California state civil-service jobs) — calcareers.ca.gov
 #
 # CalCareers is an ASP.NET WebForms portal (DevExpress) with NO public JSON
@@ -2749,7 +3277,9 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     except (FileNotFoundError, json.JSONDecodeError):
         master = []
     master = _filter_current_config_jobs(master, label="all_jobs.json entries")
+    master = _filter_part_time_distance_jobs(master, label="all_jobs.json entries")
     new_jobs = _filter_current_config_jobs(new_jobs, label="incoming jobs")
+    new_jobs = _filter_part_time_distance_jobs(new_jobs, label="incoming jobs")
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -2816,6 +3346,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     jobs = [j for j in jobs if not _is_pharma_company(j.get("company", ""))]
     if len(jobs) < before:
         print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
+    jobs = _filter_part_time_distance_jobs(jobs, label="role(s)")
     for job in jobs:
         _ensure_work_arrangement(job)
 
@@ -2958,6 +3489,30 @@ def save_hiringcafe_results(jobs: list):
         accent="#a16207",
         empty_message="No new roles since the last run.",
         window_label=f"last {HIRINGCAFE_LOOKBACK_DAYS}d",
+    )
+
+
+def save_scholarshipdb_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="scholarshipdb_jobs",
+        title=f"🎓 ScholarshipDB — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {SCHOLARSHIPDB_LOOKBACK_DAYS}d",
+        accent="#7c3aed",
+        empty_message="No new ScholarshipDB roles since the last run.",
+        window_label=f"last {SCHOLARSHIPDB_LOOKBACK_DAYS}d",
+    )
+
+
+def save_higheredjobs_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="higheredjobs_jobs",
+        title=f"🎓 HigherEdJobs — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {HIGHEREDJOBS_LOOKBACK_DAYS}d",
+        accent="#0f766e",
+        empty_message="No new HigherEdJobs roles since the last run.",
+        window_label=f"last {HIGHEREDJOBS_LOOKBACK_DAYS}d",
     )
 
 
@@ -3142,6 +3697,24 @@ if __name__ == "__main__":
     if "--hiringcafe-backfill" in sys.argv:
         print(f"🔁 HiringCafe backfill (last {HIRINGCAFE_BACKFILL_DAYS} days)…")
         save_hiringcafe_results(scrape_hiringcafe_recent(days=HIRINGCAFE_BACKFILL_DAYS))
+        sys.exit(0)
+
+    if "--scholarshipdb-only" in sys.argv:
+        save_scholarshipdb_results(scrape_scholarshipdb_recent())
+        sys.exit(0)
+
+    if "--scholarshipdb-backfill" in sys.argv:
+        print(f"🔁 ScholarshipDB backfill (last {SCHOLARSHIPDB_BACKFILL_DAYS} days)…")
+        save_scholarshipdb_results(scrape_scholarshipdb_recent(days=SCHOLARSHIPDB_BACKFILL_DAYS))
+        sys.exit(0)
+
+    if "--higheredjobs-only" in sys.argv:
+        save_higheredjobs_results(scrape_higheredjobs_recent())
+        sys.exit(0)
+
+    if "--higheredjobs-backfill" in sys.argv:
+        print(f"🔁 HigherEdJobs backfill (last {HIGHEREDJOBS_BACKFILL_DAYS} days)…")
+        save_higheredjobs_results(scrape_higheredjobs_recent(days=HIGHEREDJOBS_BACKFILL_DAYS))
         sys.exit(0)
 
     if "--linkedin-only" in sys.argv:

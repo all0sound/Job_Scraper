@@ -186,6 +186,32 @@
 "audio post production",
 "technical sound design",
 "music analyst"
+],
+"scholarshipdb": [
+"audio engineering",
+"music technology",
+"recording technology",
+"recording arts",
+"audio production",
+"music production",
+"sound design",
+"game audio",
+"music technology instructor",
+"audio production instructor",
+"recording arts instructor"
+],
+"higheredjobs": [
+"audio engineering",
+"music technology",
+"recording technology",
+"recording arts",
+"audio production",
+"music production",
+"sound design",
+"game audio",
+"music technology instructor",
+"audio production instructor",
+"recording arts instructor"
 ]
 },
 "locations": {
@@ -392,6 +418,16 @@
 {
 "location": "United States"
 }
+],
+"scholarshipdb": [
+{
+"location": "United States"
+}
+],
+"higheredjobs": [
+{
+"location": "United States"
+}
 ]
 },
 "google_jobs": {
@@ -402,6 +438,25 @@
 },
 "hiring_cafe": {
 "max_pages": 3
+},
+"scholarshipdb": {
+"max_pages": 2
+},
+"higheredjobs": {
+"max_pages": 1
+},
+"filters": {
+"part_time": {
+"home_zip": "92534",
+"max_miles": 100,
+"near_state_codes": [
+"CA"
+],
+"center": {
+"latitude": 34.0528,
+"longitude": -117.2513
+}
+}
 },
 "employers": {
 "priority": [

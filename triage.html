@@ -192,6 +192,8 @@
   .src.ziprecruiter { background: rgba(251,146,60,0.14); color: var(--ziprecruiter); }
   .src.googlejobs { background: rgba(147,197,253,0.14); color: var(--googlejobs); }
   .src.hiringcafe { background: rgba(250,204,21,0.14); color: var(--hiringcafe); }
+  .src.scholarshipdb { background: rgba(167,139,250,0.16); color: #c4b5fd; }
+  .src.higheredjobs { background: rgba(45,212,191,0.14); color: #5eead4; }
   .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
   .tag.role { color: var(--ink); }
@@ -565,6 +567,8 @@
     { name: 'output/ziprecruiter_jobs.json', src: 'ZipRecruiter' },
     { name: 'output/google_jobs.json', src: 'GoogleJobs' },
     { name: 'output/hiringcafe_jobs.json', src: 'HiringCafe' },
+    { name: 'output/scholarshipdb_jobs.json', src: 'ScholarshipDB' },
+    { name: 'output/higheredjobs_jobs.json', src: 'HigherEdJobs' },
     { name: 'output/calcareers_jobs.json', src: 'CalCareers' },
     { name: 'output/csucareers_jobs.json', src: 'CSUCareers' },
     { name: 'output/usajobs_jobs.json',  src: 'USAJOBS'    },
@@ -765,6 +769,8 @@
     if (j.ats === 'ZipRecruiter' || (j.url || '').includes('ziprecruiter.com')) return 'ZipRecruiter';
     if (j.ats === 'GoogleJobs' || (j.url || '').includes('google.com/search')) return 'GoogleJobs';
     if (j.ats === 'HiringCafe' || (j.url || '').includes('hiring.cafe')) return 'HiringCafe';
+    if (j.ats === 'ScholarshipDB' || (j.url || '').includes('scholarshipdb.net')) return 'ScholarshipDB';
+    if (j.ats === 'HigherEdJobs' || (j.url || '').includes('higheredjobs.com')) return 'HigherEdJobs';
     return 'Other';
   }
 
@@ -2073,7 +2079,7 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'ScholarshipDB', 'HigherEdJobs', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
     renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);

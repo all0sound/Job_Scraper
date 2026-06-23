@@ -97,6 +97,8 @@ Several watchers have a `backfill` toggle in the "Run workflow" dialog that pull
 | **ZipRecruiter Watcher** | last 24 hours | last 30 days |
 | **Google Jobs Watcher** | last 24 hours | last 30 days |
 | **HiringCafe Watcher** | last 30 days | last 61 days |
+| **ScholarshipDB Watcher** | last 30 days | last 120 days |
+| **HigherEdJobs Watcher** | last 30 days | last 120 days |
 | **Priority Employer Digest** | last 24 hours | last 30 days |
 | **Local & State Gov Watcher (NEOGOV)** | last 21 days | last 60 days |
 
@@ -137,6 +139,8 @@ Optional — only if you want to test scrapes on your own machine. Needs [**Pyth
 python scrape_jobs.py --linkedin-only      # standard library only
 python scrape_jobs.py --usajobs-only       # standard library only
 python scrape_jobs.py --hiringcafe-only    # standard library only
+python scrape_jobs.py --scholarshipdb-only # standard library only
+python scrape_jobs.py --higheredjobs-only  # standard library only
 pip install -r requirements.txt            # JobSpy-backed boards
 python scrape_jobs.py --indeed-only
 python scrape_jobs.py --glassdoor-only
@@ -195,6 +199,10 @@ If JobSpy returns zero raw rows across every query, the watcher can fall back to
 
 Searches HiringCafe's public SSR `/jobs/<query>` pages for direct-from-employer listings, because the old unauthenticated API endpoint now returns 401/405. Configure with `search_terms.hiring_cafe` and cap pagination with `hiring_cafe.max_pages` in `config.json`. The public SEO route currently defaults to United States results. If HiringCafe returns no rows or errors for every page, the scraper preserves the previous `hiringcafe_jobs.*` files instead of wiping the dashboard source.
 
+### 8. ScholarshipDB and HigherEdJobs watchers — daily, last 30d
+
+Searches academic job boards for teaching/faculty/audio roles using `search_terms.scholarshipdb` and `search_terms.higheredjobs`. ScholarshipDB uses its public `/scholarships?q=...&l=...` HTML results. HigherEdJobs is guarded because it may serve an Incapsula block page to automated traffic; blocked or zero-row runs preserve the previous `higheredjobs_jobs.*` output. Both support a 120-day manual backfill from Actions.
+
 ## Keywords Matched
 
 A title is included if it matches the include terms generated from [`config.json`](config.json). Multi-word phrases match as substrings; single tokens are word-bounded, so list full words. The shipped example uses environmental/toxicology terms like these; replace them with terms for your own domain:
@@ -221,7 +229,9 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 -   **Indeed / Glassdoor / ZipRecruiter** — each takes a `location` + `country` (`USA`, `Australia`, `GB`, `Canada`, …). Glassdoor falls back to Indeed locations if omitted; ZipRecruiter defaults to the US Indeed locations.
 -   **Google Jobs** — `locations.google_jobs` is used to build the full `google_search_term` text JobSpy requires; advanced users can bypass auto-building with `google_jobs.queries`.
 -   **HiringCafe** — currently uses HiringCafe's public US SEO search route; page depth is capped by `hiring_cafe.max_pages`.
+-   **ScholarshipDB / HigherEdJobs** — broad academic-board searches, tuned with `search_terms.scholarshipdb`, `search_terms.higheredjobs`, and their `max_pages` settings.
 -   **USAJOBS** is nationwide US (federal); **NEOGOV** is filtered to your configured locations; **CalCareers** and **CalOpps** are California-only boards by nature (disable them if you're not searching California).
+-   **Part-time distance filter** — `filters.part_time` drops part-time/adjunct/hourly roles more than `max_miles` from the configured `center`. `near_state_codes` is a fallback for part-time jobs whose city is not in the local coordinate table.
 -   The map and dashboard auto-fit to wherever your jobs are.
 
 ## Output Files
@@ -235,6 +245,8 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 | `ziprecruiter_jobs.json` / `.md` / `.html` | ZipRecruiter watcher | ZipRecruiter-sourced roles in your locations, last 24h, deduped |
 | `google_jobs.json` / `.md` / `.html` | Google Jobs watcher | Google Jobs roles in your locations, last 24h, deduped |
 | `hiringcafe_jobs.json` / `.md` / `.html` | HiringCafe watcher | Direct-employer roles from HiringCafe, last 30d, guarded |
+| `scholarshipdb_jobs.json` / `.md` / `.html` | ScholarshipDB watcher | Academic roles from scholarshipdb.net, last 30d, guarded |
+| `higheredjobs_jobs.json` / `.md` / `.html` | HigherEdJobs watcher | Academic roles from higheredjobs.com, last 30d, guarded |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers watcher | California state civil-service roles (calcareers.ca.gov) |
 | `csucareers_jobs.json` / `.md` / `.html` | CSU Careers watcher | California State University systemwide roles (csucareers.calstate.edu) |
 | `usajobs_jobs.json` / `.md` / `.html` | USAJOBS watcher | US federal roles matching your configured keywords, with salary, via usajobs.gov |
@@ -312,6 +324,8 @@ python scrape_jobs.py --glassdoor-only       # general Glassdoor, last 24h
 python scrape_jobs.py --ziprecruiter-only    # general ZipRecruiter, last 24h
 python scrape_jobs.py --google-jobs-only     # Google Jobs, last 24h
 python scrape_jobs.py --hiringcafe-only      # HiringCafe, last 30d
+python scrape_jobs.py --scholarshipdb-only   # ScholarshipDB, last 30d
+python scrape_jobs.py --higheredjobs-only    # HigherEdJobs, last 30d
 python scrape_jobs.py --usajobs-only         # US federal jobs (usajobs.gov, no API key)
 python scrape_jobs.py --governmentjobs-only  # state/local gov (NEOGOV)
 python scrape_jobs.py --calopps-only         # California local agencies (calopps.org)
@@ -319,7 +333,7 @@ python scrape_jobs.py --calcareers-only      # California state jobs (calcareers
 python scrape_jobs.py --csucareers-only      # California State University jobs (csucareers.calstate.edu)
 ```
 
-The LinkedIn / priority / HiringCafe / USAJOBS / gov pipelines use only the **Python standard library**. Indeed, Glassdoor, ZipRecruiter, and Google Jobs use one optional dependency: `pip install -r requirements.txt` (single package, `python-jobspy`).
+The LinkedIn / priority / HiringCafe / ScholarshipDB / HigherEdJobs / USAJOBS / gov pipelines use only the **Python standard library**. Indeed, Glassdoor, ZipRecruiter, and Google Jobs use one optional dependency: `pip install -r requirements.txt` (single package, `python-jobspy`).
 
 ### 📲 Phone notifications (Pushover)
 
@@ -485,7 +499,10 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
 │   ├── ziprecruiter_jobs.{json,md,html}
 │   ├── google_jobs.{json,md,html}
 │   ├── hiringcafe_jobs.{json,md,html}
+│   ├── scholarshipdb_jobs.{json,md,html}
+│   ├── higheredjobs_jobs.{json,md,html}
 │   ├── calcareers_jobs.{json,md,html}
+│   ├── csucareers_jobs.{json,md,html}
 │   ├── usajobs_jobs.{json,md,html}
 │   ├── governmentjobs_jobs.{json,md,html}
 │   ├── calopps_jobs.{json,md,html}
@@ -504,6 +521,8 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
     ├── ziprecruiter_watch.yml      # Hourly :27 PT — ZipRecruiter (last 24h)
     ├── google_jobs_watch.yml       # Hourly :37 PT — Google Jobs (last 24h)
     ├── hiringcafe_watch.yml        # Hourly :57 PT — HiringCafe (last 30d)
+    ├── scholarshipdb_watch.yml     # Daily — ScholarshipDB academic jobs
+    ├── higheredjobs_watch.yml      # Daily — HigherEdJobs academic jobs
     ├── calcareers_watch.yml        # Daily — CalCareers (California state jobs)
     ├── usajobs_watch.yml           # Daily — USAJOBS (federal jobs, no API key)
     ├── localgov_watch.yml          # Daily — NEOGOV + CalOpps (state & local gov)

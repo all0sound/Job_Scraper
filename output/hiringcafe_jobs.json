@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-06-23 18:57 UTC",
-  "total": 9,
+  "scraped_at": "2026-06-23 21:11 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "The Southern Baptist Theological Seminary",
-      "title": "Audio Engineer",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://southern-seminary.breezy.hr/p/89affc5f2f5f-audio-engineer",
-      "direct_url": "https://southern-seminary.breezy.hr/p/89affc5f2f5f-audio-engineer",
-      "date_posted": "2026-06-19T14:47:00.164Z",
-      "description": "1+ year professional sound design/engineering experience (front-of-house mixing); audio/video production experience; ability to train and supervise part-time technicians; equipment maintenance and troubleshooting skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Advanced Systems Group LLC",
       "title": "Audio Engineer (A1/A2)",
@@ -74,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hive of Thinkrs",
-      "title": "Music Production Instructor - GarageBand",
-      "location": "Miami, Florida, United States",
-      "url": "https://beathinkr.careerplug.com/jobs/3428813",
-      "direct_url": "https://beathinkr.careerplug.com/jobs/3428813",
-      "date_posted": "2026-05-28T19:14:25.000Z",
-      "description": "Part-time instructor to teachGarageBand-based music production to students in grades 3–7; requires strong GarageBand skills and ability to teach in a classroom.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "2K",
       "title": "Lead Sound Designer",
       "location": "Frisco or Montréal or Quebec City or Georgia",
@@ -113,7 +85,8 @@
       "job_type": "Part Time, Seasonal",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
+      "ats": "HiringCafe",
+      "distance_miles": 56.8
     },
     {
       "company": "Zach Theater",
