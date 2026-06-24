@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-24 05:17 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-06-24 17:35 UTC",
+  "total": 50,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -43,20 +43,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Insmed",
-      "title": "Senior Scientist, Study Toxicologist",
-      "location": "Bridgewater or United States",
-      "url": "https://insmed.wd504.myworkdayjobs.com/external/job/NJ-Corporate-Headquarters/Senior-Scientist--Study-Toxicologist_R3493",
-      "direct_url": "https://insmed.wd504.myworkdayjobs.com/external/job/NJ-Corporate-Headquarters/Senior-Scientist--Study-Toxicologist_R3493",
-      "date_posted": "2026-05-29T00:00:00.000Z",
-      "description": "PhD/MS with 3 years toxicology experience or BS with 5 years; experience overseeing safety pharmacology and toxicology studies, GLP knowledge, CRO study management, SEND datasets, and regulatory submission support; occasional travel (~20%).",
-      "salary": "$133k–$173k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -158,6 +144,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "AtkinsRéalis",
+      "title": "Environmental Scientist",
+      "location": "Tampa or Florida",
+      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1",
+      "direct_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's in Environmental Management (ABET) or related; 0-2 years relevant experience; proficiency with Microsoft Office; GIS preferred; ability to perform field visits, contamination assessments, and technical reporting.",
+      "salary": "$55k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Crystal Clean",
       "title": "Environmental Scientist",
       "location": "Hoffman Estates, Illinois, United States",
@@ -166,6 +166,34 @@
       "date_posted": "2026-06-17T19:40:48.549Z",
       "description": "5+ years experience in waste approvals, strong knowledge of RCRA and DOT, Bachelor's in Chemistry or Environmental Science (or equivalent), advanced Microsoft Excel, database/SQL familiarity, technical writing, and occasional travel.",
       "salary": "$75k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Experienced Environmental Scientist",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-05-28T04:00:00.000Z",
+      "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "WSP",
+      "title": "Lead Environmental Scientist",
+      "location": "Durham or Charlotte or Wilmington",
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
+      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
+      "date_posted": "2026-06-19T14:02:18.000Z",
+      "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,20 +648,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WSP",
-      "title": "Lead Environmental Scientist",
-      "location": "Durham or Charlotte or Wilmington",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
-      "date_posted": "2026-06-19T14:02:18.000Z",
-      "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of Environmental Quality",
       "title": "Environmental Scientist (Health Physicist)",
       "location": "Salt Lake City, Utah, United States",
@@ -690,5 +704,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "AtkinsRéalis",
+      "title": "Environmental Scientist",
+      "location": "Tampa or Florida",
+      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1",
+      "direct_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's in Environmental Management (ABET) or related; 0-2 years relevant experience; proficiency with Microsoft Office; GIS preferred; ability to perform field visits, contamination assessments, and technical reporting.",
+      "salary": "$55k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Experienced Environmental Scientist",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-05-28T04:00:00.000Z",
+      "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
