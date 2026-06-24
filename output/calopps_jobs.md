@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Music Technology & Audio Roles
-*Last updated: 2026-06-23 18:17 UTC*
+*Last updated: 2026-06-24 18:13 UTC*
 
 **0 new role(s)** since last run · 0 total in recent CalOpps postings
 
