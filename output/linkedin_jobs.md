@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-24 22:54 UTC*
+*Last updated: 2026-06-24 23:50 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4430725002/) — Triumvirate Environmental
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $24 USD - $24 USD
+### [Senior Air Quality Specialist, Technical Leader](https://www.linkedin.com/jobs/view/4432887611/) — Ascent
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-06-24
