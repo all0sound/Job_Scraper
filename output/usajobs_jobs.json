@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-23 16:27 UTC",
+  "scraped_at": "2026-06-24 16:25 UTC",
   "total": 6,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Environmental Protection Specialist",
+      "location": "Silver Spring, Maryland",
+      "url": "https://www.usajobs.gov/job/874083500",
+      "date_posted": "2026-06-24",
+      "salary": "Starting at $85,447 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Defense Logistics Agency",
       "title": "Environmental Protection Specialist",
@@ -31,15 +40,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Roseburg, Oregon",
-      "url": "https://www.usajobs.gov/job/873183700",
-      "date_posted": "2026-06-16",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Consumer Product Safety Commission",
       "title": "Director for Hazard Identification",
       "location": "Bethesda, Maryland",
@@ -58,5 +58,15 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Environmental Protection Specialist",
+      "location": "Silver Spring, Maryland",
+      "url": "https://www.usajobs.gov/job/874083500",
+      "date_posted": "2026-06-24",
+      "salary": "Starting at $85,447 Per year (GS 11)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
