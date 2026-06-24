@@ -1,19 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-24 16:11 UTC*
+*Last updated: 2026-06-24 17:08 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432813543/) — Triumvirate Environmental
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $24 USD - $24 USD
+### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY) JC-522366](https://www.linkedin.com/jobs/view/4432248320/) — California Department of Public Health
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $10,854.00/mo - $13,493.00/mo
 - 🕒 **Posted:** 2026-06-24
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432802863/) — Triumvirate Environmental
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $24 USD - $24 USD
-- 🕒 **Posted:** 2026-06-24
-
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432801859/) — Triumvirate Environmental
-- 📍 **Location:** Santa Fe Springs, CA
-- 💰 **Salary:** $24 USD - $24 USD
+### [Hazardous Waste Coordinator](https://www.linkedin.com/jobs/view/4431857553/) — The Planet Group
+- 📍 **Location:** Richmond, CA
+- 💰 **Salary:** $25.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-06-24
