@@ -1,6 +1,18 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-06-25 01:31 UTC*
+*Last updated: 2026-06-25 02:46 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Senior Air Quality Specialist, Technical Leader](https://www.indeed.com/viewjob?jk=1e83f1904c7ca84c) — Ascent Environmental
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $120k–$150k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-24
+
+### [Senior Environmental Scientist](https://www.indeed.com/viewjob?jk=4fcb3259f8a27b77) — QK
+- 📍 **Location:** Clovis, CA, US
+- 💰 **Salary:** $105k–$120k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-01
