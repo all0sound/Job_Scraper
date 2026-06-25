@@ -1,6 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-06-25 22:16 UTC*
+*Last updated: 2026-06-25 23:15 UTC*
 
-**0 new role(s)** since last run · 16 total in last 24h
+**0 new role(s)** since last run · 14 total in last 24h
 
 No new roles since the last run.
