@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-06-24 17:08 UTC",
-  "total": 8,
-  "new_count": 6,
+  "scraped_at": "2026-06-25 17:08 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist Supervisor I/II",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
+      "date_posted": "",
+      "salary": "$80,142.40 - $102,356.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Diego",
+      "title": "Environmental Health Specialist III-Hazardous Materials Division-26472306HMD",
+      "location": "County of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
+      "date_posted": "",
+      "salary": "$90,043.20 - $110,593.60 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "Oregon Department of Environmental Quality",
       "title": "Air Quality Permit Coordinator (Administrative Specialist 1)",
@@ -19,33 +37,6 @@
       "url": "https://www.governmentjobs.com/jobs/5370135-0/senior-air-quality-specialist-ambient-air-quality-analysis",
       "date_posted": "",
       "salary": "$125,685.16 - $152,771.09 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
-      "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Mountain View (CA)",
-      "title": "Senior Hazardous Materials Specialist",
-      "location": "City of Mountain View",
-      "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
-      "date_posted": "",
-      "salary": "$171,085.46 - $231,468.38 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -78,57 +69,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Oregon Department of Environmental Quality",
-      "title": "Air Quality Permit Coordinator (Administrative Specialist 1)",
-      "location": "Medford, OR ; Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/145523-1/air-quality-permit-coordinator-administrative-specialist-1",
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist Supervisor I/II",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
       "date_posted": "",
-      "salary": "$3,797.00 - $5,190.00 Monthly",
+      "salary": "$80,142.40 - $102,356.80 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
+      "company": "County of San Diego",
+      "title": "Environmental Health Specialist III-Hazardous Materials Division-26472306HMD",
+      "location": "County of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
       "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Mountain View (CA)",
-      "title": "Senior Hazardous Materials Specialist",
-      "location": "City of Mountain View",
-      "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
-      "date_posted": "",
-      "salary": "$171,085.46 - $231,468.38 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Sacramento Area Sewer District (CA)",
-      "title": "Environmental Specialist I/II",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$83,408.00 - $111,758.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Napa",
-      "title": "Senior Environmental Health Specialist",
-      "location": "Napa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5381149-0/senior-environmental-health-specialist",
-      "date_posted": "",
-      "salary": "$109,428.80 - $130,936.00 Annually",
+      "salary": "$90,043.20 - $110,593.60 Annually",
       "ats": "NEOGOV"
     }
   ]
