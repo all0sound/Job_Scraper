@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-25 22:12 UTC*
+*Last updated: 2026-06-25 22:57 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [Senior Associate, Hazardous Materials & Occupational Hygiene - Newcastle or SydneyHybrid](https://www.linkedin.com/jobs/view/4433506617/) — worldswin
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-25
