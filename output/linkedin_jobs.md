@@ -1,24 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-25 20:25 UTC*
+*Last updated: 2026-06-25 21:05 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Copy of Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4432698229/) — AECOM
-- 📍 **Location:** Santa Barbara, CA
-- 💰 **Salary:** $110000 to $130000
+### [Air Quality Project Manager - Environmental Services (Multiple Locations)](https://www.linkedin.com/jobs/view/4432682898/) — Burns & McDonnell
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $130,000.00-310,000.00
 - 🕒 **Posted:** 2026-06-25
 
-### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4432689407/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $110000 to $130000
-- 🕒 **Posted:** 2026-06-25
-
-### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4432690404/) — AECOM
-- 📍 **Location:** San Rafael, CA
-- 💰 **Salary:** $110000 to $130000
-- 🕒 **Posted:** 2026-06-25
-
-### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4432698235/) — AECOM
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $110000 to $130000
+### [Air Quality Project Manager - Environmental Services (Multiple Locations)](https://www.linkedin.com/jobs/view/4432690488/) — Burns & McDonnell
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $130,000.00-310,000.00
 - 🕒 **Posted:** 2026-06-25
