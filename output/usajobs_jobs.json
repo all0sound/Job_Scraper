@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-24 16:25 UTC",
-  "total": 6,
-  "new_count": 1,
+  "scraped_at": "2026-06-25 16:26 UTC",
+  "total": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "United States Army Installation Management Command",
@@ -10,15 +10,6 @@
       "url": "https://www.usajobs.gov/job/874083500",
       "date_posted": "2026-06-24",
       "salary": "Starting at $85,447 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Logistics Agency",
-      "title": "Environmental Protection Specialist",
-      "location": "Battle Creek, Michigan",
-      "url": "https://www.usajobs.gov/job/873512600",
-      "date_posted": "2026-06-17",
-      "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -58,15 +49,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "Environmental Protection Specialist",
-      "location": "Silver Spring, Maryland",
-      "url": "https://www.usajobs.gov/job/874083500",
-      "date_posted": "2026-06-24",
-      "salary": "Starting at $85,447 Per year (GS 11)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
