@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-25 00:28 UTC",
+  "scraped_at": "2026-06-25 01:39 UTC",
   "total": 51,
   "new_count": 0,
   "jobs": [
@@ -46,20 +46,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Senior Risk Assessor/Toxicologist",
-      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Exponent",
       "title": "Public Health Toxicologist (Ph.D.)",
       "location": "Austin, Texas, United States",
@@ -71,6 +57,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Senior Risk Assessor/Toxicologist",
+      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -172,20 +172,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Experienced Environmental Scientist",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-05-28T04:00:00.000Z",
-      "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "WSP",
       "title": "Lead Environmental Scientist",
       "location": "Durham or Charlotte or Wilmington",
@@ -193,6 +179,20 @@
       "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
       "date_posted": "2026-06-19T14:02:18.000Z",
       "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Experienced Environmental Scientist",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-05-28T04:00:00.000Z",
+      "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
