@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26 19:31 UTC",
-  "total": 55,
+  "scraped_at": "2026-06-26 20:31 UTC",
+  "total": 54,
   "new_count": 0,
   "jobs": [
     {
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Senior Risk Assessor/Toxicologist",
-      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Exponent",
       "title": "Public Health Toxicologist (Ph.D.)",
       "location": "Austin, Texas, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Senior Risk Assessor/Toxicologist",
+      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -124,20 +124,6 @@
       "date_posted": "2026-06-23T12:00:00.000Z",
       "description": "Bench-level forensic toxicology analyst performing GC/MS, LC/MS, tandem MS, sample extractions, spectrophotometric analyses, chain-of-custody, instrument calibration, SOP evaluation, record keeping; B.S. or M.S. in a science field; U.S. citizenship and ability to complete a NAC-I background check.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Oneida Total Integrated Enterprises",
-      "title": "Environmental Scientist",
-      "location": "Fairfield, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4187878",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4187878",
-      "date_posted": "2026-05-27T19:49:26.128Z",
-      "description": "Bachelor's in environmental engineering/science with 3+ years federal environmental compliance; knowledge of Clean Air and Clean Water Acts; MS Office; DoD background check; US citizenship; able to travel up to 30%.",
-      "salary": "$65k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -312,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Bluefield, Virginia, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "date_posted": "2026-06-15T13:57:24.000Z",
-      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
-      "salary": "$50k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "BGE, Inc",
       "title": "Environmental Scientist",
       "location": "Frisco, Texas, United States",
@@ -340,14 +312,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WSP",
-      "title": "Associate Environmental Scientist",
-      "location": "Redmond, Washington, United States",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
-      "date_posted": "2026-06-24T18:43:25.000Z",
-      "description": "Bachelor's in environmental science or related field, 1+ years post-education environmental field experience, GIS and Trimble GPS experience, knowledge of environmental laws, field sampling and data analysis skills, strong communication and safety compliance.",
-      "salary": "$77k–$90k/yr",
+      "company": "Arcadis",
+      "title": "Environmental Scientist",
+      "location": "Bluefield, Virginia, United States",
+      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "date_posted": "2026-06-15T13:57:24.000Z",
+      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
+      "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -362,6 +334,20 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
       "salary": "$82k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "WSP",
+      "title": "Associate Environmental Scientist",
+      "location": "Redmond, Washington, United States",
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
+      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
+      "date_posted": "2026-06-24T18:43:25.000Z",
+      "description": "Bachelor's in environmental science or related field, 1+ years post-education environmental field experience, GIS and Trimble GPS experience, knowledge of environmental laws, field sampling and data analysis skills, strong communication and safety compliance.",
+      "salary": "$77k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
