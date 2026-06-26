@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-26 20:23 UTC",
+  "scraped_at": "2026-06-26 21:16 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "QK",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "QK",
-      "title": "Senior Associate Environmental Scientist",
-      "location": "Clovis, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=33b064d475a355b4",
-      "direct_url": "https://qk.breezy.hr/p/0793ab0f9560-senior-associate-environmental-scientist?source=indeed",
-      "company_url": "https://www.indeed.com/cmp/Qk",
-      "date_posted": "2026-06-01",
-      "description": "**Protect California's Natural Resources While Shaping the Future of Infrastructure**\n-------------------------------------------------------------------------------------\n\n\nAt QK, we're looking for an experienced environmental professional who is passionate about balancing responsible development with environmental stewardship. As a **Senior Associate Environmental Scientist**, you'll play a key role in helping public and private clients navigate complex environmental regulations while protecting California's diverse natural resources.\n\n\nIf you're experienced in NEPA and CEQA compliance, enjoy both fieldwork and technical report writing, and are ready to take on project management responsibilities while mentoring junior staff, we'd love to meet you.\n\n\n**Why Join QK?**\n----------------\n\n\nAt QK, we're more than an engineering and environmental consulting firm. We're an **employee\\-owned company** built on collaboration, innovation, and the belief that great projects begin with great people.\n\n\nOur environmental team partners closely with planners, engineers, surveyors, and landscape architects to deliver meaningful projects throughout California. Here, you'll have the opportunity to work on diverse projects, expand your technical expertise, and help shape communities while preserving the environment.\n\n\n**What You'll Do**\n------------------\n\n\nAs a Senior Associate Environmental Scientist, you will:\n\n\n* Lead and support biological and environmental studies for a variety of public and private projects.\n* Prepare technical reports including:\n\t+ Biological Resource Reports\n\t+ Wetland Delineation Reports\n\t+ Constraints Analyses\n\t+ Wetland Permit Applications\n\t+ NEPA and CEQA documentation\n* Conduct field surveys for threatened, endangered, and sensitive plant and wildlife species.\n* Perform ecological research, habitat assessments, natural resource monitoring, and restoration activities.\n* Coordinate with federal, state, and local agencies including USFWS and other regulatory organizations.\n* Assist with permitting efforts involving the ESA, CWA, Section 404, NEPA, CEQA, and related environmental regulations.\n* Manage project tasks, schedules, budgets, and client communications.\n* Collaborate with multidisciplinary teams of planners, engineers, and environmental professionals.\n* Prepare presentations and represent projects during meetings, workshops, and public hearings.\n* Mentor junior environmental scientists and contribute to the continued growth of the environmental team.\n\n\n**What Makes You a Great Fit**\n------------------------------\n\n\nWe're looking for someone who combines strong technical expertise with excellent communication and leadership skills.\n\n\n### **Required Qualifications**\n\n\n* Bachelor's or Master's degree in Biology, Botany, Ecology, Wildlife Management, Environmental Biology, Environmental Science, or a related field.\n* Must be eligible for approval by CDFW and U.S. Fish \\& Wildlife Services as a Designated/Qualified Biologist for Central Valley species\n* 5\\-10 years of professional environmental consulting experience, or a Master's degree with at least 3 years of relevant experience.\n* Strong experience with:\n\t+ NEPA and CEQA compliance\n\t+ Endangered Species Act (ESA)\n\t+ Clean Water Act (CWA)\n\t+ Wetland delineations and permitting\n\t+ Environmental regulatory documentation\n* Experience conducting biological field surveys and habitat assessments.\n* Excellent technical writing and analytical skills.\n* Strong organizational and project coordination abilities.\n* Ability to travel to project sites throughout California as needed.\n\n\n### **Preferred Qualifications**\n\n\n* Minimum 3\\+ years' experience with several of the following:\n\t+ California tiger salamander\n\t+ San Joaquin kit fox\n\t+ blunt\\-nosed leopard lizard\n\t+ San Joaquin antelope squirrel\n\t+ Swainson's hawk\n\t+ burrowing owl\n* Level II blunt\\-nosed leopard lizard survey credentials\n* Business development, proposal writing, and/or client management experience\n* Demonstrated success mentoring and developing technical staff\n* Professional certifications such as Certified Wildlife Biologist, Professional Wetland Scientist, or similar credentials\n\n\n**Why You'll Love This Role**\n-----------------------------\n\n\n* Work on projects that make a lasting impact on California's communities and natural resources.\n* Collaborate with an experienced multidisciplinary team.\n* Take on increasing project management responsibilities.\n* Mentor the next generation of environmental professionals.\n* Enjoy the benefits of working for an employee\\-owned company where your contributions directly support our collective success.\n\n\n**Join Our Employee\\-Owned Team**\n---------------------------------\n\n\nIf you're ready to combine your environmental expertise with meaningful project work and opportunities for professional growth, we'd love to hear from you.\n\n\nBecome part of **One Connected Team** and help make the built environment possible while protecting the natural world that surrounds it.",
-      "salary": "$41–$47/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
