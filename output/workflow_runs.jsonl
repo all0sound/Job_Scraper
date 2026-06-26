@@ -275,3 +275,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "28256675020", "timestamp": "2026-06-26T18:13:03Z", "workflow": "google_jobs"}
 {"job_count": 7, "run_attempt": "1", "run_id": "28256987006", "timestamp": "2026-06-26T18:18:38Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "28259260304", "timestamp": "2026-06-26T19:20:15Z", "workflow": "linkedin"}
+{"job_count": 7, "run_attempt": "1", "run_id": "28259274494", "timestamp": "2026-06-26T19:20:28Z", "workflow": "scholarshipdb"}
