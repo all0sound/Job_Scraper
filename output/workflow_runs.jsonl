@@ -420,3 +420,4 @@
 {"job_count": 3, "run_attempt": "1", "run_id": "28256980549", "timestamp": "2026-06-26T18:18:46Z", "workflow": "indeed"}
 {"job_count": 55, "run_attempt": "1", "run_id": "28257680743", "timestamp": "2026-06-26T18:32:26Z", "workflow": "hiringcafe"}
 {"job_count": 8, "run_attempt": "1", "run_id": "28258926888", "timestamp": "2026-06-26T19:05:38Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "28259354839", "timestamp": "2026-06-26T19:06:09Z", "workflow": "ziprecruiter"}
