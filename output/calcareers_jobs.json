@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26 16:51 UTC",
-  "total": 11,
+  "scraped_at": "2026-06-27 16:35 UTC",
+  "total": 13,
   "new_count": 0,
   "jobs": [
     {
@@ -38,18 +38,6 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
-      "date_posted": "2026-06-24",
-      "salary": "$25.48 - $53.77",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent Intermittent - 1500 Hours",
-      "work_arrangement": "On-site"
     },
     {
       "company": "State Water Resources Control Board",
@@ -112,6 +100,42 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST (PI)",
+      "location": "Santa Cruz County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
+      "date_posted": "2026-06-24",
+      "salary": "$25.48 - $53.77",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "Permanent Intermittent - 1500 Hours",
+      "work_arrangement": "On-site"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Senior Environmental Scientist (Specialist)",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
+      "date_posted": "2026-06-23",
+      "salary": "$7820.00 - $10732.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Senior Environmental Scientist (Specialist)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521406",
+      "date_posted": "2026-06-22",
+      "salary": "$7820.00 - $10732.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Environmental Health Hazard Assessment Office",
       "title": "Environmental Health Education and Community Science Program Specialist",
       "location": "United States",
@@ -124,11 +148,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Fish and Wildlife",
+      "company": "Department of Resources Recycling & Recovery",
       "title": "Senior Environmental Scientist (Specialist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
-      "date_posted": "2026-06-23",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518460",
+      "date_posted": "2026-06-26",
       "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
