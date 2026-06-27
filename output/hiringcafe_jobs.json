@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27 01:48 UTC",
+  "scraped_at": "2026-06-27 05:41 UTC",
   "total": 7,
   "new_count": 0,
   "jobs": [
@@ -46,20 +46,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Daystar Television Network",
-      "title": "Assistant Audio Engineer",
-      "location": "Bedford, Texas, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a78826757c133d20157d9eb9ff2044c&id=8a78879e9eb34c2a019edc18a08d4dad&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a78826757c133d20157d9eb9ff2044c&id=8a78879e9eb34c2a019edc18a08d4dad&source=&lang=en",
-      "date_posted": "2026-06-18T20:24:32.703Z",
-      "description": "Studio mixing/editing and dialog post-production for broadcast and digital platforms; Pro-Tools proficiency; valid Texas driver\\u000fs license; bachelor\\u000fs degree or equivalent experience; 1-3 years experience preferred; must be a Christian; able to lift 25 lbs and work scheduled/extended shifts.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "2K",
       "title": "Lead Sound Designer",
       "location": "Frisco or Montréal or Quebec City or Georgia",
@@ -97,6 +83,20 @@
       "date_posted": "2026-06-03T19:51:01.022Z",
       "description": "3+ years supervising audio technicians, bachelor\\u0002s in sound engineering or equivalent, experience with Yamaha CL Series/CL5, Crestron, Aviom, Shure, DANTE, QLab, Pro Tools, budget oversight, theatrical rigging, and ability to lift up to 70 lbs and work nights/weekends.",
       "salary": "$60k–$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Daystar Television Network",
+      "title": "Assistant Audio Engineer",
+      "location": "Bedford, Texas, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a78826757c133d20157d9eb9ff2044c&id=8a78879e9eb34c2a019edc18a08d4dad&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a78826757c133d20157d9eb9ff2044c&id=8a78879e9eb34c2a019edc18a08d4dad&source=&lang=en",
+      "date_posted": "2026-06-18T20:24:32.703Z",
+      "description": "Studio mixing/editing and dialog post-production for broadcast and digital platforms; Pro-Tools proficiency; valid Texas driver\\u000fs license; bachelor\\u000fs degree or equivalent experience; 1-3 years experience preferred; must be a Christian; able to lift 25 lbs and work scheduled/extended shifts.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
