@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-27 18:51 UTC*
+*Last updated: 2026-06-27 19:55 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4433267602/) — QK
-- 📍 **Location:** Clovis, CA
-- 🕒 **Posted:** 2026-06-27
+No new roles since the last run.
