@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28 18:21 UTC",
+  "scraped_at": "2026-06-28 19:29 UTC",
   "total": 51,
   "new_count": 0,
   "jobs": [
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Senior Risk Assessor/Toxicologist",
-      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Exponent",
       "title": "Public Health Toxicologist (Ph.D.)",
       "location": "Austin, Texas, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Senior Risk Assessor/Toxicologist",
+      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
