@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-29 05:32 UTC",
-  "total": 51,
-  "new_count": 0,
+  "scraped_at": "2026-06-29 17:50 UTC",
+  "total": 52,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Washington",
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Senior Risk Assessor/Toxicologist",
-      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Exponent",
       "title": "Public Health Toxicologist (Ph.D.)",
       "location": "Austin, Texas, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Senior Risk Assessor/Toxicologist",
+      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -124,6 +124,20 @@
       "date_posted": "2026-06-23T12:00:00.000Z",
       "description": "Bench-level forensic toxicology analyst performing GC/MS, LC/MS, tandem MS, sample extractions, spectrophotometric analyses, chain-of-custody, instrument calibration, SOP evaluation, record keeping; B.S. or M.S. in a science field; U.S. citizenship and ability to complete a NAC-I background check.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Reno, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "date_posted": "2026-06-24T22:17:30.000Z",
+      "description": "Bachelor's in physical/natural resource/life sciences or engineering with 3 years environmental experience OR HS +5 years OR 1 year as Environmental Scientist 2 in Nevada; valid driver's license and MSHA 24-hour training for mine access; inspection, permitting, monitoring, enforcement, and technical reporting skills.",
+      "salary": "$67k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -718,5 +732,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Reno, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "date_posted": "2026-06-24T22:17:30.000Z",
+      "description": "Bachelor's in physical/natural resource/life sciences or engineering with 3 years environmental experience OR HS +5 years OR 1 year as Environmental Scientist 2 in Nevada; valid driver's license and MSHA 24-hour training for mine access; inspection, permitting, monitoring, enforcement, and technical reporting skills.",
+      "salary": "$67k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
