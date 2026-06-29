@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-28 23:47 UTC*
+*Last updated: 2026-06-29 01:32 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Managing Consultant, Environmental Compliance Manager](https://www.linkedin.com/jobs/view/4431045736/) — ERM
+- 📍 **Location:** Walnut Creek, CA
+- 💰 **Salary:** $94,990–$124,245
+- 🕒 **Posted:** 2026-06-29
