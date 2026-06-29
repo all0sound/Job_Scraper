@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-29 22:01 UTC",
+  "scraped_at": "2026-06-29 22:14 UTC",
   "total": 9,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "AECOM",
@@ -166,24 +166,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Eurofins",
-      "title": "Scientist I (Wet Chem) - Eurofins Drinking Water and Wastewater West, Pomona, CA",
-      "location": "Pomona, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=6f2fa7114095a0d3",
-      "direct_url": "https://jobs.smartrecruiters.com/Eurofins/744000134870059-scientist-i-wet-chem-eurofins-drinking-water-and-wastewater-west-pomona-ca",
-      "company_url": "https://www.indeed.com/cmp/Eurofins",
-      "date_posted": "2026-06-29",
-      "description": "**Company Description**  \n\nEurofins Scientific is a network of independent companies providing a unique range of analytical testing  \n\nservices to clients across multiple industries, to make life and our environment safer, healthier and more sustainable. From the food you eat, to the water you drink, to the medicines you rely on, Eurofins laboratories work to ensure the products they supply are safe, their ingredients are authentic, and labelling is accurate.\n\n\nEurofins is dedicated to delivering testing services that contribute to the health and safety of society and the planet, and to its corporate responsibility to protect the environment and ensure diversity, equity, and inclusion across the entire network of Eurofins companies.\n\n\nWith over 50 laboratories and more than 40 service centers nationwide, Eurofins Environment Testing provides full\\-service environmental analysis across all 50 states. Our network supports public and private clients—including DoD, DOE, and municipalities—through robust logistics and continuous investment in people, technology, and infrastructure. We offer comprehensive testing for air, water, soil, sediment, tissue, and waste, covering a wide range of analytes including PFAS, metals, VOCs/SVOCs, dioxins/furans, radiochemicals, and more.\n\n **Job Description**  \n\nEurofins Eaton Analytical has a Scientist I opening at our Pomona Laboratory in our Wet Chemistry department. This is a second shift, full time position, 40 hrs/week.\n\n\nThe Scientist I is responsible for routine analytical procedures in our laboratory.\n\n\nDuties include:\n\n* Routine sample preparation and analysis of water samples by various written EPA and Standard Methods procedures,\n* Performing data process, data entry and written documentation\n* Performing routine instrument maintenance.\n* Preparation of reagents and standards.\n* Other general laboratory related duties as assigned\n* Will include regular late shift and/or weekend duties.\n\n  \n\n**Qualifications**  \n\n* Minimum BS degree in chemistry or other related science field and one to two years of laboratory experience desired.\n* Must be available to work overtime including weekends.\n* Excellent math and computer skills\n* Excellent written and communication skills\n* Excellent attention to details and good organization skills\n* Ability to work well independently as well as in a team environment\n* Authorization to work in the United States indefinitely without restriction or sponsorship.\n* Professional working proficiency in English is a requirement, including the ability to read, write and speak in English\n\n  \n\n**Additional Information**  \n\nThis is a full\\-time role, Monday to Friday 7:30 am to 4 pm with overtime and weekends as needed.\n\n**Compensation Range: $22\\.20 / hour**\n\n**Candidates within a commutable distance to Pomona, CA are encouraged to apply.**\n\n\nEurofins Environment Testing (USA) provides a compensation range for informational purposes, the actual base salary may vary based upon, but not limited to, relevant experience and skill set, base salary of internal peers, business sector, and geographic location.\n\n\nAs a Eurofins employee, you will become part of a company that has received national recognition as a great place to work. We offer excellent full\\-time benefits including comprehensive medical coverage, life and disability insurance, 401(k) with company match, paid holidays, paid time off, and dental and vision options.\n\n**To learn more about Eurofins, please explore our website www.eurofinsus.com**\n\n**We support your development!** Do you feel you don’t match 100% of the requirements? Don’t hesitate to apply anyway! Eurofins companies are committed to supporting your career development.\n\n**We embrace diversity!** Eurofins network of companies believe in strength and innovation through diversity, being an Equal Opportunity Employer. We prohibit discrimination against employees or applications based on gender identity and/or expression, race, nationality, age, religion, sexual orientation, disability, and everything else that makes employees of Eurofins companies unique.\n\n**Sustainability matters to us!** At Eurofins, we believe sustainability is at the heart of everything we do. Guided by our vision to be the Global Leader in “Testing for Life,” our mission to contribute to a healthier and safer world, and our core values, we are building a strong foundation for Environmental, Social, and Governance (ESG) initiatives. Eurofins’ commitment to sustainability begins within our own companies through a shared responsibility to people and the planet. With climate change posing an imminent threat, Eurofins and its many companies recognize their duty to proactively reduce or offset the environmental impact of essential operations while also helping our clients do the same—serving as a true ESG Enabler.\n\n**Find out more in our career page: https://careers.eurofins.com/**\n\n **Eurofins USA Environment Testing is a Disabled and Veteran Equal Employment Opportunity employer.**",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
