@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-29 19:22 UTC*
+*Last updated: 2026-06-29 20:05 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Scientist I (Wet Chem) - Eurofins Drinking Water and Wastewater West, Pomona, CA](https://www.linkedin.com/jobs/view/4434746766/) — Eurofins Environment Testing (USA)
+- 📍 **Location:** Pomona, CA
+- 🕒 **Posted:** 2026-06-29
