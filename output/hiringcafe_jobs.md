@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-06-29 00:28 UTC*
+*Last updated: 2026-06-29 01:41 UTC*
 
 **0 new role(s)** since last run · 51 total in last 30d
 
