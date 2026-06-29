@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Music Technology & Audio Roles
-*Last updated: 2026-06-29 07:31 UTC*
+*Last updated: 2026-06-29 18:54 UTC*
 
 **0 new role(s)** since last run · 7 total in last 30d
 
