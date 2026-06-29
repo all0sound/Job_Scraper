@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-06-29 22:14 UTC",
-  "total": 9,
-  "new_count": 0,
+  "scraped_at": "2026-06-29 23:11 UTC",
+  "total": 10,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Provost & Pritchard",
+      "title": "Environmental Scientist",
+      "location": "Visalia, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a20a475865808afd",
+      "direct_url": "https://ppeng.bamboohr.com/careers/79?source=indeed&src=indeed&postedDate=2026-05-07",
+      "company_url": "https://www.indeed.com/cmp/Provost-&-Pritchard",
+      "date_posted": "2026-05-07",
+      "description": "**Summary**\n\n\n\nProvost \\& Pritchard is seeking an Environmental Scientist to join our agricultural and environmental consulting team in Visalia, California.\n\n  \n\nThis position offers the opportunity to work on meaningful projects at the intersection of agriculture, water quality, irrigation, nutrient management, salinity, wastewater management, and environmental consulting throughout Central California. Clients include growers, dairies, wineries, food processors, agricultural organizations, nonprofits, and public agencies.\n\n  \n\nWe are looking for someone that wants to support California agriculture and water resources management through practical, effective, and data\\-driven solutions.\n\n **Responsibilities**\n\n\n* Support agricultural water quality and environmental compliance programs such as the California Irrigated Lands Regulatory Program (ILRP).\n* Support groundwater and surface water quality monitoring programs.\n* Analyze and interpret agricultural, soil, irrigation, nutrient, and environmental data.\n* Prepare technical reports, regulatory deliverables, data summaries, visualizations, and trend analyses.\n* Evaluate and support improved agricultural management practices to protect water quality.\n* Support grower education and outreach efforts.\n* Assist with irrigation, nutrient, salinity, and wastewater management planning.\n* Support wastewater, land application, and beneficial reuse projects.\n* Conduct field sampling and site investigations involving soil, water, wastewater, crops, ponds, wells, and vadose zones.\n* Evaluate soil\\-water, nutrient, and salt balances using Microsoft Excel and programming tools.\n* Prepare regulatory monitoring reports and permitting documents, including Reports of Waste Discharge.\n* Assist with field investigations involving soil infiltration and permeability testing.\n* Assist with agronomic field trials, fate and transport projects, and other specialized soil, land use, and agricultural consulting projects.\n* Assist with projects related to agricultural grants, the Sustainable Groundwater Management Act (SGMA), Central Valley Salinity Alternatives for Long\\-Term Sustainability (CV\\-SALTS), stormwater management, sediment and erosion control, and TMDL implementation.\n\n  \n\n\n**Qualifications**\n\n\n* Bachelor’s degree in Soil Science, Environmental Science, Agricultural Engineering, or a related field required.\n* Strong interest in a career in agriculture, soil science, irrigation, and water quality.\n* Excellent technical writing, communication, and organizational skills.\n* Experience or interest in environmental consulting, regulatory compliance, and project management.\n* Some experience in data analysis and data QAQC.\n* Experienced with Microsoft Office 365, especially Excel, Word, and PowerPoint.\n* Strong initiative, attention to detail, and ability to work independently and collaboratively.\n* Preferred Qualifications\n* Master’s degree in Soil Science, Environmental Science, Agricultural Engineering, or a related field.\n* Knowledge of California agricultural, environmental, and wastewater regulations, including the Central Valley ILRP, Central Coast Ag Order 4\\.0, SGMA, CV\\-SALTS, Winery General Order, and others.\n* Experience with tools such as GIS, R/RStudio, Python, remote sensing, data analysis and visualization, and related AI tools.\n* Familiarity with irrigation, evapotranspiration, nutrient management, salinity management, and/or soil\\-water balances and hydrologic modeling.\n* Experience in environmental statistics, analytical laboratory methods, and data QA/QC procedures.\n\n  \n\n\n**Professional Development**\n\n\n\nAlthough not required, Provost \\& Pritchard supports professional development toward credentials such as Certified Professional Soil Scientist (CPSS), Certified Crop Adviser (CCA), Professional Engineer (PE), Professional Geologist (PG), and others.\n\n **Why Join Provost \\& Pritchard**\n\n\n\nJoin a collaborative, employee\\-owned firm where your work supports California agriculture, water resources, and environmental sustainability. You will have the opportunity to build technical expertise, work on diverse projects, and grow your career with mentorship and support.",
+      "salary": "$35–$50/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "AECOM",
       "title": "Senior Environmental Project Manager (Oil, Gas, Remediation)",
@@ -166,5 +184,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Provost & Pritchard",
+      "title": "Environmental Scientist",
+      "location": "Visalia, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a20a475865808afd",
+      "direct_url": "https://ppeng.bamboohr.com/careers/79?source=indeed&src=indeed&postedDate=2026-05-07",
+      "company_url": "https://www.indeed.com/cmp/Provost-&-Pritchard",
+      "date_posted": "2026-05-07",
+      "description": "**Summary**\n\n\n\nProvost \\& Pritchard is seeking an Environmental Scientist to join our agricultural and environmental consulting team in Visalia, California.\n\n  \n\nThis position offers the opportunity to work on meaningful projects at the intersection of agriculture, water quality, irrigation, nutrient management, salinity, wastewater management, and environmental consulting throughout Central California. Clients include growers, dairies, wineries, food processors, agricultural organizations, nonprofits, and public agencies.\n\n  \n\nWe are looking for someone that wants to support California agriculture and water resources management through practical, effective, and data\\-driven solutions.\n\n **Responsibilities**\n\n\n* Support agricultural water quality and environmental compliance programs such as the California Irrigated Lands Regulatory Program (ILRP).\n* Support groundwater and surface water quality monitoring programs.\n* Analyze and interpret agricultural, soil, irrigation, nutrient, and environmental data.\n* Prepare technical reports, regulatory deliverables, data summaries, visualizations, and trend analyses.\n* Evaluate and support improved agricultural management practices to protect water quality.\n* Support grower education and outreach efforts.\n* Assist with irrigation, nutrient, salinity, and wastewater management planning.\n* Support wastewater, land application, and beneficial reuse projects.\n* Conduct field sampling and site investigations involving soil, water, wastewater, crops, ponds, wells, and vadose zones.\n* Evaluate soil\\-water, nutrient, and salt balances using Microsoft Excel and programming tools.\n* Prepare regulatory monitoring reports and permitting documents, including Reports of Waste Discharge.\n* Assist with field investigations involving soil infiltration and permeability testing.\n* Assist with agronomic field trials, fate and transport projects, and other specialized soil, land use, and agricultural consulting projects.\n* Assist with projects related to agricultural grants, the Sustainable Groundwater Management Act (SGMA), Central Valley Salinity Alternatives for Long\\-Term Sustainability (CV\\-SALTS), stormwater management, sediment and erosion control, and TMDL implementation.\n\n  \n\n\n**Qualifications**\n\n\n* Bachelor’s degree in Soil Science, Environmental Science, Agricultural Engineering, or a related field required.\n* Strong interest in a career in agriculture, soil science, irrigation, and water quality.\n* Excellent technical writing, communication, and organizational skills.\n* Experience or interest in environmental consulting, regulatory compliance, and project management.\n* Some experience in data analysis and data QAQC.\n* Experienced with Microsoft Office 365, especially Excel, Word, and PowerPoint.\n* Strong initiative, attention to detail, and ability to work independently and collaboratively.\n* Preferred Qualifications\n* Master’s degree in Soil Science, Environmental Science, Agricultural Engineering, or a related field.\n* Knowledge of California agricultural, environmental, and wastewater regulations, including the Central Valley ILRP, Central Coast Ag Order 4\\.0, SGMA, CV\\-SALTS, Winery General Order, and others.\n* Experience with tools such as GIS, R/RStudio, Python, remote sensing, data analysis and visualization, and related AI tools.\n* Familiarity with irrigation, evapotranspiration, nutrient management, salinity management, and/or soil\\-water balances and hydrologic modeling.\n* Experience in environmental statistics, analytical laboratory methods, and data QA/QC procedures.\n\n  \n\n\n**Professional Development**\n\n\n\nAlthough not required, Provost \\& Pritchard supports professional development toward credentials such as Certified Professional Soil Scientist (CPSS), Certified Crop Adviser (CCA), Professional Engineer (PE), Professional Geologist (PG), and others.\n\n **Why Join Provost \\& Pritchard**\n\n\n\nJoin a collaborative, employee\\-owned firm where your work supports California agriculture, water resources, and environmental sustainability. You will have the opportunity to build technical expertise, work on diverse projects, and grow your career with mentorship and support.",
+      "salary": "$35–$50/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
