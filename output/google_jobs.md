@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Music Technology & Audio Roles
-*Last updated: 2026-06-29 23:36 UTC*
+*Last updated: 2026-06-30 01:34 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
