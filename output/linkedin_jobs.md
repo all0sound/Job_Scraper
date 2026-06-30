@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-30 03:36 UTC*
+*Last updated: 2026-06-30 16:19 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Scientist I, Investigative Toxicology](https://www.linkedin.com/jobs/view/4434185857/) — Revolution Medicines
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $119,000 - $149,000 USD
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4435154962/) — California Amforge Corp
+- 📍 **Location:** Azusa, CA
+- 💰 **Salary:** $70,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-06-30
+
+### [Environmental Scientist – Contamination Specialist](https://www.linkedin.com/jobs/view/4425931633/) — RPS
+- 📍 **Location:** Subiaco, Western Australia, Australia
 - 🕒 **Posted:** 2026-06-30
