@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29 17:11 UTC",
+  "scraped_at": "2026-06-30 16:53 UTC",
   "total": 11,
   "new_count": 0,
   "jobs": [
@@ -88,18 +88,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
-      "date_posted": "2026-06-24",
-      "salary": "$25.48 - $53.77",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent Intermittent - 1500 Hours",
-      "work_arrangement": "On-site"
-    },
-    {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -110,6 +98,18 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522744",
+      "date_posted": "2026-06-29",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "12 Month Limited Term - Full Time",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Environmental Health Hazard Assessment Office",
