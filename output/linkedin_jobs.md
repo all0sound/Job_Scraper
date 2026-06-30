@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-30 16:19 UTC*
+*Last updated: 2026-06-30 17:08 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4435154962/) — California Amforge Corp
-- 📍 **Location:** Azusa, CA
-- 💰 **Salary:** $70,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-06-30
-
-### [Environmental Scientist – Contamination Specialist](https://www.linkedin.com/jobs/view/4425931633/) — RPS
-- 📍 **Location:** Subiaco, Western Australia, Australia
+### [Scientist I - Eurofins Drinking Water and Wastewater West, LLC - Wilsonville, OR](https://www.linkedin.com/jobs/view/4435182273/) — Eurofins Environment Testing (USA)
+- 📍 **Location:** Wilsonville, OR
+- 💰 **Salary:** $22.20 - $27.00 per hour
 - 🕒 **Posted:** 2026-06-30
