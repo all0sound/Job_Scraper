@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-01 20:32 UTC",
+  "scraped_at": "2026-07-01 21:30 UTC",
   "total": 64,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Washington",
@@ -900,34 +900,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Geo-Technology Associates Inc.",
-      "title": "Environmental Scientist",
-      "location": "Laurel, Maryland, United States",
-      "url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
-      "direct_url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
-      "date_posted": "2026-07-01T16:35:29.017Z",
-      "description": "Bachelor's in environmental science/geology/engineering, 1–3 years relevant experience, Phase I and Phase II ESAs required, strong written/verbal communication, organized self-starter.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Academic Custodian",
-      "title": "Space Operations Risk Assessment Specialist",
-      "location": "Grand Forks or United States",
-      "url": "https://careers.pageuppeople.com/1132/cw/en/job/498169",
-      "direct_url": "https://careers.pageuppeople.com/1132/cw/en/job/498169",
-      "date_posted": "2026-06-03T14:00:00.000Z",
-      "description": "B.S. in actuarial science, mathematics, or related field; programming experience in R, Python, and/or MATLAB; Monte Carlo simulation experience; U.S. Person eligibility and successful criminal background check required.",
-      "salary": "$42k/yr",
-      "job_type": "Part Time, Temporary",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
