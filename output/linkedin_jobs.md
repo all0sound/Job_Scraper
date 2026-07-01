@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-01 02:39 UTC*
+*Last updated: 2026-07-01 03:37 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Principal Environmental Scientist - Contaminated Land](https://www.linkedin.com/jobs/view/4434395596/) — Fyfe
-- 📍 **Location:** Adelaide, South Australia, Australia
+### [Senior Environmental Project Manager (Oil, Gas, Remediation)](https://www.linkedin.com/jobs/view/4434158582/) — AECOM
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $125000 to $200000
 - 🕒 **Posted:** 2026-07-01
