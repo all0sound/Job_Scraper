@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-01 03:37 UTC*
+*Last updated: 2026-07-01 16:17 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Environmental Project Manager (Oil, Gas, Remediation)](https://www.linkedin.com/jobs/view/4434158582/) — AECOM
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $125000 to $200000
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4415698806/) — EC Source Services, LLC
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-01
