@@ -1,16 +1,17 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-01 19:32 UTC*
+*Last updated: 2026-07-01 20:32 UTC*
 
-**2 new role(s)** since last run · 63 total in last 30d
+**2 new role(s)** since last run · 64 total in last 30d
 
-### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
-- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+### [Environmental Scientist](https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.) — Geo-Technology Associates Inc.
+- 📍 **Location:** Laurel, Maryland, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
+- 🕒 **Posted:** 2026-07-01T16:35:29.017Z
 
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/vXHuicNmCmWDg8w2Wz36v4/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies) — CDR Companies
-- 📍 **Location:** Williamsport, Pennsylvania, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T20:14:53.773Z
+### [Space Operations Risk Assessment Specialist](https://careers.pageuppeople.com/1132/cw/en/job/498169) — Academic Custodian
+- 📍 **Location:** Grand Forks or United States
+- 💰 **Salary:** $42k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Part Time, Temporary
+- 🕒 **Posted:** 2026-06-03T14:00:00.000Z
