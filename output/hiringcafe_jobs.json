@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-02 20:17 UTC",
-  "total": 71,
-  "new_count": 0,
+  "scraped_at": "2026-07-02 22:05 UTC",
+  "total": 70,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Washington",
@@ -32,17 +32,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jj",
-      "title": "Principal Toxicologist MedTEST",
-      "location": "Raynham, Massachusetts, United States",
-      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raynham-Massachusetts-United-States-of-America/Principal-Toxicologist-MedTEST_R-078336-2",
-      "direct_url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raynham-Massachusetts-United-States-of-America/Principal-Toxicologist-MedTEST_R-078336-2",
-      "date_posted": "2026-06-08T00:00:00.000Z",
-      "description": "Degree in biology/chemistry/toxicology/biomedical engineering (or related); 1–2 years biocompatibility/medical device experience; knowledge of ISO 10993 and GLP; ability to design and interpret in vitro/in vivo studies; regulated-environment experience.",
-      "salary": "$117k–$234k/yr",
+      "company": "J.S. Held LLC",
+      "title": "Principal Consulting Toxicologist",
+      "location": "Redmond, Washington, United States",
+      "url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000134223365-principal-consulting-toxicologist",
+      "direct_url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000134223365-principal-consulting-toxicologist",
+      "date_posted": "2026-06-25T10:04:22.093Z",
+      "description": "PhD in toxicology or related field, ~15+ years professional experience with consulting and leadership, testifying expert experience, deep toxicological risk assessment and regulatory expertise, strong business development and communication skills.",
+      "salary": "$150k–$300k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -60,17 +60,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "J.S. Held LLC",
-      "title": "Principal Consulting Toxicologist",
-      "location": "Redmond, Washington, United States",
-      "url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000134223365-principal-consulting-toxicologist",
-      "direct_url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000134223365-principal-consulting-toxicologist",
-      "date_posted": "2026-06-25T10:04:22.093Z",
-      "description": "PhD in toxicology or related field, ~15+ years professional experience with consulting and leadership, testifying expert experience, deep toxicological risk assessment and regulatory expertise, strong business development and communication skills.",
-      "salary": "$150k–$300k/yr",
+      "company": "State of Michigan",
+      "title": "Toxicologist-E, Toxicology Assessment Section",
+      "location": "Lansing, Michigan, United States",
+      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
+      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
+      "date_posted": "2026-06-29T20:22:51.000Z",
+      "description": "Master's or PhD in toxicology or related science; for senior level, 2 years professional toxicology experience preferred; ability to evaluate environmental data, determine public health hazards, document findings, and interact with stakeholders; background check required.",
+      "salary": "$58k–$93k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -85,20 +85,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Michigan",
-      "title": "Toxicologist-E, Toxicology Assessment Section",
-      "location": "Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
-      "date_posted": "2026-06-29T20:22:51.000Z",
-      "description": "Master's or PhD in toxicology or related science; for senior level, 2 years professional toxicology experience preferred; ability to evaluate environmental data, determine public health hazards, document findings, and interact with stakeholders; background check required.",
-      "salary": "$58k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -186,20 +172,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "date_posted": "2026-06-27T04:08:25.228Z",
-      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Stantec",
       "title": "Environmental Scientist",
       "location": "Buffalo, New York, United States",
@@ -214,15 +186,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Handex Consulting & Remediation",
+      "company": "APTIM",
       "title": "Environmental Scientist",
-      "location": "Tampa or Florida",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
-      "date_posted": "2026-06-30T17:34:17.000Z",
-      "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
-      "salary": "",
-      "job_type": "Full Time",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "date_posted": "2026-06-27T04:08:25.228Z",
+      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -239,6 +211,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Handex Consulting & Remediation",
+      "title": "Environmental Scientist",
+      "location": "Tampa or Florida",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
+      "date_posted": "2026-06-30T17:34:17.000Z",
+      "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -481,27 +467,13 @@
     },
     {
       "company": "King County, WA",
-      "title": "Environmental Scientist IV",
-      "location": "Renton or Seattle or Washington",
-      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
-      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
-      "date_posted": "2026-06-22T05:13:57.000Z",
-      "description": "Requires 5+ years progressive environmental experience and 5+ years supervisory experience leading multidisciplinary scientific staff; knowledge of environmental regulations, permitting, monitoring, project and budget management; valid WA driver’s license and pre-employment physical; must reside in Washington State.",
-      "salary": "$130k–$165k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Moore Engineering, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
-      "salary": "$71k–$97k/yr",
+      "title": "Environmental Scientist III",
+      "location": "Tukwila or Seattle or Renton or Bellevue or North Seattle",
+      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5395640",
+      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5395640",
+      "date_posted": "2026-07-02T18:22:02.000Z",
+      "description": "Bachelor's in a scientific/environmental field or equivalent, 3+ years environmental compliance experience, ability to travel across King County, on-call and altered schedule availability, ability to lift up to 50 lbs, respirator/PPE use, Microsoft Office proficiency.",
+      "salary": "$118k–$143k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -522,14 +494,28 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
+      "company": "Moore Engineering, Inc.",
+      "title": "Environmental Scientist I",
+      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "date_posted": "2026-07-01T18:47:25.002Z",
+      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
+      "salary": "$71k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Louisiana",
+      "title": "Environmental Scientist 4",
+      "location": "Baton Rouge, Louisiana, United States",
+      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "date_posted": "2026-06-30T20:06:05.000Z",
+      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
+      "salary": "$50k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -550,14 +536,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Louisiana",
-      "title": "Environmental Scientist 4",
-      "location": "Baton Rouge, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "date_posted": "2026-06-30T20:06:05.000Z",
-      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
-      "salary": "$50k–$90k/yr",
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -998,5 +984,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "King County, WA",
+      "title": "Environmental Scientist III",
+      "location": "Tukwila or Seattle or Renton or Bellevue or North Seattle",
+      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5395640",
+      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5395640",
+      "date_posted": "2026-07-02T18:22:02.000Z",
+      "description": "Bachelor's in a scientific/environmental field or equivalent, 3+ years environmental compliance experience, ability to travel across King County, on-call and altered schedule availability, ability to lift up to 50 lbs, respirator/PPE use, Microsoft Office proficiency.",
+      "salary": "$118k–$143k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
