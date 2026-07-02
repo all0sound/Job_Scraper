@@ -1,8 +1,22 @@
 {
-  "scraped_at": "2026-07-02 04:48 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-07-02 18:21 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Towson University",
+      "title": "Assistant Professor of Audio Production",
+      "location": "Towson, Maryland, United States",
+      "url": "https://towson.taleo.net/careersection/fac_ex/jobdetail.ftl?job=260000I5&lang=en",
+      "direct_url": "https://towson.taleo.net/careersection/fac_ex/jobdetail.ftl?job=260000I5&lang=en",
+      "date_posted": "2026-07-02T12:00:00.000Z",
+      "description": "MFA or doctorate in audio/media production (by June 2027), demonstrated expertise in digital audio workstation software (Pro Tools preferred), studio recording/mixing or sound design experience, success or potential in undergraduate teaching, record of scholarship/creative activity.",
+      "salary": "$68k–$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
     {
       "company": "Advanced Systems Group LLC",
       "title": "Audio Engineer (A1/A2)",
@@ -103,5 +117,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Towson University",
+      "title": "Assistant Professor of Audio Production",
+      "location": "Towson, Maryland, United States",
+      "url": "https://towson.taleo.net/careersection/fac_ex/jobdetail.ftl?job=260000I5&lang=en",
+      "direct_url": "https://towson.taleo.net/careersection/fac_ex/jobdetail.ftl?job=260000I5&lang=en",
+      "date_posted": "2026-07-02T12:00:00.000Z",
+      "description": "MFA or doctorate in audio/media production (by June 2027), demonstrated expertise in digital audio workstation software (Pro Tools preferred), studio recording/mixing or sound design experience, success or potential in undergraduate teaching, record of scholarship/creative activity.",
+      "salary": "$68k–$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
