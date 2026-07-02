@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-02 01:38 UTC",
+  "scraped_at": "2026-07-02 05:57 UTC",
   "total": 68,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Washington",
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Michigan",
-      "title": "Toxicologist-E, Toxicology Assessment Section",
-      "location": "Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
-      "date_posted": "2026-06-29T20:22:51.000Z",
-      "description": "Master's or PhD in toxicology or related science; for senior level, 2 years professional toxicology experience preferred; ability to evaluate environmental data, determine public health hazards, document findings, and interact with stakeholders; background check required.",
-      "salary": "$58k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Msd",
       "title": "Principal Scientist, Toxicologist/Study Director",
       "location": "West Point, Pennsylvania, United States",
@@ -85,6 +71,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Michigan",
+      "title": "Toxicologist-E, Toxicology Assessment Section",
+      "location": "Lansing, Michigan, United States",
+      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
+      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
+      "date_posted": "2026-06-29T20:22:51.000Z",
+      "description": "Master's or PhD in toxicology or related science; for senior level, 2 years professional toxicology experience preferred; ability to evaluate environmental data, determine public health hazards, document findings, and interact with stakeholders; background check required.",
+      "salary": "$58k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Handex Consulting & Remediation",
-      "title": "Environmental Scientist",
-      "location": "Tampa or Florida",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
-      "date_posted": "2026-06-30T17:34:17.000Z",
-      "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Portland or Oregon or California or Washington or Alaska",
@@ -225,6 +211,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Handex Consulting & Remediation",
+      "title": "Environmental Scientist",
+      "location": "Tampa or Florida",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
+      "date_posted": "2026-06-30T17:34:17.000Z",
+      "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -522,14 +522,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Louisiana",
-      "title": "Environmental Scientist 4",
-      "location": "Baton Rouge, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "date_posted": "2026-06-30T20:06:05.000Z",
-      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
-      "salary": "$50k–$90k/yr",
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -550,14 +550,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
+      "company": "State of Louisiana",
+      "title": "Environmental Scientist 4",
+      "location": "Baton Rouge, Louisiana, United States",
+      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "date_posted": "2026-06-30T20:06:05.000Z",
+      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
+      "salary": "$50k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -586,20 +586,6 @@
       "date_posted": "2026-06-09T15:13:35.000Z",
       "description": "Bachelor's in geology or related field required; valid driver's license, frequent daily travel and occasional overnight travel; knowledge of hydrology, hydrogeology, GIS, Microsoft Office, and environmental laws; ability to review permits, analyze data, and communicate technical findings.",
       "salary": "$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Verdantas",
-      "title": "Environmental Scientist III",
-      "location": "Tampa or Florida or United States",
-      "url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
-      "direct_url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -900,6 +886,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Verdantas",
+      "title": "Environmental Scientist III",
+      "location": "Tampa or Florida or United States",
+      "url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
+      "direct_url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
+      "date_posted": "2026-06-12T00:00:00.000Z",
+      "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Freeport-McMoRan",
       "title": "Environmental Scientist II",
       "location": "Phoenix or Tucson",
@@ -956,34 +956,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Vistal",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
-      "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Moore Engineering, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
-      "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
