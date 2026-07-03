@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-03 18:04 UTC",
-  "total": 8,
+  "scraped_at": "2026-07-03 20:06 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -101,20 +101,6 @@
       "work_arrangement": "On-site",
       "ats": "HiringCafe",
       "distance_miles": 56.8
-    },
-    {
-      "company": "Zach Theater",
-      "title": "Resident Sound Designer and Manager of Audio",
-      "location": "Austin, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4222851",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4222851",
-      "date_posted": "2026-06-03T19:51:01.022Z",
-      "description": "3+ years supervising audio technicians, bachelor\\u0002s in sound engineering or equivalent, experience with Yamaha CL Series/CL5, Crestron, Aviom, Shure, DANTE, QLab, Pro Tools, budget oversight, theatrical rigging, and ability to lift up to 70 lbs and work nights/weekends.",
-      "salary": "$60k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": []
