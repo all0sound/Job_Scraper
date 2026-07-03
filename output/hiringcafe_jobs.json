@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 01:35 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-07-03 05:51 UTC",
+  "total": 9,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Towson University",
@@ -88,6 +88,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Absurd Ventures",
+      "title": "Principal Sound Designer",
+      "location": "Santa Monica, California, United States",
+      "url": "https://job-boards.greenhouse.io/absurdventures/jobs/5160999007",
+      "direct_url": "https://job-boards.greenhouse.io/absurdventures/jobs/5160999007",
+      "date_posted": "2026-07-02T23:44:47.000Z",
+      "description": "8+ years games industry sound design experience, shipped AAA titles, expertise in Wwise and real-time audio systems, experience with audio implementation, recording source material, collaborating with engineers, and mentoring teammates.",
+      "salary": "$140k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Loyola High School of Los Angeles",
       "title": "Hannon Theatre- Lightening & Sound Designer ",
       "location": "Los Angeles, California, United States",
@@ -117,5 +131,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Absurd Ventures",
+      "title": "Principal Sound Designer",
+      "location": "Santa Monica, California, United States",
+      "url": "https://job-boards.greenhouse.io/absurdventures/jobs/5160999007",
+      "direct_url": "https://job-boards.greenhouse.io/absurdventures/jobs/5160999007",
+      "date_posted": "2026-07-02T23:44:47.000Z",
+      "description": "8+ years games industry sound design experience, shipped AAA titles, expertise in Wwise and real-time audio systems, experience with audio implementation, recording source material, collaborating with engineers, and mentoring teammates.",
+      "salary": "$140k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
