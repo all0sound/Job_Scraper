@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 18:11 UTC",
-  "total": 72,
-  "new_count": 1,
+  "scraped_at": "2026-07-03 20:13 UTC",
+  "total": 71,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Washington",
@@ -12,20 +12,6 @@
       "date_posted": "2026-06-09T20:00:24.000Z",
       "description": "Nine years of experience and/or education in toxicology or related science; ability to perform risk assessment, interpret environmental data, apply state and federal regulations, communicate technical findings, and plan/prioritize complex work.",
       "salary": "$79k–$106k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Robson Forensic",
-      "title": "Toxicologist - Forensic Expert",
-      "location": "Las Vegas or Irving",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a21e929-8eba-4a31-b424-4df0f5c82edd&jobId=581587",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a21e929-8eba-4a31-b424-4df0f5c82edd&jobId=581587",
-      "date_posted": "2026-06-03T18:50:00.000Z",
-      "description": "Ph.D. in toxicology, 10+ years toxicology experience, board certification (ABFT or DABT) preferred, membership in toxicology organization, ~20% travel, clean background check and valid driver's license required.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -74,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Msd",
-      "title": "Principal Scientist, Toxicologist/Study Director",
-      "location": "West Point, Pennsylvania, United States",
-      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
-      "direct_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "PhD or DVM with graduate/post-graduate training in toxicology or related field; 8+ years toxicology/study director experience; GLP knowledge; immunology/biologics expertise; strong communication and leadership skills.",
-      "salary": "$173k–$273k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Michigan",
       "title": "Toxicologist-E, Toxicology Assessment Section",
       "location": "Lansing, Michigan, United States",
@@ -99,6 +71,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Msd",
+      "title": "Principal Scientist, Toxicologist/Study Director",
+      "location": "West Point, Pennsylvania, United States",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "direct_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "PhD or DVM with graduate/post-graduate training in toxicology or related field; 8+ years toxicology/study director experience; GLP knowledge; immunology/biologics expertise; strong communication and leadership skills.",
+      "salary": "$173k–$273k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -175,12 +161,12 @@
       "company": "UTMB Health",
       "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
       "location": "Galveston, Texas, United States",
-      "url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
-      "direct_url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
-      "date_posted": "2026-07-02T16:39:17.000Z",
-      "description": "MD or DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight.",
+      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "date_posted": "2026-07-03T04:49:13.190Z",
+      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
       "salary": "",
-      "job_type": "Part Time",
+      "job_type": "Part Time, Temporary",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
@@ -189,12 +175,12 @@
       "company": "UTMB Health",
       "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
       "location": "Galveston, Texas, United States",
-      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
-      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
-      "date_posted": "2026-07-03T04:49:13.190Z",
-      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
+      "url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
+      "direct_url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
+      "date_posted": "2026-07-02T16:39:17.000Z",
+      "description": "MD or DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight.",
       "salary": "",
-      "job_type": "Part Time, Temporary",
+      "job_type": "Part Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
@@ -208,6 +194,20 @@
       "date_posted": "2026-06-29T21:06:20.000Z",
       "description": "Bachelor's in physical/natural resource/life sciences/engineering +3 years environmental experience OR HS/equivalent +5 years experience OR 1 year as Environmental Scientist 2 in Nevada; experience with permitting, compliance monitoring, inspections, enforcement, data analysis and report writing.",
       "salary": "$67k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -228,17 +228,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
+      "company": "Tetra Tech",
       "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
+      "location": "Portland or Oregon or California or Washington or Alaska",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
+      "date_posted": "2026-06-05T12:00:00.000Z",
+      "description": "Bachelor's degree in biology/environmental field, 3+ years professional environmental experience (NEPA/SEPA/CEQA, permitting, GIS, wetland delineations), proficiency with ArcGIS and GPS, valid driver’s license, fieldwork ability and up to 15% travel.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -253,20 +253,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Portland or Oregon or California or Washington or Alaska",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
-      "date_posted": "2026-06-05T12:00:00.000Z",
-      "description": "Bachelor's degree in biology/environmental field, 3+ years professional environmental experience (NEPA/SEPA/CEQA, permitting, GIS, wetland delineations), proficiency with ArcGIS and GPS, valid driver’s license, fieldwork ability and up to 15% travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -354,6 +340,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Saltwater Inc.",
+      "title": "Environmental Scientist",
+      "location": "Woods Hole, Massachusetts, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f65eb8d-608e-4162-9e85-a9cd8e84736b&jobId=539391",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f65eb8d-608e-4162-9e85-a9cd8e84736b&jobId=539391",
+      "date_posted": "2026-06-17T16:28:00.000Z",
+      "description": "Bachelor's (or master's) in environmental science or related discipline (or two additional years' experience), experience supporting ESA/NEPA processes, stranding/disentanglement response, data analysis, literature review, and federal consultation support.",
+      "salary": "$73k–$104k/yr",
+      "job_type": "Full Time, Contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Terracon Career Site",
       "title": "Environmental Scientist",
       "location": "Omaha or Lincoln or Sioux Falls",
@@ -410,20 +410,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Bluefield, Virginia, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "date_posted": "2026-06-15T13:57:24.000Z",
-      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
-      "salary": "$50k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "BGE, Inc",
       "title": "Environmental Scientist",
       "location": "Frisco, Texas, United States",
@@ -432,6 +418,20 @@
       "date_posted": "2026-06-25T17:13:32.000Z",
       "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Arcadis",
+      "title": "Environmental Scientist",
+      "location": "Bluefield, Virginia, United States",
+      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "date_posted": "2026-06-15T13:57:24.000Z",
+      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
+      "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -487,20 +487,6 @@
       "direct_url": "https://careers2-quanta.icims.com/jobs/16589/senior-environmental-scientist/job?in_iframe=1",
       "date_posted": "2026-06-26T04:00:00.000Z",
       "description": "Requires a bachelor’s (master’s preferred) in environmental science/ecology/environmental planning or related, 2+ years relevant experience, familiarity with GIS, Microsoft Office proficiency, fieldwork capability, and strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Senior Environmental Scientist",
-      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "date_posted": "2026-06-08T12:00:00.000Z",
-      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -564,14 +550,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
+      "company": "State of Louisiana",
+      "title": "Environmental Scientist 4",
+      "location": "Baton Rouge, Louisiana, United States",
+      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "date_posted": "2026-06-30T20:06:05.000Z",
+      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
+      "salary": "$50k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -592,14 +578,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Louisiana",
-      "title": "Environmental Scientist 4",
-      "location": "Baton Rouge, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "date_posted": "2026-06-30T20:06:05.000Z",
-      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
-      "salary": "$50k–$90k/yr",
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1012,20 +998,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "UTMB Health",
-      "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
-      "location": "Galveston, Texas, United States",
-      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
-      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
-      "date_posted": "2026-07-03T04:49:13.190Z",
-      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
-      "salary": "",
-      "job_type": "Part Time, Temporary",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
