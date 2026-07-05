@@ -1,19 +1,20 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-07-04 17:29 UTC*
+*Last updated: 2026-07-05 17:33 UTC*
 
-**4 new role(s)** since last run · 10 total in recent GovernmentJobs postings
+**4 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [Environmental Specialist](https://www.governmentjobs.com/jobs/5384758-0/environmental-specialist) — City of Dublin (CA)
-- 📍 **Location:** Dublin, CA 94568
-- 💰 **Salary:** $120,164.30 - $150,233.82 Annually
+### [Environmental Health Specialist II](https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii) — County of Mendocino
+- 📍 **Location:** Ukiah, CA
+- 💰 **Salary:** $66,601.60 - $80,932.80 Annually
 
-### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii) — Sacramento Area Sewer District (CA)
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $83,408.00 - $111,758.40 Annually
+### [Hazardous Materials Specialist I (Fire District)](https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district) — San Bernardino County
+- 📍 **Location:** Throughout San Bernardino County, CA
+- 💰 **Salary:** $73,486.40 - $98,737.60 Annually
 
-### [SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)](https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance) — LA METRO
-- 📍 **Location:** Los Angeles, CA
+### [Hazardous Materials Specialist II (Fire District)](https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district) — San Bernardino County
+- 📍 **Location:** Throughout San Bernardino County, CA
+- 💰 **Salary:** $77,209.60 - $103,812.80 Annually
 
-### [SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)](https://www.governmentjobs.com/jobs/5390949-0/senior-environmental-specialist-environmental-compliance) — Los Angeles County Metropolitan Transportation Authority (CA)
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $95,056.00 - $142,521.60 Annually
+### [Hazardous Materials Specialist I/II/III (Open & Promotional)](https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional) — County of San Mateo
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $7,959.47 - $12,367.33 Monthly

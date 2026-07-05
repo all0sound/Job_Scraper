@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04 17:29 UTC",
-  "total": 10,
+  "scraped_at": "2026-07-05 17:33 UTC",
+  "total": 9,
   "new_count": 4,
   "jobs": [
     {
@@ -10,6 +10,15 @@
       "url": "https://www.governmentjobs.com/jobs/5390864-0/environmental-health-specialist-i",
       "date_posted": "",
       "salary": "$60,403.20 - $73,403.20 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist II",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
+      "date_posted": "",
+      "salary": "$66,601.60 - $80,932.80 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -49,86 +58,68 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Bay Area Air District",
-      "title": "Air Quality Specialist I/II - Field Inspector",
-      "location": "San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/5380198-0/air-quality-specialist-i-ii-field-inspector",
+      "company": "San Bernardino County",
+      "title": "Hazardous Materials Specialist I (Fire District)",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
       "date_posted": "",
-      "salary": "$103,401.49 - $138,567.88 Annually",
+      "salary": "$73,486.40 - $98,737.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Dublin (CA)",
-      "title": "Environmental Specialist",
-      "location": "Dublin, CA 94568",
-      "url": "https://www.governmentjobs.com/jobs/5384758-0/environmental-specialist",
+      "company": "San Bernardino County",
+      "title": "Hazardous Materials Specialist II (Fire District)",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
       "date_posted": "",
-      "salary": "$120,164.30 - $150,233.82 Annually",
+      "salary": "$77,209.60 - $103,812.80 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Sacramento Area Sewer District (CA)",
-      "title": "Environmental Specialist I/II",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii",
+      "company": "County of San Mateo",
+      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
+      "location": "San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
       "date_posted": "",
-      "salary": "$83,408.00 - $111,758.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "LA METRO",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390949-0/senior-environmental-specialist-environmental-compliance",
-      "date_posted": "",
-      "salary": "$95,056.00 - $142,521.60 Annually",
+      "salary": "$7,959.47 - $12,367.33 Monthly",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Dublin (CA)",
-      "title": "Environmental Specialist",
-      "location": "Dublin, CA 94568",
-      "url": "https://www.governmentjobs.com/jobs/5384758-0/environmental-specialist",
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist II",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
       "date_posted": "",
-      "salary": "$120,164.30 - $150,233.82 Annually",
+      "salary": "$66,601.60 - $80,932.80 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Sacramento Area Sewer District (CA)",
-      "title": "Environmental Specialist I/II",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii",
+      "company": "San Bernardino County",
+      "title": "Hazardous Materials Specialist I (Fire District)",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
       "date_posted": "",
-      "salary": "$83,408.00 - $111,758.40 Annually",
+      "salary": "$73,486.40 - $98,737.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "LA METRO",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
+      "company": "San Bernardino County",
+      "title": "Hazardous Materials Specialist II (Fire District)",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
       "date_posted": "",
-      "salary": "",
+      "salary": "$77,209.60 - $103,812.80 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390949-0/senior-environmental-specialist-environmental-compliance",
+      "company": "County of San Mateo",
+      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
+      "location": "San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
       "date_posted": "",
-      "salary": "$95,056.00 - $142,521.60 Annually",
+      "salary": "$7,959.47 - $12,367.33 Monthly",
       "ats": "NEOGOV"
     }
   ]
