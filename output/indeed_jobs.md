@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-06 05:00 UTC*
+*Last updated: 2026-07-06 17:59 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Analyst, Customer Risk Assessment (Up to 14 months contract)](https://au.indeed.com/viewjob?jk=d58d844a07fcc2fb) — Sumitomo Group
+- 📍 **Location:** AU
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-07-06
