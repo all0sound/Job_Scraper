@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05 17:31 UTC",
-  "total": 12,
+  "scraped_at": "2026-07-06 18:19 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -76,18 +76,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
-      "date_posted": "2026-06-23",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Parks & Recreation",
       "title": "ENVIRONMENTAL SCIENTIST (PI)",
       "location": "Santa Cruz County",
@@ -136,16 +124,16 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "Department of Toxic Substances Control",
       "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518460",
-      "date_posted": "2026-06-26",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523304",
+      "date_posted": "2026-07-02",
       "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers",
-      "telework": "Hybrid",
+      "telework": "In Office",
       "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "work_arrangement": "On-site"
     }
   ],
   "new_jobs": []
