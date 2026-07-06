@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-06 05:08 UTC",
-  "total": 66,
-  "new_count": 0,
+  "scraped_at": "2026-07-06 18:53 UTC",
+  "total": 67,
+  "new_count": 2,
   "jobs": [
     {
       "company": "State of Washington",
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "date_posted": "2026-06-27T04:08:25.228Z",
-      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Stantec",
       "title": "Environmental Scientist",
       "location": "Buffalo, New York, United States",
@@ -223,6 +209,20 @@
       "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
       "salary": "$73k–$106k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "date_posted": "2026-06-27T04:08:25.228Z",
+      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -522,20 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Louisiana",
-      "title": "Environmental Scientist 4",
-      "location": "Baton Rouge, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "date_posted": "2026-06-30T20:06:05.000Z",
-      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
-      "salary": "$50k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Senior Environmental Scientist",
       "location": "Clovis, California, United States",
@@ -589,6 +575,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CDR Companies",
+      "title": "Environmental Scientist II - Williamsport",
+      "location": "Elmira, New York, United States",
+      "url": "https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "date_posted": "2026-06-30T20:14:55.975Z",
+      "description": "B.S. in environmental science/related, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver’s license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -888,11 +888,11 @@
     {
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
-      "location": "Elmira, New York, United States",
-      "url": "https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
-      "date_posted": "2026-06-30T20:14:55.975Z",
-      "description": "B.S. in environmental science/related, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver’s license.",
+      "location": "Williamsport, Pennsylvania, United States",
+      "url": "https://jobs.workable.com/view/vXHuicNmCmWDg8w2Wz36v4/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/vXHuicNmCmWDg8w2Wz36v4/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
+      "date_posted": "2026-06-30T20:14:53.773Z",
+      "description": "B.S. in Environmental Science or related, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit experience, sub‑meter GPS experience, Microsoft Office proficiency, valid driver's license.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -926,7 +926,50 @@
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Kansas Department of Agriculture",
+      "title": "Environmental Scientist",
+      "location": "Manhattan or Riley County or Topeka",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-06-25T12:00:00.000Z",
+      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
+      "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "CDR Companies",
+      "title": "Environmental Scientist II - Williamsport",
+      "location": "Williamsport, Pennsylvania, United States",
+      "url": "https://jobs.workable.com/view/vXHuicNmCmWDg8w2Wz36v4/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/vXHuicNmCmWDg8w2Wz36v4/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
+      "date_posted": "2026-06-30T20:14:53.773Z",
+      "description": "B.S. in Environmental Science or related, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit experience, sub‑meter GPS experience, Microsoft Office proficiency, valid driver's license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kansas Department of Agriculture",
+      "title": "Environmental Scientist",
+      "location": "Manhattan or Riley County or Topeka",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-06-25T12:00:00.000Z",
+      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
+      "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
