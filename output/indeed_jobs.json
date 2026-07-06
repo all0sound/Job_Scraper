@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-07-06 18:08 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-07-06 20:32 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Apogee Electronics",
+      "title": "Software Engineer – Audio Engineering",
+      "location": "Santa Monica, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=91a961025a0b66ac",
+      "direct_url": "http://www.indeed.com/job/software-engineer-audio-engineering-91a961025a0b66ac",
+      "company_url": "https://www.indeed.com/cmp/Apogee-Electronics-2",
+      "date_posted": "2026-07-06",
+      "description": "Apogee Electronics is a leading designer and manufacturer of professional digital audio equipment based in Santa Monica, CA. We are a growing company with a reputation for creating award\\-winning digital audio conversion systems.\n\nWe are looking for a senior software engineer to join us in our Santa Monica office to develop applications on OS X and Windows. With an emphasis on real\\-time audio, communication and control over protocols like TCP/IP and USB. We are looking for someone who has in\\-depth knowledge of OS X Core Audio, Windows audio, and interfacing with external hardware.\n\n**Key Qualifications** \n\n* 5\\+ years professional experience in software development\n* Strong C\\+\\+ \\& Objective\\-C programming skills\n* Strong understanding of real\\-time, multi\\-threaded, object\\-oriented programming concepts\n* Experience in OS X and Windows audio application development\n* Experience developing audio applications\n* Understands how to architect for optimal cross platform code re\\-use.\n* Excellent verbal and written communication skills.\n* Understands optimizations and design trade\\-offs needed for real\\-time development.\n* Authorized to work in the US\n\n**Additional Qualifications** \n\n* In\\-depth knowledge of Core Audio API’s\n* Strong Swift programming experience, on Mac \\& iOS\n* Audio driver experience; Mac, Windows or Linux\n* Client/Server TCP/IP networking experience, sockets programming or higher level network libraries.\n* Cross platform UI experience in JUCE/C\\+\\+\n\nApogee Electronics is NOT seeking assistance or accepting unsolicited resumes from search firms for this employment opportunity.\n\nPay: $90,000\\.00 \\- $150,000\\.00 per year\n\nBenefits:\n\n* Dental insurance\n* Health insurance\n* Vision insurance\n\nWork Location: In person",
+      "salary": "$90k–$150k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Apogee Electronics",
+      "title": "Software Engineer – Audio Engineering",
+      "location": "Santa Monica, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=91a961025a0b66ac",
+      "direct_url": "http://www.indeed.com/job/software-engineer-audio-engineering-91a961025a0b66ac",
+      "company_url": "https://www.indeed.com/cmp/Apogee-Electronics-2",
+      "date_posted": "2026-07-06",
+      "description": "Apogee Electronics is a leading designer and manufacturer of professional digital audio equipment based in Santa Monica, CA. We are a growing company with a reputation for creating award\\-winning digital audio conversion systems.\n\nWe are looking for a senior software engineer to join us in our Santa Monica office to develop applications on OS X and Windows. With an emphasis on real\\-time audio, communication and control over protocols like TCP/IP and USB. We are looking for someone who has in\\-depth knowledge of OS X Core Audio, Windows audio, and interfacing with external hardware.\n\n**Key Qualifications** \n\n* 5\\+ years professional experience in software development\n* Strong C\\+\\+ \\& Objective\\-C programming skills\n* Strong understanding of real\\-time, multi\\-threaded, object\\-oriented programming concepts\n* Experience in OS X and Windows audio application development\n* Experience developing audio applications\n* Understands how to architect for optimal cross platform code re\\-use.\n* Excellent verbal and written communication skills.\n* Understands optimizations and design trade\\-offs needed for real\\-time development.\n* Authorized to work in the US\n\n**Additional Qualifications** \n\n* In\\-depth knowledge of Core Audio API’s\n* Strong Swift programming experience, on Mac \\& iOS\n* Audio driver experience; Mac, Windows or Linux\n* Client/Server TCP/IP networking experience, sockets programming or higher level network libraries.\n* Cross platform UI experience in JUCE/C\\+\\+\n\nApogee Electronics is NOT seeking assistance or accepting unsolicited resumes from search firms for this employment opportunity.\n\nPay: $90,000\\.00 \\- $150,000\\.00 per year\n\nBenefits:\n\n* Dental insurance\n* Health insurance\n* Vision insurance\n\nWork Location: In person",
+      "salary": "$90k–$150k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
