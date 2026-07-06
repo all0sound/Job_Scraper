@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-06 17:59 UTC",
+  "scraped_at": "2026-07-06 18:00 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Sumitomo Group",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Sumitomo Group",
-      "title": "Analyst, Customer Risk Assessment (Up to 14 months contract)",
-      "location": "AU",
-      "url": "https://au.indeed.com/viewjob?jk=d58d844a07fcc2fb",
-      "direct_url": "https://careerasia.smbc.co.jp/SMBC/job/Analyst%2C-Customer-Risk-Assessment-%28Up-to-14-months-contract%29/1411553033/",
-      "company_url": "https://au.indeed.com/cmp/Sumitomo-Group-2",
-      "date_posted": "2026-07-06",
-      "description": "At SMBC, you’re not just joining a company—you’re becoming part of a community that values respect, growth, and making an impact every day. We offer a range of flexible benefits designed to help you balance work, family, and your personal goals:  \n\n\n* **Great Place to Work Certified:** Proudly certified as a Great Place to Work, we provide a welcoming and supportive culture where your contributions are valued.\n* **Parental Leave:** Enjoy competitive parental leave to support you through life’s important milestones.\n* **Women in Banking and Finance (WIBF):** As a Gold member, employees have access to events, professional development courses, and valuable networking opportunities.\n* **Me Time:** Take 2 paid hours off each month to focus on your wellbeing—because your health matters.\n* **Comprehensive Insurance:** Permanent employees benefit from SMBC\\-funded Life, Total and Permanent Disability (TPD), and Group Salary Continuance Insurance for peace of mind.\n* **Social Contribution Leave:** Take one day each year to volunteer and give back to your community with paid Social Contribution leave.\n\n  \n\n\n\nAt SMBC, we believe our strength lies in our diverse workforce \\- people who bring their unique perspectives and talents to deliver innovative solutions for our clients. We’re committed to fostering an inclusive environment where everyone feels supported to grow both professionally and personally.  \n\n\n\nThis position is responsible for administering SMBC Sydney Branch’s customer due diligence processes and escalating or communicating any AML/CTF issues arising from assessment findings, legislative changes, or regulatory requirements. The role also supports compliance\\-related activities as directed by the Head of Business Governance and Control, Customer Risk Assessment team leaders and managers, and the Head of Business Governance and Strategy.  \n\n\n**This position is responsible for:**\n* Ensuring KYC files are accurate, complete, well\\-substantiated, and completed within required timeframes.\n* Implementing process updates in line with Australian and SMBC requirements, and instructions from Customer Risk Assessment team leaders and managers, the Head of Business Governance and Control, the AML/CTF Senior Manager, or the Head of Compliance.\n* Conducting appropriate searches and screening of all relevant parties as part of the KYC process.\n* Reviewing AML/CTF policies and procedures to develop a strong understanding of SMBC requirements and maintain consistency in current practices.\n* Completing customer risk ratings and money laundering risk assessment documentation in a timely manner.\n* Maintaining AML/CTF records, including customer files and reassessment schedules.\n* Coordinating timely requests to Front Office for the collection of customer documentation.\n* Liaising with Front Office to ensure the prompt receipt of customer information.\n\n  \n\n\n**To succeed, you will have:**\n* Proven understanding of compliance and AML/CTF risk frameworks.\n* AML/CTF experience, particularly in customer due diligence and transaction monitoring.\n* Strong understanding of banking operations and financial products and services.\n* Knowledge of the Australian financial market and regulatory environment.\n* Ability to apply practical solutions to legal and regulatory requirements.\n* Ability to promote a strong compliance and AML/CTF culture both internally and externally.\n* Strong relationship\\-building skills and the ability to work effectively with colleagues.\n* Sound time management and organisational skills, with the ability to meet deadlines.\n* Strong communication skills, particularly when engaging with Front Office and other stakeholders involved in AML/CTF processes.\n\n  \n\n\n**SMBC: where you can Be Yourself, Make a Difference and Build Your Career.**",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
