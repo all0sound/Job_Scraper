@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-05 17:33 UTC",
+  "scraped_at": "2026-07-06 18:22 UTC",
   "total": 9,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -85,42 +85,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist II",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
-      "date_posted": "",
-      "salary": "$66,601.60 - $80,932.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
-      "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
-      "location": "San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
-      "date_posted": "",
-      "salary": "$7,959.47 - $12,367.33 Monthly",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
