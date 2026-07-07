@@ -1,6 +1,9 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-07-06 08:06 UTC*
+*Last updated: 2026-07-07 07:08 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Water Resources Market Leader](https://www.linkedin.com/jobs/view/4363754413/) — Geosyntec Consultants
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $149,330/year - $259,690/year
+- 🕒 **Posted:** 2026-07-06
