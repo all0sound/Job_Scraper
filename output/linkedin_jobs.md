@@ -1,14 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-07 17:35 UTC*
+*Last updated: 2026-07-07 19:31 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322069915/) — Exponent
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
+### [Chemical Regulatory Manager](https://www.linkedin.com/jobs/view/4436847157/) — RED Digital Cinema
+- 📍 **Location:** Orange County, CA
+- 💰 **Salary:** $105,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Climate and Air Quality Attorney](https://www.linkedin.com/jobs/view/4437833718/) — California Air Resources Board
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $10,852.00/mo - $15,325.00/mo
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4435196019/) — Triumvirate Environmental
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $28 USD - $28 USD
+- 🕒 **Posted:** 2026-07-07
+
+### [Supervising Engineers (Water Resources)](https://www.linkedin.com/jobs/view/4436851103/) — City of Santa Barbara
+- 📍 **Location:** Santa Barbara County, CA
 - 🕒 **Posted:** 2026-07-07
