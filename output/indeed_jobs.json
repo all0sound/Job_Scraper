@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-07 01:25 UTC",
+  "scraped_at": "2026-07-07 04:37 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Musical Minds Academy",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Musical Minds Academy",
-      "title": "Youth Digital Music Production Instructor",
-      "location": "Norco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=f7eaa229891ffa25",
-      "direct_url": "http://www.indeed.com/job/youth-digital-music-production-instructor-f7eaa229891ffa25",
-      "company_url": "https://www.indeed.com/cmp/Musical-Minds-Academy",
-      "date_posted": "2026-07-06",
-      "description": "Are you passionate about producing music, love working with kids and want to make great money doing both? Musical Minds Academy is excited to offer an opportunity to join our roster of music instructors in the **Corona\\-Norco** area, best for those looking to inspire young minds through music!\n\nWith us, you'll have the opportunity to:\n\n* Earn excellent pay instructing elementary to middle school\\- aged students in a group lesson setting at various public schools on the fundamentals of music production.\n* Guide and manage groups of students from 3rd through 8th grade.\n* Develop and exercise effective classroom control techniques.\n* Lead your classroom in demonstrating their newfound skills through culminating, end of programming showcase performances.\n* Follow our creative lesson plans, while getting the chance to design your own that engage students and establish clear learning goals.\n\nTo join our team, we require:\n\n* Reliable transportation.\n* Availability for daytime\\-afternoon classes on weekdays (2:30\\-6:00 PM).\n* Participation in training sessions and staff meetings.\n* Consistent communication through email, text, and phone.\n* Successful completion of a Livescan DOJ/FBI background check and TB test.\n\nBecome a part of Musical Minds Academy and help shape the next generation of musicians!\n\nCompensation: Starts at $55\\-$60/hour for instruction time. Training sessions and other non\\- instructional responsibilities will be paid at $25\\.00/hour.\n\nSchedule: Monday\\-Fridays, 2:30\\-5:00 P.M.\n\nExperience: At least (2\\) years of prior teaching experience required. Must know how to effectively produce and teach within Soundtrap (iOS) music production software.\n\nNote: Experience in special education, childhood development, preschool, early childhood education, behavior management, tutoring is a plus, but not required.\n\nJob Type: Part\\-time\n\nPay: $50\\.00 \\- $55\\.00 per hour\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Paid sick time\n* Paid training\n\nApplication Question(s):\n\n* Can you submit proof of a negative tuberculosis test or are you willing to undergo and submit proof of a TB test?\n* Do you have access to a reliable vehicle you can use for a commute up to a 15\\-20 mile radius?\n* Are you willing/able to submit to a LiveScan DOJ/FBI fingerprint background check?\n* Please briefly describe your music production experience within the Soundtrap softwares or other applicable DAWs.\n* Are you consistently available during the schedule outlined in the listing?\n* Please briefly describe your teaching experience with children in the 3rd\\-8th grade range.\n\nWork Location: In person",
-      "salary": "$50–$55/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
