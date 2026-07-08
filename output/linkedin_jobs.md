@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Music Technology & Audio Roles
-*Last updated: 2026-07-08 20:55 UTC*
+*Last updated: 2026-07-08 22:37 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [ADR Recording Engineer- Freelance / Project-Based](https://www.linkedin.com/jobs/view/4438298088/) — Bang Zoom! Studios
-- 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-07-08
+No new roles since the last run.
