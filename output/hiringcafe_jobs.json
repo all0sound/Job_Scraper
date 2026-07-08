@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08 22:49 UTC",
-  "total": 7,
+  "scraped_at": "2026-07-08 23:55 UTC",
+  "total": 6,
   "new_count": 0,
   "jobs": [
     {
@@ -43,20 +43,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "2K",
-      "title": "Lead Sound Designer",
-      "location": "Frisco or Montréal or Quebec City or Georgia",
-      "url": "https://job-boards.greenhouse.io/2k/jobs/7760418003",
-      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/7760418003",
-      "date_posted": "2026-06-08T23:40:08.000Z",
-      "description": "7+ years of professional game audio experience with at least one shipped title; proven sound design, mixing, editing, documentation, and leadership skills; ability to implement audio into Wwise and UE5 and collaborate across teams.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
