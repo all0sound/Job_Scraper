@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-08 05:48 UTC",
-  "total": 71,
-  "new_count": 1,
+  "scraped_at": "2026-07-08 18:15 UTC",
+  "total": 67,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Washington",
@@ -368,14 +368,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Environmental Scientist II",
-      "location": "Seattle or Everett or Olympia or Bellevue or Gig Harbor",
-      "url": "https://hdr.taleo.net/careersection/hdr_mobile/jobdetail.ftl?job=193572&lang=en",
-      "direct_url": "https://hdr.taleo.net/careersection/hdr_mobile/jobdetail.ftl?job=193572&lang=en",
-      "date_posted": "2026-06-08T10:36:53.000Z",
-      "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, ability to lead wetland/stream delineations and habitat surveys, prepare environmental permitting documentation, strong writing and MS Office skills.",
-      "salary": "$80k–$126k/yr",
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -404,20 +404,6 @@
       "date_posted": "2026-07-06T14:10:25.000Z",
       "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
       "salary": "$85k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -564,20 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "South Dakota State Government",
-      "title": "Environmental Scientist I",
-      "location": "Pierre, South Dakota, United States",
-      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-i/view/247798",
-      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-i/view/247798",
-      "date_posted": "2026-06-09T15:13:35.000Z",
-      "description": "Bachelor's in geology or related field required; valid driver's license, frequent daily travel and occasional overnight travel; knowledge of hydrology, hydrogeology, GIS, Microsoft Office, and environmental laws; ability to review permits, analyze data, and communicate technical findings.",
-      "salary": "$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Usbank",
       "title": "Risk Assessment Lead - Cybersecurity Risk Oversight",
       "location": "Minneapolis or Cincinnati or Charlotte or Tempe or Saint Louis or Irving",
@@ -705,12 +677,12 @@
     },
     {
       "company": "Jefferson County Public Schools",
-      "title": "Coordinator Risk Assessment #2 (2026-2027)",
+      "title": "Coordinator Risk Assessment #3 (2026-2027)",
       "location": "Jefferson County, Kentucky, United States",
-      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
-      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
+      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
+      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
       "date_posted": "2026-07-07T12:00:00.000Z",
-      "description": "Bachelor's degree, experience leading operational responses, experience working with youth from diverse backgrounds, and effective communication skills.",
+      "description": "Bachelor's degree required; experience leading operational responses and working with youth from diverse backgrounds; effective communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -900,20 +872,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Senior Environmental Scientist",
-      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "date_posted": "2026-06-08T12:00:00.000Z",
-      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Verdantas",
       "title": "Environmental Scientist III",
       "location": "Tampa or Florida or United States",
@@ -982,36 +940,7 @@
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Manhattan or Riley County or Topeka",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-25T12:00:00.000Z",
-      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Manhattan or Riley County or Topeka",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-25T12:00:00.000Z",
-      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
