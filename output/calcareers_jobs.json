@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-07-07 18:16 UTC",
+  "scraped_at": "2026-07-08 17:50 UTC",
   "total": 10,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
+      "date_posted": "2026-07-08",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
@@ -38,18 +50,6 @@
       "telework": "In Office",
       "job_type": "Permanent Intermittent - 1500 Hours",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521940",
-      "date_posted": "2026-06-17",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of Water Resources",
