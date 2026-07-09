@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08 17:50 UTC",
-  "total": 10,
+  "scraped_at": "2026-07-09 18:07 UTC",
+  "total": 9,
   "new_count": 0,
   "jobs": [
     {
@@ -13,6 +13,18 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521511",
+      "date_posted": "2026-07-03",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent Intermittent - 1500 Hours",
       "work_arrangement": "Telecommute eligible"
     },
     {
@@ -52,18 +64,6 @@
       "work_arrangement": "On-site"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521511",
-      "date_posted": "2026-07-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent Intermittent - 1500 Hours",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -74,18 +74,6 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
-      "date_posted": "2026-06-24",
-      "salary": "$25.48 - $53.77",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent Intermittent - 1500 Hours",
-      "work_arrangement": "On-site"
     },
     {
       "company": "Department of Pesticide Regulation",
