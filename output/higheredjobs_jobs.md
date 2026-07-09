@@ -1,5 +1,5 @@
 # 🎓 HigherEdJobs — Music Technology & Audio Roles
-*Last updated: 2026-07-07 19:23 UTC*
+*Last updated: 2026-07-09 19:10 UTC*
 
 **0 new role(s)** since last run · 0 total in last 30d
 
