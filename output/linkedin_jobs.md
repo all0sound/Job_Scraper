@@ -1,29 +1,23 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-10 05:44 UTC*
+*Last updated: 2026-07-10 17:17 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438879839/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4436612347/) — Hydranautics - A Nitto Group Company
+- 📍 **Location:** Oceanside, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438893421/) — Jacobs
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
+### [Staff Air Pollution Specialist](https://www.linkedin.com/jobs/view/4439314537/) — California Air Resources Board
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $10,521.00/mo - $13,173.00/mo
 - 🕒 **Posted:** 2026-07-10
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438885682/) — Jacobs
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
+### [Air Quality Project Manager](https://www.linkedin.com/jobs/view/4411419053/) — Alliance Technical Group
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $80k - $130k annually
 - 🕒 **Posted:** 2026-07-10
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438895336/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
-- 🕒 **Posted:** 2026-07-10
-
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438892443/) — Jacobs
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
+### [Lead Environmental Specialist/Planner (QSD/QSP) Menlo Park and Encinitas, California](https://www.linkedin.com/jobs/view/4436615181/) — Insignia Environmental
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $70,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-07-10
