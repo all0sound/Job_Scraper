@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-10 18:21 UTC*
+*Last updated: 2026-07-10 20:20 UTC*
 
-**0 new role(s)** since last run · 68 total in last 30d
+**1 new role(s)** since last run · 67 total in last 30d
 
-No new roles since the last run.
+### [ENVIRONMENTAL SCIENTIST 3 - PART TIME](https://www.governmentjobs.com/careers/nv/jobs/5388532) — State of Nevada (NV)
+- 📍 **Location:** Carson City, Nevada, United States
+- 💰 **Salary:** $67k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-06-24T22:35:07.000Z
