@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09 18:07 UTC",
+  "scraped_at": "2026-07-10 17:58 UTC",
   "total": 9,
   "new_count": 0,
   "jobs": [
@@ -28,11 +28,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "State Water Resources Control Board",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521876",
-      "date_posted": "2026-06-18",
+      "location": "Humboldt County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521674",
+      "date_posted": "2026-07-10",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -88,16 +88,16 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522744",
-      "date_posted": "2026-06-29",
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523379",
+      "date_posted": "2026-07-01",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "On-site"
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "State Air Resources Board",
