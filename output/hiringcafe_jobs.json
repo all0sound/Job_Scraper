@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11 17:53 UTC",
+  "scraped_at": "2026-07-11 19:06 UTC",
   "total": 67,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Johnson & Johnson",
@@ -942,34 +942,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Utah Department of Environmental Quality",
-      "title": "Environmental Scientist",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
-      "salary": "$54k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Manhattan or Riley County or Topeka",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-25T12:00:00.000Z",
-      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
