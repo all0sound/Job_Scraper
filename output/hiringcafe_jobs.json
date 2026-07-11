@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-10 23:55 UTC",
+  "scraped_at": "2026-07-11 03:24 UTC",
   "total": 68,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Jj",
@@ -942,19 +942,34 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cedarville Engineering Group",
+      "company": "Kansas Department of Agriculture",
       "title": "Environmental Scientist",
-      "location": "Pottstown, Pennsylvania, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "date_posted": "2026-06-30T16:11:15.000Z",
-      "description": "Bachelor's degree required; OSHA certifications for fieldwork (HAZWOPER, OSHA 10/30/40) and valid driver's license required; must pass federal background check; ~25% travel; experience with field sampling and technical writing preferred; training provided.",
-      "salary": "",
+      "location": "Manhattan or Riley County or Topeka",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-06-25T12:00:00.000Z",
+      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Kansas Department of Agriculture",
+      "title": "Environmental Scientist",
+      "location": "Manhattan or Riley County or Topeka",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-06-25T12:00:00.000Z",
+      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
+      "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
