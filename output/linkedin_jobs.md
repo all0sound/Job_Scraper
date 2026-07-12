@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-12 17:27 UTC*
+*Last updated: 2026-07-12 18:39 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Scientist/Geologist](https://www.linkedin.com/jobs/view/4430992749/) — APTIM
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $43.00 - $49.00 Per Hour
+- 🕒 **Posted:** 2026-07-12
