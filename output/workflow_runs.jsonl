@@ -1599,3 +1599,4 @@
 {"job_count": 7, "run_attempt": "1", "run_id": "29203292006", "timestamp": "2026-07-12T18:08:04Z", "workflow": "scholarshipdb"}
 {"job_count": 0, "run_attempt": "1", "run_id": "29203342870", "timestamp": "2026-07-12T18:27:01Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "29203999064", "timestamp": "2026-07-12T18:31:15Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "29204028041", "timestamp": "2026-07-12T18:31:26Z", "workflow": "higheredjobs"}
