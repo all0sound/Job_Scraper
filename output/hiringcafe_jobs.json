@@ -1,8 +1,22 @@
 {
-  "scraped_at": "2026-07-12 22:44 UTC",
+  "scraped_at": "2026-07-12 23:51 UTC",
   "total": 62,
   "new_count": 1,
   "jobs": [
+    {
+      "company": "Jj",
+      "title": "Principal Toxicologist",
+      "location": "Raritan or Cincinnati",
+      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
+      "direct_url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Advanced degree in toxicology, 6+ years industry medical device experience, 8–10 years toxicology/biocompatibility experience, GLP/regulatory familiarity, ISO 10993/13485/14971 knowledge, lab animal and material degradation experience.",
+      "salary": "$117k–$201k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
     {
       "company": "Johnson & Johnson",
       "title": "Principal Toxicologist",
@@ -18,14 +32,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jj",
-      "title": "Principal Toxicologist",
-      "location": "Raritan or Cincinnati",
-      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
-      "direct_url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Advanced degree in toxicology, 6+ years industry medical device experience, 8–10 years toxicology/biocompatibility experience, GLP/regulatory familiarity, ISO 10993/13485/14971 knowledge, lab animal and material degradation experience.",
-      "salary": "$117k–$201k/yr",
+      "company": "Robson Forensic",
+      "title": "Toxicologist - Forensic Expert",
+      "location": "Las Vegas or Irving",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a21e929-8eba-4a31-b424-4df0f5c82edd&ccId=19000101_000001&jobId=583382&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a21e929-8eba-4a31-b424-4df0f5c82edd&ccId=19000101_000001&jobId=583382&lang=en_US",
+      "date_posted": "2026-07-07T18:11:00.000Z",
+      "description": "Ph.D. in toxicology or related discipline, 5+ years toxicology experience, board certification preferred (ABFT or DABT), membership in toxicology organization, travel ~20% for initial training.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -43,20 +57,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Robson Forensic",
-      "title": "Toxicologist - Forensic Expert",
-      "location": "Las Vegas or Irving",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a21e929-8eba-4a31-b424-4df0f5c82edd&ccId=19000101_000001&jobId=583382&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a21e929-8eba-4a31-b424-4df0f5c82edd&ccId=19000101_000001&jobId=583382&lang=en_US",
-      "date_posted": "2026-07-07T18:11:00.000Z",
-      "description": "Ph.D. in toxicology or related discipline, 5+ years toxicology experience, board certification preferred (ABFT or DABT), membership in toxicology organization, travel ~20% for initial training.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -677,12 +677,12 @@
     },
     {
       "company": "Jefferson County Public Schools",
-      "title": "Coordinator Risk Assessment #3 (2026-2027)",
+      "title": "Coordinator Risk Assessment #2 (2026-2027)",
       "location": "Jefferson County, Kentucky, United States",
-      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
-      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
+      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
+      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
       "date_posted": "2026-07-07T12:00:00.000Z",
-      "description": "Bachelor's degree required; experience leading operational responses and working with youth from diverse backgrounds; effective communication skills.",
+      "description": "Bachelor's degree, experience leading operational responses, experience working with youth from diverse backgrounds, and effective communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -774,6 +774,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Reston, Virginia, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-06-30T04:00:00.000Z",
+      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Consolidated Engineering Laboratories (CEL)",
       "title": "Environmental Scientist 1",
       "location": "Redmond or Moclips",
@@ -856,35 +870,21 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah Department of Environmental Quality",
-      "title": "Environmental Scientist",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
-      "salary": "$54k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Utah Department of Environmental Quality",
+      "company": "Kimley-Horn",
       "title": "Environmental Scientist",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
-      "salary": "$54k–$112k/yr",
+      "location": "Reston, Virginia, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-06-30T04:00:00.000Z",
+      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
