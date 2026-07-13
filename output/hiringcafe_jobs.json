@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13 22:57 UTC",
+  "scraped_at": "2026-07-13 23:59 UTC",
   "total": 65,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jj",
@@ -914,76 +914,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Redmond or Moclips",
-      "url": "http://oneatlas.hrmdirect.com/employment/view.php?req=3757595",
-      "direct_url": "http://oneatlas.hrmdirect.com/employment/view.php?req=3757595",
-      "date_posted": "2026-07-08T03:00:00.000Z",
-      "description": "Bachelor's in environmental science or related, 0–5 years experience, CESCL required, valid driver's license, comfort with in‑water and outdoor fieldwork, MS Excel/Bluebeam/GIS experience.",
-      "salary": "$62k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "National Oceanic and Atmospheric Administration",
-      "title": "Environmental Scientist / Research Environmental Scientist",
-      "location": "Oxford or Silver Spring or Beaufort or Charleston",
-      "url": "https://www.usajobs.gov/job/875386200",
-      "direct_url": "https://www.usajobs.gov/job/875386200",
-      "date_posted": "2026-07-07T00:00:00.000Z",
-      "description": "Positive education requirement (relevant bachelor's or higher) plus specialized experience in geospatial/statistical data analysis and data management; U.S. citizenship required; transcripts required.",
-      "salary": "$75k–$187k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah Department of Environmental Quality",
-      "title": "Environmental Scientist",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
-      "salary": "$54k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Manhattan or Riley County or Topeka",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-25T12:00:00.000Z",
-      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
