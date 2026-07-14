@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Music Technology & Audio Roles
-*Last updated: 2026-07-14 16:58 UTC*
+*Last updated: 2026-07-14 18:38 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Sound Designer, 3097-1](https://www.linkedin.com/jobs/view/4432658410/) — Cypress HCM
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-07-14
