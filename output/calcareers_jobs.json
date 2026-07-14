@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-13 18:04 UTC",
-  "total": 9,
+  "scraped_at": "2026-07-14 17:32 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -16,35 +16,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521511",
-      "date_posted": "2026-07-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent Intermittent - 1500 Hours",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
       "location": "Humboldt County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521674",
       "date_posted": "2026-07-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521907",
-      "date_posted": "2026-06-22",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -79,8 +55,8 @@
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523379",
-      "date_posted": "2026-07-01",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523722",
+      "date_posted": "2026-07-06",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -88,15 +64,15 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523722",
-      "date_posted": "2026-07-06",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524628",
+      "date_posted": "2026-07-13",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
+      "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "Telecommute eligible"
     },
     {
