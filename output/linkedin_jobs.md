@@ -1,6 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-14 04:36 UTC*
+*Last updated: 2026-07-14 16:49 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Environmental Specialist II](https://www.linkedin.com/jobs/view/4440571997/) — Veolia
+- 📍 **Location:** Azusa, CA
+- 💰 **Salary:** $24 to $28 per hour
+- 🕒 **Posted:** 2026-07-14
+
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4432295181/) — Pacific Seafood
+- 📍 **Location:** Clackamas, OR
+- 💰 **Salary:** $75,000 - $100,000
+- 🕒 **Posted:** 2026-07-14
