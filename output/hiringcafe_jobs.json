@@ -1,8 +1,22 @@
 {
-  "scraped_at": "2026-07-14 01:05 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-07-14 04:56 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Interlochen Center for the Arts",
+      "title": "Production Audio Engineer (Year-Round)",
+      "location": "Interlochen, Michigan, United States",
+      "url": "https://interlochen.submit4jobs.com/index.cfm?cid=85509&fuseaction=85509.viewjobdetail&JID=369453",
+      "direct_url": "https://interlochen.submit4jobs.com/index.cfm?cid=85509&fuseaction=85509.viewjobdetail&JID=369453",
+      "date_posted": "2026-07-13T16:22:20.000Z",
+      "description": "Bachelor's in audio production (master's preferred), 2+ years audio production experience, advanced knowledge of large-format sound systems and audio networking, strong communication and teaching skills, valid background check.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
     {
       "company": "Towson University",
       "title": "Assistant Professor of Audio Production",
@@ -75,5 +89,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Interlochen Center for the Arts",
+      "title": "Production Audio Engineer (Year-Round)",
+      "location": "Interlochen, Michigan, United States",
+      "url": "https://interlochen.submit4jobs.com/index.cfm?cid=85509&fuseaction=85509.viewjobdetail&JID=369453",
+      "direct_url": "https://interlochen.submit4jobs.com/index.cfm?cid=85509&fuseaction=85509.viewjobdetail&JID=369453",
+      "date_posted": "2026-07-13T16:22:20.000Z",
+      "description": "Bachelor's in audio production (master's preferred), 2+ years audio production experience, advanced knowledge of large-format sound systems and audio networking, strong communication and teaching skills, valid background check.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
