@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13 18:11 UTC",
-  "total": 9,
-  "new_count": 0,
+  "scraped_at": "2026-07-14 17:35 UTC",
+  "total": 10,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -31,12 +31,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Bay Area Air District",
-      "title": "Air Quality Specialist I/II - Field Inspector",
-      "location": "San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/5380198-0/air-quality-specialist-i-ii-field-inspector",
+      "company": "City of Eureka",
+      "title": "Water Quality Supervisor",
+      "location": "WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA",
+      "url": "https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor",
       "date_posted": "",
-      "salary": "$103,401.49 - $138,567.88 Annually",
+      "salary": "$69,300.00 - $84,228.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Naples",
+      "title": "Water Quality Project Manager",
+      "location": "295 Riverside Circle Naples, FL",
+      "url": "https://www.governmentjobs.com/jobs/5402120-0/water-quality-project-manager",
+      "date_posted": "",
+      "salary": "$90,402.00 - $140,123.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -49,12 +58,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Eureka",
-      "title": "Water Quality Supervisor",
-      "location": "WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA",
-      "url": "https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor",
+      "company": "County of San Mateo",
+      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
+      "location": "San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
       "date_posted": "",
-      "salary": "$69,300.00 - $84,228.00 Annually",
+      "salary": "$7,959.47 - $12,367.33 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -67,15 +85,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Sacramento Area Sewer District (CA)",
-      "title": "Environmental Specialist I/II",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$83,408.00 - $111,758.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "LA METRO",
       "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
       "location": "Los Angeles, CA",
@@ -85,5 +94,33 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Naples",
+      "title": "Water Quality Project Manager",
+      "location": "295 Riverside Circle Naples, FL",
+      "url": "https://www.governmentjobs.com/jobs/5402120-0/water-quality-project-manager",
+      "date_posted": "",
+      "salary": "$90,402.00 - $140,123.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
+      "location": "San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
+      "date_posted": "",
+      "salary": "$7,959.47 - $12,367.33 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
