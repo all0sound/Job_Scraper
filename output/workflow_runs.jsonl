@@ -2007,3 +2007,4 @@
 {"job_count": 5, "run_attempt": "1", "run_id": "29452911990", "timestamp": "2026-07-15T21:43:26Z", "workflow": "hiringcafe"}
 {"job_count": 1, "run_attempt": "1", "run_id": "29454556211", "timestamp": "2026-07-15T22:32:37Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "29455737338", "timestamp": "2026-07-15T22:33:28Z", "workflow": "google_jobs"}
+{"job_count": 1, "run_attempt": "1", "run_id": "29455865640", "timestamp": "2026-07-15T22:35:29Z", "workflow": "indeed"}
