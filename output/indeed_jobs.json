@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-15 16:55 UTC",
+  "scraped_at": "2026-07-15 16:57 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "GHD",
@@ -76,24 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AECOM",
-      "title": "Data Manager (Oil, Gas, Remediation)",
-      "location": "Los Angeles, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9e8bcdfc8e54f3be",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000137932769-data-manager-oil-gas-remediation-",
-      "company_url": "https://www.indeed.com/cmp/AECOM",
-      "date_posted": "2026-07-15",
-      "description": "**Company Description** **Work with Us. Change the World.**\n\n\nAt AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world’s most complex challenges and build legacies for future generations.\n\n\nThere has never been a better time to be at AECOM. With accelerating infrastructure investment worldwide, our services are in great demand. We invite you to bring your bold ideas and big dreams and become part of a global team of over 50,000 planners, designers, engineers, scientists, digital innovators, program and construction managers and other professionals delivering projects that create a positive and tangible impact around the world.\n\n\nWe're one global team driven by our common purpose to deliver a better world. Join us.\n\n **Job Description**  \n\nAECOM is hiring a Data Manager to oversee maintenance of data infrastructure and architecture for Oil, Gas, and Remediation projects. The successful candidate will drive data generation, storage, and processing initiatives while ensuring the implementation of effective data management solutions and best practices.\n\n**Duties include but are not limited to:**\n\n* Possess an understanding of end\\-to\\-end remediation project workflows to drive process improvements.\n* Maintain databases and data processing systems.\n* Ensures data is accessible, reliable, secure, and efficiently processed.\n* Combines, optimizes, and manages multiple large\\-scale data sources.\n* May be responsible for creating automated reporting systems and data solutions.\n* Provides software solutions that move data from its source to internal databases, including data warehouses.\n* Responsible for maintenance of data pipelines to support data analysis and reporting.\n* Analyzes complex issues and recommends solutions that improve data storage processes and methodologies.\n* Uses judgment outside defined parameters and precedents to make decisions and resolve business and technical challenges.\n* Accountable for the results of assigned projects and processes.\n* Demonstrates strong proficiency in data programming languages.\n* Demonstrates strong knowledge of data optimization tools, data structures, data architecture, and data warehousing solutions.\n* Demonstrates strong knowledge of API (Application Programming Interface) integration to support data access, collection, distribution, transformation, and ELT (Extract, Load, Transform) processes.\n* Applies algorithmic and statistical methods, data processing tools, and AI\\-enabled approaches to support efficient data consumption and analysis.\n\n  \n\n**Qualifications** **Minimum Requirements:**\n\n* BA/BS Computer Science, Information Science, Data Engineering or related field and 6 years of relevant experience or demonstrated equivalency of experience and/or education.\n\n**Preferred Qualifications:**\n\n* Experience with environmental software implementation in a consulting / O\\&G environment, including knowledge in one or more EDM software package(s) such as Earthsoft EQuIS Suite (Professional, Enterprise, EnviroInsite, etc.) and Locus EIM strongly preferred.\n* Experience in environmental data management, chemistry, analytical data validation, environmental data analysis and/or visualization.\n* Experience in data engineering, business intelligence (BI), or analytics development.\n* Strong proficiency in SQL and experience with relational and analytical databases. Proficiency in Python or a similar scripting language.\n* Experience developing interactive dashboards and data visualizations using Power BI, Tableau, Looker, or similar business intelligence tools.\n* Experience designing and supporting data pipelines, data integration, and ETL/ELT processes.\n* Experience working with cloud\\-based or enterprise data warehousing solutions.\n* Familiarity with enterprise business systems such as Oracle, Workday, CMiC, or similar enterprise platforms.\n* Advanced Microsoft Suite skills, including the Power Platform, with proficiency in data analysis, automation, and reporting.\n* Understanding of data quality, data governance, and metadata management. Follow naming convention guidance and provide proper documentation as required.\n* Commitment to working in a collaborative, team environment.\n\n  \n\n**Additional Information**  \n\n* This position does not include sponsorship for United States work authorization now or in the future.\n* This position does not include relocation\n\n\nAt AECOM, we are committed to maintaining a secure and trustworthy recruitment process and take any fraudulent hiring activity seriously. ***To support this commitment, all newly hired employees are required to attend an in\\-person Day 1 onboarding at an AECOM office location as a condition of employment.***\n\n **About AECOM**\n\n\nAECOM is proud to offer comprehensive benefits to meet the diverse needs of our employees. Depending on your employment status, AECOM benefits may include medical, dental, vision, life, AD\\&D, disability benefits, paid time off, leaves of absences, voluntary benefits, perks, flexible work options, well\\-being resources, employee assistance program, business travel insurance, service recognition awards, retirement savings plan, and employee stock purchase plan.\n\n\nAECOM is the global infrastructure leader, committed to delivering a better world. As a trusted professional services firm powered by deep technical abilities, we solve our clients’ complex challenges in water, environment, energy, transportation and buildings. Our teams partner with public\\- and private\\-sector clients to create innovative, sustainable and resilient solutions throughout the project lifecycle – from advisory, planning, design and engineering to program and construction management. AECOM is a Fortune 500 firm that had revenue of $16\\.1 billion in fiscal year 20",
-      "salary": "$90k–$130k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
