@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-07-15 21:58 UTC",
+  "scraped_at": "2026-07-15 23:57 UTC",
   "total": 68,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "Johnson & Johnson",
-      "title": "Principal Toxicologist",
-      "location": "Cincinnati or Raritan",
-      "url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
-      "direct_url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Advanced degree (MS or PhD) in toxicology or related field, 6+ years industry experience in medical devices, 8+ years toxicology/biocompatibility experience, ISO 10993 knowledge, regulated environment and audit support experience.",
-      "salary": "$117k–$201k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Jj",
       "title": "Principal Toxicologist",
@@ -32,6 +18,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Johnson & Johnson",
+      "title": "Principal Toxicologist",
+      "location": "Cincinnati or Raritan",
+      "url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
+      "direct_url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Advanced degree (MS or PhD) in toxicology or related field, 6+ years industry experience in medical devices, 8+ years toxicology/biocompatibility experience, ISO 10993 knowledge, regulated environment and audit support experience.",
+      "salary": "$117k–$201k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Yagroup",
       "title": "Senior Toxicologist",
       "location": "United States",
@@ -40,20 +40,6 @@
       "date_posted": "2026-07-15T04:00:00.000Z",
       "description": "DABT required, 10+ years toxicology experience with litigation support, strong technical writing and communication, experience evaluating laboratory and exposure data, and degree in toxicology or related field (or equivalent experience).",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Medline",
-      "title": "Toxicologist R&D",
-      "location": "Illinois, United States",
-      "url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
-      "direct_url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in toxicology/pharmacology,5+ years toxicology experience in medical device or related industry,knowledge of ISO 10993/18562/14971,FDA/EU MDR,biocompatibility,chemical characterization;DABT preferred.",
-      "salary": "$101k–$152k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -85,6 +71,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Medline",
+      "title": "Toxicologist R&D",
+      "location": "Illinois, United States",
+      "url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
+      "direct_url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Bachelor's in toxicology/pharmacology,5+ years toxicology experience in medical device or related industry,knowledge of ISO 10993/18562/14971,FDA/EU MDR,biocompatibility,chemical characterization;DABT preferred.",
+      "salary": "$101k–$152k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -298,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Rancho Cordova or Oakland",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
-      "date_posted": "2026-07-09T23:26:54.910Z",
-      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
-      "salary": "$70k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Whitestone Associates, Inc.",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -326,17 +312,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
+      "company": "Tetra Tech",
       "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
+      "location": "Rancho Cordova or Oakland",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "date_posted": "2026-07-09T23:26:54.910Z",
+      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
+      "salary": "$70k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -349,6 +335,20 @@
       "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
       "salary": "$48k–$54k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -942,47 +942,33 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cedarville Engineering Group",
+      "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist",
-      "location": "Pottstown, Pennsylvania, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "date_posted": "2026-06-30T16:11:15.000Z",
-      "description": "Bachelor's degree required; OSHA certifications for fieldwork (HAZWOPER, OSHA 10/30/40) and valid driver's license required; must pass federal background check; ~25% travel; experience with field sampling and technical writing preferred; training provided.",
-      "salary": "",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
+      "salary": "$54k–$112k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Yagroup",
-      "title": "Senior Toxicologist",
-      "location": "United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286",
-      "date_posted": "2026-07-15T04:00:00.000Z",
-      "description": "DABT required, 10+ years toxicology experience with litigation support, strong technical writing and communication, experience evaluating laboratory and exposure data, and degree in toxicology or related field (or equivalent experience).",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brody School of Medicine at East Carolina University",
-      "title": "Academic Medical Toxicology Opportunity in Greenville, NC",
-      "location": "Greenville, North Carolina, United States",
-      "url": "https://www.practicematch.com/physicians/job-details.cfm/1076947/emergency-medicine/north-carolina/greenville/ecu-health-medical-center/",
-      "direct_url": "https://www.practicematch.com/physicians/job-details.cfm/1076947/emergency-medicine/north-carolina/greenville/ecu-health-medical-center/",
-      "date_posted": "2026-07-14T16:31:39.000Z",
-      "description": "Board-certified or eligible in Emergency Medicine and Medical Toxicology; active clinical practice in EM/toxicology; demonstrated education and research contributions; fellowship-trained candidates encouraged.",
-      "salary": "",
+      "company": "Utah Department of Environmental Quality",
+      "title": "Environmental Scientist",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
+      "salary": "$54k–$112k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
