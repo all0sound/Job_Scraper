@@ -2011,3 +2011,4 @@
 {"job_count": 1, "run_attempt": "1", "run_id": "29456152362", "timestamp": "2026-07-15T22:40:56Z", "workflow": "indeed"}
 {"job_count": 5, "run_attempt": "1", "run_id": "29456344365", "timestamp": "2026-07-15T22:43:46Z", "workflow": "hiringcafe"}
 {"job_count": 1, "run_attempt": "1", "run_id": "29457770296", "timestamp": "2026-07-15T23:31:29Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "29458613632", "timestamp": "2026-07-15T23:32:17Z", "workflow": "ziprecruiter"}
