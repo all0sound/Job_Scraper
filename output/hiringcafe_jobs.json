@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-14 23:37 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-07-15 01:03 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Interlochen Center for the Arts",
@@ -43,6 +43,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Aristocrat",
+      "title": "Sound Designer",
+      "location": "Reno, Nevada, United States",
+      "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Sound-Designer_R0021787",
+      "direct_url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Sound-Designer_R0021787",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "5+ years experience with major DAW, strong music composition, sound design, audio engineering, recording and mixing skills; teamwork and English proficiency required.",
+      "salary": "$70k–$130k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -89,5 +103,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Aristocrat",
+      "title": "Sound Designer",
+      "location": "Reno, Nevada, United States",
+      "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Sound-Designer_R0021787",
+      "direct_url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Sound-Designer_R0021787",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "5+ years experience with major DAW, strong music composition, sound design, audio engineering, recording and mixing skills; teamwork and English proficiency required.",
+      "salary": "$70k–$130k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
