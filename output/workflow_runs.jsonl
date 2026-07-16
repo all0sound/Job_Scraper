@@ -2020,3 +2020,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "29462932812", "timestamp": "2026-07-16T00:59:54Z", "workflow": "google_jobs"}
 {"job_count": 1, "run_attempt": "1", "run_id": "29463337064", "timestamp": "2026-07-16T01:08:48Z", "workflow": "indeed"}
 {"job_count": 5, "run_attempt": "1", "run_id": "29463498381", "timestamp": "2026-07-16T01:12:03Z", "workflow": "hiringcafe"}
+{"job_count": 0, "run_attempt": "1", "run_id": "29469309301", "timestamp": "2026-07-16T03:58:01Z", "workflow": "linkedin"}
