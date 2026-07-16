@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-14 16:49 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-07-16 16:51 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Environmental Protection Agency",
@@ -10,6 +10,24 @@
       "url": "https://www.usajobs.gov/job/876163500",
       "date_posted": "2026-07-13",
       "salary": "Starting at $61,722 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Naval Station Complex, San Diego, California",
+      "url": "https://www.usajobs.gov/job/876290000",
+      "date_posted": "2026-07-16",
+      "salary": "Starting at $102,246 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Transit Administration",
+      "title": "Supervisory Environmental Protection Specialist  - DIRECT HIRE",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/876492900",
+      "date_posted": "2026-07-14",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
@@ -49,5 +67,24 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Naval Station Complex, San Diego, California",
+      "url": "https://www.usajobs.gov/job/876290000",
+      "date_posted": "2026-07-16",
+      "salary": "Starting at $102,246 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Transit Administration",
+      "title": "Supervisory Environmental Protection Specialist  - DIRECT HIRE",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/876492900",
+      "date_posted": "2026-07-14",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
