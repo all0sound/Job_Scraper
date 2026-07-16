@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15 17:35 UTC",
-  "total": 7,
+  "scraped_at": "2026-07-16 17:37 UTC",
+  "total": 6,
   "new_count": 0,
   "jobs": [
     {
@@ -73,18 +73,6 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524253",
-      "date_posted": "2026-07-14",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
     }
   ],
