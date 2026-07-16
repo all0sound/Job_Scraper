@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-07-16 18:48 UTC",
-  "total": 1,
+  "scraped_at": "2026-07-16 20:32 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Unknown",
-      "title": "Sound Designer",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=ef883b1286790f4a",
-      "direct_url": "https://prisms-vr.breezy.hr/p/147129d24d10-sound-designer?source=indeed",
-      "company_url": "",
-      "date_posted": "2026-07-01",
-      "description": "**OUR MISSION**\n\n\nPrisms VR is a San Francisco\\-based team of educators, game developers, and engineers transforming K12 STEM education through experiential real\\-world problem\\-solving powered by the next generation of spatial computing. We utilize adaptive Virtual Reality (VR) to engage, inspire, and open pathways to creative problem\\-solving to rapidly improve engagement and proficiencies in Math and Science across our country and beyond. Our mission is to break down barriers to access and build STEM proficiencies at scale for all students, worldwide.\n\n\n**THE JOB**  \n\nInteractive Sound Designer\n\n\n**JOB DESCRIPTION**  \n\nPrisms seeks a developer with enterprise experience to build immersive learning experiences for mobile VR platforms using the Unity framework. Your main task will be to create scalable and reliable tools and systems to aid in the development of immersive learning experiences. You will also lead the development of core systems and make architectural decisions to be executed by other team members. We require a strong commitment to collaborative problem\\-solving, sophisticated design, and delivering a high\\-quality product.\n\n\n**KEY RESPONSIBILITIES**\n\n\n* Design and produce original sound assets that align with educational objectives and elevate the immersive VR experience.\n* Implement and integrate sound assets directly into the Unity game engine, ensuring seamless audio\\-visual interaction\n* Create rich and immersive spatial audio soundscape for virtual reality environments.\n* Collaborate with educational content designers and developers to create sound schemes that support pedagogical goals.\n* Create dynamic audio assets that enhance learning in interactive experiences.\n* Conduct user testing and iteration to refine sound design for clarity and effectiveness in an educational context.\n* Innovate and adapt sound design techniques to suit evolving VR technologies and educational methodologies.\n* Maintain a comprehensive asset library for use in current and future projects.\n* Provide audio support for ongoing development and maintenance of VR applications.\n\n\n**REQUIREMENTS**\n\n  \n\n* Proven experience in sound design, preferably within interactive or gaming environments.\n* Strong understanding of Unity and its audio implementation processes.\n* Familiarity with educational sound design principles and the importance of sound in learning environments.\n* Ability to create a wide range of audio from ambient soundscapes to dynamic interactive audio assets.\n* Experience with audio recording, editing, and mixing tools.\n* Basic knowledge of C\\# programming is a plus but not mandatory.\n* A strong portfolio showcasing relevant sound design work.\n* Excellent collaboration and communication skills.\n* Passion for transforming education through innovative technology and immersive experiences.\n\n  \n\n**EQUAL OPPORTUNITY WORKPLACE**\n\n\nPrisms is an equal\\-opportunity employer committed to providing an equitable and inclusive work environment that ensures that all applicants and team members are treated with dignity and respect. We will not tolerate any type of discrimination or harassment directed at any applicant or employee because of their gender, race, religion, age, disability, national origin, ancestry, sexual orientation, veteran, family, or parental status, or any other protected group characteristic. This equal opportunity and nondiscrimination policy applies to all aspects of employment including recruitment, hiring, promotions, discipline, terminations, wage and salary administration, benefits, and training.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
