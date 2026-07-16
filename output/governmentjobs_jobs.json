@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15 17:40 UTC",
-  "total": 9,
+  "scraped_at": "2026-07-16 17:42 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -19,15 +19,6 @@
       "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
       "date_posted": "",
       "salary": "$66,601.60 - $80,932.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist Supervisor I/II",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
-      "date_posted": "",
-      "salary": "$82,950.40 - $105,934.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -55,33 +46,6 @@
       "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
       "date_posted": "",
       "salary": "$7,959.47 - $12,367.33 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Carlsbad, City of (CA)",
-      "title": "Environmental Specialist I",
-      "location": "Carlsbad, CA",
-      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
-      "date_posted": "",
-      "salary": "$69,721.60 - $84,822.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Sacramento",
-      "title": "Environmental Specialist IV",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
-      "date_posted": "",
-      "salary": "$127,263.60 - $140,313.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "LA METRO",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
-      "date_posted": "",
-      "salary": "",
       "ats": "NEOGOV"
     }
   ],

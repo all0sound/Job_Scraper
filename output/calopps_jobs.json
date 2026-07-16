@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-15 17:40 UTC",
+  "scraped_at": "2026-07-16 17:42 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Marin Municipal Water District",
@@ -22,15 +22,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Marin Municipal Water District",
-      "title": "Watershed Aide (Fisheries)",
-      "location": "Northern Bay Area",
-      "url": "https://www.calopps.org/marin-municipal-water-district/job-20758936",
-      "date_posted": "",
-      "salary": "$26.48-$30.56 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
