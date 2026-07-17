@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-16 16:51 UTC",
-  "total": 7,
-  "new_count": 2,
+  "scraped_at": "2026-07-17 16:46 UTC",
+  "total": 11,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Environmental Protection Agency",
@@ -10,6 +10,33 @@
       "url": "https://www.usajobs.gov/job/876163500",
       "date_posted": "2026-07-13",
       "salary": "Starting at $61,722 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "San Clemente Naval Reserve Island, California",
+      "url": "https://www.usajobs.gov/job/876271900",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $87,061 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Battle Creek, Michigan",
+      "url": "https://www.usajobs.gov/job/876835500",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $74,678 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "San Clemente Naval Reserve Island, California",
+      "url": "https://www.usajobs.gov/job/876808800",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $71,957 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
@@ -58,6 +85,15 @@
       "ats": "USAJOBS"
     },
     {
+      "company": "Military Treatment Facilities under DHA",
+      "title": "Risk Assessment Specialist",
+      "location": "Bethesda, Maryland",
+      "url": "https://www.usajobs.gov/job/876649400",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $102,415 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
       "company": "Air Force Materiel Command",
       "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -71,19 +107,37 @@
     {
       "company": "Commander, Navy Installations Command",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Naval Station Complex, San Diego, California",
-      "url": "https://www.usajobs.gov/job/876290000",
-      "date_posted": "2026-07-16",
-      "salary": "Starting at $102,246 Per year (GS 12)",
+      "location": "San Clemente Naval Reserve Island, California",
+      "url": "https://www.usajobs.gov/job/876271900",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $87,061 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Federal Transit Administration",
-      "title": "Supervisory Environmental Protection Specialist  - DIRECT HIRE",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/876492900",
-      "date_posted": "2026-07-14",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Battle Creek, Michigan",
+      "url": "https://www.usajobs.gov/job/876835500",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $74,678 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "San Clemente Naval Reserve Island, California",
+      "url": "https://www.usajobs.gov/job/876808800",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $71,957 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Military Treatment Facilities under DHA",
+      "title": "Risk Assessment Specialist",
+      "location": "Bethesda, Maryland",
+      "url": "https://www.usajobs.gov/job/876649400",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $102,415 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
