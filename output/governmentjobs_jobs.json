@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-16 17:42 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-07-17 17:32 UTC",
+  "total": 7,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -31,15 +31,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Bay Area Air District",
-      "title": "PRINCIPAL AIR QUALITY SPECIALIST",
-      "location": "San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/5395242-0/principal-air-quality-specialist",
-      "date_posted": "",
-      "salary": "$138,567.88 - $168,430.13 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "County of San Mateo",
       "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
       "location": "San Mateo, CA",
@@ -47,7 +38,62 @@
       "date_posted": "",
       "salary": "$7,959.47 - $12,367.33 Monthly",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
+      "date_posted": "",
+      "salary": "$127,263.60 - $140,313.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "LA METRO",
+      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
+      "date_posted": "",
+      "salary": "$127,263.60 - $140,313.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "LA METRO",
+      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    }
+  ]
 }
