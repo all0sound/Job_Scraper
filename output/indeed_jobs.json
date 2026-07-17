@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-17 22:32 UTC",
-  "total": 3,
+  "scraped_at": "2026-07-17 23:32 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -21,24 +21,6 @@
       "emails": "",
       "ats": "Indeed",
       "distance_miles": 28.5
-    },
-    {
-      "company": "Dhasa Care Music and Arts",
-      "title": "Music Production Instructor/Assistant",
-      "location": "Colton, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=6ef3d88cd4308d1a",
-      "direct_url": "http://www.indeed.com/job/music-production-instructorassistant-6ef3d88cd4308d1a",
-      "company_url": "https://www.indeed.com/cmp/Dhasa-Care-Music-and-Arts",
-      "date_posted": "2026-07-16",
-      "description": "We are seeking a knowledgeable and passionate Music Production Instructor to teach students the technical and creative aspects of music production. The instructor will guide students through digital audio workstation (DAW) usage, sound design, mixing, mastering, and the music business. We are also looking for a motivated and tech\\-savvy Music Production Assistant to support instructors and students in a studio or classroom setting. The assistant will handle equipment setup, software support, and general administrative tasks while gaining valuable experience in the music production field.\n\n**Key Responsibilities:**\n\n* Teach music production courses to students K\\-12 grade, covering topics such as recording techniques, audio engineering, sound design, mixing, mastering, MIDI programming, and beat\\-making.\n* Provide hands\\-on training in industry\\-standard DAWs such as Ableton Live, Logic Pro, Pro Tools, or FL Studio.\n* Design course materials, lesson plans, and assignments aligned with curriculum standards.\n* Assess student progress, provide feedback, and support skill development.\n\nPay: $30\\.00 \\- $35\\.00 per hour\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: In person",
-      "salary": "$30–$35/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
     },
     {
       "company": "Haughton Jamaican Flavor Hut",
