@@ -1,25 +1,17 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-18 02:11 UTC*
+*Last updated: 2026-07-18 05:23 UTC*
 
-**3 new role(s)** since last run · 69 total in last 30d
+**2 new role(s)** since last run · 69 total in last 30d
 
-### [Toxicologist](https://www.usajobs.gov/job/877110500) — Department of Health and Human Services
-- 📍 **Location:** Silver Spring, Maryland, United States
-- 💰 **Salary:** $122k–$191k/yr
+### [SENIOR RISK ASSESSMENT ANALYST](https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=86945&PostingSeq=1&SiteId=5) — University of California Office of the President
+- 📍 **Location:** Oakland, California, United States
+- 💰 **Salary:** $160k–$184k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-17T12:00:00.000Z
+
+### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/omV93cUp2r8SfqgUNK4ddr/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies) — CDR Companies
+- 📍 **Location:** Wilkes-Barre, Pennsylvania, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T16:06:49.693Z
-
-### [Director, Toxicology](https://ats.rippling.com/evommune/jobs/e58c6c43-04ef-469d-aa29-6da8ada04962) — Evommune, Inc.
-- 📍 **Location:** Palo Alto, California, United States
-- 💰 **Salary:** $226k–$280k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T20:17:49.960Z
-
-### [Environmental Scientist](https://careers.trccompanies.com/jobs/26283?lang=en-us) — TRC Companies, Inc.
-- 📍 **Location:** Houston, Texas, United States
-- 💰 **Salary:** $55k–$60k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-16T12:35:16.000Z
+- 🕒 **Posted:** 2026-07-17T16:06:42.816Z
