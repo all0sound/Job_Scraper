@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-18 01:07 UTC*
+*Last updated: 2026-07-18 04:35 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-No new roles since the last run.
+### [Environmental Scientist/Geoscientist](https://www.indeed.com/viewjob?jk=a530beb089012072) — GHD
+- 📍 **Location:** Roseville, CA, US
+- 💰 **Salary:** $68k–$116k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-17
