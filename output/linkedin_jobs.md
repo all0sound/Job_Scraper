@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-19 22:16 UTC*
+*Last updated: 2026-07-19 23:20 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Early-Career Environmental Scientist - Contaminated Land, Brisbane](https://www.linkedin.com/jobs/view/4441182145/) — Tetra Tech Coffey
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-07-19
