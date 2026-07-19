@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19 19:17 UTC",
+  "scraped_at": "2026-07-19 20:42 UTC",
   "total": 68,
   "new_count": 0,
   "jobs": [
@@ -15,20 +15,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "title": "Principal Toxicologist",
-      "location": "Cincinnati or Raritan",
-      "url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
-      "direct_url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Advanced degree (MS or PhD) in toxicology or related field, 6+ years industry experience in medical devices, 8+ years toxicology/biocompatibility experience, ISO 10993 knowledge, regulated environment and audit support experience.",
-      "salary": "$117k–$201k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -60,17 +46,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Medline",
-      "title": "Toxicologist R&D",
-      "location": "Illinois, United States",
-      "url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
-      "direct_url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in toxicology/pharmacology,5+ years toxicology experience in medical device or related industry,knowledge of ISO 10993/18562/14971,FDA/EU MDR,biocompatibility,chemical characterization;DABT preferred.",
-      "salary": "$101k–$152k/yr",
+      "company": "Johnson & Johnson",
+      "title": "Principal Toxicologist",
+      "location": "Cincinnati or Raritan",
+      "url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
+      "direct_url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Advanced degree (MS or PhD) in toxicology or related field, 6+ years industry experience in medical devices, 8+ years toxicology/biocompatibility experience, ISO 10993 knowledge, regulated environment and audit support experience.",
+      "salary": "$117k–$201k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Medline",
+      "title": "Toxicologist R&D",
+      "location": "Illinois, United States",
+      "url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
+      "direct_url": "https://medline.wd5.myworkdayjobs.com/medline/job/REMOTE--Illinois/Toxicologist-R-D_R2613453",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Bachelor's in toxicology/pharmacology,5+ years toxicology experience in medical device or related industry,knowledge of ISO 10993/18562/14971,FDA/EU MDR,biocompatibility,chemical characterization;DABT preferred.",
+      "salary": "$101k–$152k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -172,20 +172,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Battelle",
-      "title": "Environmental Toxicologist (Biochemist) (76341)",
-      "location": "West Jefferson, Ohio, United States",
-      "url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
-      "direct_url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
-      "date_posted": "2026-06-25T17:29:00.000Z",
-      "description": "Ph.D. with 5+ years (or MS with 8+ years, or BS with 10+ years) in toxicology or related life science; expertise in in vivo toxicology, GLP and regulatory guidelines (OECD, ICH); study leadership, project management, and strong communication; legal U.S. work authorization required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Madrigalpharma",
       "title": "Associate Director, Study Toxicologist",
       "location": "Conshohocken, Pennsylvania, United States",
@@ -197,6 +183,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Battelle",
+      "title": "Environmental Toxicologist (Biochemist) (76341)",
+      "location": "West Jefferson, Ohio, United States",
+      "url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
+      "direct_url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
+      "date_posted": "2026-06-25T17:29:00.000Z",
+      "description": "Ph.D. with 5+ years (or MS with 8+ years, or BS with 10+ years) in toxicology or related life science; expertise in in vivo toxicology, GLP and regulatory guidelines (OECD, ICH); study leadership, project management, and strong communication; legal U.S. work authorization required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Penncolor",
-      "title": "Environmental Scientist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
-      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Omega Technical Services",
       "title": "Environmental Scientist",
       "location": "Idaho Falls, Idaho, United States",
@@ -348,6 +334,20 @@
       "date_posted": "2026-07-17T15:31:34.000Z",
       "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
       "salary": "$150k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Penncolor",
+      "title": "Environmental Scientist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
