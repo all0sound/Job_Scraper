@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18 16:31 UTC",
+  "scraped_at": "2026-07-19 16:29 UTC",
   "total": 10,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Food and Drug Administration",
@@ -94,15 +94,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Food and Drug Administration",
-      "title": "Toxicologist",
-      "location": "Silver Spring, Maryland",
-      "url": "https://www.usajobs.gov/job/877110500",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $121,785 Per year (RC 00)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }

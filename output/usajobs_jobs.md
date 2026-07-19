@@ -1,9 +1,6 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-07-18 16:31 UTC*
+*Last updated: 2026-07-19 16:29 UTC*
 
-**1 new role(s)** since last run · 10 total in current USAJOBS postings
+**0 new role(s)** since last run · 10 total in current USAJOBS postings
 
-### [Toxicologist](https://www.usajobs.gov/job/877110500) — Food and Drug Administration
-- 📍 **Location:** Silver Spring, Maryland
-- 💰 **Salary:** Starting at $121,785 Per year (RC 00)
-- 🕒 **Posted:** 2026-07-17
+No new federal roles since the last run.
