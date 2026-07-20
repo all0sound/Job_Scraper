@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20 22:35 UTC",
+  "scraped_at": "2026-07-20 22:39 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Sound Club",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Sound Club",
-      "title": "Music Production & Sound Design Instructor",
-      "location": "San Gabriel, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=646338aae0a9ffb1",
-      "direct_url": "http://www.indeed.com/job/music-production-sound-design-instructor-646338aae0a9ffb1",
-      "company_url": "https://www.indeed.com/cmp/Sound-Club",
-      "date_posted": "2026-07-20",
-      "description": "**Music Production \\& Sound Design Instructor**\n\n**Part\\-Time \\| After\\-School Hours**\n\n**Sound Club – Creative Music Studio**\n\n**About Sound Club**\n\nSound Club is a creative music studio dedicated to inspiring the next generation of musicians, producers, and creators. We offer hands\\-on programs in music production, sound design, DJing, podcasting, and digital media for students ages 8–16\\. Our mission is to combine creativity with technology in a fun, engaging, and supportive learning environment.\n\n**Position Overview**\n\nWe are seeking an enthusiastic and experienced **Music Production \\& Sound Design Instructor** to teach students ages 8–16\\. The ideal candidate has a strong background in both music production and sound design, is proficient in **Logic Pro**and **GarageBand**, and enjoys inspiring young learners through creative, project\\-based instruction.\n\nThis instructor will teach students how to create original music while also exploring sound effects, Foley, recording techniques, and audio production used in film, games, and digital media.\n\n**Responsibilities**\n\n* Teach music production using Logic Pro and GarageBand\n* Instruct students in beat\\-making, songwriting, recording, arranging, editing, and basic mixing\n* Teach sound design and Foley techniques, including recording, creating, layering, and editing sound effects\n* Guide students through creative audio projects for music, video, podcasts, games, and storytelling\n* Adapt lessons to different ages and skill levels (ages 8–16\\)\n* Foster a fun, supportive, structured, and inclusive classroom environment\n* Encourage creativity, collaboration, and critical listening skills\n* Track student progress and provide constructive feedback\n* Prepare students for showcases, presentations, or creative projects\n* Maintain studio equipment, recording gear, computers, and software\n* Troubleshoot basic technical issues and ensure equipment is organized and functioning properly\n\n**Qualifications**\n\n* Strong proficiency in **Logic Pro** and **GarageBand**\n* Experience in music production, recording, composition, or audio engineering\n* Experience in sound design, Foley, or audio post\\-production\n* Understanding of recording studio workflow and audio signal flow\n* Familiarity with microphones, audio interfaces, MIDI controllers, and recording equipment\n* Knowledge of audio plugins, virtual instruments, and mixing fundamentals\n* Ability to explain technical concepts in a simple, engaging, and age\\-appropriate way\n* Experience teaching or mentoring children or teens is preferred\n* Patient, reliable, organized, and enthusiastic about music education\n* Excellent communication and classroom management skills\n\n**Preferred Qualifications**\n\n* Background in film audio, multimedia, game audio, podcast production, or audio engineering\n* Experience creating sound effects for film, animation, video games, or digital media\n* Experience developing engaging, project\\-based lesson plans\n* Multi\\-instrumental or songwriting experience is a plus\n\n**Why Join Sound Club?**\n\n* Inspire the next generation of music producers and sound designers\n* Teach in a professional, technology\\-driven creative studio\n* Work with high\\-end music production and recording equipment\n* Be part of a growing and innovative educational program\n* Opportunity to contribute your own creative ideas and curriculum\n* Flexible part\\-time after\\-school schedule\n\n**Schedule**\n\n* Part\\-Time\n* Primarily Monday–Thursday after\\-school hours, with occasional Saturday classes or special events.\n\nIf you're passionate about music production, sound design, and inspiring young creators, we'd love to hear from you!\n\nPay: $30\\.00 per hour\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
