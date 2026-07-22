@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-22 17:57 UTC",
+  "scraped_at": "2026-07-22 19:01 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Towson University",
@@ -74,20 +74,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Fayetteville Public Library",
-      "title": "IT Audio Engineer",
-      "location": "Fayetteville, Arkansas, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=397e1795-91a2-4b00-83f0-b763bf14a3e9&ccId=19000101_000001&jobId=959059&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=397e1795-91a2-4b00-83f0-b763bf14a3e9&ccId=19000101_000001&jobId=959059&lang=en_US",
-      "date_posted": "2026-07-22T14:23:00.000Z",
-      "description": "3-5 years live audio experience (4 years related experience preferred), high school plus specialized training, proficiency with Microsoft OS/Office, networking, multitrack recording and audio/video production, strong communication skills.",
-      "salary": "$43k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
