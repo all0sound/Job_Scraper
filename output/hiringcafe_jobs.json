@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-22 01:11 UTC",
+  "scraped_at": "2026-07-22 04:53 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Towson University",
@@ -60,20 +60,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Electronic Arts",
-      "title": "Principal Sound Designer (Apex Legends)",
-      "location": "Los Angeles, California, United States",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Principal-Sound-Designer-Apex-Legends/215735",
-      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Principal-Sound-Designer-Apex-Legends/215735",
-      "date_posted": "2026-07-21T18:27:47.810Z",
-      "description": "10+ years game audio or post-production experience, strong creative sensibility, leadership and mentoring experience, demo reel required, proficiency with Wwise, FMOD, Unreal, and Perforce.",
-      "salary": "$154k–$234k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
