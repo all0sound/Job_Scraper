@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-24 01:09 UTC",
+  "scraped_at": "2026-07-24 04:04 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ZOO DIGITAL GROUP PLC",
@@ -23,25 +23,5 @@
       "distance_miles": 56.8
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ZOO DIGITAL GROUP PLC",
-      "title": "Assistant Audio Engineer (Temporary)",
-      "location": "Los Angeles, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=8ed6fd341006468b",
-      "direct_url": "https://cezanneondemand.intervieweb.it/annunci.php?l=assistant-audio-engineer-temporary-62940&lang=us&d=indeed&LAC=zoodigital",
-      "company_url": "https://www.indeed.com/cmp/Zoo-Digital-Group-PLC",
-      "date_posted": "2026-07-23",
-      "description": "**WELCOME TO ZOO**\n\n  \n\nZOO Digital are an award\\-winning cloud software company with offices in LA, Dubai, London, Korea, India and Sheffield UK. We help the biggest names in global entertainment to reach audiences everywhere with our high\\-quality localization and media services, adapting original TV and movie content for different languages, regions, and cultures.\n\n **Our Mission:** To help our clients share their stories, by adapting the world’s most watched TV shows and movies into new formats and languages for international audiences to enjoy.\n\n**Our Clients:** Major Hollywood studios and streaming services, like Disney, Netflix, NBC Universal, Paramount, Facebook, Sony, and HBO, among others.\n\n**Our Services:** Dubbing, subtitling and captioning, audio description, metadata localization, artwork localization and media processing.\n\n  \n\nZOO Digital’s state of the art technology services are backed by the award\\-winning bespoke software created by our ever\\-growing Research \\& Development team, ZOO Digital Labs. The team create cutting edge software solutions to supercharge our services and make our customers’ lives easier. To find out more, visit https://www.zoodigital.com/\n\n  \n\n  \n\n**Position:**\n-------------\n\n**ABOUT THE ROLE**\n\n **Salary:** Up to $27\\.81/ hour (DOE)\n\n**Location:** El Segundo, office\\-based\n\n**Contract:** Temporary, part\\-time position working on an as\\-needed basis\n\n  \n\nZOO Digital have an exciting opportunity for an Assistant Audio Engineer to join our team based in El Segundo, CA on a **temporary, part\\-time, on\\-call basis.**\n\n  \n\nThis role is designed to provide additional operational support during periods of increased business demand. Successful candidates will remain employed by ZOO Digital and will be scheduled to work as and when business needs require, offering flexibility while supporting our dubbing and mastering operations.\n\n  \n\nThe Assistant Audio Engineer will be responsible for Music \\& Effects dubbing package prequalification, generating prequalification reports, technical quality control of cloud dubbing sessions, ProTools dubbing package and mix session preparation and conformance.\n\n  \n\nDay to day responsibilities will include:\n\n  \n\n* Support dubbing and mastering workflows through the preparation, prequalification, and quality control of audio assets.\n* Prepare, conform, and maintain Pro Tools dubbing packages and mix sessions to client and technical specifications.\n* Perform technical QC checks, loudness conformance, and create final audio deliverables.\n* Create, correct, rename, and organize audio elements and delivery packages for clients.\n* Produce clear prequalification reports, identifying technical issues, risks, and required fixes.\n* Support major client projects, including Disney mastering and trailer prequalification work.\n* Collaborate closely with Dubbing, Post Production, QC, and Audio Video QC teams to ensure smooth delivery workflows.\n* Manage workloads effectively in a fast\\-paced, deadline\\-driven environment with changing priorities and tight turnaround times.\n* Maintain accurate session files, reports, and deliverables while working to high standards of quality and attention to detail.\n* Use Pro Tools and supporting systems confidently while adapting to evolving workflows, tools, and client specifications.\n\n  \n\nThe role will require continual learning of new and modified specifications from title to title and client to client.\n\n**Requirements:**\n-----------------\n\n**WHO ARE WE LOOKING FOR?**\n\n  \n\nWe are looking for enthusiastic applicants, ideally with a Bachelor’s degree or equivalent, or 2 years related experience and/or training. We are also keen to hear from applicants with an equivalent combination of education and experience.\n\n **Applicants must have flexibility to work on an as\\-needed basis, with availability to support on\\-site operations, including occasional evenings and weekends where required.**\n\n  \n\n\n\nWe are also looking for applicants with the following skills and experience:\n\n  \n\n* Experience working within audio post\\-production, dubbing, mastering, or technical QC environments.\n* Strong hands\\-on experience using Pro Tools to prepare, conform, and manage dubbing and mix sessions.\n* Experience carrying out technical QC and producing clear, accurate reports identifying issues and required fixes.\n* Experience delivering audio assets and deliverables within fast\\-paced, deadline\\-driven workflows.\n* Ability to work to varying client specifications and adapt quickly between projects and titles.\n* Experience supporting final deliverable QC alongside wider production and QC teams.\n* Experience prequalifying Music \\& Effects packages, stems, mastering sessions, and other audio assets.\n* Strong practical proficiency in Pro Tools and audio session management.\n* Excellent technical QC skills with a strong attention to detail and accuracy.\n* Ability to create, correct, organize, and prepare audio deliverables to specification.\n* Dolby Atmos Renderer\n* Dolby Media Encoder Suite\n* Adobe Audition\n* QuickTime Pro\n* Video NLEs a plus (Adobe Premiere, Final Cut Pro)\n* Strong organisational skills with the ability to manage changing priorities and tight turnaround times.\n* Ability to work effectively in a high\\-volume, SLA\\-driven environment while maintaining quality standards.\n* Clear communication and collaborative working skills across technical and production teams.\n\n**Other information:**\n----------------------\n\n**WHY CHOOSE ZOO?**\n\n  \n\nOur technology is constantly evolving, so there’s never a dull moment with ZOO! Our team is made up of creatives, innovators, linguists, and collaborators from all corners of the world, and we employ the brightest and most original thinkers in our industry.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "temporary, parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "distance_miles": 56.8
-    }
-  ]
+  "new_jobs": []
 }
