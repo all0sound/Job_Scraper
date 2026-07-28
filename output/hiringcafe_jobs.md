@@ -1,10 +1,6 @@
 # ☕ HiringCafe — Music Technology & Audio Roles
-*Last updated: 2026-07-28 18:05 UTC*
+*Last updated: 2026-07-28 20:09 UTC*
 
-**1 new role(s)** since last run · 7 total in last 30d
+**0 new role(s)** since last run · 6 total in last 30d
 
-### [In-House Audio Engineer / Producer (Summit Music Group)](https://exemplarcompanies.bamboohr.com/careers/92) — Exemplar Companies
-- 📍 **Location:** North Palm Beach, Florida, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time, Contract
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+No new roles since the last run.
