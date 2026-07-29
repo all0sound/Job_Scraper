@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 22:43 UTC",
+  "scraped_at": "2026-07-29 23:46 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Towson University",
@@ -116,20 +116,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "K-LOVE",
-      "title": "Audio Engineer II",
-      "location": "Franklin, Tennessee, United States",
-      "url": "https://careers-kloveair1.icims.com/jobs/2430/audio-engineer-ii/job?in_iframe=1",
-      "direct_url": "https://careers-kloveair1.icims.com/jobs/2430/audio-engineer-ii/job?in_iframe=1",
-      "date_posted": "2026-07-29T04:00:00.000Z",
-      "description": "Minimum 5 years audio production experience, proficiency with Avid Pro Tools and audio restoration tools, bachelor's or equivalent training preferred, strong communication and collaboration skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
