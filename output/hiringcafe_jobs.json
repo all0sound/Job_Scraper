@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 01:21 UTC",
+  "scraped_at": "2026-07-29 05:09 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Towson University",
@@ -102,20 +102,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Exemplar Companies",
-      "title": "In-House Audio Engineer / Producer (Summit Music Group)",
-      "location": "North Palm Beach, Florida, United States",
-      "url": "https://exemplarcompanies.bamboohr.com/careers/92",
-      "direct_url": "https://exemplarcompanies.bamboohr.com/careers/92",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "3+ years professional audio engineering or production experience preferred; proficiency with Pro Tools, Logic Pro, Ableton; strong recording, mixing, signal flow, microphone and studio workflow skills; excellent communication and organization.",
-      "salary": "",
-      "job_type": "Full Time, Contract",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
