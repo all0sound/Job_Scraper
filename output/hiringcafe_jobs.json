@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30 01:06 UTC",
-  "total": 8,
+  "scraped_at": "2026-07-30 05:00 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -99,20 +99,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Electronic Arts",
-      "title": "Principal Sound Designer (Apex Legends)",
-      "location": "Chatsworth, California, United States",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Principal-Sound-Designer-Apex-Legends/215735",
-      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Principal-Sound-Designer-Apex-Legends/215735",
-      "date_posted": "2026-07-21T12:00:00.000Z",
-      "description": "10+ years game audio or post-production experience; leadership in audio vision; expertise in sound creation, field/foley recording, mixing (including 5.1); strong collaboration and troubleshooting skills.",
-      "salary": "$154k–$234k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ],
