@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 17:46 UTC",
+  "scraped_at": "2026-08-01 18:44 UTC",
   "total": 8,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "K-LOVE",
@@ -116,34 +116,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Disney",
-      "title": "Senior Sound Designer",
-      "location": "Glendale, California, United States",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Sound-Designer_10155659",
-      "direct_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Sound-Designer_10155659",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "6+ years game audio experience with at least two shipped titles; expertise with Unreal Engine/UEFN and middleware (Wwise/FMOD); strong sound editing, mixing, and implementation skills; demo reel required.",
-      "salary": "$96k–$128k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Disney",
-      "title": "Senior Sound Designer",
-      "location": "Glendale, California, United States",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Senior-Sound-Designer_10155659-1",
-      "direct_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Senior-Sound-Designer_10155659-1",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "6+ years professional game audio experience, 2+ shipped titles, expertise with Unreal Engine and middleware (Wwise/FMOD), strong editing/mixing skills, effective cross-discipline communication.",
-      "salary": "$96k–$128k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
