@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-08-02 05:00 UTC",
-  "total": 1,
+  "scraped_at": "2026-08-02 16:34 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Disney Experiences",
-      "title": "Senior Sound Designer",
-      "location": "Glendale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=f7acf8996ee3ba95",
-      "direct_url": "https://www.disneycareers.com/job/-/-/391/98588563856",
-      "company_url": "https://www.indeed.com/cmp/Disney-Experiences",
-      "date_posted": "2026-08-01",
-      "description": "**Senior Sound Designer**\n\n  \n\nDisney Digital Entertainment is looking for a Senior Sound Designer to join us on an ambitious and exciting new project. If you are an imaginative audio creator with superb game development skills and a love of Disney/Pixar, 20th Century, Star Wars, and Marvel properties, you’ll want to check out this opportunity.\n\n\nWe are building an experienced development team that will help create groundbreaking interactive entertainment representing the next generation of Disney storytelling. Working alongside top\\-class industry talent, this role is perfect for a seasoned game audio professional looking to craft something truly epic — collaborating with designers, artists, engineers, and fellow audio creatives to build memorable worlds and emotionally engaging player experiences that feel distinctly Disney.\n\n\nThis role will report to the Audio Lead.\n\n**What You Will Do:**\n\n* Be a hands\\-on sound designer creating high\\-quality audio content for interactive games and experiences based on Disney’s extensive portfolio of characters and worlds, including Disney/Pixar, Marvel, 20th Century and Star Wars.\n* Design, edit, implement, and polish sound effects, ambiences, cinematic audio, and gameplay systems across a variety of genres and play styles.\n* Partner closely with the Audio Lead to help define and execute the project’s audio aesthetic.\n* Implement interactive audio using Unreal Engine, UEFN (Unreal Editor Fortnite), middleware tools such as Wwise and/or FMOD, and proprietary pipelines.\n* Troubleshoot complex implementation and pipeline issues across multiple disciplines.\n* Mix and balance in\\-game audio to achieve clarity, immersion, emotional impact, and gameplay readability.\n* Participate in playtests, iteration, and debugging to ensure audio quality and functionality across platforms.\n\n\nyou\n\n**Basic Qualifications and Skills:**\n\n* 6 years of professional game audio experience, including at least two shipped titles in a Senior Sound Designer or equivalent role.\n* Expertise designing and implementing interactive audio using Unreal Engine and middleware tools such as Wwise and/or FMOD.\n* Strong sound editing, mixing, and audio asset creation skills.\n* Work collaboratively with multidisciplinary teams to solve creative and technical challenges.\n* Have a deep appreciation for Disney’s storytelling, cinematic presentation, theme park experiences, and overall creative legacy.\n* Enjoy creative problem\\-solving and building experiences that emotionally connect with players.\n* Have a strong sense of how sound enhances pacing, player feedback, world\\-building, and narrative.\n* Understand interactive audio pipelines, implementation techniques, and the strengths and limitations of modern game engines and middleware.\n* Communicate effectively across disciplines including design, engineering, animation, and production.\n* Have a passion for innovation and pushing the boundaries of game audio and player immersion.\n\n**Preferred Qualifications**\n\n* Experience working directly in the UEFN development engine.\n* Experience composing, arranging, and producing original music for interactive media and games.\n\n**Additional Information:**\n\n* A demo reel and/or online portfolio showcasing sound design and technical audio work.\n* Please disable passwords or include them in your resume/application\n\n**Our Benefits:** Disney offers a rewards package to help you live your best life. This includes health and savings benefits, educational opportunities and special extras that only Disney can provide. Learn more about our benefits and perks at https://jobs.disneycareers.com/benefits\n\n\n\\#LI\\-REQ\n\n\n\\#Gamesjobs\n\n\n\\#LI\\-Remote\n\n  \n\n\nThe hiring range for this remote position is $95,500 to $128,000 per year, which factors in various geographic regions. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job\\-related knowledge, skills, and experience among other factors. A bonus and/or long\\-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.",
-      "salary": "$96k–$128k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
