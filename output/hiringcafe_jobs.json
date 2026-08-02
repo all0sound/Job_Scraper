@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-01 23:43 UTC",
-  "total": 8,
+  "scraped_at": "2026-08-02 01:18 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -71,20 +71,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Absurd Ventures",
-      "title": "Principal Sound Designer",
-      "location": "Santa Monica, California, United States",
-      "url": "https://job-boards.greenhouse.io/absurdventures/jobs/5160999007",
-      "direct_url": "https://job-boards.greenhouse.io/absurdventures/jobs/5160999007",
-      "date_posted": "2026-07-02T23:44:47.000Z",
-      "description": "8+ years games industry sound design experience, shipped AAA titles, expertise in Wwise and real-time audio systems, experience with audio implementation, recording source material, collaborating with engineers, and mentoring teammates.",
-      "salary": "$140k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
