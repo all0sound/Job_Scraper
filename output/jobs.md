@@ -3,4 +3,7 @@
 
 **0 new role(s)** since last run · 0 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Principal Practice Leader - Air Quality](https://www.linkedin.com/jobs/view/4410885192/) — Geosyntec Consultants
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $149,330/year - $209,060/year
+- 🕒 **Posted:** 2026-08-02
