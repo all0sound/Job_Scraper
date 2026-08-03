@@ -3606,3 +3606,4 @@
 {"job_count": 1, "run_attempt": "1", "run_id": "30786130928", "timestamp": "2026-08-03T05:12:53Z", "workflow": "indeed"}
 {"job_count": 1, "run_attempt": "1", "run_id": "30787002112", "timestamp": "2026-08-03T05:23:31Z", "workflow": "indeed"}
 {"job_count": 1, "run_attempt": "1", "run_id": "30790655106", "timestamp": "2026-08-03T06:46:34Z", "workflow": "biotech"}
+{"job_count": 0, "run_attempt": "1", "run_id": "30836085444", "timestamp": "2026-08-03T17:36:35Z", "workflow": "linkedin"}
