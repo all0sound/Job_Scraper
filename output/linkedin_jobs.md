@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Music Technology & Audio Roles
-*Last updated: 2026-08-03 21:38 UTC*
+*Last updated: 2026-08-03 22:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Sound Design Instructor - San Diego](https://www.linkedin.com/jobs/view/4448645054/) — Options For All
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-08-03
