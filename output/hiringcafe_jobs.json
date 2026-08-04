@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 01:19 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-08-04 05:07 UTC",
+  "total": 10,
+  "new_count": 2,
   "jobs": [
     {
       "company": "K-LOVE",
@@ -11,6 +11,20 @@
       "direct_url": "https://careers-kloveair1.icims.com/jobs/2430/audio-engineer-ii/job?in_iframe=1",
       "date_posted": "2026-07-29T04:00:00.000Z",
       "description": "Minimum 5 years audio production experience, proficiency with Avid Pro Tools and audio restoration tools, bachelor's or equivalent training preferred, strong communication and collaboration skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Educational Media Foundation - K-LOVE & Air1",
+      "title": "Audio Engineer II",
+      "location": "Franklin, Tennessee, United States",
+      "url": "https://careers-kloveair1.icims.com/jobs/2430/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-kloveair1.icims.com/jobs/2430/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-29T19:19:00.000Z",
+      "description": "Bachelor's or equivalent training; minimum 5 years audio production experience; proficiency with Avid Pro Tools, digital consoles, microphones, audio plug-ins and iZotope RX; live capture and post-production skills; ability to pass background check and work authorization.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -114,7 +128,50 @@
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "California State University",
+      "title": "Temporary Faculty Pool, Digital Media Arts- Audio Engineering",
+      "location": "Carson, California, United States",
+      "url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "direct_url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "date_posted": "2026-08-03T16:00:00.000Z",
+      "description": "Bachelor's degree required in Audio, Sound Design, Music Technology, or Media Arts; appropriate subject experience; experience teaching diverse adult learners; background check and transcript requirements.",
+      "salary": "",
+      "job_type": "Part Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Educational Media Foundation - K-LOVE & Air1",
+      "title": "Audio Engineer II",
+      "location": "Franklin, Tennessee, United States",
+      "url": "https://careers-kloveair1.icims.com/jobs/2430/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-kloveair1.icims.com/jobs/2430/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-29T19:19:00.000Z",
+      "description": "Bachelor's or equivalent training; minimum 5 years audio production experience; proficiency with Avid Pro Tools, digital consoles, microphones, audio plug-ins and iZotope RX; live capture and post-production skills; ability to pass background check and work authorization.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "California State University",
+      "title": "Temporary Faculty Pool, Digital Media Arts- Audio Engineering",
+      "location": "Carson, California, United States",
+      "url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "direct_url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "date_posted": "2026-08-03T16:00:00.000Z",
+      "description": "Bachelor's degree required in Audio, Sound Design, Music Technology, or Media Arts; appropriate subject experience; experience teaching diverse adult learners; background check and transcript requirements.",
+      "salary": "",
+      "job_type": "Part Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
