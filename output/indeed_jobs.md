@@ -1,6 +1,10 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-08-03 23:48 UTC*
+*Last updated: 2026-08-04 03:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Sound Design Instructor - San Diego](https://www.indeed.com/viewjob?jk=83ab850b0e80db66) — Options For All
+- 📍 **Location:** San Diego, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-03
