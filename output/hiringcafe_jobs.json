@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 23:55 UTC",
+  "scraped_at": "2026-08-04 01:19 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "K-LOVE",
@@ -116,20 +116,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Abundant Life Baptist Church of Lee's Summit",
-      "title": "Broadcast Audio Engineer",
-      "location": "Lee's Summit, Missouri, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3264754",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3264754",
-      "date_posted": "2026-08-03T16:02:02.000Z",
-      "description": "3+ years mixing experience in live and studio settings; proficiency with ProTools, Yamaha consoles, Waves LV1 and Waves sound grid, Dante Networking; church production experience; volunteer leadership and strong organizational skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
