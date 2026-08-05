@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Music Technology & Audio Roles
-*Last updated: 2026-08-05 01:10 UTC*
+*Last updated: 2026-08-05 05:05 UTC*
 
-**0 new role(s)** since last run · 10 total in last 30d
+**1 new role(s)** since last run · 11 total in last 30d
 
-No new roles since the last run.
+### [Sound Design Instructor - San Diego](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=408467&clientkey=C4376161FD9ED07CC6C54F88A2EA20E6) — OPTIONS FOR ALL INC
+- 📍 **Location:** San Diego, California, United States
+- 💰 **Salary:** $55k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-03T00:00:00.000Z
