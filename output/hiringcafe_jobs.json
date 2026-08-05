@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 05:05 UTC",
+  "scraped_at": "2026-08-05 18:13 UTC",
   "total": 11,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -158,20 +158,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "OPTIONS FOR ALL INC",
-      "title": "Sound Design Instructor - San Diego",
-      "location": "San Diego, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=408467&clientkey=C4376161FD9ED07CC6C54F88A2EA20E6",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=408467&clientkey=C4376161FD9ED07CC6C54F88A2EA20E6",
-      "date_posted": "2026-08-03T00:00:00.000Z",
-      "description": "Teach sound design and audio production to adults with disabilities; high school diploma required, bachelor's preferred; 3+ years media or teaching experience; valid driver’s license and background check required.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
