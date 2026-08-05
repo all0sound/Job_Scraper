@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 17:11 UTC",
+  "scraped_at": "2026-08-05 19:08 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Crooked Media",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Podcast Broadcast Central",
-      "title": "Experienced Audio Engineer",
-      "location": "Sherman Oaks, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=a729da6a4732acb2",
-      "direct_url": "http://www.indeed.com/job/experienced-audio-engineer-a729da6a4732acb2",
-      "company_url": "https://www.indeed.com/cmp/Podcast-Broadcast-Central",
-      "date_posted": "2026-08-05",
-      "description": "**Job Overview**  \nWe are seeking a passionate and highly skilled Experienced Audio Engineer to join our dynamic creative team. In this role, you will be responsible for capturing, editing, and enhancing audio content across a variety of media projects. Your expertise will ensure that every sound element aligns perfectly with the visual storytelling, delivering an immersive experience for audiences. This position offers an exciting opportunity to work on diverse productions, from live recordings to post\\-production editing, utilizing cutting\\-edge audio technology and techniques.\n\n**Responsibilities**\n\n* Record high\\-quality audio during filming sessions, ensuring clarity and optimal sound capture for all project types\n* Edit and mix audio tracks using industry\\-standard software to achieve balanced, professional sound quality\n* Collaborate closely with videographers and content creators to synchronize audio with visual elements seamlessly\n* Manage signal processing tasks such as noise reduction, equalization, compression, and effects application to enhance audio clarity\n* Oversee post\\-production audio workflows, including ADR (Automated Dialogue Replacement), Foley, and sound design\n* Operate and maintain audio equipment including microphones, mixers, recorders, and related hardware\n* Assist in filming activities by setting up sound gear and capturing ambient sounds as required for video production\n\n**Skills**\n\n* Proven experience in audio engineering within multimedia production environments\n* Proficiency with digital audio workstations (DAWs) such as Pro Tools, Adobe Audition, or similar software\n* Strong knowledge of signal processing techniques and equipment setup for optimal sound capture\n* Familiarity with video editing software including Adobe Premiere, Final Cut Pro, or Avid Media Composer for integrated post\\-production workflows\n* Experience in videography and filming to support comprehensive content creation efforts\n* Ability to troubleshoot technical issues quickly and efficiently during live shoots or editing sessions\n* Excellent communication skills to collaborate effectively with creative teams and clients\n\nJoin us if you’re eager to craft compelling audio experiences that elevate visual storytelling! We value energetic professionals who thrive in fast\\-paced environments and are passionate about pushing the boundaries of multimedia production.\n\nPay: $30\\.00 \\- $40\\.00 per hour\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: In person",
-      "salary": "$30–$40/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
