@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 23:43 UTC",
+  "scraped_at": "2026-08-06 01:08 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -172,20 +172,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Orlando Magic",
-      "title": "Seasonal Full-Time Audio Engineer (A1and A2)",
-      "location": "Orlando or Kissimmee",
-      "url": "https://recruiting.ultipro.com/orl1001magic/JobBoard/d2d331e7-e222-4a47-bb35-c640aa29a3d7/OpportunityDetail?opportunityId=4b25c67a-987e-4e19-b6d4-337fa3ba3339",
-      "direct_url": "https://recruiting.ultipro.com/orl1001magic/JobBoard/d2d331e7-e222-4a47-bb35-c640aa29a3d7/OpportunityDetail?opportunityId=4b25c67a-987e-4e19-b6d4-337fa3ba3339",
-      "date_posted": "2026-08-05T19:45:47.888Z",
-      "description": "Requires 5+ years of front-of-house experience, live audio expertise, digital console and sound system proficiency, flexible game-day availability, and ability to lift over 50 pounds.",
-      "salary": "",
-      "job_type": "Full Time, Seasonal",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
