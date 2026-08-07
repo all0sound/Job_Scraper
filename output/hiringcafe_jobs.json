@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 00:34 UTC",
+  "scraped_at": "2026-08-07 03:41 UTC",
   "total": 13,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -186,20 +186,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Xboxgaming",
-      "title": "Technical Sound Designer",
-      "location": "San Mateo or United States or Toronto or United Kingdom or Australia",
-      "url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
-      "direct_url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Requires 3+ years of game audio development experience, one shipped major title, audio implementation systems experience, programming or visual scripting familiarity, audio workstation experience, and technical audio knowledge.",
-      "salary": "$63k–$117k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
