@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 19:40 UTC",
+  "scraped_at": "2026-08-07 20:25 UTC",
   "total": 14,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -200,20 +200,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Acquisition.com",
-      "title": "Sound Designer",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://jobs.ashbyhq.com/acquisition/e9f5663b-e019-4b6f-a0d3-e875e9f56b5f",
-      "direct_url": "https://jobs.ashbyhq.com/acquisition/e9f5663b-e019-4b6f-a0d3-e875e9f56b5f",
-      "date_posted": "2026-08-07T12:27:11.940Z",
-      "description": "Requires 3+ years in audio post-production or sound design, dialogue editing, mixing, project management systems, collaborative pipelines, and managing multiple projects; podcast or YouTube experience is a plus.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
