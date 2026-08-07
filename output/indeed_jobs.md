@@ -1,6 +1,11 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-08-06 01:06 UTC*
+*Last updated: 2026-08-07 01:05 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Sound Designer (Star Wars Jedi)](https://www.indeed.com/viewjob?jk=4d245fe773136e5f) — Electronic Arts
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $93k–$157k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
