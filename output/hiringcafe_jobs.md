@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Music Technology & Audio Roles
-*Last updated: 2026-08-06 05:05 UTC*
+*Last updated: 2026-08-07 00:34 UTC*
 
 **1 new role(s)** since last run · 13 total in last 30d
 
-### [Sound Designer (Star Wars Jedi)](https://jobs.ea.com/en_US/careers/JobDetail/Sound-Designer-Star-Wars-Jedi/215900) — Electronic Arts
-- 📍 **Location:** Los Angeles or Vancouver or Madison or Chatsworth or Victoria or San Francisco
-- 💰 **Salary:** $104k–$157k/yr
+### [Technical Sound Designer](https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1) — Xboxgaming
+- 📍 **Location:** San Mateo or United States or Toronto or United Kingdom or Australia
+- 💰 **Salary:** $63k–$117k/yr
 - **Work mode:** Telecommute eligible
-- **Job type:** Temporary
-- 🕒 **Posted:** 2026-08-06T03:17:49.322Z
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
