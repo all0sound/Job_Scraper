@@ -1,6 +1,9 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-08-08 00:08 UTC*
+*Last updated: 2026-08-08 02:40 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Audio Engineer (Speech / TTS Audio Specialist) - German](https://www.indeed.com/viewjob?jk=1fdd952cf0e0e089) — Unknown
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-07-13
