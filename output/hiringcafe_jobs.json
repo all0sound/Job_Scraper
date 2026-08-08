@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08 19:18 UTC",
+  "scraped_at": "2026-08-08 20:13 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -158,6 +158,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Xboxgaming",
+      "title": "Technical Sound Designer",
+      "location": "San Mateo or United States or Toronto or United Kingdom or Australia",
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
+      "direct_url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Requires 3+ years of game audio development experience, one shipped major title, audio implementation systems experience, programming or visual scripting familiarity, audio workstation experience, and technical audio knowledge.",
+      "salary": "$63k–$117k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "California State University",
       "title": "Temporary Faculty Pool, Digital Media Arts- Audio Engineering",
       "location": "Carson, California, United States",
@@ -181,20 +195,6 @@
       "description": "Requires 5+ years of front-of-house experience, live audio expertise, digital console and sound system proficiency, flexible game-day availability, and ability to lift over 50 pounds.",
       "salary": "",
       "job_type": "Full Time, Seasonal",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Xboxgaming",
-      "title": "Technical Sound Designer",
-      "location": "San Mateo or United States or Toronto or United Kingdom or Australia",
-      "url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
-      "direct_url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Requires 3+ years of game audio development experience, one shipped major title, audio implementation systems experience, programming or visual scripting familiarity, audio workstation experience, and technical audio knowledge.",
-      "salary": "$63k–$117k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
