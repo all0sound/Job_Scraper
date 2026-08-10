@@ -1,6 +1,11 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-08-10 05:10 UTC*
+*Last updated: 2026-08-10 16:28 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [audio editor](https://www.indeed.com/viewjob?jk=7858aed51756a244) — The Francesca Luca Show
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $1–$2/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** internship
+- 🕒 **Posted:** 2026-08-10

@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-08-10 05:10 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-08-10 16:28 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "The Francesca Luca Show",
+      "title": "audio editor",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=7858aed51756a244",
+      "direct_url": "http://www.indeed.com/job/audio-editor-7858aed51756a244",
+      "company_url": "https://www.indeed.com/cmp/The-Francesca-Luca-Show",
+      "date_posted": "2026-08-10",
+      "description": "**Job Summary**\n\nWe are seeking a dynamic and detail\\-oriented Audio Editor to join our creative team. In this role, you will be responsible for shaping high\\-quality audio content across various media formats, ensuring clarity, consistency, and engaging sound design. Your expertise will help elevate our productions, from podcasts and video content to live event recordings. This paid position offers an exciting opportunity to work with cutting\\-edge audio technology and contribute to compelling storytelling through sound.\n\n**Responsibilities**\n\n* Edit and enhance audio recordings using professional digital audio workstations (DAWs) such as Adobe Audition, Pro Tools, or similar software.\n* Mix multiple audio tracks to achieve balanced sound quality suitable for broadcast, streaming, or live presentations.\n* Operate and troubleshoot recording studio equipment and live sound systems to ensure optimal audio capture and playback.\n* Collaborate with content creators, videographers, and producers to synchronize audio with visual elements seamlessly.\n* Apply sound design techniques to add depth, effects, and atmosphere that support the narrative or event ambiance.\n* Manage post\\-production processes including noise reduction, signal processing, equalization, and mastering for final delivery.\n* Support live event AV production projects by operating audio mixing consoles and sound reinforcement systems to deliver clear sound in real\\-time.\n\n**Requirements**\n\n* Proven experience with audio editing software such as Adobe Premiere, Final Cut Pro, Avid Media Composer, or similar platforms.\n* Strong knowledge of digital audio workstation (DAW) tools and techniques for music mixing, sound design, and post\\-production.\n* Hands\\-on experience operating recording studio equipment and live sound engineering setups.\n* Familiarity with audio systems used in live events, including audio mixing consoles and sound reinforcement systems operation.\n* Ability to troubleshoot technical issues quickly and efficiently during recording sessions or live events.\n* Knowledge of videography, filming, video editing, and content creation is a plus for integrated media projects.\n* Excellent communication skills with the ability to collaborate effectively across teams on complex projects.\n\nJoin us in creating captivating audio experiences that inspire audiences worldwide! This role offers a vibrant environment where your technical proficiency and creative talents will make a real impact on our multimedia productions.\n\nPay: $1\\.00 \\- $2\\.00 per year\n\nWork Location: Remote",
+      "salary": "$1–$2/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "The Francesca Luca Show",
+      "title": "audio editor",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=7858aed51756a244",
+      "direct_url": "http://www.indeed.com/job/audio-editor-7858aed51756a244",
+      "company_url": "https://www.indeed.com/cmp/The-Francesca-Luca-Show",
+      "date_posted": "2026-08-10",
+      "description": "**Job Summary**\n\nWe are seeking a dynamic and detail\\-oriented Audio Editor to join our creative team. In this role, you will be responsible for shaping high\\-quality audio content across various media formats, ensuring clarity, consistency, and engaging sound design. Your expertise will help elevate our productions, from podcasts and video content to live event recordings. This paid position offers an exciting opportunity to work with cutting\\-edge audio technology and contribute to compelling storytelling through sound.\n\n**Responsibilities**\n\n* Edit and enhance audio recordings using professional digital audio workstations (DAWs) such as Adobe Audition, Pro Tools, or similar software.\n* Mix multiple audio tracks to achieve balanced sound quality suitable for broadcast, streaming, or live presentations.\n* Operate and troubleshoot recording studio equipment and live sound systems to ensure optimal audio capture and playback.\n* Collaborate with content creators, videographers, and producers to synchronize audio with visual elements seamlessly.\n* Apply sound design techniques to add depth, effects, and atmosphere that support the narrative or event ambiance.\n* Manage post\\-production processes including noise reduction, signal processing, equalization, and mastering for final delivery.\n* Support live event AV production projects by operating audio mixing consoles and sound reinforcement systems to deliver clear sound in real\\-time.\n\n**Requirements**\n\n* Proven experience with audio editing software such as Adobe Premiere, Final Cut Pro, Avid Media Composer, or similar platforms.\n* Strong knowledge of digital audio workstation (DAW) tools and techniques for music mixing, sound design, and post\\-production.\n* Hands\\-on experience operating recording studio equipment and live sound engineering setups.\n* Familiarity with audio systems used in live events, including audio mixing consoles and sound reinforcement systems operation.\n* Ability to troubleshoot technical issues quickly and efficiently during recording sessions or live events.\n* Knowledge of videography, filming, video editing, and content creation is a plus for integrated media projects.\n* Excellent communication skills with the ability to collaborate effectively across teams on complex projects.\n\nJoin us in creating captivating audio experiences that inspire audiences worldwide! This role offers a vibrant environment where your technical proficiency and creative talents will make a real impact on our multimedia productions.\n\nPay: $1\\.00 \\- $2\\.00 per year\n\nWork Location: Remote",
+      "salary": "$1–$2/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
