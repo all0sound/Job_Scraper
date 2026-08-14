@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-14 00:45 UTC",
-  "total": 15,
+  "scraped_at": "2026-08-14 03:32 UTC",
+  "total": 14,
   "new_count": 0,
   "jobs": [
     {
@@ -85,20 +85,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Prisms VR",
-      "title": "Sound Designer",
-      "location": "San Francisco, California, United States",
-      "url": "https://prisms-vr.breezy.hr/p/147129d24d10-sound-designer",
-      "direct_url": "https://prisms-vr.breezy.hr/p/147129d24d10-sound-designer",
-      "date_posted": "2026-07-15T02:13:46.718Z",
-      "description": "Experience in interactive/games sound design, strong Unity audio knowledge, audio recording/editing/mixing skills, portfolio required, collaborative communicator; basic C# is a plus.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
