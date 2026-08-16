@@ -4445,3 +4445,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "31972067211", "timestamp": "2026-08-16T20:58:36Z", "workflow": "indeed"}
 {"job_count": 13, "run_attempt": "1", "run_id": "31972250091", "timestamp": "2026-08-16T21:01:50Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "31973804412", "timestamp": "2026-08-16T21:49:00Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "31974517134", "timestamp": "2026-08-16T21:50:21Z", "workflow": "google_jobs"}
