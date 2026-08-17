@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16 23:01 UTC",
+  "scraped_at": "2026-08-17 00:00 UTC",
   "total": 13,
   "new_count": 0,
   "jobs": [
@@ -130,6 +130,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Xboxgaming",
+      "title": "Technical Sound Designer",
+      "location": "San Mateo or United States or Toronto or United Kingdom or Australia",
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
+      "direct_url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Requires 3+ years of game audio development experience, one shipped major title, audio implementation systems experience, programming or visual scripting familiarity, audio workstation experience, and technical audio knowledge.",
+      "salary": "$63k–$117k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "ElevenLabs",
       "title": "Audio Engineering Lead",
       "location": "United States",
@@ -167,20 +181,6 @@
       "description": "Requires 5+ years of front-of-house experience, live audio expertise, digital console and sound system proficiency, flexible game-day availability, and ability to lift over 50 pounds.",
       "salary": "",
       "job_type": "Full Time, Seasonal",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Xboxgaming",
-      "title": "Technical Sound Designer",
-      "location": "San Mateo or United States or Toronto or United Kingdom or Australia",
-      "url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
-      "direct_url": "https://xboxgaming.wd1.myworkdayjobs.com/external/job/San-Mateo/Technical-Sound-Designer_R027902-1",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Requires 3+ years of game audio development experience, one shipped major title, audio implementation systems experience, programming or visual scripting familiarity, audio workstation experience, and technical audio knowledge.",
-      "salary": "$63k–$117k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
