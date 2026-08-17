@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17 04:41 UTC",
+  "scraped_at": "2026-08-17 17:13 UTC",
   "total": 13,
   "new_count": 0,
   "jobs": [
@@ -186,20 +186,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Integral Consulting Inc.",
-      "title": "Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
-      "date_posted": "2026-07-21T18:25:00.000Z",
-      "description": "M.S. or Ph.D. in environmental sciences or related field, 5+ years ecological risk assessment/ecotoxicology experience, strong technical writing, quantitative/statistical skills, ProUCL or R proficiency, project management experience.",
-      "salary": "$65k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
