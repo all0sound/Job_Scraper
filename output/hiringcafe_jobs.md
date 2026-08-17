@@ -3,4 +3,9 @@
 
 **0 new role(s)** since last run · 13 total in last 30d
 
-No new roles since the last run.
+### [Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453) — Integral Consulting Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $65k–$115k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-21T18:25:00.000Z
