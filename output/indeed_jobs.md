@@ -1,6 +1,9 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-08-19 03:29 UTC*
+*Last updated: 2026-08-19 16:06 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Film Scoring and/or Music Production Instructor](https://www.indeed.com/viewjob?jk=3219fd3608c95987) — University of California Los Angeles
+- 📍 **Location:** Los Angeles, CA, US
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-18
