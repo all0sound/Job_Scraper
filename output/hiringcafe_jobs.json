@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 04:38 UTC",
+  "scraped_at": "2026-08-19 17:12 UTC",
   "total": 15,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -215,35 +215,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "University of California, Los Angeles",
-      "title": "Film Scoring and/or Music Production Instructor",
-      "location": "Los Angeles, California, United States",
-      "url": "https://unexit.applicantstack.com/x/detail/a2k9db257171",
-      "direct_url": "https://unexit.applicantstack.com/x/detail/a2k9db257171",
-      "date_posted": "2026-08-18T12:00:00.000Z",
-      "description": "Professional experience and current proficiency in film scoring, music business, or music production; strong communication and interpersonal skills; instructional technology proficiency or willingness to learn.",
-      "salary": "$36k/yr",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University of California, Los Angeles",
-      "title": "Film Scoring and/or Music Production Instructor - Pool - UCLA Extension",
-      "location": "Los Angeles, California, United States",
-      "url": "https://recruit.apo.ucla.edu/JPF11250",
-      "direct_url": "https://recruit.apo.ucla.edu/JPF11250",
-      "date_posted": "2026-08-18T07:00:00.000Z",
-      "description": "Professional experience and current proficiency in film scoring, music production, or music business; strong communication and interpersonal skills; teaching experience preferred; ability to use instructional technology.",
-      "salary": "$36k/yr",
-      "job_type": "Part Time, Contract",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe",
-      "distance_miles": 56.8
-    }
-  ]
+  "new_jobs": []
 }
