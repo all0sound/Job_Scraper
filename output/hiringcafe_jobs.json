@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 22:08 UTC",
-  "total": 13,
-  "new_count": 0,
+  "scraped_at": "2026-08-21 23:09 UTC",
+  "total": 14,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -173,6 +173,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "California State University",
+      "title": "Temporary Faculty Pool, Digital Media Arts- Audio Engineering",
+      "location": "Carson, California, United States",
+      "url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "direct_url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "date_posted": "2026-08-03T16:00:00.000Z",
+      "description": "Bachelor's degree required in Audio, Sound Design, Music Technology, or Media Arts; appropriate subject experience; experience teaching diverse adult learners; background check and transcript requirements.",
+      "salary": "",
+      "job_type": "Part Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Orlando Magic",
       "title": "Seasonal Full-Time Audio Engineer (A1and A2)",
       "location": "Orlando or Kissimmee",
@@ -187,5 +201,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "California State University",
+      "title": "Temporary Faculty Pool, Digital Media Arts- Audio Engineering",
+      "location": "Carson, California, United States",
+      "url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "direct_url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
+      "date_posted": "2026-08-03T16:00:00.000Z",
+      "description": "Bachelor's degree required in Audio, Sound Design, Music Technology, or Media Arts; appropriate subject experience; experience teaching diverse adult learners; background check and transcript requirements.",
+      "salary": "",
+      "job_type": "Part Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
