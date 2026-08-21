@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Music Technology & Audio Roles
-*Last updated: 2026-08-21 03:31 UTC*
+*Last updated: 2026-08-21 16:07 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Perceptual Audio Engineer (Research)](https://www.linkedin.com/jobs/view/4378123133/) — HARMAN International
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $ 134,250 - $ 196,900
+- 🕒 **Posted:** 2026-08-21
