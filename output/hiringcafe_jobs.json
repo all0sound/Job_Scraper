@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 17:07 UTC",
+  "scraped_at": "2026-08-22 18:01 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Educational Media Foundation - K-LOVE & Air1",
@@ -173,20 +173,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "California State University",
-      "title": "Temporary Faculty Pool, Digital Media Arts- Audio Engineering",
-      "location": "Carson, California, United States",
-      "url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
-      "direct_url": "https://careers.pageuppeople.com/873/dh/en/job/560761",
-      "date_posted": "2026-08-03T16:00:00.000Z",
-      "description": "Bachelor's degree required in Audio, Sound Design, Music Technology, or Media Arts; appropriate subject experience; experience teaching diverse adult learners; background check and transcript requirements.",
-      "salary": "",
-      "job_type": "Part Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
