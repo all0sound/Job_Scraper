@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 03:36 UTC",
+  "scraped_at": "2026-08-25 04:37 UTC",
   "total": 13,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Alliance Defending Freedom",
@@ -187,20 +187,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Alliance Defending Freedom",
-      "title": "Audio Engineer",
-      "location": "Scottsdale, Arizona, United States",
-      "url": "https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5400183008?gh_jid=5400183008",
-      "direct_url": "https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5400183008?gh_jid=5400183008",
-      "date_posted": "2026-08-24T22:09:03.000Z",
-      "description": "Bachelor’s degree or equivalent experience, 3+ years in live events, studio recording, and post-production, professional A1 experience, audio networking knowledge, equipment-handling ability, and travel readiness.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
