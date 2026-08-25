@@ -1,6 +1,10 @@
 # ☕ HiringCafe — Music Technology & Audio Roles
-*Last updated: 2026-08-25 02:14 UTC*
+*Last updated: 2026-08-25 03:36 UTC*
 
-**0 new role(s)** since last run · 12 total in last 30d
+**1 new role(s)** since last run · 13 total in last 30d
 
-No new roles since the last run.
+### [Audio Engineer](https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5400183008?gh_jid=5400183008) — Alliance Defending Freedom
+- 📍 **Location:** Scottsdale, Arizona, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-24T22:09:03.000Z
