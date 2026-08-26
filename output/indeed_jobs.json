@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26 03:37 UTC",
+  "scraped_at": "2026-08-26 03:39 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "FAith Tech LLC",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "FAith Tech LLC",
-      "title": "Bilingual Audio Engineer – Pro Tools / Voice-Over Recording",
-      "location": "Burbank, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=7b4d2d33af49eb41",
-      "direct_url": "http://www.indeed.com/job/bilingual-audio-engineer-pro-tools-voice-over-recording-7b4d2d33af49eb41",
-      "company_url": "https://www.indeed.com/cmp/Faith-Tech-LLC",
-      "date_posted": "2026-08-25",
-      "description": "We are seeking an experienced **Bilingual Audio Engineer** for a large\\-scale cinematic Spanish\\-language audiobook production in Burbank.\n\nThe ideal candidate is highly proficient in **Avid Pro Tools**, experienced in leading professional voice\\-over recording sessions, and comfortable working directly with actors, narrators, and other professional talent.\n\n**Professional fluency in both English and Spanish is required.**\n\n**Responsibilities**\n\n* Lead and engineer professional voice\\-over recording sessions.\n* Record actors, narrators, celebrity talent, and other voice performers.\n* Operate, organize, and maintain Pro Tools sessions.\n* Follow scripts closely and track takes, pickups, and completed performances.\n* Work with directors and producers to capture technically and creatively strong recordings.\n* Identify misreads, missing lines, pronunciation issues, noise, and unusable takes.\n* Manage microphones, signal flow, recording levels, and studio troubleshooting.\n* Perform basic dialogue editing and session cleanup as needed.\n* Maintain organized file naming, backups, and version control.\n* Prepare sessions for editing, mixing, mastering, and post\\-production delivery.\n* Protect confidential and unreleased production materials.\n\n**Required Qualifications**\n\n* Advanced proficiency with **Avid Pro Tools**.\n* Experience independently running professional recording sessions.\n* Experience recording **voice\\-over, audiobooks, scripted narration, ADR, spoken\\-word, or similar content**.\n* Strong knowledge of microphones, preamps, signal flow, and studio recording techniques.\n* Ability to manage complex recording sessions and large volumes of audio.\n* Strong attention to detail and ability to identify recording problems in real time.\n* Professional communication skills when working with talent and production teams.\n* **Fluent/proficient in both English and Spanish.**\n* Available to work **on\\-site in Burbank, California**.\n\n**Preferred Experience**\n\nExperience with dramatized audiobooks, large\\-cast voice\\-over productions, Spanish\\-language recording, dialogue editing, audio assembly, ADR, sound design, mixing, mastering, or audio quality control is a plus.\n\n**Compensation**\n\nCompensation will be based on experience and scope of work. Hourly, day\\-rate, or flat production\\-rate arrangements may be considered.\n\n**Schedule**\n\nProduction schedules will vary based on recording requirements and talent availability. **This is an on\\-site position and is not remote.**\n\n**To Apply**\n\nPlease submit:\n\n* Resume\n* Summary of your Pro Tools and voice\\-over recording experience\n* Relevant credits or work examples, if available\n* Hourly or day rate\n* Current availability\n\nPlease include **“Bilingual Audio Engineer – Burbank”** in your application.\n\nPay: $30\\.00 \\- $40\\.00 per hour\n\nExpected hours: 30\\.0 – 40\\.0 per week\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: In person",
-      "salary": "$30–$40/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime, fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
