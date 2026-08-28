@@ -1,5 +1,5 @@
 # 🎓 ScholarshipDB — Music Technology & Audio Roles
-*Last updated: 2026-08-17 17:42 UTC*
+*Last updated: 2026-08-28 01:29 UTC*
 
 **0 new role(s)** since last run · 7 total in last 30d
 
