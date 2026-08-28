@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 01:11 UTC",
-  "total": 12,
-  "new_count": 0,
+  "scraped_at": "2026-08-28 13:44 UTC",
+  "total": 13,
+  "new_count": 1,
   "jobs": [
     {
       "company": "University of California, Los Angeles",
@@ -40,6 +40,20 @@
       "date_posted": "2026-08-11T13:38:00.000Z",
       "description": "Requires 4+ years as a production sound mixer or boom operator, audio mixing and microphone expertise, timecode and slating knowledge, valid driver's license, reliable transportation, and ability to carry sound gear.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Atlantic",
+      "title": "Associate Audio Engineer, Podcasts",
+      "location": "Washington, D.C., District of Columbia, United States",
+      "url": "https://atlanticmedia.wd1.myworkdayjobs.com/careers/job/Washington-DC---The-Wharf/Associate-Audio-Engineer--Podcasts_R727",
+      "direct_url": "https://atlanticmedia.wd1.myworkdayjobs.com/careers/job/Washington-DC---The-Wharf/Associate-Audio-Engineer--Podcasts_R727",
+      "date_posted": "2026-08-28T00:00:00.000Z",
+      "description": "Experience with podcast audio engineering, ProTools, Izotope, Audio Hijack, video editors, AAF workflows, Adobe Premiere, remote recording platforms, and file-sharing tools; video production experience is a plus.",
+      "salary": "$77k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -105,13 +119,13 @@
     {
       "company": "Electronic Arts",
       "title": "Sound Designer (Star Wars Jedi)",
-      "location": "Los Angeles or Vancouver or Madison",
+      "location": "Los Angeles or Vancouver or Madison or Chatsworth or Victoria or San Francisco",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Sound-Designer-Star-Wars-Jedi/215900",
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Sound-Designer-Star-Wars-Jedi/215900",
-      "date_posted": "2026-08-05T12:00:00.000Z",
-      "description": "Requires 2+ years of professional game audio experience, sound design expertise, Unreal Engine and Wwise integration skills, DAW proficiency, and strong communication and collaboration abilities.",
-      "salary": "$93k–$157k/yr",
-      "job_type": "Full Time, Temporary",
+      "date_posted": "2026-08-06T03:17:49.322Z",
+      "description": "2+ years of professional game audio experience; sound design, technical audio, Unreal Engine, Wwise, DAWs, Reaper, audio plugins, collaboration, and shipped-title experience preferred.",
+      "salary": "$104k–$157k/yr",
+      "job_type": "Temporary",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
@@ -173,5 +187,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "The Atlantic",
+      "title": "Associate Audio Engineer, Podcasts",
+      "location": "Washington, D.C., District of Columbia, United States",
+      "url": "https://atlanticmedia.wd1.myworkdayjobs.com/careers/job/Washington-DC---The-Wharf/Associate-Audio-Engineer--Podcasts_R727",
+      "direct_url": "https://atlanticmedia.wd1.myworkdayjobs.com/careers/job/Washington-DC---The-Wharf/Associate-Audio-Engineer--Podcasts_R727",
+      "date_posted": "2026-08-28T00:00:00.000Z",
+      "description": "Experience with podcast audio engineering, ProTools, Izotope, Audio Hijack, video editors, AAF workflows, Adobe Premiere, remote recording platforms, and file-sharing tools; video production experience is a plus.",
+      "salary": "$77k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
