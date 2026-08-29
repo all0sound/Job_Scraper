@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 13:44 UTC",
+  "scraped_at": "2026-08-29 00:44 UTC",
   "total": 13,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "University of California, Los Angeles",
@@ -187,20 +187,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "The Atlantic",
-      "title": "Associate Audio Engineer, Podcasts",
-      "location": "Washington, D.C., District of Columbia, United States",
-      "url": "https://atlanticmedia.wd1.myworkdayjobs.com/careers/job/Washington-DC---The-Wharf/Associate-Audio-Engineer--Podcasts_R727",
-      "direct_url": "https://atlanticmedia.wd1.myworkdayjobs.com/careers/job/Washington-DC---The-Wharf/Associate-Audio-Engineer--Podcasts_R727",
-      "date_posted": "2026-08-28T00:00:00.000Z",
-      "description": "Experience with podcast audio engineering, ProTools, Izotope, Audio Hijack, video editors, AAF workflows, Adobe Premiere, remote recording platforms, and file-sharing tools; video production experience is a plus.",
-      "salary": "$77k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
