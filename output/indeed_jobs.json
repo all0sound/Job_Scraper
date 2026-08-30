@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-08-29 22:00 UTC",
-  "total": 1,
+  "scraped_at": "2026-08-30 00:39 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Unknown",
-      "title": "Recording Engineer",
-      "location": "Hollywood, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=fa138dd8102670eb",
-      "direct_url": "http://www.indeed.com/job/recording-engineer-fa138dd8102670eb",
-      "company_url": "https://www.indeed.comNone",
-      "date_posted": "2026-08-28",
-      "description": "**Burnside Studios** is hiring recording engineers for Assistant, and Intern levels as we grow our team. If you can hold down a session, we want to talk to you.\n\nWe’re an independent studio in the heart of Hollywood working primarily in Hip\\-Hop, Reggaeton, Melodic Rap, and R\\&B.\n\nWe're also partnered with EngineEars, once you're onboarded, we'll set you up with your own profile on the platform.\n\nThis runs like an on\\-call gig. Work comes in as clients book sessions, so hours will vary week to week, and whoever's ready and available gets the session.\n\n**Positions We're Filling**\n\n**Assistant Engineer**\n\nFor engineers who know their way around a session but are still building a client base and reputation.\n\n* Solid grasp of signal flow, mic placement, and session setup\n* Can run a session solo with occasional oversight\n* Actively building your own mixing/recording chops\n* Some paid or unpaid session experience preferred\n\n**Intern**\n\nFor engineers just starting out who want real studio hours and mentorship.\n\n* Basic Pro Tools or Logic knowledge\n* Reliable, on time, coachable\n* No paid experience required\n* College credit\n\n**What We Offer**\n\n* Real client sessions from day one (at the appropriate level)\n* Room to grow into higher\\-paying session work as you level up\n* Flexible scheduling, this is a great fit if you're building your own engineering career on the side\n* Book our studio at a discount for your own sessions\n\n**Basic Requirements**\n\n* 18\\+ and able to work in Hollywood, CA in person\n* Reliable transportation to the studio\n* Available for on\\-call scheduling, including evenings/weekends/holidays\n* Strong communication, you'll be responding to booking requests quickly\n\n**Preferred Applicants May Have**\n\n* Prior studio or home\\-studio session experience\n* Familiarity with Hip\\-Hop, Reggaeton, Melodic Rap, or R\\&B workflows\n* An existing EngineEars profile or client base of your own\n* A demo reel or portfolio ready to send\n\nPlease provide cover letter and resume.\n\nPay: $17\\.00 \\- $25\\.00 per hour\n\nExpected hours: 10\\.0 – 25\\.0 per week\n\nApplication Question(s):\n\n* This role requires on\\-call availability including evenings, weekends and holidays are you able to commit to that?\n\nAbility to Commute:\n\n* Hollywood, CA 90028 (Required)\n\nWork Location: In person",
-      "salary": "$17–$25/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime, contract, internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
