@@ -1,8 +1,22 @@
 {
-  "scraped_at": "2026-09-01 00:52 UTC",
-  "total": 13,
-  "new_count": 0,
+  "scraped_at": "2026-09-01 05:45 UTC",
+  "total": 15,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "University of Nebraska at Omaha",
+      "title": "Instructor of Music Technology and Music Industry",
+      "location": "Omaha, Nebraska, United States",
+      "url": "https://unomaha.peopleadmin.com/postings/26471",
+      "direct_url": "https://unomaha.peopleadmin.com/postings/26471",
+      "date_posted": "2026-08-28T17:31:09.000Z",
+      "description": "Master's degree in Music required and eligibility for graduate faculty appointment. University-level teaching and recording, music industry, and music business experience preferred.",
+      "salary": "$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
     {
       "company": "University of California, Los Angeles",
       "title": "Film Scoring and/or Music Production Instructor",
@@ -15,6 +29,20 @@
       "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Dwell",
+      "title": "Audio Editor",
+      "location": "United States",
+      "url": "https://jobs.gusto.com/postings/dwell-audio-editor-59ef38a6-efa8-4b3d-acf4-9753eed5b2fa",
+      "direct_url": "https://jobs.gusto.com/postings/dwell-audio-editor-59ef38a6-efa8-4b3d-acf4-9753eed5b2fa",
+      "date_posted": "2026-08-31T20:46:03.934Z",
+      "description": "Requires 3+ years of professional audio editing, engineering, or post-production experience; expert DAW proficiency; voiceover, music, restoration, mixing, mastering, TTS, and project management experience.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -187,5 +215,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "University of Nebraska at Omaha",
+      "title": "Instructor of Music Technology and Music Industry",
+      "location": "Omaha, Nebraska, United States",
+      "url": "https://unomaha.peopleadmin.com/postings/26471",
+      "direct_url": "https://unomaha.peopleadmin.com/postings/26471",
+      "date_posted": "2026-08-28T17:31:09.000Z",
+      "description": "Master's degree in Music required and eligibility for graduate faculty appointment. University-level teaching and recording, music industry, and music business experience preferred.",
+      "salary": "$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Dwell",
+      "title": "Audio Editor",
+      "location": "United States",
+      "url": "https://jobs.gusto.com/postings/dwell-audio-editor-59ef38a6-efa8-4b3d-acf4-9753eed5b2fa",
+      "direct_url": "https://jobs.gusto.com/postings/dwell-audio-editor-59ef38a6-efa8-4b3d-acf4-9753eed5b2fa",
+      "date_posted": "2026-08-31T20:46:03.934Z",
+      "description": "Requires 3+ years of professional audio editing, engineering, or post-production experience; expert DAW proficiency; voiceover, music, restoration, mixing, mastering, TTS, and project management experience.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
