@@ -5959,3 +5959,4 @@
 {"job_count": 7, "run_attempt": "1", "run_id": "33443594333", "timestamp": "2026-08-31T21:53:40Z", "workflow": "scholarshipdb"}
 {"job_count": 0, "run_attempt": "1", "run_id": "33444186389", "timestamp": "2026-08-31T22:01:06Z", "workflow": "higheredjobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "33455402359", "timestamp": "2026-09-01T00:51:59Z", "workflow": "linkedin"}
+{"job_count": 13, "run_attempt": "1", "run_id": "33456261328", "timestamp": "2026-09-01T00:52:13Z", "workflow": "hiringcafe"}
