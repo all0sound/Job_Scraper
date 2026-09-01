@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-01 06:45 UTC",
+  "scraped_at": "2026-09-01 18:50 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Paradox Church",
@@ -23,25 +23,5 @@
       "distance_miles": 3.9
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Paradox Church",
-      "title": "Audio Engineer",
-      "location": "Redlands, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9cf8b39055510923",
-      "direct_url": "http://www.indeed.com/job/audio-engineer-9cf8b39055510923",
-      "company_url": "https://www.indeed.com/cmp/Paradox-Church",
-      "date_posted": "2026-08-31",
-      "description": "**Job Opening: Audio Engineer (Part\\-Time)**\n\n**Organization:** Paradox Church\n\n**Website**: www.paradoxredlands.com\n\n**Location:** 51 W Olive, Redlands, CA 92373\n\n**Position Type:** Part\\-Time (Bi\\-weekly)\n\n**Compensation:** $30\\-40 / hour, based on experience\n\n**Start Date:** Immediate / ASAP\n\n**The Role**\n\nWe are looking for a skilled and reliable **Audio Engineer** to mix live sound for our weekly contemporary worship services on a bi\\-weekly rotation (every other week). You will be responsible for ensuring clear, high\\-quality audio for the worship band and spoken word, serving both our in\\-person gathering and our online livestream audience.\n\n**Schedule \\& Commitment**\n\n* **Hours:** 5 hours per scheduled week.\n* **Frequency:** Every other week.\n* **Audio Engineer Call Time:** 7:15 AM\n* **Service Time:** Saturdays at 10:00 AM\n* **Clean Up Over:** 12:15 PM\n\n**Responsibilities**\n\n* Mix live front\\-of\\-house (FOH) sound and monitor mixes for our contemporary worship team during Saturday morning services.\n* Mix and monitor the dedicated broadcast audio feed for our weekly livestream to ensure a high\\-quality experience for our online congregation.\n* Set up, patch, and tear down audio equipment, including microphones, in\\-ear monitors, and stands.\n* Lead a smooth and efficient pre\\-service soundcheck.\n* Monitor and adjust audio levels dynamically during the service for both musical elements and spoken word/sermons.\n* Quickly troubleshoot and resolve any technical audio issues that arise.\n* Care for and properly store all sound equipment after the service.\n\n**Qualifications**\n\n* Proven experience mixing live audio, either in a church, event, or live music venue setting.\n* Basic experience managing broadcast/livestream audio feeds alongside in\\-room sound.\n* Proficiency with digital mixing consoles and live sound ecosystems.\n* A strong ear for mixing various instruments and vocals in a live band format.\n* Punctual, reliable, and able to work independently.\n* A collaborative spirit and a respectful alignment with Paradox’s inclusive, affirming values and diverse community.\n\n**How to Apply**\n\nIf you are ready to help us create a welcoming space through excellent audio, we would love to hear from you! Please send a brief email outlining your live sound and livestream experience (and a resume if available) to craig@paradoxredlands.com\n\n**About Us**\n\nParadox is an open and affirming church in Redlands where our community gathers to explore faith, embrace identity, and engage in meaningful conversation. We strive to create an inclusive and intellectually engaging environment, welcoming individuals from diverse backgrounds and emphasizing queer\\-affirming theology alongside contemporary worship.\n\nPay: $30\\.00 \\- $40\\.00 per hour\n\nExpected hours: 5\\.0 per week\n\nWork Location: In person",
-      "salary": "$30–$40/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "craig@paradoxredlands.com",
-      "ats": "Indeed",
-      "distance_miles": 3.9
-    }
-  ]
+  "new_jobs": []
 }
