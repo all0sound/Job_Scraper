@@ -685,11 +685,25 @@ def _verify_listing_page(job: dict) -> bool:
         return True
     today = datetime.now(timezone.utc).date().isoformat()
     previous = job.get("listing_verification")
-    if isinstance(previous, dict) and previous.get("checked_on") == today:
+    if (isinstance(previous, dict) and previous.get("checked_on") == today
+            and previous.get("status") in {"verified", "expired"}):
         return previous.get("status") != "expired"
     time.sleep(REQUEST_DELAY)
-    page = fetch(url, retries=0)
     verification = {"listing_url": url, "checked_on": today, "status": "unavailable"}
+    try:
+        req = Request(url, headers=HEADERS)
+        with urlopen(req, timeout=15) as response:
+            page = response.read().decode("utf-8", errors="ignore")
+    except HTTPError as exc:
+        if exc.code in {404, 410}:
+            verification["status"] = "expired"
+            verification["detail"] = f"Listing returned HTTP {exc.code}"
+            job["listing_verification"] = verification
+            job["policy_exclusion"] = "Listing page returned not found or gone"
+            return False
+        page = ""
+    except (URLError, TimeoutError, OSError):
+        page = ""
     if not page:
         job["listing_verification"] = verification
         return True
@@ -3792,6 +3806,7 @@ def reapply_saved_output_policy() -> None:
             continue
         before = len(jobs)
         jobs = _filter_current_config_jobs(jobs, label=name)
+        jobs = _verify_listing_pages(jobs)
         jobs = _filter_part_time_distance_jobs(jobs, label=name)
         jobs = _filter_compensation_policy_jobs(jobs, label=name)
         payload["jobs"] = jobs

@@ -318,8 +318,13 @@
     .toolkit { flex-direction: column; }
     .toolgrid { grid-template-columns: 1fr; }
     .jobs.employment-columns { grid-template-columns: 1fr; }
-    .job { grid-template-columns: 1fr; }
-    .actions { justify-content: flex-start; }
+    .employment-column { width: 100%; }
+    .job { grid-template-columns: minmax(0, 1fr); min-width: 0; width: 100%; box-sizing: border-box; }
+    .job-main, .job-main .title, .note-row, .tl-wrap { min-width: 0; width: 100%; }
+    .actions { justify-content: flex-start; flex-wrap: wrap; width: 100%; min-width: 0; }
+    .note-input { min-width: 0; max-width: 100%; box-sizing: border-box; }
+    .tl-add { min-width: 0; }
+    .tl-add input { min-width: 0; width: 100%; box-sizing: border-box; }
 
     /* Touch targets: 44pt minimum per Apple HIG */
     .act { padding: 10px 14px; font-size: 13px; flex: 1; min-height: 44px; }
