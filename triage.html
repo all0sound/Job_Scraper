@@ -164,6 +164,14 @@
 
   /* Jobs */
   .jobs { display: flex; flex-direction: column; gap: 8px; }
+  .jobs.employment-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px; align-items: start; }
+  .employment-column { min-width: 0; display: flex; flex-direction: column; gap: 8px; }
+  .employment-heading { margin: 0; padding: 7px 10px; border-bottom: 2px solid var(--line);
+    font-size: 13px; font-weight: 700; color: var(--ink); }
+  .employment-heading .count { color: var(--muted); font-weight: 500; margin-left: 5px; }
+  .employment-empty { margin: 0; padding: 18px 10px; color: var(--muted); font-size: 13px;
+    border: 1px dashed var(--line); border-radius: 6px; }
   .job { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 12px 16px; display: grid; grid-template-columns: 1fr auto; gap: 8px 14px;
     align-items: start; box-shadow: var(--shadow);
@@ -309,6 +317,7 @@
     .charts { grid-template-columns: 1fr; }
     .toolkit { flex-direction: column; }
     .toolgrid { grid-template-columns: 1fr; }
+    .jobs.employment-columns { grid-template-columns: 1fr; }
     .job { grid-template-columns: 1fr; }
     .actions { justify-content: flex-start; }
 
@@ -429,7 +438,7 @@
   <div class="card"><h3>Top companies</h3><div class="barlist" id="chart-companies"></div></div>
   <div class="card"><h3>Role mix</h3><div class="barlist" id="chart-roles"></div></div>
   <div class="card chart-salary">
-    <h3>Salary distribution <span style="font-weight:400;color:var(--muted);font-size:11px">· annualized · click to set floor</span></h3>
+    <h3>Full-time pay distribution <span style="font-weight:400;color:var(--muted);font-size:11px">· stated annual or labelled full-time equivalent · click to set floor</span></h3>
     <div class="histo" id="chart-salary"></div>
     <div class="histo-note" id="salary-note"></div>
   </div>
@@ -519,7 +528,7 @@
     <div class="salary-ctl">
       <div class="rng">
         <input type="range" id="sal-min" min="0" max="300000" step="5000" value="0"
-          aria-label="Minimum annual salary" />
+          aria-label="Minimum full-time annual compensation" />
         <span class="salval" id="sal-val">Any</span>
       </div>
       <label><input type="checkbox" id="sal-unknown" /> include unlisted</label>
@@ -1004,22 +1013,10 @@
     return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
   }
 
-  // ---------- Salary parsing & harmonization ----------
-  // Postings report pay inconsistently (Indeed "$150k–$190k/yr" or "$62.50/hr",
-  // CalCareers "$6,963 - $8,724 per month", LinkedIn titles "($175K – $250K)").
-  // Normalize everything to an ANNUAL USD {min,max}. Returns null when no pay
-  // signal is present.
-  const PERIOD_MULT = [
-    [/hour|hr\b|\/hr|per hour/, 2080],
-    [/\bday|\/day|per day|daily/, 260],
-    [/week|wk\b|\/wk|per week/, 52],
-    [/month|mo\b|\/mo|per month|monthly/, 12],
-    [/year|yr\b|\/yr|per year|annual|annually|p\.?a\.?/, 1],
-  ];
-  function _annualMult(s) {
-    for (const [re, m] of PERIOD_MULT) if (re.test(s)) return m;
-    return null;  // unknown period — inferred later from magnitude
-  }
+  // ---------- Compensation parsing ----------
+  // Preserve the period printed on the listing.  A part-time hourly rate is
+  // never presented as annual pay; only a confirmed full-time role gets a
+  // clearly labelled 2,080-hour equivalent.
   // Pull dollar amounts out of a string. Tolerates comma OR space thousands
   // separators ("$120,000", "$120 000", "$120000") and k-suffixes ("$120k").
   // The bare-grouped form ($-optional) covers "$120 000"; the k and plain forms
@@ -1037,23 +1034,46 @@
     }
     return out;
   }
-  function _parseOnePay(raw) {
+  function _payPeriod(raw) {
+    const s = (raw || '').toLowerCase();
+    if (/(per\s*hour|hourly|\bhr\b|\/\s*hr|\/\s*hour)/.test(s)) return 'hourly';
+    if (/(per\s*(year|yr)|annual|annually|\byr\b|\/\s*yr|\/\s*year|p\.?a\.?)/.test(s)) return 'annual';
+    if (/(per\s*month|monthly|\bmo\b|\/\s*mo|\/\s*month)/.test(s)) return 'monthly';
+    if (/(per\s*week|weekly|\bwk\b|\/\s*wk)/.test(s)) return 'weekly';
+    return '';
+  }
+  function _parseOnePay(raw, employment) {
     const s = (raw || '').toLowerCase();
     const nums = _moneyNums(s);
     if (!nums.length) return null;
-    let mult = _annualMult(s);
-    let lo = Math.min(...nums), hi = Math.max(...nums);
-    if (mult == null) {
-      if (hi < 200) mult = 2080;        // looks hourly
-      else if (hi < 20000) mult = 12;   // looks monthly
-      else mult = 1;                     // looks yearly
+    const period = _payPeriod(s);
+    if (!period) return null;
+    const lo = Math.min(...nums), hi = Math.max(...nums);
+    const result = { disp: raw, hourlyMin: null, hourlyMax: null, annualMin: null, annualMax: null };
+    if (period === 'hourly') {
+      result.hourlyMin = lo; result.hourlyMax = hi;
+      if (employment === 'full_time') {
+        result.annualMin = Math.round(lo * 2080); result.annualMax = Math.round(hi * 2080);
+      }
+    } else {
+      const mult = period === 'annual' ? 1 : period === 'monthly' ? 12 : 52;
+      result.annualMin = Math.round(lo * mult); result.annualMax = Math.round(hi * mult);
     }
-    lo = Math.round(lo * mult); hi = Math.round(hi * mult);
-    if (hi < 15000 || hi > 1000000) return null;   // implausible → reject
-    const k = n => '$' + Math.round(n / 1000) + 'k';
-    return { min: lo, max: hi, disp: (lo === hi ? k(lo) : `${k(lo)}–${k(hi)}`) + '/yr' };
+    return result;
   }
-  function parseSalary(j) {
+  function parseCompensation(j) {
+    const c = j.compensation;
+    if (c && typeof c === 'object') {
+      const hourlyMax = Number.isFinite(Number(c.hourly_max)) ? Number(c.hourly_max) : null;
+      const hourlyMin = Number.isFinite(Number(c.hourly_min)) ? Number(c.hourly_min) : null;
+      let annualMax = Number.isFinite(Number(c.annual_max)) ? Number(c.annual_max) : null;
+      let annualMin = Number.isFinite(Number(c.annual_min)) ? Number(c.annual_min) : null;
+      if (j.employment_category === 'full_time' && annualMax == null && Number.isFinite(Number(c.annualized_full_time_max))) {
+        annualMax = Number(c.annualized_full_time_max);
+        annualMin = Number.isFinite(Number(c.annualized_full_time_min)) ? Number(c.annualized_full_time_min) : annualMax;
+      }
+      return { hourlyMin, hourlyMax, annualMin, annualMax, disp: c.nominal || j.salary || '', source: c.source_label || '' };
+    }
     const cands = [];
     if (j.salary) cands.push(j.salary);
     if (j.title) cands.push(j.title);
@@ -1065,7 +1085,7 @@
       if (cue) cands.push(d.slice(Math.max(0, cue.index - 24), cue.index + 160));
     }
     for (const raw of cands) {
-      const got = _parseOnePay(raw);
+      const got = _parseOnePay(raw, j.employment_category);
       if (got) return got;
     }
     return null;
@@ -1088,10 +1108,13 @@
     j._why     = errored ? '' : (s.why || '');
     j._opener  = errored ? '' : (s.outreach_opener || '');
     j._fit = computeFit(j);                        // resume-fit (0–100)
-    const sal = parseSalary(j);
-    j._salMin = sal ? sal.min : null;
-    j._salMax = sal ? sal.max : null;
-    j._salDisp = sal ? sal.disp : '';
+    const pay = parseCompensation(j);
+    j._hourlyMin = pay ? pay.hourlyMin : null;
+    j._hourlyMax = pay ? pay.hourlyMax : null;
+    j._salMin = pay ? pay.annualMin : null;
+    j._salMax = pay ? pay.annualMax : null;
+    j._salDisp = pay ? pay.disp : '';
+    j._paySource = pay ? pay.source : '';
     j._stars = starHits(j);                        // priority-topic flags
     j._star = j._stars.length > 0;
   }
@@ -1337,7 +1360,7 @@
   // Fields refreshed from each fresh scrape onto already-cached jobs (e.g. a
   // salary backfilled later). Triage lives separately in state.triage (keyed by
   // URL), so updating the job's content is safe and never loses a decision.
-  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement'];
+  const REFRESHABLE = ['salary', 'compensation', 'employment_category', 'listing_verification', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement'];
   function mergeJobs(incoming) {
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
@@ -1882,16 +1905,26 @@
     if (focusedUrl && !jobs.some(j => j.url === focusedUrl)) focusedUrl = jobs[0]?.url || '';
 
     if (!jobs.length) {
+      el.classList.remove('employment-columns');
       el.innerHTML = '<div class="empty">No jobs match the current filters.</div>';
       updateBulkBar();
       return;
     }
-    el.innerHTML = jobs.map(j => {
+    el.classList.add('employment-columns');
+    const renderCards = list => list.map(j => {
       const st = jobStatus(j);
       const selected = selectedUrls.has(j.url);
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
+      const comp = j.compensation || {};
+      const annualized = j.employment_category === 'full_time' && comp.annualized_full_time_max
+        ? `Full-time equivalent $${Math.round(comp.annualized_full_time_max / 1000)}k/yr` : '';
+      const caEquivalent = comp.california_equivalent_annual_max
+        ? `CA-equivalent $${Math.round(comp.california_equivalent_annual_max / 1000)}k/yr` : '';
+      const payProvenance = j._paySource || comp.source_label || '';
+      const verification = j.listing_verification && j.listing_verification.status === 'verified'
+        ? 'Listing checked' : (j.listing_verification && j.listing_verification.status === 'unavailable' ? 'Listing check unavailable' : '');
       const score = (viewMode === 'rank' || sortMode === 'fit') ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const note = jobNote(j);
       const typeBits = [
@@ -1914,8 +1947,12 @@
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
+            ${annualized ? `<span>${escape(annualized)}</span>` : ''}
+            ${caEquivalent ? `<span title="${escape(comp.cost_of_living_method || '')}">${escape(caEquivalent)}</span>` : ''}
+            ${payProvenance ? `<span>Pay: ${escape(payProvenance)}</span>` : ''}
             ${typeBits ? `<span>${typeBits}</span>` : ''}
             ${j.date_posted ? `<span title="${escape(j.date_posted)}">🕒 ${escape(_fmtDate(j.date_posted))}</span>` : ''}
+            ${verification ? `<span>${escape(verification)}</span>` : ''}
             ${score}
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span><span class="tag sector-${j._sector.toLowerCase().replace(/[\s\/]/g,'-')}">${escape(j._sector)}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
@@ -1937,6 +1974,13 @@
         </div>
       </div>`;
     }).join('');
+    const fullTime = jobs.filter(j => j.employment_category === 'full_time');
+    const partTime = jobs.filter(j => j.employment_category === 'part_time');
+    const column = (label, list) => `<section class="employment-column" aria-label="${label} jobs">
+      <h2 class="employment-heading">${label}<span class="count">${list.length}</span></h2>
+      ${list.length ? renderCards(list) : `<p class="employment-empty">No ${label.toLowerCase()} roles match these filters.</p>`}
+    </section>`;
+    el.innerHTML = column('Full-time', fullTime) + column('Part-time', partTime);
     updateBulkBar();
   }
 

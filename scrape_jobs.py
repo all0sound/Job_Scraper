@@ -183,6 +183,8 @@ def is_mle_role(title: str) -> bool:
     """True if a job title is on-target for Dr. Coffin (env/tox/risk/etc.) and
     not a junior/student posting. (Name kept for compatibility with the
     original pipeline; it now gates environmental-toxicology titles.)"""
+    if _is_target_music_postdoc({"title": title}):
+        return True
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
     return bool(_KEYWORD_RE.search(title))
@@ -190,6 +192,9 @@ def is_mle_role(title: str) -> bool:
 
 def is_mle_role_text(title: str, *parts: str) -> bool:
     """Like is_mle_role, but allows source-specific summary text to carry the signal."""
+    candidate = {"title": title, "description": " ".join(p or "" for p in parts)}
+    if _is_target_music_postdoc(candidate):
+        return True
     if EXCLUDED_SENIORITY_RE.search(title or ""):
         return False
     text = " ".join([title or "", *(p or "" for p in parts)])
@@ -213,9 +218,9 @@ def _filter_current_config_jobs(jobs: list[dict], *, label: str = "jobs") -> lis
     return filtered
 
 
-# Optional config-driven guardrail: filter out part-time roles that are too far
-# from a configured home base. Remote roles are kept; unknown cities can still be
-# dropped when their state falls outside filters.part_time.near_state_codes.
+# Compensation and location policy.  These values deliberately live beside the
+# existing part-time radius setting: each watcher reaches save_jobs_output(), so
+# one policy here keeps every board consistent.
 PART_TIME_DISTANCE_FILTER = _cfg("filters.part_time", {})
 if not isinstance(PART_TIME_DISTANCE_FILTER, dict):
     PART_TIME_DISTANCE_FILTER = {}
@@ -417,6 +422,307 @@ def _filter_part_time_distance_jobs(jobs: list[dict], *, label: str = "jobs") ->
             f"{PART_TIME_MAX_MILES:g} miles from {PART_TIME_HOME_ZIP or 'configured home base'}"
         )
     return filtered
+
+
+# A job board's display salary is evidence, not necessarily an employer's
+# statement.  Keep the raw string, then derive typed pay fields only when the
+# period is explicit.  In particular, never annualize a part-time hourly rate.
+COMPENSATION_POLICY = _cfg("filters.compensation", {})
+if not isinstance(COMPENSATION_POLICY, dict):
+    COMPENSATION_POLICY = {}
+
+FULL_TIME_MIN_HOURLY = float(COMPENSATION_POLICY.get("full_time_min_hourly", 60) or 60)
+NEARBY_MIN_HOURLY = float(COMPENSATION_POLICY.get("nearby_min_hourly", 40) or 40)
+OUTSIDE_CA_EQUIVALENT_MIN = float(COMPENSATION_POLICY.get("outside_california_equivalent_annual", 76000) or 76000)
+FULL_TIME_HOURS_PER_YEAR = float(COMPENSATION_POLICY.get("full_time_hours_per_year", 2080) or 2080)
+
+# BEA's 2023 all-items Regional Price Parities (RPP).  RPP expresses a state's
+# price level relative to the national average; California-equivalent buying
+# power is nominal pay * California RPP / job-state RPP.  Config can override
+# a value as newer BEA data becomes available.
+BEA_RPP_2023 = {
+    "al": 90.0, "ak": 101.7, "az": 101.1, "ar": 86.5, "ca": 112.6,
+    "co": 101.4, "ct": 103.7, "de": 99.3, "fl": 103.5, "ga": 96.7,
+    "hi": 108.6, "id": 91.4, "il": 98.9, "in": 92.2, "ia": 88.8,
+    "ks": 90.0, "ky": 90.5, "la": 88.3, "me": 97.1, "md": 104.0,
+    "ma": 108.2, "mi": 94.2, "mn": 98.4, "ms": 87.3, "mo": 91.8,
+    "mt": 90.2, "ne": 90.4, "nv": 97.0, "nh": 105.3, "nj": 108.9,
+    "nm": 90.4, "ny": 107.6, "nc": 94.1, "nd": 88.6, "oh": 91.8,
+    "ok": 88.3, "or": 104.7, "pa": 97.5, "ri": 101.4, "sc": 93.2,
+    "sd": 88.1, "tn": 92.5, "tx": 97.2, "ut": 95.0, "vt": 96.6,
+    "va": 100.7, "wa": 108.6, "wv": 89.8, "wi": 93.1, "wy": 90.8,
+    "dc": 110.8,
+}
+_rpp_overrides = COMPENSATION_POLICY.get("rpp_by_state", {})
+if isinstance(_rpp_overrides, dict):
+    for _state, _value in _rpp_overrides.items():
+        try:
+            BEA_RPP_2023[str(_state).lower()] = float(_value)
+        except (TypeError, ValueError):
+            continue
+CALIFORNIA_RPP = BEA_RPP_2023["ca"]
+BEA_RPP_SOURCE = str(COMPENSATION_POLICY.get(
+    "cost_of_living_source",
+    "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area",
+) or "")
+
+_PAY_AMOUNT_RE = re.compile(
+    r"\$\s*\d+(?:\.\d+)?\s*[kK]\b|\$?\s*\d{1,3}(?:[,\s]\d{3})+(?:\.\d+)?|\$\s*\d{2,7}(?:\.\d+)?"
+)
+
+
+def _pay_amounts(text: str) -> list[float]:
+    amounts: list[float] = []
+    for match in _PAY_AMOUNT_RE.finditer(str(text or "")):
+        token = match.group(0)
+        value = float(re.sub(r"[\s,$kK]", "", token))
+        if "k" in token.lower():
+            value *= 1000
+        if value >= 10:
+            amounts.append(value)
+    return amounts
+
+
+def _pay_period(text: str) -> str:
+    value = str(text or "").lower()
+    if re.search(r"(?:per\s*hour|hourly|\bhr\b|/\s*hr|/\s*hour)", value):
+        return "hourly"
+    if re.search(r"(?:per\s*(?:year|yr)|annually|annual|\byr\b|/\s*yr|/\s*year|p\.?a\.?)", value):
+        return "annual"
+    if re.search(r"(?:per\s*month|monthly|\bmo\b|/\s*mo|/\s*month)", value):
+        return "monthly"
+    if re.search(r"(?:per\s*week|weekly|\bwk\b|/\s*wk)", value):
+        return "weekly"
+    return ""
+
+
+def _employment_classification(job: dict) -> str:
+    text = " ".join(str(job.get(k, "") or "") for k in (
+        "title", "job_type", "employment_type", "description", "summary",
+    ))
+    if re.search(r"\b(part[-\s]?time|adjunct|temporary|seasonal|pool)\b", text, re.I):
+        return "part_time"
+    if re.search(r"\b(full[-\s]?time|fulltime|tenure[-\s]?track|tenured)\b", text, re.I):
+        return "full_time"
+    # A postdoctoral appointment is conventionally full-time unless the listing
+    # expressly says otherwise; this keeps the requested research exception
+    # usable without relaxing the rule for unrelated vague roles.
+    if _is_target_music_postdoc(job):
+        return "full_time"
+    return "unknown"
+
+
+def _is_target_music_postdoc(job: dict) -> bool:
+    text = " ".join(str(job.get(k, "") or "") for k in ("title", "description", "summary"))
+    return bool(
+        re.search(r"\bpost[-\s]?doc(?:toral)?\b", text, re.I)
+        and re.search(
+            r"\b(?:music technology|computer music|music information retrieval|\bmir\b|"
+            r"generative music|adaptive music|audio technology|game audio|interactive audio|"
+            r"hci.{0,30}music|music.{0,30}hci|music accessibility|accessible music|"
+            r"immersive audio|spatial audio|audio ai|ai.{0,30}music)\b",
+            text,
+            re.I,
+        )
+    )
+
+
+def _compensation_source(job: dict) -> str:
+    # Only declare employer confirmation when the scraper obtained the pay from
+    # a direct employer/ATS listing.  Board-derived pay remains board-reported.
+    explicit = str(job.get("compensation_source", "") or "").lower()
+    if explicit in {"employer_confirmed", "employer-confirmed"}:
+        return "employer_confirmed"
+    # An aggregator can expose a direct ATS URL while retaining its own salary
+    # data.  Its URL is therefore not sufficient evidence; only a scraper that
+    # itself read an official employer/agency board receives this label.
+    direct_sources = {"Greenhouse", "Workday", "CalCareers", "USAJOBS", "CSUCareers", "NEOGOV", "CalOpps"}
+    return "employer_confirmed" if str(job.get("ats", "") or "") in direct_sources else "reputable_secondary_board"
+
+
+def _normalize_compensation(job: dict) -> dict:
+    raw = str(job.get("salary", "") or "").strip()
+    # Prefer the structured result supplied by a source, but retain raw text as
+    # the human-readable nominal evidence on the dashboard.
+    amounts = _pay_amounts(raw)
+    period = _pay_period(raw)
+    if not amounts:
+        return {
+            "nominal": raw,
+            "period": "",
+            "source": _compensation_source(job),
+            "source_label": "Employer-confirmed" if _compensation_source(job) == "employer_confirmed" else "Reputable secondary board",
+        }
+    low, high = min(amounts), max(amounts)
+    result = {
+        "nominal": raw,
+        "period": period or "unconfirmed",
+        "source": _compensation_source(job),
+        "source_label": "Employer-confirmed" if _compensation_source(job) == "employer_confirmed" else "Reputable secondary board",
+    }
+    if period == "hourly":
+        result["hourly_min"] = round(low, 2)
+        result["hourly_max"] = round(high, 2)
+    elif period == "annual":
+        result["annual_min"] = round(low)
+        result["annual_max"] = round(high)
+    elif period == "monthly":
+        result["annual_min"] = round(low * 12)
+        result["annual_max"] = round(high * 12)
+        result["annualized_from"] = "monthly"
+    elif period == "weekly":
+        result["annual_min"] = round(low * 52)
+        result["annual_max"] = round(high * 52)
+        result["annualized_from"] = "weekly"
+    return result
+
+
+def _is_nearby_job(job: dict) -> bool:
+    if _is_remote_location(job.get("location", ""), job.get("work_arrangement", "")):
+        return False
+    if not PART_TIME_HOME_COORDS:
+        return False
+    coords = _coords_for_location(job.get("location", ""))
+    if not coords:
+        return False
+    miles = _haversine_miles(PART_TIME_HOME_COORDS, coords)
+    job["distance_miles"] = round(miles, 1)
+    return miles <= PART_TIME_MAX_MILES
+
+
+def _california_equivalent_annual(job: dict, compensation: dict) -> tuple[float | None, str]:
+    annual = compensation.get("annual_max")
+    if not annual:
+        return None, ""
+    state = _state_code_for_location(job.get("location", ""))
+    rpp = BEA_RPP_2023.get(state)
+    if not rpp:
+        return None, ""
+    equivalent = round(float(annual) * CALIFORNIA_RPP / rpp)
+    method = f"BEA RPP 2023: ${annual:,.0f} x CA {CALIFORNIA_RPP:.1f} / {state.upper()} {rpp:.1f}"
+    return equivalent, method
+
+
+def _passes_compensation_policy(job: dict) -> bool:
+    employment = _employment_classification(job)
+    job["employment_category"] = employment
+    compensation = _normalize_compensation(job)
+    job["compensation"] = compensation
+    if _is_target_music_postdoc(job):
+        job["policy_exception"] = "Target music-technology postdoctoral opportunity"
+        return True
+    if employment == "unknown":
+        job["policy_exclusion"] = "Employment schedule is not stated"
+        return False
+
+    nearby = _is_nearby_job(job)
+    hourly = compensation.get("hourly_max")
+    annual = compensation.get("annual_max")
+    ca_equivalent, method = _california_equivalent_annual(job, compensation)
+    if ca_equivalent is not None:
+        compensation["california_equivalent_annual_max"] = ca_equivalent
+        compensation["cost_of_living_method"] = method
+        compensation["cost_of_living_source"] = BEA_RPP_SOURCE
+    if employment == "part_time":
+        if not nearby and not _is_remote_location(job.get("location", ""), job.get("work_arrangement", "")):
+            job["policy_exclusion"] = f"Part-time role is outside {PART_TIME_MAX_MILES:g} miles"
+            return False
+        # Annual part-time pay cannot be converted into an hourly wage without
+        # actual scheduled hours, so it is intentionally not used here.
+        if hourly is not None and hourly >= NEARBY_MIN_HOURLY:
+            return True
+        job["policy_exclusion"] = f"Part-time hourly pay is below ${NEARBY_MIN_HOURLY:g}/hr or not stated"
+        return False
+
+    # Full-time pay can be compared by a stated hourly rate or a published
+    # annual amount (annual / 2,080 is a full-time equivalent).
+    annual_equivalent = annual if annual is not None else (
+        round(float(hourly) * FULL_TIME_HOURS_PER_YEAR) if hourly is not None else None
+    )
+    if hourly is not None:
+        compensation["annualized_full_time_max"] = round(float(hourly) * FULL_TIME_HOURS_PER_YEAR)
+    if nearby and ((hourly is not None and hourly >= NEARBY_MIN_HOURLY)
+                   or (annual_equivalent is not None and annual_equivalent >= NEARBY_MIN_HOURLY * FULL_TIME_HOURS_PER_YEAR)):
+        return True
+    if hourly is not None and hourly >= FULL_TIME_MIN_HOURLY:
+        return True
+    if annual_equivalent is not None and annual_equivalent >= FULL_TIME_MIN_HOURLY * FULL_TIME_HOURS_PER_YEAR:
+        return True
+    # The lower outside-radius exception is deliberately limited to *published*
+    # annual compensation, not an annualized hourly rate.
+    if annual is not None and ca_equivalent is not None and ca_equivalent >= OUTSIDE_CA_EQUIVALENT_MIN:
+        return True
+    job["policy_exclusion"] = "Compensation does not meet the configured full-time threshold"
+    return False
+
+
+def _filter_compensation_policy_jobs(jobs: list[dict], *, label: str = "jobs") -> list[dict]:
+    filtered = [job for job in jobs if _passes_compensation_policy(job)]
+    dropped = len(jobs) - len(filtered)
+    if dropped:
+        print(f"  💵 Dropped {dropped} {label} outside compensation, schedule, or distance policy")
+    return filtered
+
+
+# Listing verification is intentionally separate from compensation provenance.
+# A direct page can prove that a role is still live without making a board's
+# salary employer-confirmed.  Failed fetches are shown as unavailable rather
+# than silently treated as proof of expiration (many career sites block CI).
+LISTING_VERIFICATION = _cfg("filters.listing_verification", {})
+if not isinstance(LISTING_VERIFICATION, dict):
+    LISTING_VERIFICATION = {}
+VERIFY_LISTINGS = bool(LISTING_VERIFICATION.get("enabled", True))
+_EXPIRED_LISTING_RE = re.compile(
+    r"(?:job|position|posting|requisition).{0,70}(?:no longer|not longer|has been filled|is closed|expired)|"
+    r"this (?:job|position|posting) is (?:closed|no longer available)",
+    re.I | re.S,
+)
+
+
+def _verify_listing_page(job: dict) -> bool:
+    url = str(job.get("direct_url") or job.get("url") or "").strip()
+    if not url or not VERIFY_LISTINGS:
+        return True
+    today = datetime.now(timezone.utc).date().isoformat()
+    previous = job.get("listing_verification")
+    if isinstance(previous, dict) and previous.get("checked_on") == today:
+        return previous.get("status") != "expired"
+    time.sleep(REQUEST_DELAY)
+    page = fetch(url, retries=0)
+    verification = {"listing_url": url, "checked_on": today, "status": "unavailable"}
+    if not page:
+        job["listing_verification"] = verification
+        return True
+    if _EXPIRED_LISTING_RE.search(page):
+        verification["status"] = "expired"
+        job["listing_verification"] = verification
+        job["policy_exclusion"] = "Listing page reports the role is closed or expired"
+        return False
+    verification["status"] = "verified"
+    # Preserve a board-reported date only when the page cannot provide one;
+    # verification records which date/recency signal informed the result.
+    date_m = re.search(r"(?:datePosted|date_posted|posted(?:\s+on)?)['\"\s:>]+(\d{4}-\d{2}-\d{2})", page, re.I)
+    if date_m:
+        verified_date = date_m.group(1)
+        verification["posting_date_or_recency"] = verified_date
+        if not job.get("date_posted"):
+            job["date_posted"] = verified_date
+    elif job.get("date_posted"):
+        verification["posting_date_or_recency"] = str(job["date_posted"])
+    else:
+        verification["posting_date_or_recency"] = "Current listing page verified; source did not expose a posting date"
+    job["listing_verification"] = verification
+    return True
+
+
+def _verify_listing_pages(jobs: list[dict]) -> list[dict]:
+    if not VERIFY_LISTINGS:
+        return jobs
+    verified = [job for job in jobs if _verify_listing_page(job)]
+    expired = len(jobs) - len(verified)
+    if expired:
+        print(f"  🔎 Dropped {expired} listing(s) confirmed closed on their listing page")
+    return verified
 
 
 # Geographic scope for the curated/legacy ATS path. Primary base is California,
@@ -3001,7 +3307,7 @@ def _same_job(a: dict, b: dict) -> bool:
 
 def _merge_duplicate_job(existing: dict, incoming: dict) -> int:
     enriched = 0
-    for key in ("description", "salary"):
+    for key in ("description", "salary", "compensation", "employment_category", "listing_verification"):
         if incoming.get(key) and not existing.get(key):
             existing[key] = incoming[key]
             enriched += 1
@@ -3089,8 +3395,10 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
         master = []
     master = _filter_current_config_jobs(master, label="all_jobs.json entries")
     master = _filter_part_time_distance_jobs(master, label="all_jobs.json entries")
+    master = _filter_compensation_policy_jobs(master, label="all_jobs.json entries")
     new_jobs = _filter_current_config_jobs(new_jobs, label="incoming jobs")
     new_jobs = _filter_part_time_distance_jobs(new_jobs, label="incoming jobs")
+    new_jobs = _filter_compensation_policy_jobs(new_jobs, label="incoming jobs")
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -3157,7 +3465,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     jobs = [j for j in jobs if not _is_pharma_company(j.get("company", ""))]
     if len(jobs) < before:
         print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
+    jobs = _verify_listing_pages(jobs)
     jobs = _filter_part_time_distance_jobs(jobs, label="role(s)")
+    jobs = _filter_compensation_policy_jobs(jobs, label="role(s)")
     for job in jobs:
         _ensure_work_arrangement(job)
 
@@ -3460,11 +3770,56 @@ def save_results(jobs: list):
     print(f"\n📄 Saved jobs.json/.md/.html ({len(jobs)} total roles)")
 
 
+def reapply_saved_output_policy() -> None:
+    """Refresh saved JSON after a policy change without re-scraping boards.
+
+    This is useful for a fork that has already accumulated data: the GitHub
+    Pages dashboard gets the new employment and compensation fields immediately,
+    while the next watcher run performs fresh direct-page verification.
+    """
+    total_before = total_after = 0
+    for name in sorted(os.listdir(OUTPUT_DIR)):
+        if not name.endswith("_jobs.json") and name != "jobs.json":
+            continue
+        path = os.path.join(OUTPUT_DIR, name)
+        try:
+            with open(path, encoding="utf-8") as f:
+                payload = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            continue
+        jobs = payload.get("jobs") if isinstance(payload, dict) else None
+        if not isinstance(jobs, list):
+            continue
+        before = len(jobs)
+        jobs = _filter_current_config_jobs(jobs, label=name)
+        jobs = _filter_part_time_distance_jobs(jobs, label=name)
+        jobs = _filter_compensation_policy_jobs(jobs, label=name)
+        payload["jobs"] = jobs
+        if "new_jobs" in payload:
+            current_ids = {_job_identity(job.get("url", "")) for job in jobs}
+            payload["new_jobs"] = [job for job in payload.get("new_jobs", [])
+                                   if _job_identity(job.get("url", "")) in current_ids]
+            payload["new_count"] = len(payload["new_jobs"])
+        if "total" in payload:
+            payload["total"] = len(jobs)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+        total_before += before
+        total_after += len(jobs)
+        print(f"  ♻️  {name}: {before} -> {len(jobs)}")
+    print(f"♻️  Reapplied policy to saved output: {total_before} -> {total_after} role(s)")
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    if "--reapply-output-policy" in sys.argv:
+        reapply_saved_output_policy()
+        sys.exit(0)
+
     if "--indeed-only" in sys.argv:
         save_indeed_results(scrape_indeed_recent())
         sys.exit(0)

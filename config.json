@@ -72,15 +72,19 @@
 "music technologist",
 "audio quality expert",
 "music content specialist",
-"music analyst"
+"music analyst",
+"postdoctoral fellow music technology",
+"postdoctoral researcher music information retrieval",
+"postdoctoral researcher audio technology",
+"postdoctoral researcher generative music",
+"postdoctoral researcher spatial audio",
+"postdoctoral researcher music accessibility"
 ],
 "exclude": [
 "intern",
 "internship",
 "co-op",
 "trainee",
-"postdoc",
-"postdoctoral",
 "junior",
 "student assistant",
 "graduate assistant",
@@ -131,7 +135,13 @@
 "technical sound designer",
 "audio post production",
 "interactive audio designer",
-"music analyst"
+"music analyst",
+"postdoctoral music technology",
+"postdoctoral music information retrieval",
+"postdoctoral audio technology",
+"postdoctoral generative music",
+"postdoctoral spatial audio",
+"postdoctoral music accessibility"
 ],
 "indeed": [
 "music technology instructor",
@@ -142,7 +152,10 @@
 "audio post production",
 "music production instructor",
 "audio engineer",
-"music analyst"
+"music analyst",
+"postdoctoral music technology",
+"postdoctoral music information retrieval",
+"postdoctoral audio technology"
 ],
 "glassdoor": [
 "music technology instructor",
@@ -174,7 +187,10 @@
 "game audio designer",
 "audio post production engineer",
 "technical sound designer",
-"music analyst"
+"music analyst",
+"postdoctoral music technology",
+"postdoctoral music information retrieval",
+"postdoctoral audio technology"
 ],
 "hiring_cafe": [
 "music technology",
@@ -198,7 +214,13 @@
 "game audio",
 "music technology instructor",
 "audio production instructor",
-"recording arts instructor"
+"recording arts instructor",
+"postdoctoral music technology",
+"postdoctoral music information retrieval",
+"postdoctoral audio technology",
+"postdoctoral generative music",
+"postdoctoral spatial audio",
+"postdoctoral music accessibility"
 ],
 "higheredjobs": [
 "audio engineering",
@@ -211,7 +233,13 @@
 "game audio",
 "music technology instructor",
 "audio production instructor",
-"recording arts instructor"
+"recording arts instructor",
+"postdoctoral music technology",
+"postdoctoral music information retrieval",
+"postdoctoral audio technology",
+"postdoctoral generative music",
+"postdoctoral spatial audio",
+"postdoctoral music accessibility"
 ]
 },
 "locations": {
@@ -447,7 +475,7 @@
 },
 "filters": {
 "part_time": {
-"home_zip": "92534",
+"home_zip": "92354",
 "max_miles": 100,
 "near_state_codes": [
 "CA"
@@ -456,6 +484,16 @@
 "latitude": 34.0528,
 "longitude": -117.2513
 }
+},
+"compensation": {
+"full_time_min_hourly": 60,
+"nearby_min_hourly": 40,
+"outside_california_equivalent_annual": 76000,
+"full_time_hours_per_year": 2080,
+"cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+},
+"listing_verification": {
+"enabled": true
 }
 },
 "employers": {

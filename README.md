@@ -232,6 +232,7 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 -   **ScholarshipDB / HigherEdJobs** — broad academic-board searches, tuned with `search_terms.scholarshipdb`, `search_terms.higheredjobs`, and their `max_pages` settings.
 -   **USAJOBS** is nationwide US (federal); **NEOGOV** is filtered to your configured locations; **CalCareers** and **CalOpps** are California-only boards by nature (disable them if you're not searching California).
 -   **Part-time distance filter** — `filters.part_time` drops part-time/adjunct/hourly roles more than `max_miles` from the configured `center`. `near_state_codes` is a fallback for part-time jobs whose city is not in the local coordinate table.
+-   **Compensation and verification policy** — `filters.compensation` sets the full-time and nearby hourly thresholds, while `filters.listing_verification` checks each live listing page and drops pages that confirm a role is closed. Pay retains its stated period; a part-time hourly rate is never annualized. Full-time cards can show a labelled 2,080-hour equivalent and a California-equivalent annual value calculated with BEA Regional Price Parities.
 -   The map and dashboard auto-fit to wherever your jobs are.
 
 ## Output Files
@@ -292,7 +293,7 @@ The `triage.html` cockpit adds, on top of the source/role/seniority/date filters
 -   **Companion toolkit** — links out to focused resume/application prep tools that make more sense as standalone helpers than as static-dashboard internals.
 -   **CSV export** — download the currently visible jobs, including status, notes, source badges, salary, remote/type metadata, and URLs.
 -   **Keyboard triage** — `/` focuses search; `j`/`k` moves the focused card; `x` selects it; `s`, `a`, `i`, and `d` mark saved/applied/interview/dismissed; `p` copies an application packet; `o` opens the focused job; `n` focuses notes; `1`/`2`/`3` switch Browse/Best fit/Map; `?` shows the shortcut hint.
--   **Salary slider** — harmonizes inconsistent pay formats (hourly, monthly, yearly, `$k` ranges, title-embedded) to an annual figure, then filters by a minimum, with an "include unlisted" toggle.
+-   **Compensation display** — keeps nominal hourly and annual figures distinct, separates full-time and part-time roles into columns, and labels employer-confirmed pay separately from reputable-board pay. Only full-time hourly roles receive a clearly labelled 2,080-hour equivalent.
 -   **🗺 Map** view — Leaflet map of roles by city (client-side geocoding, no API key) that auto-fits to wherever your jobs are; hover a dot for the location, click for the roles. Remote/unknown roles cluster at a default center.
 
 ### Interactive triage dashboard — `triage.html`
