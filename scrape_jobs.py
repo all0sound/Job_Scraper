@@ -1949,7 +1949,7 @@ HIRINGCAFE_HEADERS = {
                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://hiring.cafe/",
+    "Referer": "https://hiringcafe.com/",
     "Sec-Fetch-Dest": "document",
     "Sec-Fetch-Mode": "navigate",
     "Sec-Fetch-Site": "same-origin",
@@ -2006,7 +2006,7 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
     if not url:
         job_id = str(_deep_first(raw, ("id", "jobId", "uuid")) or "")
         if job_id:
-            url = "https://hiring.cafe/job/" + urllib.parse.quote(job_id)
+            url = "https://hiringcafe.com/job/" + urllib.parse.quote(job_id)
     if not url:
         return None
     company = _deep_first(raw, ("company_name", "companyName", "employer_name", "organization_name"))
@@ -2067,7 +2067,7 @@ def _hiringcafe_search_slug(term: str) -> str:
 
 
 def _hiringcafe_ssr_hits(term: str, page: int = 0) -> tuple[list[dict], bool]:
-    url = "https://hiring.cafe/jobs/" + _hiringcafe_search_slug(term)
+    url = "https://hiringcafe.com/jobs/" + _hiringcafe_search_slug(term)
     if page > 0:
         url += "?" + urllib.parse.urlencode({"page": page})
     req = urllib.request.Request(url, headers=HIRINGCAFE_HEADERS)

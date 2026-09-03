@@ -798,7 +798,7 @@
     if (j.ats === 'Glassdoor' || (j.url || '').includes('glassdoor.')) return 'Glassdoor';
     if (j.ats === 'ZipRecruiter' || (j.url || '').includes('ziprecruiter.com')) return 'ZipRecruiter';
     if (j.ats === 'GoogleJobs' || (j.url || '').includes('google.com/search')) return 'GoogleJobs';
-    if (j.ats === 'HiringCafe' || (j.url || '').includes('hiring.cafe')) return 'HiringCafe';
+    if (j.ats === 'HiringCafe' || /hiring(?:\.cafe|cafe\.com)/.test(j.url || '')) return 'HiringCafe';
     if (j.ats === 'ScholarshipDB' || (j.url || '').includes('scholarshipdb.net')) return 'ScholarshipDB';
     if (j.ats === 'HigherEdJobs' || (j.url || '').includes('higheredjobs.com')) return 'HigherEdJobs';
     return 'Other';

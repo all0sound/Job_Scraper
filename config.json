@@ -59,6 +59,19 @@
 "music production faculty",
 "sound design faculty",
 "game audio faculty",
+"general music instructor",
+"general music lecturer",
+"general music faculty",
+"general music",
+"music appreciation instructor",
+"music appreciation lecturer",
+"music appreciation",
+"music history instructor",
+"music history",
+"music theory instructor",
+"music theory",
+"music fundamentals instructor",
+"music fundamentals",
 "audio engineer",
 "recording engineer",
 "mixing engineer",
@@ -106,7 +119,26 @@
 "physician",
 "physical therapist",
 "speech therapist",
-"clinical"
+"clinical",
+"piano",
+"violin",
+"viola",
+"cello",
+"double bass",
+"guitar",
+"drum",
+"percussion",
+"flute",
+"clarinet",
+"saxophone",
+"trumpet",
+"trombone",
+"tuba",
+"oboe",
+"bassoon",
+"harp",
+"organ",
+"keyboard"
 ]
 },
 "search_terms": {
@@ -136,6 +168,11 @@
 "audio post production",
 "interactive audio designer",
 "music analyst",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor",
 "postdoctoral music technology",
 "postdoctoral music information retrieval",
 "postdoctoral audio technology",
@@ -153,6 +190,11 @@
 "music production instructor",
 "audio engineer",
 "music analyst",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor",
 "postdoctoral music technology",
 "postdoctoral music information retrieval",
 "postdoctoral audio technology"
@@ -166,7 +208,12 @@
 "audio post production",
 "music production instructor",
 "audio engineer",
-"music analyst"
+"music analyst",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor"
 ],
 "ziprecruiter": [
 "music technology instructor",
@@ -176,7 +223,12 @@
 "game audio designer",
 "audio post production",
 "music production instructor",
-"audio engineer"
+"audio engineer",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor"
 ],
 "google_jobs": [
 "music technology lecturer",
@@ -188,6 +240,11 @@
 "audio post production engineer",
 "technical sound designer",
 "music analyst",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor",
 "postdoctoral music technology",
 "postdoctoral music information retrieval",
 "postdoctoral audio technology"
@@ -201,7 +258,12 @@
 "game audio",
 "audio post production",
 "technical sound design",
-"music analyst"
+"music analyst",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor"
 ],
 "scholarshipdb": [
 "audio engineering",
@@ -215,6 +277,11 @@
 "music technology instructor",
 "audio production instructor",
 "recording arts instructor",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor",
 "postdoctoral music technology",
 "postdoctoral music information retrieval",
 "postdoctoral audio technology",
@@ -234,6 +301,11 @@
 "music technology instructor",
 "audio production instructor",
 "recording arts instructor",
+"general music instructor",
+"music appreciation instructor",
+"music theory instructor",
+"music history instructor",
+"music fundamentals instructor",
 "postdoctoral music technology",
 "postdoctoral music information retrieval",
 "postdoctoral audio technology",
@@ -487,7 +559,7 @@
 },
 "compensation": {
 "full_time_min_hourly": 60,
-"nearby_min_hourly": 40,
+"nearby_min_hourly": 35,
 "outside_california_equivalent_annual": 76000,
 "full_time_hours_per_year": 2080,
 "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
@@ -595,6 +667,10 @@
 [
 "Music Industry and Media",
 "\b(music industry|music business|creative technology|media arts|digital media)\b"
+],
+[
+"General Music Coursework",
+"general music|music appreciation|music history|music theory|music fundamentals|world music|popular music"
 ]
 ]
 },
