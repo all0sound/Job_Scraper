@@ -6028,3 +6028,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "33825699523", "timestamp": "2026-09-04T01:25:30Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "33836964468", "timestamp": "2026-09-04T04:56:32Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "33838552476", "timestamp": "2026-09-04T04:57:35Z", "workflow": "ziprecruiter"}
+{"job_count": 0, "run_attempt": "1", "run_id": "33838821919", "timestamp": "2026-09-04T05:00:48Z", "workflow": "google_jobs"}
