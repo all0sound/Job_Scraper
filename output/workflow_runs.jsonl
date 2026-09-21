@@ -6440,3 +6440,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "35648154555", "timestamp": "2026-09-21T20:24:26Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35651388010", "timestamp": "2026-09-21T20:30:29Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35651477397", "timestamp": "2026-09-21T20:31:51Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "35652471037", "timestamp": "2026-09-21T20:40:00Z", "workflow": "hiringcafe"}
