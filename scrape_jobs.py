@@ -1419,7 +1419,12 @@ def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
     df = df.fillna("")
     for _, row in df.iterrows():
         title = str(row.get("title", "") or "")
-        if not is_mle_role(title):
+        description = str(row.get("description", "") or "")
+        # Boards frequently use broad academic titles (for example, "Adjunct
+        # Faculty, Music") and put the actual subject area in the description.
+        # Keep title exclusions authoritative, while allowing the full listing
+        # text to establish an on-target general-music or audio role.
+        if not is_mle_role_text(title, description):
             continue
         url = str(row.get("job_url", "") or "")
         if not url:
@@ -1442,7 +1447,7 @@ def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
             "direct_url": str(row.get("job_url_direct", "") or ""),
             "company_url": str(row.get("company_url", "") or ""),
             "date_posted": str(row.get("date_posted", "") or ""),
-            "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+            "description": description[:JOBSPY_JD_MAX_CHARS],
             "salary": format_salary(
                 row.get("min_amount", ""),
                 row.get("max_amount", ""),
@@ -1664,7 +1669,8 @@ def _google_jobs_description(raw: dict) -> str:
 
 def _normalize_serpapi_google_job(raw: dict) -> dict | None:
     title = str(raw.get("title", "") or "")
-    if not title or not is_mle_role(title):
+    description = _google_jobs_description(raw)
+    if not title or not is_mle_role_text(title, description):
         return None
     detected = raw.get("detected_extensions") if isinstance(raw.get("detected_extensions"), dict) else {}
     extensions = raw.get("extensions") if isinstance(raw.get("extensions"), list) else []
@@ -1690,7 +1696,7 @@ def _normalize_serpapi_google_job(raw: dict) -> dict | None:
         "url": url,
         "direct_url": direct_url,
         "date_posted": _posted_text_to_iso(posted),
-        "description": _google_jobs_description(raw),
+        "description": description,
         "salary": salary,
         "job_type": job_type,
         "is_remote": is_remote,
@@ -1701,7 +1707,8 @@ def _normalize_serpapi_google_job(raw: dict) -> dict | None:
 
 def _normalize_oxylabs_google_job(raw: dict) -> dict | None:
     title = str(raw.get("job_title") or raw.get("title") or "")
-    if not title or not is_mle_role(title):
+    description = str(raw.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS]
+    if not title or not is_mle_role_text(title, description):
         return None
     url = str(raw.get("URL") or raw.get("url") or raw.get("share_url") or "")
     if not url:
@@ -1715,7 +1722,7 @@ def _normalize_oxylabs_google_job(raw: dict) -> dict | None:
         "url": url,
         "direct_url": "",
         "date_posted": _posted_text_to_iso(str(raw.get("date") or raw.get("posted_at") or "")),
-        "description": str(raw.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+        "description": description,
         "salary": str(raw.get("salary", "") or ""),
         "job_type": "",
         "is_remote": is_remote,
@@ -2000,7 +2007,7 @@ def _hiringcafe_salary(raw: dict) -> str:
 
 def _normalize_hiringcafe_job(raw: dict) -> dict | None:
     title = str(_deep_first(raw, ("title", "jobTitle", "name")) or "")
-    if not title or not is_mle_role(title):
+    if not title:
         return None
     url = str(_deep_first(raw, ("apply_url", "applyUrl", "url", "jobUrl", "job_url")) or "")
     if not url:
@@ -2037,6 +2044,8 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
             if val:
                 desc_parts.append(str(val))
         desc = "\n".join(desc_parts)
+    if not is_mle_role_text(title, str(desc or "")):
+        return None
     job_type = _deep_first(raw, ("commitmentType", "commitment", "jobType", "employmentType"))
     if isinstance(job_type, list):
         job_type = ", ".join(str(x) for x in job_type)

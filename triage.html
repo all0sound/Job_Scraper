@@ -172,6 +172,8 @@
   .employment-heading .count { color: var(--muted); font-weight: 500; margin-left: 5px; }
   .employment-empty { margin: 0; padding: 18px 10px; color: var(--muted); font-size: 13px;
     border: 1px dashed var(--line); border-radius: 6px; }
+  .source-health { margin: 14px 0; padding: 10px 12px; color: var(--ink); background: var(--pill-bg);
+    border-left: 3px solid #f59e0b; font-size: 13px; line-height: 1.4; }
   .job { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 12px 16px; display: grid; grid-template-columns: 1fr auto; gap: 8px 14px;
     align-items: start; box-shadow: var(--shadow);
@@ -439,6 +441,8 @@
   <div class="kpi"><div class="num" id="kpi-offer">0</div><div class="lbl">Offer</div></div>
 </div>
 
+<div class="source-health" id="source-health" role="status" hidden></div>
+
 <div class="charts">
   <div class="card"><h3>Top companies</h3><div class="barlist" id="chart-companies"></div></div>
   <div class="card"><h3>Role mix</h3><div class="barlist" id="chart-roles"></div></div>
@@ -611,6 +615,7 @@
 
   // Fit scores from the nightly triage agent, keyed by job URL (optional file).
   let SCORES = {};
+  let SOURCE_HEALTH = [];
 
   // ---------- Persistence ----------
   // v3: scraped source files are authoritative for the job list. Bump forces
@@ -1333,6 +1338,7 @@
     const byUrl = new Map();
     let scraped_at = '', new_count = 0, new_jobs = [];
     let okCount = 0;
+    const sourceHealth = [];
     settled.forEach((r, i) => {
       if (r.status !== 'fulfilled') {
         console.warn(`[loadJobs] ${SOURCES[i].name}:`, r.reason?.message || r.reason);
@@ -1341,6 +1347,13 @@
       okCount++;
       const d = r.value;
       const isMaster = SOURCES[i].src === 'Master';
+      if (!isMaster && d.scraped_at) {
+        sourceHealth.push({
+          source: SOURCES[i].src,
+          scrapedAt: d.scraped_at,
+          total: Number.isFinite(Number(d.total)) ? Number(d.total) : (d.jobs || []).length,
+        });
+      }
       (d.jobs || []).forEach(j => {
         if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
         const existing = byUrl.get(j.url);
@@ -1354,6 +1367,7 @@
       if ((d.scraped_at || '') > scraped_at) scraped_at = d.scraped_at;
     });
     if (okCount === 0) throw new Error('all sources failed');
+    SOURCE_HEALTH = sourceHealth;
     const jobs = [...byUrl.values()]
       .filter(j => !isPharma(j.company))
       .filter(matchesConfigKeywords)
@@ -1646,6 +1660,19 @@
     $('kpi-applied').textContent = applied;
     $('kpi-interview').textContent = interview;
     $('kpi-offer').textContent = offer;
+  }
+
+  function renderSourceHealth() {
+    const el = $('source-health');
+    if (!el) return;
+    const recent = SOURCE_HEALTH.filter(s => s.scrapedAt);
+    const empty = recent.filter(s => s.total === 0);
+    if (!recent.length || !empty.length) {
+      el.hidden = true;
+      return;
+    }
+    el.hidden = false;
+    el.textContent = `${empty.length} of ${recent.length} source watchers returned no eligible roles in their latest run. Displayed listings may be older while those sources recover.`;
   }
 
   function renderCharts() {
@@ -2203,6 +2230,7 @@
     renderScoreControl();
     renderStarsFilter();
     renderKpis();
+    renderSourceHealth();
     renderCharts();
     renderSalaryChart();
     renderMap();
