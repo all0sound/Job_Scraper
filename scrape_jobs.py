@@ -3837,6 +3837,7 @@ def reapply_saved_output_policy() -> None:
         jobs = payload.get("jobs") if isinstance(payload, dict) else None
         if not isinstance(jobs, list):
             continue
+        original_payload = json.dumps(payload, sort_keys=True, ensure_ascii=False)
         before = len(jobs)
         jobs = _filter_current_config_jobs(jobs, label=name)
         jobs = _verify_listing_pages(jobs)
@@ -3850,8 +3851,16 @@ def reapply_saved_output_policy() -> None:
             payload["new_count"] = len(payload["new_jobs"])
         if "total" in payload:
             payload["total"] = len(jobs)
+        if json.dumps(payload, sort_keys=True, ensure_ascii=False) == original_payload:
+            print(f"  ♻️  {name}: unchanged ({len(jobs)})")
+            total_before += before
+            total_after += len(jobs)
+            continue
         with open(path, "w", encoding="utf-8") as f:
-            json.dump(payload, f, indent=2, ensure_ascii=False)
+            if name == "all_jobs.json":
+                json.dump(payload, f, separators=(",", ":"), ensure_ascii=False)
+            else:
+                json.dump(payload, f, indent=2, ensure_ascii=False)
             f.write("\n")
         total_before += before
         total_after += len(jobs)
