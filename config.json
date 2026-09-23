@@ -93,6 +93,28 @@
 "postdoctoral researcher spatial audio",
 "postdoctoral researcher music accessibility"
 ],
+"description_signal": [
+"general music",
+"music appreciation",
+"music history",
+"music theory",
+"music fundamentals",
+"world music",
+"popular music",
+"music technology",
+"audio technology",
+"audio software",
+"audio production",
+"recording technology",
+"recording arts",
+"music production",
+"sound design",
+"game audio",
+"interactive audio",
+"spatial audio",
+"music information retrieval",
+"generative music"
+],
 "exclude": [
 "intern",
 "internship",

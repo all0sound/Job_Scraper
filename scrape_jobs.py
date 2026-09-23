@@ -123,6 +123,13 @@ PROFILE_SUBTITLE = str(_cfg("profile.subtitle", "All locations"))
 # pull in unrelated roles; qualified forms like "Environmental Data Scientist"
 # still match via "environmental data").
 KEYWORDS = _cfg("keywords.include", [])
+DESCRIPTION_SIGNAL_TERMS = _cfg("keywords.description_signal", [
+    "general music", "music appreciation", "music history", "music theory",
+    "music fundamentals", "music technology", "audio technology", "audio software",
+    "audio production", "recording technology", "recording arts", "music production",
+    "sound design", "game audio", "interactive audio", "spatial audio",
+    "music information retrieval", "generative music",
+])
 
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
@@ -151,6 +158,13 @@ _KEYWORD_RE = re.compile(
         for k in KEYWORDS
     ),
     re.IGNORECASE,
+)
+_DESCRIPTION_SIGNAL_RE = _build_title_re(DESCRIPTION_SIGNAL_TERMS)
+_DESCRIPTION_ACADEMIC_TITLE_RE = re.compile(
+    r"\b(?:adjunct|faculty|professor|lecturer|instructor|teacher)\b", re.I
+)
+_DESCRIPTION_TECHNICAL_TITLE_RE = re.compile(
+    r"\b(?:audio|sound|music|software|engineer|developer|researcher|scientist|designer)\b", re.I
 )
 
 
@@ -197,8 +211,18 @@ def is_mle_role_text(title: str, *parts: str) -> bool:
         return True
     if EXCLUDED_SENIORITY_RE.search(title or ""):
         return False
-    text = " ".join([title or "", *(p or "" for p in parts)])
-    return bool(_KEYWORD_RE.search(text))
+    if _KEYWORD_RE.search(title or ""):
+        return True
+    # A description may establish the specialty only for a broad academic or
+    # intrinsically technical title. This admits listings such as "Adjunct
+    # Faculty, Music" and "Audio Software Engineer" without pulling in an
+    # unrelated production role that merely mentions an audio collaborator.
+    description = " ".join(p or "" for p in parts)
+    return bool(
+        _DESCRIPTION_SIGNAL_RE.search(description)
+        and (_DESCRIPTION_ACADEMIC_TITLE_RE.search(title or "")
+             or _DESCRIPTION_TECHNICAL_TITLE_RE.search(title or ""))
+    )
 
 
 def _matches_current_config(job: dict) -> bool:
