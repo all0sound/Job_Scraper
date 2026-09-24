@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-09-23 19:33 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-24 06:44 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Women's Audio Mission",
+      "title": "Recording Studio Manager / Staff Engineer – LA",
+      "location": "Los Angeles, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a59926faa1d5a3fb",
+      "direct_url": "https://jobs.gusto.com/postings/women-s-audio-mission-recording-studio-manager-staff-engineer-la-222ad0ca-3dc4-4329-9b13-32fe73a3f0c7",
+      "company_url": "https://www.indeed.com/cmp/Women's-Audio-Mission",
+      "date_posted": "2026-09-23",
+      "description": "The Recording Studio Manager/Staff Engineer will be responsible for managing daily studio operations, engineering on recording sessions and providing studio\\-based instruction to interns, students and staff.\n\n\n### **About Women's Audio Mission**\n\n\nWomen's Audio Mission is a San Francisco/Oakland\\-based nonprofit organization dedicated to the advancement of women and gender\\-expansive individuals in music production and the recording arts \\- a field where women are critically underrepresented (less than 5%). WAM seeks to \"change the face of sound\" by providing hands\\-on training, experience, career counseling and job placement in music technology and audio production. WAM believes that women and gender\\-expansive individuals’ mastery of music technology and inclusion in the production process will expand the vision and voice of media and popular culture. For more information, visit www.womensaudiomission.org.\n### **Description**\n\n\n**Job Type:** Full\\-Time, Salary, Exempt\n\n**Compensation Range:** $75,000 to $85,000 annually\n\n**Benefits:** 100% employer paid group medical, vision, and dental insurance.\n\n**Work Location:** Los Angeles \\- This position is based at WAM’s recording studios in Los Angeles providing in\\-studio support for paying clients and education support for WAM programs.\n\n **Position Summary:**\n\n\nReporting to the Executive Director, the Recording Studio Manager/Staff Engineer will be responsible for managing daily studio operations, engineering on recording sessions and providing studio\\-based instruction to interns, students and staff. As the lead recording engineer, this position has the opportunity to work on a wide range of recording projects including tracking, editing, mixing for music projects, audio books, podcasts, voice overs, and sound for media. This position is responsible for ensuring that the studio is run professionally with a focus on accessibility and excellent client support and also manages contract engineers working in our studios and makes sure they are well\\-trained and qualified for the projects on which they are working. This position supports WAM’s educational offerings –providing studio\\-based training for adult classes and the internship program as needed. This role also oversees studio maintenance and helps specify necessary equipment when needed.\n\n  \n\nThe ideal candidate has 5\\+ years of professional experience in commercial recording studio environments along with significant professional credits and a deep understanding of studio operations and all technical systems. They are entrepreneurial, business savvy, have experience managing engineers and support staff, and an interest and experience in training future engineers. We are looking for someone who is passionate about WAM’s mission of advancing women, girls and gender\\-expansive individuals in the fields of music, media and technology.\n\n**Primary Objectives and Responsibilities**\n-------------------------------------------\n\n### **Engineering (55%)**\n\n* Lead engineer on the most technically demanding sessions including tracking, editing, mixing for music projects, audio books, podcasts, voice overs, and sound for picture\n* Coordination of mastering services and deliverables with contracted mastering engineers\n\n### **Studio Operations (25%)**\n\n* Respond to studio inquiries submitted online or by phone\n* Manage the scheduling of recording sessions, classes, and events\n* Generate monthly studio revenue, client and session reports and report on any trends\n* Work with WAM’s marketing and communications team to best promote the studio, increase engagement and meet annual revenue goals\n* Manage studio invoicing and CRM\\-based inquiry system (Salesforce)\n* Oversee all LA studio maintenance and recommend repairs, equipment as needed\n* Maintain and upgrade all studio DAWs\n* Supervise on\\-call contract audio engineers\n\n### **Instruction (15%)**\n\n* Teach WAM studio\\-based classes; to be determined in conjunction with WAM education team\n* Facilitate in\\-studio training and learning opportunities for WAM programs\n\n### **Events (5%)**\n\n* Technical lead for virtual and in\\-person events as needed; this may include WAMCon (conferences), regional workshops, performances, studio events, and major annual fundraisers\n* Work with WAM staff to ensure the successful technical execution of events\n\n**Qualifications**\n------------------\n\n* 5\\+ years of experience and commercial credits as an audio engineer in commercial recording studios or post production facilities\n* 1\\+ years of supervision and program management experience\n* Pro Tools certified (preferred) with full command of the DAW\n* Bachelor’s degree in music technology, music production, audio engineering or equivalent experience\n* Strong technical troubleshooting skills of studio systems, fluent in patch bay design, studio wiring, and multi\\-room headphone systems, audio/video communication, etc.\n* Evidence of strong organizational skills and office management technology (CRM, Salesforce, Slack, wikis, video conferencing, etc.)\n* Demonstrated experience working with a wide variety of recording clients in commercial studios\n* Exceptional communication and customer service skills\n\n### **Physical Requirements**\n\n* Ability to stand, work, and travel from one location to another.\n* Remaining in a stationary position, often sitting or standing for prolonged periods\n* Prolonged periods working on a computer\n* Communicating with others to exchange information\n* Repeating motions that may include the wrists, hands and/or fingers\n* Must be able to lift 15 pounds at a time.\n\n ***The above job description is not intended to be an all\\-inclusive list of duties and standards of the position. Incumbents will follow any other instructions, and perform any other related duties, as assigned by their supervisor.***\n\n ***WAM is an equal opportunity employer and committed to a diverse and inclusive workplace. Applicants from the Los Angeles area and who identify as Black, Indige",
+      "salary": "$75k–$85k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "listing_verification": {
+        "listing_url": "https://jobs.gusto.com/postings/women-s-audio-mission-recording-studio-manager-staff-engineer-la-222ad0ca-3dc4-4329-9b13-32fe73a3f0c7",
+        "checked_on": "2026-09-24",
+        "status": "unavailable"
+      },
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "$75k–$85k/yr",
+        "period": "annual",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "annual_min": 75000,
+        "annual_max": 85000,
+        "california_equivalent_annual_max": 85000,
+        "cost_of_living_method": "BEA RPP 2023: $85,000 x CA 112.6 / CA 112.6",
+        "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Women's Audio Mission",
+      "title": "Recording Studio Manager / Staff Engineer – LA",
+      "location": "Los Angeles, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a59926faa1d5a3fb",
+      "direct_url": "https://jobs.gusto.com/postings/women-s-audio-mission-recording-studio-manager-staff-engineer-la-222ad0ca-3dc4-4329-9b13-32fe73a3f0c7",
+      "company_url": "https://www.indeed.com/cmp/Women's-Audio-Mission",
+      "date_posted": "2026-09-23",
+      "description": "The Recording Studio Manager/Staff Engineer will be responsible for managing daily studio operations, engineering on recording sessions and providing studio\\-based instruction to interns, students and staff.\n\n\n### **About Women's Audio Mission**\n\n\nWomen's Audio Mission is a San Francisco/Oakland\\-based nonprofit organization dedicated to the advancement of women and gender\\-expansive individuals in music production and the recording arts \\- a field where women are critically underrepresented (less than 5%). WAM seeks to \"change the face of sound\" by providing hands\\-on training, experience, career counseling and job placement in music technology and audio production. WAM believes that women and gender\\-expansive individuals’ mastery of music technology and inclusion in the production process will expand the vision and voice of media and popular culture. For more information, visit www.womensaudiomission.org.\n### **Description**\n\n\n**Job Type:** Full\\-Time, Salary, Exempt\n\n**Compensation Range:** $75,000 to $85,000 annually\n\n**Benefits:** 100% employer paid group medical, vision, and dental insurance.\n\n**Work Location:** Los Angeles \\- This position is based at WAM’s recording studios in Los Angeles providing in\\-studio support for paying clients and education support for WAM programs.\n\n **Position Summary:**\n\n\nReporting to the Executive Director, the Recording Studio Manager/Staff Engineer will be responsible for managing daily studio operations, engineering on recording sessions and providing studio\\-based instruction to interns, students and staff. As the lead recording engineer, this position has the opportunity to work on a wide range of recording projects including tracking, editing, mixing for music projects, audio books, podcasts, voice overs, and sound for media. This position is responsible for ensuring that the studio is run professionally with a focus on accessibility and excellent client support and also manages contract engineers working in our studios and makes sure they are well\\-trained and qualified for the projects on which they are working. This position supports WAM’s educational offerings –providing studio\\-based training for adult classes and the internship program as needed. This role also oversees studio maintenance and helps specify necessary equipment when needed.\n\n  \n\nThe ideal candidate has 5\\+ years of professional experience in commercial recording studio environments along with significant professional credits and a deep understanding of studio operations and all technical systems. They are entrepreneurial, business savvy, have experience managing engineers and support staff, and an interest and experience in training future engineers. We are looking for someone who is passionate about WAM’s mission of advancing women, girls and gender\\-expansive individuals in the fields of music, media and technology.\n\n**Primary Objectives and Responsibilities**\n-------------------------------------------\n\n### **Engineering (55%)**\n\n* Lead engineer on the most technically demanding sessions including tracking, editing, mixing for music projects, audio books, podcasts, voice overs, and sound for picture\n* Coordination of mastering services and deliverables with contracted mastering engineers\n\n### **Studio Operations (25%)**\n\n* Respond to studio inquiries submitted online or by phone\n* Manage the scheduling of recording sessions, classes, and events\n* Generate monthly studio revenue, client and session reports and report on any trends\n* Work with WAM’s marketing and communications team to best promote the studio, increase engagement and meet annual revenue goals\n* Manage studio invoicing and CRM\\-based inquiry system (Salesforce)\n* Oversee all LA studio maintenance and recommend repairs, equipment as needed\n* Maintain and upgrade all studio DAWs\n* Supervise on\\-call contract audio engineers\n\n### **Instruction (15%)**\n\n* Teach WAM studio\\-based classes; to be determined in conjunction with WAM education team\n* Facilitate in\\-studio training and learning opportunities for WAM programs\n\n### **Events (5%)**\n\n* Technical lead for virtual and in\\-person events as needed; this may include WAMCon (conferences), regional workshops, performances, studio events, and major annual fundraisers\n* Work with WAM staff to ensure the successful technical execution of events\n\n**Qualifications**\n------------------\n\n* 5\\+ years of experience and commercial credits as an audio engineer in commercial recording studios or post production facilities\n* 1\\+ years of supervision and program management experience\n* Pro Tools certified (preferred) with full command of the DAW\n* Bachelor’s degree in music technology, music production, audio engineering or equivalent experience\n* Strong technical troubleshooting skills of studio systems, fluent in patch bay design, studio wiring, and multi\\-room headphone systems, audio/video communication, etc.\n* Evidence of strong organizational skills and office management technology (CRM, Salesforce, Slack, wikis, video conferencing, etc.)\n* Demonstrated experience working with a wide variety of recording clients in commercial studios\n* Exceptional communication and customer service skills\n\n### **Physical Requirements**\n\n* Ability to stand, work, and travel from one location to another.\n* Remaining in a stationary position, often sitting or standing for prolonged periods\n* Prolonged periods working on a computer\n* Communicating with others to exchange information\n* Repeating motions that may include the wrists, hands and/or fingers\n* Must be able to lift 15 pounds at a time.\n\n ***The above job description is not intended to be an all\\-inclusive list of duties and standards of the position. Incumbents will follow any other instructions, and perform any other related duties, as assigned by their supervisor.***\n\n ***WAM is an equal opportunity employer and committed to a diverse and inclusive workplace. Applicants from the Los Angeles area and who identify as Black, Indige",
+      "salary": "$75k–$85k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "listing_verification": {
+        "listing_url": "https://jobs.gusto.com/postings/women-s-audio-mission-recording-studio-manager-staff-engineer-la-222ad0ca-3dc4-4329-9b13-32fe73a3f0c7",
+        "checked_on": "2026-09-24",
+        "status": "unavailable"
+      },
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "$75k–$85k/yr",
+        "period": "annual",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "annual_min": 75000,
+        "annual_max": 85000,
+        "california_equivalent_annual_max": 85000,
+        "cost_of_living_method": "BEA RPP 2023: $85,000 x CA 112.6 / CA 112.6",
+        "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+      }
+    }
+  ]
 }
