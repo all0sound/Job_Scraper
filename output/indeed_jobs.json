@@ -1,41 +1,7 @@
 {
-  "scraped_at": "2026-09-29 20:30 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-30 00:08 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Redlands Conservatory of Music, Film, and Dance",
-      "title": "Private Music Teacher",
-      "location": "Redlands, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=def003fb3f50a51c",
-      "direct_url": "http://www.indeed.com/job/private-music-teacher-def003fb3f50a51c",
-      "company_url": "https://www.indeed.com/cmp/Redlands-Conservatory-of-Music,-Film,-and-Dance",
-      "date_posted": "2026-09-28",
-      "description": "**Job Overview**  \nThe Redlands Conservatory of Music is seeking a passionate and dedicated Music Teacher to join our education team.\n\nThe ideal candidate will have a strong background in piano instruction and a love for teaching students of all ages.\n\nThis role involves creating engaging lesson plans, fostering a positive learning environment, and helping students develop their musical skills and appreciation for music.\n\n**Responsibilities**\n\n* Develop and implement individualized lesson plans tailored to each student's skill level and musical interests.\n* Teach piano techniques, music theory, and performance skills in a structured manner.\n* Assess student progress regularly and provide constructive feedback to enhance their learning experience.\n* Create a supportive and encouraging atmosphere that fosters student confidence and creativity.\n* Organize recitals or performances to showcase student achievements and promote community engagement.\n* Collaborate with other instructors to integrate interdisciplinary approaches, such as incorporating elements of ballet, theater, or early childhood education into lessons when appropriate.\n* Maintain open communication with students and their families regarding progress and areas for improvement.\n\n**Skills**\n\n* Bachelors in music (preferred but not required)\n* Proficiency in piano performance and teaching methods.\n* Strong organizational skills for lesson planning and classroom management.\n* Ability to educate students effectively while adapting teaching styles to meet diverse learning needs.\n* Experience in tutoring or providing childcare can be beneficial for understanding student dynamics.\n* Knowledge of related arts such as ballet, theater, or sewing can enhance the educational experience offered to students.\n* Excellent communication skills to build rapport with students, parents, and colleagues.\n* A passion for music education and a commitment to fostering a love of music in students of all ages.\n* Must live close to Redlands, California\n\nJoin us in inspiring the next generation of musicians through engaging piano instruction!\n\nJob Type: Part\\-time\n\nPay: $20\\.00 \\- $40\\.00 per hour\n\nWork Location: In person",
-      "salary": "$20–$40/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "listing_verification": {
-        "listing_url": "http://www.indeed.com/job/private-music-teacher-def003fb3f50a51c",
-        "checked_on": "2026-09-29",
-        "status": "unavailable"
-      },
-      "distance_miles": 3.9,
-      "employment_category": "part_time",
-      "compensation": {
-        "nominal": "$20–$40/hr",
-        "period": "hourly",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "hourly_min": 20.0,
-        "hourly_max": 40.0
-      }
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
