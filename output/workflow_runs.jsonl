@@ -6680,3 +6680,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "37148227041", "timestamp": "2026-10-03T19:32:05Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37149280859", "timestamp": "2026-10-03T19:49:37Z", "workflow": "scholarshipdb"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37150517560", "timestamp": "2026-10-03T20:09:31Z", "workflow": "higheredjobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37157334477", "timestamp": "2026-10-03T22:32:42Z", "workflow": "linkedin"}
