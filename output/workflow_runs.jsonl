@@ -6719,3 +6719,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "37351203245", "timestamp": "2026-10-05T17:48:55Z", "workflow": "scholarshipdb"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37379592373", "timestamp": "2026-10-05T22:27:08Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37380821863", "timestamp": "2026-10-05T22:28:52Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37384952847", "timestamp": "2026-10-05T22:51:12Z", "workflow": "ziprecruiter"}
