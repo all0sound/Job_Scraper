@@ -6753,3 +6753,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "37605975640", "timestamp": "2026-10-07T11:31:14Z", "workflow": "biotech"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37676984575", "timestamp": "2026-10-07T19:46:22Z", "workflow": "higheredjobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37677042810", "timestamp": "2026-10-07T19:46:55Z", "workflow": "scholarshipdb"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37683167110", "timestamp": "2026-10-07T21:05:53Z", "workflow": "linkedin"}
