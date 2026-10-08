@@ -1,5 +1,6 @@
 .DS_Store
 __pycache__/
+.venv*/
 
 # Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
 candidate_profile.md

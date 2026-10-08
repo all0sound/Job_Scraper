@@ -1,0 +1,162 @@
+{
+  "updated_at": "2026-10-08T18:40:21Z",
+  "sources": [
+    {
+      "source": "ASGC",
+      "url": "https://jobs.asgc.gg/",
+      "checked_at": "2026-10-08T18:40:08.087706+00:00",
+      "raw": 205,
+      "verified": 41,
+      "errors": 52,
+      "status": "partial",
+      "last_error": "Listing reports that the position is closed",
+      "details_limit": 100,
+      "truncated": true
+    },
+    {
+      "source": "Games Jobs Index",
+      "url": "https://gamesjobsindex.com/game-jobs/audio.html",
+      "checked_at": "2026-10-08T18:40:12.328996+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 0,
+      "status": "resource_only",
+      "detail": "Publisher prohibits automated harvesting; browse its direct employer links."
+    },
+    {
+      "source": "Games Jobs Direct",
+      "url": "https://www.gamesjobsdirect.com/results?k=audio",
+      "checked_at": "2026-10-08T18:40:12.329007+00:00",
+      "raw": 4,
+      "verified": 4,
+      "errors": 0,
+      "status": "ok",
+      "details_limit": 100,
+      "truncated": false
+    },
+    {
+      "source": "Hitmarker",
+      "url": "https://hitmarker.net/jobs",
+      "checked_at": "2026-10-08T18:40:13.519304+00:00",
+      "raw": 54,
+      "verified": 38,
+      "errors": 16,
+      "status": "partial",
+      "last_error": "Response does not contain the direct job listing",
+      "details_limit": 100,
+      "truncated": false
+    },
+    {
+      "source": "Remote Game Jobs",
+      "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
+      "checked_at": "2026-10-08T18:40:15.947512+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 0,
+      "status": "ok",
+      "details_limit": 100,
+      "truncated": false
+    },
+    {
+      "source": "GameJobs.co",
+      "url": "https://gamejobs.co/search?q=audio",
+      "checked_at": "2026-10-08T18:40:16.726328+00:00",
+      "raw": 42,
+      "verified": 29,
+      "errors": 13,
+      "status": "partial",
+      "last_error": "403 Client Error: Forbidden for url: https://store.epicgames.com/careers/jobs/5990687004?gh_jid=5990687004",
+      "details_limit": 100,
+      "truncated": false
+    },
+    {
+      "source": "GameDevJobs",
+      "url": "https://gamejobs.co/",
+      "checked_at": "2026-10-08T18:40:17.287930+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 0,
+      "status": "resource_only",
+      "detail": "The supplied GameDevJobs URL is the same as GameJobs.co; checked once."
+    },
+    {
+      "source": "ArtStation",
+      "url": "https://www.artstation.com/jobs",
+      "checked_at": "2026-10-08T18:40:17.287942+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 1,
+      "status": "blocked",
+      "detail": "403 Client Error: Forbidden for url: https://www.artstation.com/jobs"
+    },
+    {
+      "source": "Grackle HQ",
+      "url": "https://gracklehq.com/jobs?department=Audio",
+      "checked_at": "2026-10-08T18:40:17.520904+00:00",
+      "raw": 16,
+      "verified": 9,
+      "errors": 7,
+      "status": "partial",
+      "last_error": "Response does not contain the direct job listing",
+      "details_limit": 100,
+      "truncated": false
+    },
+    {
+      "source": "Skillsearch",
+      "url": "https://www.skillsearch.com/search?keywords=audio",
+      "checked_at": "2026-10-08T18:40:20.208701+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 0,
+      "status": "no_parseable_listings",
+      "details_limit": 100,
+      "truncated": false,
+      "detail": "No relevant job links exposed in public HTML; source may require JavaScript or a feed."
+    },
+    {
+      "source": "Work With Indies",
+      "url": "https://www.workwithindies.com/categories/audio",
+      "checked_at": "2026-10-08T18:40:20.991961+00:00",
+      "raw": 1,
+      "verified": 1,
+      "errors": 0,
+      "status": "ok",
+      "details_limit": 100,
+      "truncated": false
+    },
+    {
+      "source": "PlayHire",
+      "url": "https://playhire.io/",
+      "checked_at": "2026-10-08T18:40:21.264187+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 0,
+      "status": "resource_only",
+      "detail": "Talent network and Discord jobs require account access; public resource link only."
+    },
+    {
+      "source": "Indeed",
+      "status": "candidates_found",
+      "raw": 22,
+      "detail": "See workflow logs for query/page errors."
+    },
+    {
+      "source": "CSU Careers",
+      "status": "empty_or_blocked",
+      "raw": 0,
+      "detail": "See workflow logs for query/page errors."
+    },
+    {
+      "source": "ScholarshipDB",
+      "status": "empty_or_blocked",
+      "raw": 0,
+      "detail": "See workflow logs for query/page errors."
+    },
+    {
+      "source": "HigherEdJobs",
+      "status": "empty_or_blocked",
+      "raw": 0,
+      "detail": "See workflow logs for query/page errors."
+    }
+  ]
+}

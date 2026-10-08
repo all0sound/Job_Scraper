@@ -34,6 +34,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install listing parser
+        run: pip install 'beautifulsoup4>=4.12,<5' requests
+
       - name: Scrape GovernmentJobs / NEOGOV (CA/OR state & local, or 60-day backfill)
         run: |
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
@@ -59,7 +62,7 @@ jobs:
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f output/governmentjobs_jobs.json output/governmentjobs_jobs.md output/governmentjobs_jobs.html \
-                     output/calopps_jobs.json output/calopps_jobs.md output/calopps_jobs.html output/all_jobs.json output/notified.json
+                     output/calopps_jobs.json output/calopps_jobs.md output/calopps_jobs.html output/all_jobs.json output/candidates.json output/notified.json
           git diff --cached --quiet || git commit -m "chore: update local-gov listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X ours origin main
           git push

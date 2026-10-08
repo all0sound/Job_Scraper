@@ -137,7 +137,8 @@ REQUEST_DELAY = 0.3
 LINKEDIN_REQUEST_DELAY = 3.0
 
 # Biotech digest should only contain reliably fresh roles.
-FRESH_JOB_LOOKBACK = timedelta(hours=24)
+MAX_POSTING_AGE_DAYS = min(21, max(1, int(_cfg("filters.max_posting_age_days", 21))))
+FRESH_JOB_LOOKBACK = timedelta(days=MAX_POSTING_AGE_DAYS)
 
 # Titles containing any excluded term are dropped (config.json → keywords.exclude).
 # Single tokens are word-bounded; multi-word phrases match as substrings.
@@ -164,7 +165,7 @@ _DESCRIPTION_ACADEMIC_TITLE_RE = re.compile(
     r"\b(?:adjunct|faculty|professor|lecturer|instructor|teacher)\b", re.I
 )
 _DESCRIPTION_TECHNICAL_TITLE_RE = re.compile(
-    r"\b(?:audio|sound|music|software|engineer|developer|researcher|scientist|designer)\b", re.I
+    r"\b(?:audio|sound|software|engineer|developer|researcher|scientist|designer|technologist|analyst)\b", re.I
 )
 
 
@@ -227,6 +228,9 @@ def is_mle_role_text(title: str, *parts: str) -> bool:
 
 def _matches_current_config(job: dict) -> bool:
     """Keep only jobs that still match the active config.json keywords."""
+    employment = " ".join(str(job.get(key, "") or "") for key in ("job_type", "employment_type"))
+    if EXCLUDED_SENIORITY_RE.search(employment) or re.search(r"^(?:stage|praktikum)\b", str(job.get("title", "")), re.I):
+        return False
     return is_mle_role_text(
         str(job.get("title", "") or ""),
         str(job.get("description", "") or ""),
@@ -521,13 +525,15 @@ def _pay_period(text: str) -> str:
 
 
 def _employment_classification(job: dict) -> str:
-    text = " ".join(str(job.get(k, "") or "") for k in (
-        "title", "job_type", "employment_type", "description", "summary",
-    ))
+    text = " ".join(str(job.get(k, "") or "") for k in ("title", "job_type", "employment_type"))
     if re.search(r"\b(part[-\s]?time|adjunct|temporary|seasonal|pool)\b", text, re.I):
         return "part_time"
     if re.search(r"\b(full[-\s]?time|fulltime|tenure[-\s]?track|tenured)\b", text, re.I):
         return "full_time"
+    description = " ".join(str(job.get(k, "") or "") for k in ("description", "summary"))
+    schedule = re.search(r"\b(?:this\s+(?:is\s+)?(?:a\s+)?|(?:position|role|employment|schedule|job type)\s*(?:is|:|will be)?\s*)(full[-\s]?time|part[-\s]?time)\b", description, re.I)
+    if schedule:
+        return "part_time" if schedule[1].lower().startswith("part") else "full_time"
     # A postdoctoral appointment is conventionally full-time unless the listing
     # expressly says otherwise; this keeps the requested research exception
     # usable without relaxing the rule for unrelated vague roles.
@@ -566,6 +572,19 @@ def _compensation_source(job: dict) -> str:
 
 def _normalize_compensation(job: dict) -> dict:
     raw = str(job.get("salary", "") or "").strip()
+    currency = str(job.get("salary_currency", "") or "USD").upper()
+    disclosed_currency = re.search(r"\b(USD|CAD|AUD|EUR|GBP|PLN|JPY|INR|CNY|KRW|SEK|NOK|DKK|CHF|BRL)\b", raw, re.I)
+    if disclosed_currency:
+        currency = disclosed_currency[1].upper()
+    elif currency == "USD" and re.search(r"\bPoland\b", str(job.get("location", "")), re.I) and not re.search(r"\$|USD", raw):
+        currency = "PLN"
+    if raw and currency != "USD":
+        source = _compensation_source(job)
+        return {"nominal": raw if currency in raw.upper() else currency + " " + raw,
+                "currency": currency, "period": _pay_period(raw) or "unconfirmed",
+                "source": source,
+                "source_label": "Employer-confirmed" if source == "employer_confirmed" else "Reputable secondary board",
+                "comparison_note": f"Published in {currency}; no USD conversion assumed"}
     # Prefer the structured result supplied by a source, but retain raw text as
     # the human-readable nominal evidence on the dashboard.
     amounts = _pay_amounts(raw)
@@ -584,6 +603,7 @@ def _normalize_compensation(job: dict) -> dict:
         "source": _compensation_source(job),
         "source_label": "Employer-confirmed" if _compensation_source(job) == "employer_confirmed" else "Reputable secondary board",
     }
+    result["currency"] = currency
     if period == "hourly":
         result["hourly_min"] = round(low, 2)
         result["hourly_max"] = round(high, 2)
@@ -627,7 +647,14 @@ def _california_equivalent_annual(job: dict, compensation: dict) -> tuple[float 
     return equivalent, method
 
 
-def _passes_compensation_policy(job: dict) -> bool:
+def _passes_compensation_policy(job: dict, *, thresholds: dict | None = None,
+                                allow_undisclosed: bool = False) -> bool:
+    thresholds = thresholds or {}
+    full_time_floor = thresholds.get("full_time_min_hourly", FULL_TIME_MIN_HOURLY)
+    nearby_floor = thresholds.get("nearby_min_hourly", NEARBY_MIN_HOURLY)
+    outside_floor = thresholds.get("outside_california_equivalent_annual", OUTSIDE_CA_EQUIVALENT_MIN)
+    job.pop("policy_exclusion", None)
+    job.pop("policy_exception", None)
     employment = _employment_classification(job)
     job["employment_category"] = employment
     compensation = _normalize_compensation(job)
@@ -640,6 +667,7 @@ def _passes_compensation_policy(job: dict) -> bool:
         return False
 
     nearby = _is_nearby_job(job)
+    final_fallback = allow_undisclosed and full_time_floor == 0 and nearby_floor == 0
     hourly = compensation.get("hourly_max")
     annual = compensation.get("annual_max")
     ca_equivalent, method = _california_equivalent_annual(job, compensation)
@@ -648,14 +676,17 @@ def _passes_compensation_policy(job: dict) -> bool:
         compensation["cost_of_living_method"] = method
         compensation["cost_of_living_source"] = BEA_RPP_SOURCE
     if employment == "part_time":
-        if not nearby and not _is_remote_location(job.get("location", ""), job.get("work_arrangement", "")):
+        if not nearby:
             job["policy_exclusion"] = f"Part-time role is outside {PART_TIME_MAX_MILES:g} miles"
             return False
         # Annual part-time pay cannot be converted into an hourly wage without
         # actual scheduled hours, so it is intentionally not used here.
-        if hourly is not None and hourly >= NEARBY_MIN_HOURLY:
+        if hourly is not None and hourly >= nearby_floor:
             return True
-        job["policy_exclusion"] = f"Part-time hourly pay is below ${NEARBY_MIN_HOURLY:g}/hr or not stated"
+        if final_fallback:
+            job["policy_exception"] = "Final pay fallback; pay may be undisclosed or not comparable"
+            return True
+        job["policy_exclusion"] = f"Part-time hourly pay is below ${nearby_floor:g}/hr or not stated"
         return False
 
     # Full-time pay can be compared by a stated hourly rate or a published
@@ -665,16 +696,19 @@ def _passes_compensation_policy(job: dict) -> bool:
     )
     if hourly is not None:
         compensation["annualized_full_time_max"] = round(float(hourly) * FULL_TIME_HOURS_PER_YEAR)
-    if nearby and ((hourly is not None and hourly >= NEARBY_MIN_HOURLY)
-                   or (annual_equivalent is not None and annual_equivalent >= NEARBY_MIN_HOURLY * FULL_TIME_HOURS_PER_YEAR)):
+    if nearby and ((hourly is not None and hourly >= nearby_floor)
+                   or (annual_equivalent is not None and annual_equivalent >= nearby_floor * FULL_TIME_HOURS_PER_YEAR)):
         return True
-    if hourly is not None and hourly >= FULL_TIME_MIN_HOURLY:
+    if hourly is not None and hourly >= full_time_floor:
         return True
-    if annual_equivalent is not None and annual_equivalent >= FULL_TIME_MIN_HOURLY * FULL_TIME_HOURS_PER_YEAR:
+    if annual_equivalent is not None and annual_equivalent >= full_time_floor * FULL_TIME_HOURS_PER_YEAR:
         return True
     # The lower outside-radius exception is deliberately limited to *published*
     # annual compensation, not an annualized hourly rate.
-    if annual is not None and ca_equivalent is not None and ca_equivalent >= OUTSIDE_CA_EQUIVALENT_MIN:
+    if annual is not None and ca_equivalent is not None and ca_equivalent >= outside_floor:
+        return True
+    if final_fallback:
+        job["policy_exception"] = "Final pay fallback; pay may be undisclosed or not comparable"
         return True
     job["policy_exclusion"] = "Compensation does not meet the configured full-time threshold"
     return False
@@ -726,16 +760,27 @@ def _verify_listing_page(job: dict) -> bool:
             job["policy_exclusion"] = "Listing page returned not found or gone"
             return False
         page = ""
-    except (URLError, TimeoutError, OSError):
+    except (URLError, TimeoutError, OSError, UnicodeError, ValueError):
         page = ""
     if not page:
         job["listing_verification"] = verification
-        return True
-    if _EXPIRED_LISTING_RE.search(page):
+        return not bool(LISTING_VERIFICATION.get("require_current", True))
+    from gaming_sources import visible_text, structured_jobs, schema_details
+    text = visible_text(page)
+    if _EXPIRED_LISTING_RE.search(text):
         verification["status"] = "expired"
         job["listing_verification"] = verification
         job["policy_exclusion"] = "Listing page reports the role is closed or expired"
         return False
+    raw = next(structured_jobs(page), None)
+    if raw:
+        details = schema_details(raw, url)
+        for key in ("date_posted", "valid_through", "job_type"):
+            if details.get(key):
+                job[key] = details[key]
+    if not raw and str(job.get("title", "")).lower() not in text.lower():
+        job["listing_verification"] = verification
+        return not bool(LISTING_VERIFICATION.get("require_current", True))
     verification["status"] = "verified"
     # Preserve a board-reported date only when the page cannot provide one;
     # verification records which date/recency signal informed the result.
@@ -743,8 +788,7 @@ def _verify_listing_page(job: dict) -> bool:
     if date_m:
         verified_date = date_m.group(1)
         verification["posting_date_or_recency"] = verified_date
-        if not job.get("date_posted"):
-            job["date_posted"] = verified_date
+        job["date_posted"] = verified_date
     elif job.get("date_posted"):
         verification["posting_date_or_recency"] = str(job["date_posted"])
     else:
@@ -759,7 +803,7 @@ def _verify_listing_pages(jobs: list[dict]) -> list[dict]:
     verified = [job for job in jobs if _verify_listing_page(job)]
     expired = len(jobs) - len(verified)
     if expired:
-        print(f"  🔎 Dropped {expired} listing(s) confirmed closed on their listing page")
+        print(f"  🔎 Dropped {expired} listing(s) closed or unavailable for current verification")
     return verified
 
 
@@ -824,7 +868,7 @@ def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | N
         return now
 
     relative_m = re.search(
-        r'(\d+)\s*(minutes?|mins?|hours?|hrs?)\b(?:\s*ago)?',
+        r'(\d+)\s*(minutes?|mins?|hours?|hrs?|days?|weeks?)\b(?:\s*ago)?',
         text,
     )
     if relative_m:
@@ -832,6 +876,10 @@ def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | N
         unit = relative_m.group(2)
         if unit.startswith(("minute", "min")):
             return now - timedelta(minutes=amount)
+        if unit.startswith("day"):
+            return now - timedelta(days=amount)
+        if unit.startswith("week"):
+            return now - timedelta(weeks=amount)
         return now - timedelta(hours=amount)
 
     iso_value = raw.replace("Z", "+00:00")
@@ -3332,6 +3380,8 @@ def _job_urls(job: dict) -> list[str]:
     urls = []
     if job.get("url"):
         urls.append(job["url"])
+    if job.get("direct_url"):
+        urls.append(job["direct_url"])
     urls.extend(job.get("duplicate_urls") or [])
     return list(dict.fromkeys(u for u in urls if u))
 
@@ -3354,12 +3404,27 @@ def _same_job(a: dict, b: dict) -> bool:
 
 def _merge_duplicate_job(existing: dict, incoming: dict) -> int:
     enriched = 0
+    existing["sources"] = sorted(set(existing.get("sources", [])) | set(incoming.get("sources", []))
+                                  | {str(value) for value in (existing.get("ats"), incoming.get("ats")) if value})
     for key in ("description", "salary", "compensation", "employment_category", "listing_verification"):
         if incoming.get(key) and not existing.get(key):
             existing[key] = incoming[key]
             enriched += 1
     for key in ("direct_url", "date_posted", "job_type", "is_remote", "telework", "work_arrangement"):
         if incoming.get(key) and not existing.get(key):
+            existing[key] = incoming[key]
+    verification = incoming.get("listing_verification") or {}
+    if verification.get("checked_on", "") >= (existing.get("listing_verification") or {}).get("checked_on", ""):
+        if verification:
+            existing["listing_verification"] = verification
+        if verification.get("date_source") == "employer" and incoming.get("date_posted"):
+            existing["date_posted"] = incoming["date_posted"]
+        if verification.get("date_source") == "employer" or verification.get("employment_source") == "listing":
+            for key in ("job_type", "description", "valid_through"):
+                if incoming.get(key):
+                    existing[key] = incoming[key]
+    for key in ("valid_through", "salary_currency", "compensation_source"):
+        if incoming.get(key):
             existing[key] = incoming[key]
     dupes = set(existing.get("duplicate_urls") or [])
     for url in _job_urls(incoming):
@@ -3419,11 +3484,70 @@ def _load_prev_ids(json_path: str) -> set[str]:
     return ids
 
 
-ALL_JOBS_PRUNE_DAYS = 50
+ALL_JOBS_PRUNE_DAYS = MAX_POSTING_AGE_DAYS
 # LinkedIn's guest API reliably supports ~30 days via f_TPR; use this for the
 # one-time historical backfill (--linkedin-backfill) so new users get a full
 # picture without running hourly for weeks.
 LINKEDIN_BACKFILL_DAYS = 30
+
+
+def _fresh_current_job(job: dict, *, now: datetime | None = None) -> bool:
+    now = now or datetime.now(timezone.utc)
+    posted = _parse_posted_at(str(job.get("date_posted", "")), now=now)
+    if posted is None or not 0 <= (now.date() - posted.date()).days <= MAX_POSTING_AGE_DAYS:
+        return False
+    # Store relative dates as absolute dates so repeated refreshes cannot renew them.
+    job["date_posted"] = posted.isoformat()
+    expires = _parse_posted_at(str(job.get("valid_through", "")), now=now)
+    if expires:
+        raw_expiry = str(job.get("valid_through", ""))
+        if (expires.date() < now.date() if re.fullmatch(r"\d{4}-\d{2}-\d{2}", raw_expiry) else expires < now):
+            return False
+    verification = job.get("listing_verification") or {}
+    if verification.get("status") == "expired":
+        return False
+    if LISTING_VERIFICATION.get("require_current", True):
+        checked = _parse_posted_at(str(verification.get("checked_on", "")), now=now)
+        return bool(verification.get("status") == "verified" and checked
+                    and 0 <= (now.date() - checked.date()).days <= 1)
+    return True
+
+
+def _select_current_jobs(candidates: list[dict], *, now: datetime | None = None) -> tuple[list[dict], dict]:
+    pool = _filter_current_config_jobs([dict(job) for job in candidates if _fresh_current_job(job, now=now)])
+    pool = _filter_part_time_distance_jobs(pool)
+    pool, _, _ = _dedupe_master_jobs(pool)
+    target = max(5, int(_cfg("filters.minimum_results", 5)))
+    adaptive = _cfg("filters.adaptive_pay", {})
+    step = max(1, float(adaptive.get("hourly_step", 5)))
+    base = {"full_time_min_hourly": FULL_TIME_MIN_HOURLY,
+            "nearby_min_hourly": NEARBY_MIN_HOURLY,
+            "outside_california_equivalent_annual": OUTSIDE_CA_EQUIVALENT_MIN}
+    levels = int(math.ceil(max(FULL_TIME_MIN_HOURLY, NEARBY_MIN_HOURLY) / step)) if adaptive.get("enabled", True) else 0
+    chosen = []
+    effective = dict(base)
+    for level in range(levels + 1):
+        effective = {
+            "full_time_min_hourly": max(0, FULL_TIME_MIN_HOURLY - level * step),
+            "nearby_min_hourly": max(0, NEARBY_MIN_HOURLY - level * step),
+            "outside_california_equivalent_annual": max(0, round(OUTSIDE_CA_EQUIVALENT_MIN * max(0, FULL_TIME_MIN_HOURLY - level * step) / max(FULL_TIME_MIN_HOURLY, 1))),
+        }
+        chosen = [dict(job) for job in pool if _passes_compensation_policy(job, thresholds=effective)]
+        if len(chosen) >= target:
+            break
+    used_undisclosed = False
+    if len(chosen) < target and levels and adaptive.get("allow_undisclosed_when_short", False):
+        chosen = [dict(job) for job in pool if _passes_compensation_policy(job, thresholds=effective, allow_undisclosed=True)]
+        used_undisclosed = True
+    for job in chosen:
+        job["pay_threshold_relaxed"] = not _passes_compensation_policy(dict(job), thresholds=base)
+        job["compensation_policy"] = dict(effective)
+    chosen.sort(key=lambda job: job.get("date_posted", ""), reverse=True)
+    selection = {"target": target, "count": len(chosen), "target_met": len(chosen) >= target,
+                 "max_posting_age_days": MAX_POSTING_AGE_DAYS, "base_thresholds": base,
+                 "effective_thresholds": effective, "undisclosed_pay_fallback": used_undisclosed,
+                 "eligible_candidates": len(pool)}
+    return chosen, selection
 
 
 def _merge_into_all_jobs(new_jobs: list) -> int:
@@ -3440,12 +3564,10 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             master = json.load(f).get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
         master = []
-    master = _filter_current_config_jobs(master, label="all_jobs.json entries")
-    master = _filter_part_time_distance_jobs(master, label="all_jobs.json entries")
-    master = _filter_compensation_policy_jobs(master, label="all_jobs.json entries")
+    candidate_path = os.path.join(OUTPUT_DIR, "candidates.json")
+    cached = _read_json(candidate_path) or {}
+    master = cached.get("jobs", []) + master
     new_jobs = _filter_current_config_jobs(new_jobs, label="incoming jobs")
-    new_jobs = _filter_part_time_distance_jobs(new_jobs, label="incoming jobs")
-    new_jobs = _filter_compensation_policy_jobs(new_jobs, label="incoming jobs")
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -3483,13 +3605,20 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             index_entry(existing)
             merged_new += 1
 
-    cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    kept = [j for j in entries if j.get("first_seen", stamp) >= cutoff]
-    kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
+    # Posting dates, never first_seen or employer updated_at, determine freshness.
+    pool = []
+    for job in entries:
+        posted = _parse_posted_at(str(job.get("date_posted", "")), now=now)
+        if posted and 0 <= (now.date() - posted.date()).days <= MAX_POSTING_AGE_DAYS:
+            job["date_posted"] = posted.isoformat()
+            pool.append(job)
+    kept, selection = _select_current_jobs(pool, now=now)
+    with open(candidate_path, "w", encoding="utf-8") as f:
+        json.dump({"updated_at": stamp, "jobs": pool}, f, separators=(",", ":"), ensure_ascii=False)
 
     with open(path, "w", encoding="utf-8") as f:
         # Compact separators: the dashboard downloads this file on every load.
-        json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
+        json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "selection": selection, "jobs": kept},
                   f, separators=(",", ":"), ensure_ascii=False)
     print(
         f"all_jobs.json: +{added} new, {enriched} enriched, "
@@ -3512,9 +3641,10 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     jobs = [j for j in jobs if not _is_pharma_company(j.get("company", ""))]
     if len(jobs) < before:
         print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
+    jobs = _filter_current_config_jobs(jobs)
     jobs = _verify_listing_pages(jobs)
     jobs = _filter_part_time_distance_jobs(jobs, label="role(s)")
-    jobs = _filter_compensation_policy_jobs(jobs, label="role(s)")
+    jobs, _, _ = _dedupe_master_jobs(jobs)
     for job in jobs:
         _ensure_work_arrangement(job)
 
@@ -3533,6 +3663,15 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         _merge_into_all_jobs(jobs)
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
+
+    master_payload = _read_json(os.path.join(OUTPUT_DIR, "all_jobs.json")) or {}
+    selected_urls = {url for job in master_payload.get("jobs", []) for url in _job_urls(job)}
+    jobs = [job for job in jobs if job.get("url") in selected_urls]
+    selection = master_payload.get("selection", {})
+    for job in jobs:
+        _passes_compensation_policy(job, thresholds=selection.get("effective_thresholds"),
+                                    allow_undisclosed=selection.get("undisclosed_pay_fallback", False))
+    new_jobs = [job for job in jobs if _job_identity(job.get("url", "")) not in prev_ids]
 
     # Push the highly-relevant new roles to Pushover (no-op without creds).
     try:
@@ -3563,7 +3702,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     else:
         for job in new_jobs:
             lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
-            lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
+            lines.append(f"- 📍 **Location:** {job.get('location') or 'Not specified'}")
             if job.get("salary"):
                 lines.append(f"- 💰 **Salary:** {job['salary']}")
             if job.get("work_arrangement"):
@@ -3868,11 +4007,60 @@ def reapply_saved_output_policy() -> None:
     print(f"♻️  Reapplied policy to saved output: {total_before} -> {total_after} role(s)")
 
 
+def refresh_gaming_sources() -> list[dict]:
+    from gaming_sources import scrape_gaming_sources
+    jobs, sources = scrape_gaming_sources(is_mle_role_text, cache_path=os.path.join(OUTPUT_DIR, "listing_cache.json"))
+    save_jobs_output(jobs, basename="gaming_jobs", title=f"{PROFILE_LABEL} - Gaming Boards",
+                     subtitle=PROFILE_SUBTITLE, accent="#276749",
+                     empty_message="No current matching gaming roles.", window_label="posted within 21 days")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    previous = _read_json(os.path.join(OUTPUT_DIR, "source_health.json")) or {}
+    refreshed_names = {source["source"] for source in sources}
+    other_sources = [source for source in previous.get("sources", []) if source.get("source") not in refreshed_names]
+    payload = {"updated_at": now, "sources": sources + other_sources}
+    with open(os.path.join(OUTPUT_DIR, "source_health.json"), "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+    return sources
+
+
+def daily_refresh() -> None:
+    sources = refresh_gaming_sources()
+    pipelines = [
+        ("Indeed", lambda: scrape_indeed_recent(hours_old=MAX_POSTING_AGE_DAYS * 24), save_indeed_results),
+        ("CSU Careers", scrape_csucareers_recent, save_csucareers_results),
+        ("ScholarshipDB", lambda: scrape_scholarshipdb_recent(days=MAX_POSTING_AGE_DAYS), save_scholarshipdb_results),
+        ("HigherEdJobs", lambda: scrape_higheredjobs_recent(days=MAX_POSTING_AGE_DAYS), save_higheredjobs_results),
+    ]
+    for label, scrape, save in pipelines:
+        try:
+            jobs = scrape()
+            save(jobs)
+            sources.append({"source": label, "status": "candidates_found" if jobs else "empty_or_blocked",
+                            "raw": len(jobs), "detail": "See workflow logs for query/page errors."})
+        except Exception as exc:
+            print(f"Daily source {label} failed: {exc}")
+            sources.append({"source": label, "status": "error", "detail": str(exc)[:200]})
+    _merge_into_all_jobs([])
+    payload = _read_json(os.path.join(OUTPUT_DIR, "all_jobs.json")) or {}
+    selection = payload.get("selection", {})
+    print(f"Daily refresh: {len(payload.get('jobs', []))} current jobs; minimum target met: {selection.get('target_met', False)}")
+    with open(os.path.join(OUTPUT_DIR, "source_health.json"), "w", encoding="utf-8") as f:
+        json.dump({"updated_at": datetime.now(timezone.utc).isoformat(), "sources": sources}, f, indent=2)
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    if "--daily-refresh" in sys.argv:
+        daily_refresh()
+        sys.exit(0)
+
+    if "--gaming-only" in sys.argv:
+        refresh_gaming_sources()
+        sys.exit(0)
+
     if "--reapply-output-policy" in sys.argv:
         reapply_saved_output_policy()
         sys.exit(0)

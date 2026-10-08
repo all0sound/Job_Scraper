@@ -33,6 +33,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install listing parser
+        run: pip install 'beautifulsoup4>=4.12,<5' requests
+
       - name: Scrape HiringCafe
         run: |
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
@@ -72,7 +75,7 @@ jobs:
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/hiringcafe_jobs.json output/hiringcafe_jobs.md output/hiringcafe_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          git add -f output/hiringcafe_jobs.json output/hiringcafe_jobs.md output/hiringcafe_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/candidates.json output/notified.json
           git diff --cached --quiet || git commit -m "chore: update hiringcafe listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X ours origin main
           git push

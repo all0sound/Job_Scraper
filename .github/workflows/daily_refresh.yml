@@ -1,0 +1,50 @@
+name: Daily Job Refresh
+
+on:
+  schedule:
+    - cron: '11 13 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install scraper dependencies
+        run: pip install -r requirements.txt
+      - name: Test freshness and adaptive selection
+        run: python -m unittest discover -s tests -q
+      - name: Refresh current roles and adapt pay thresholds
+        run: python -u scrape_jobs.py --daily-refresh
+        env:
+          JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
+          JOBSPY_USER_AGENT: ${{ vars.JOBSPY_USER_AGENT }}
+      - name: Publish results
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/
+          git diff --cached --quiet || git commit -m "chore: daily current job refresh"
+          git pull --rebase origin main
+          git push origin main
+      - name: Rebuild the published dashboard
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"

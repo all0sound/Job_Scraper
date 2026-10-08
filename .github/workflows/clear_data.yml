@@ -51,6 +51,7 @@ jobs:
               "output/usajobs_jobs.json",
               "output/governmentjobs_jobs.json",
               "output/calopps_jobs.json",
+              "output/gaming_jobs.json",
           ]
           empty_source = {"scraped_at": now, "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
           for path in source_files:
@@ -63,6 +64,11 @@ jobs:
               json.dump({"updated_at": now, "jobs": []}, f)
           print("✅ output/all_jobs.json cleared")
 
+          with open("output/candidates.json", "w", encoding="utf-8") as f:
+              json.dump({"updated_at": now, "jobs": []}, f)
+          with open("output/listing_cache.json", "w", encoding="utf-8") as f:
+              json.dump({}, f)
+
           # Pushover dedup tracker
           with open("output/notified.json", "w", encoding="utf-8") as f:
               json.dump({"ids": []}, f)
@@ -74,7 +80,7 @@ jobs:
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f \
-            output/all_jobs.json output/notified.json \
+            output/all_jobs.json output/notified.json output/candidates.json output/listing_cache.json output/gaming_jobs.json \
             output/jobs.json output/linkedin_jobs.json output/indeed_jobs.json \
             output/glassdoor_jobs.json output/ziprecruiter_jobs.json \
             output/google_jobs.json output/hiringcafe_jobs.json \

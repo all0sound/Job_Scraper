@@ -73,6 +73,21 @@
 "music fundamentals instructor",
 "music fundamentals",
 "audio engineer",
+"audio programmer",
+"audio artist",
+"audio software",
+"audio design",
+"audio engine",
+"audio quality",
+"sound engineer",
+"composer",
+"audio designer",
+"audio director",
+"audio producer",
+"sound effects creator",
+"audio qa",
+"audio design qa",
+"tech qa analyst - audio",
 "recording engineer",
 "mixing engineer",
 "sound designer",
@@ -568,6 +583,13 @@
 "max_pages": 1
 },
 "filters": {
+"max_posting_age_days": 21,
+"minimum_results": 5,
+"adaptive_pay": {
+"enabled": true,
+"hourly_step": 5,
+"allow_undisclosed_when_short": true
+},
 "part_time": {
 "home_zip": "92354",
 "max_miles": 100,
@@ -587,7 +609,8 @@
 "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
 },
 "listing_verification": {
-"enabled": true
+"enabled": true,
+"require_current": true
 }
 },
 "employers": {

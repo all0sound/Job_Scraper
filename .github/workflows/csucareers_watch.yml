@@ -27,6 +27,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install listing parser
+        run: pip install 'beautifulsoup4>=4.12,<5' requests
+
       - name: Scrape CSU Careers
         run: python scrape_jobs.py --csucareers-only
         env:
@@ -39,7 +42,7 @@ jobs:
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/csucareers_jobs.json output/csucareers_jobs.md output/csucareers_jobs.html output/all_jobs.json output/notified.json
+          git add -f output/csucareers_jobs.json output/csucareers_jobs.md output/csucareers_jobs.html output/all_jobs.json output/candidates.json output/notified.json
           git diff --cached --quiet || git commit -m "chore: update csucareers listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X ours origin main
           git push

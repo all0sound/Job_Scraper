@@ -174,6 +174,9 @@
     border: 1px dashed var(--line); border-radius: 6px; }
   .source-health { margin: 14px 0; padding: 10px 12px; color: var(--ink); background: var(--pill-bg);
     border-left: 3px solid #f59e0b; font-size: 13px; line-height: 1.4; }
+  .source-health summary { margin-top: 8px; cursor: pointer; }
+  .source-health table { width: 100%; table-layout: fixed; border-collapse: collapse; font-size: 12px; }
+  .source-health th, .source-health td { text-align: left; padding: 6px 4px; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
   .job { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 12px 16px; display: grid; grid-template-columns: 1fr auto; gap: 8px 14px;
     align-items: start; box-shadow: var(--shadow);
@@ -608,6 +611,7 @@
     { name: 'output/usajobs_jobs.json',  src: 'USAJOBS'    },
     { name: 'output/governmentjobs_jobs.json', src: 'NEOGOV' },
     { name: 'output/calopps_jobs.json',  src: 'CalOpps'    },
+    { name: 'output/gaming_jobs.json', src: 'Gaming boards' },
     // Cumulative master kept by the scrapers (the rolling files above only hold
     // their latest window). Lets the Rank tab show every recently-seen role.
     { name: 'output/all_jobs.json',      src: 'Master'   },
@@ -616,6 +620,8 @@
   // Fit scores from the nightly triage agent, keyed by job URL (optional file).
   let SCORES = {};
   let SOURCE_HEALTH = [];
+  let GAMING_HEALTH = [];
+  let SELECTION = {};
 
   // ---------- Persistence ----------
   // v3: scraped source files are authoritative for the job list. Bump forces
@@ -792,6 +798,7 @@
     return 'Mid';
   }
   function classifySource(j) {
+    if (['ASGC', 'Games Jobs Direct', 'Hitmarker', 'Remote Game Jobs', 'GameJobs.co', 'ArtStation', 'Grackle HQ', 'Skillsearch', 'Work With Indies'].includes(j.ats)) return j.ats;
     if (j.ats === 'USAJOBS' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
     if (j.ats === 'NEOGOV' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
     if (j.ats === 'CalOpps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
@@ -1105,6 +1112,7 @@
     j._role   = classifyRole(j.title);
     j._sen    = classifySeniority(j.title);
     j._src    = classifySource(j);
+    j._srcs   = j.sources?.length ? j.sources.slice() : [j._src];
     j._work   = classifyWorkArrangement(j);
     j._sector = classifySector(j);
     // Agent verdict, when this URL has been scored (see scores.json).
@@ -1295,7 +1303,7 @@
     const primary = cluster.slice().sort((a, b) =>
       _richness(b) - _richness(a) || (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0))[0];
     primary._dupUrls = [...new Set(cluster.flatMap(_dupUrlList))];
-    primary._srcs = [...new Set(cluster.map(j => j._src))].sort();
+    primary._srcs = [...new Set(cluster.flatMap(j => j._srcs || [j._src]))].sort();
     // Take salary from whichever member has it.
     if (primary._salMin == null) {
       const w = cluster.find(j => j._salMin != null);
@@ -1324,6 +1332,10 @@
   async function loadJobs() {
     const bust = `?v=${Date.now()}`;
     await loadScoringProfile(bust);
+    try {
+      const response = await fetch('output/source_health.json' + bust);
+      GAMING_HEALTH = response.ok ? (await response.json()).sources || [] : [];
+    } catch { GAMING_HEALTH = []; }
     // Fit scores are optional — a 404 (no triage run yet) must never break loading.
     try {
       const r = await fetch('output/scores.json' + bust);
@@ -1339,6 +1351,7 @@
     let scraped_at = '', new_count = 0, new_jobs = [];
     let okCount = 0;
     const sourceHealth = [];
+    let masterJobs = null;
     settled.forEach((r, i) => {
       if (r.status !== 'fulfilled') {
         console.warn(`[loadJobs] ${SOURCES[i].name}:`, r.reason?.message || r.reason);
@@ -1347,6 +1360,11 @@
       okCount++;
       const d = r.value;
       const isMaster = SOURCES[i].src === 'Master';
+      if (isMaster) {
+        masterJobs = d.jobs || [];
+        SELECTION = d.selection || {};
+        if (d.updated_at) scraped_at = d.updated_at;
+      }
       if (!isMaster && d.scraped_at) {
         sourceHealth.push({
           source: SOURCES[i].src,
@@ -1368,11 +1386,15 @@
     });
     if (okCount === 0) throw new Error('all sources failed');
     SOURCE_HEALTH = sourceHealth;
-    const jobs = [...byUrl.values()]
+    // The master owns the adaptive pay policy; older source windows cannot override it.
+    const jobs = (masterJobs === null ? [...byUrl.values()] : masterJobs)
       .filter(j => !isPharma(j.company))
       .filter(matchesConfigKeywords)
+      .filter(isCurrentListing)
       .sort((a, b) => (b.date_posted || '').localeCompare(a.date_posted || ''));
-    return { scraped_at, new_count, new_jobs, jobs };
+    const currentUrls = new Set(jobs.map(j => j.url));
+    new_jobs = [...new Map(new_jobs.filter(j => currentUrls.has(j.url)).map(j => [j.url, j])).values()];
+    return { scraped_at, new_count: new_jobs.length, new_jobs, jobs };
   }
 
   // ---------- Merge (additive — preserves triage history) ----------
@@ -1441,6 +1463,19 @@
     return null;
   }
 
+  function isCurrentListing(j) {
+    const posted = Date.parse(j.date_posted || '');
+    const ageDays = Math.floor(Date.now() / 86400000) - Math.floor(posted / 86400000);
+    if (!Number.isFinite(ageDays) || ageDays < 0 || ageDays > 21) return false;
+    const expires = Date.parse(/^\d{4}-\d{2}-\d{2}$/.test(j.valid_through || '')
+      ? j.valid_through + 'T23:59:59Z' : j.valid_through || '');
+    if (Number.isFinite(expires) && expires < Date.now()) return false;
+    const checked = Date.parse(j.listing_verification?.checked_on || '');
+    const checkedDays = Math.floor(Date.now() / 86400000) - Math.floor(checked / 86400000);
+    return j.listing_verification?.status === 'verified'
+      && Number.isFinite(checkedDays) && checkedDays >= 0 && checkedDays <= 1;
+  }
+
   // Finest freshness signal for sub-day windows: date_posted is day-resolution
   // across every source, but first_seen (stamped by the scraper's all_jobs
   // accumulator) is a full timestamp — and the LinkedIn watcher's hourly 1h
@@ -1455,6 +1490,7 @@
 
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
   function matchesFilters(j, except) {
+    if (!isCurrentListing(j)) return false;
     const co = (j.company || '').toLowerCase();
     if (state.blockedCompanies.some(name => name && co.includes(name))) return false;
     // Merged cross-posts carry every source in _srcs (single jobs: [_src]).
@@ -1667,12 +1703,17 @@
     if (!el) return;
     const recent = SOURCE_HEALTH.filter(s => s.scrapedAt);
     const empty = recent.filter(s => s.total === 0);
-    if (!recent.length || !empty.length) {
+    if (!recent.length && !GAMING_HEALTH.length) {
       el.hidden = true;
       return;
     }
     el.hidden = false;
-    el.textContent = `${empty.length} of ${recent.length} source watchers returned no eligible roles in their latest run. Displayed listings may be older while those sources recover.`;
+    const pay = SELECTION.effective_thresholds || {};
+    const summary = SELECTION.target
+      ? `${VIEW.length} current roles · Target ${SELECTION.target}${SELECTION.target_met ? ' met' : ' not yet met'} · ${SELECTION.undisclosed_pay_fallback ? 'Undisclosed pay included' : `Pay floors: $${pay.nearby_min_hourly ?? 35}/hr nearby, $${pay.full_time_min_hourly ?? 60}/hr elsewhere`}`
+      : `${empty.length} of ${recent.length} sources returned no eligible roles.`;
+    el.innerHTML = `<div>${escape(summary)}</div>` + (GAMING_HEALTH.length
+      ? `<details><summary>Source status</summary><table><thead><tr><th>Source</th><th>Status</th><th>Verified</th></tr></thead><tbody>${GAMING_HEALTH.map(s => `<tr><td>${s.url ? `<a href="${escape(s.url)}" target="_blank" rel="noopener">${escape(s.source)}</a>` : escape(s.source)}</td><td title="${escape(s.detail || s.last_error || '')}">${escape((s.status || '').replaceAll('_', ' '))}</td><td>${Number(s.verified ?? s.raw ?? 0)}</td></tr>`).join('')}</tbody></table></details>` : '');
   }
 
   function renderCharts() {
@@ -1948,7 +1989,7 @@
       const selected = selectedUrls.has(j.url);
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
-      const sal = j._salDisp || j.salary;
+      const sal = j._salDisp || j.salary || 'Pay not disclosed';
       const comp = j.compensation || {};
       const annualized = j.employment_category === 'full_time' && comp.annualized_full_time_max
         ? `Full-time equivalent $${Math.round(comp.annualized_full_time_max / 1000)}k/yr` : '';
@@ -1956,7 +1997,7 @@
         ? `CA-equivalent $${Math.round(comp.california_equivalent_annual_max / 1000)}k/yr` : '';
       const payProvenance = j._paySource || comp.source_label || '';
       const verification = j.listing_verification && j.listing_verification.status === 'verified'
-        ? 'Listing checked' : (j.listing_verification && j.listing_verification.status === 'unavailable' ? 'Listing check unavailable' : '');
+        ? `Listing checked${j.pay_threshold_relaxed ? ' · Pay fallback' : ''}` : '';
       const score = (viewMode === 'rank' || sortMode === 'fit') ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const note = jobNote(j);
       const typeBits = [
@@ -2389,7 +2430,10 @@
       `${(CONFIG.profile && CONFIG.profile.subtitle) || 'All locations'} · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${VIEW.length} jobs`;
   }
   setInterval(() => {
-    if (!document.hidden && state._lastLoaded) updateSnapshotLine();
+    if (!document.hidden && state._lastLoaded) {
+      if (Date.now() - state._lastLoaded >= 86400000) refresh();
+      else updateSnapshotLine();
+    }
   }, 60000);
 
   // ---------- Events ----------
