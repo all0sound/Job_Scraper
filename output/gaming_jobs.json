@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08 18:40 UTC",
+  "scraped_at": "2026-10-08 18:44 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -22,13 +22,6 @@
         "date_source": "board",
         "employment_source": "board"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -40,6 +33,13 @@
         "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315"
       ],
       "salary_currency": "USD",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -61,13 +61,6 @@
         "date_source": "board",
         "employment_source": "board"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -79,6 +72,13 @@
         "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309"
       ],
       "salary_currency": "USD",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -99,15 +99,6 @@
         "posting_date_or_recency": "2026-10-01T14:16:45.788Z",
         "date_source": "employer"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "PLN 14200 - 24400 per month",
-        "currency": "PLN",
-        "period": "monthly",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "comparison_note": "Published in PLN; no USD conversion assumed"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -124,6 +115,15 @@
       ],
       "salary": "14200 - 24400 per month",
       "salary_currency": "USD",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "PLN 14200 - 24400 per month",
+        "currency": "PLN",
+        "period": "monthly",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "comparison_note": "Published in PLN; no USD conversion assumed"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -143,15 +143,6 @@
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956183",
         "posting_date_or_recency": "2026-10-01T14:17:33.946Z",
         "date_source": "employer"
-      },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "14200 - 24400 PLN per month",
-        "currency": "PLN",
-        "period": "monthly",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "comparison_note": "Published in PLN; no USD conversion assumed"
       },
       "sources": [
         "ASGC",
@@ -174,6 +165,15 @@
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181-senior-tech-qa-analyst-audio",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956183"
       ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "14200 - 24400 PLN per month",
+        "currency": "PLN",
+        "period": "monthly",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "comparison_note": "Published in PLN; no USD conversion assumed"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -255,13 +255,6 @@
         "date_source": "board",
         "employment_source": "board"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -273,6 +266,13 @@
         "https://gamejobs.co/Audio-Engineer-at-Side",
         "https://hitmarker.net/jobs/side-audio-engineer-5013068"
       ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -294,13 +294,6 @@
         "date_source": "board",
         "employment_source": "board"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -312,6 +305,13 @@
         "https://gamejobs.co/Freelance-Audio-Editor-at-Side-3516",
         "https://hitmarker.net/jobs/side-freelance-audio-editor-5013071"
       ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -332,15 +332,6 @@
         "posting_date_or_recency": "2026-09-28T15:16:45.236Z",
         "date_source": "employer"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "31 800 - 43 725 PLN per month",
-        "currency": "PLN",
-        "period": "monthly",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "comparison_note": "Published in PLN; no USD conversion assumed"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -360,6 +351,15 @@
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208583-lead-sound-designer",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208585"
       ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "31 800 - 43 725 PLN per month",
+        "currency": "PLN",
+        "period": "monthly",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "comparison_note": "Published in PLN; no USD conversion assumed"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -381,13 +381,6 @@
         "date_source": "board",
         "employment_source": "board"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -399,6 +392,13 @@
         "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist/216308"
       ],
       "salary_currency": "USD",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -420,14 +420,6 @@
         "posting_date_or_recency": "2026-09-24",
         "date_source": "employer"
       },
-      "work_arrangement": "On-site",
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -439,6 +431,14 @@
         "https://gamejobs.co/Lead-Sound-Designer-at-Larian-Studios"
       ],
       "salary_currency": "USD",
+      "work_arrangement": "On-site",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -460,13 +460,6 @@
         "date_source": "employer",
         "employment_source": "listing"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -476,6 +469,13 @@
       "duplicate_urls": [
         "https://gamejobs.co/Sound-Designer-at-Tripledot-Studios"
       ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
@@ -497,13 +497,6 @@
         "date_source": "board",
         "employment_source": "board"
       },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
       "sources": [
         "ASGC",
         "GameJobs.co",
@@ -514,6 +507,13 @@
         "https://gamejobs.co/Senior-Audio-Software-Engineer-at-Electronic-Arts-1600",
         "https://jobs.ea.com/en_US/careers/JobDetail/Senior-Audio-Software-Engineer/216092"
       ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {

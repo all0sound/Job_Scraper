@@ -102,6 +102,12 @@ class CurrentJobsTests(unittest.TestCase):
         scraper._merge_duplicate_job(previous, current)
         self.assertEqual(scraper._employment_classification(previous), "unknown")
 
+    def test_new_expiration_revokes_cached_verification(self):
+        previous = job()
+        current = job(listing_verification={"status": "expired", "checked_on": "2026-10-08"})
+        scraper._merge_duplicate_job(previous, current)
+        self.assertFalse(scraper._fresh_current_job(previous, now=NOW))
+
     def test_hidden_closed_banner_is_not_expiration(self):
         page = '<div class="w-condition-invisible">This position has been closed.</div><h1>Sound Designer</h1>'
         self.assertNotIn("closed", visible_text(page))

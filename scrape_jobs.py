@@ -3642,7 +3642,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     if len(jobs) < before:
         print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
     jobs = _filter_current_config_jobs(jobs)
+    checked_jobs = jobs
     jobs = _verify_listing_pages(jobs)
+    rejected_checks = [job for job in checked_jobs if (job.get("listing_verification") or {}).get("status") in {"expired", "unavailable"}]
     jobs = _filter_part_time_distance_jobs(jobs, label="role(s)")
     jobs, _, _ = _dedupe_master_jobs(jobs)
     for job in jobs:
@@ -3660,7 +3662,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     try:
         # Merge the full current source window, not only brand-new notifications:
         # existing sparse LinkedIn records can gain salary/description later.
-        _merge_into_all_jobs(jobs)
+        _merge_into_all_jobs(jobs + rejected_checks)
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
@@ -4010,6 +4012,21 @@ def reapply_saved_output_policy() -> None:
 def refresh_gaming_sources() -> list[dict]:
     from gaming_sources import scrape_gaming_sources
     jobs, sources = scrape_gaming_sources(is_mle_role_text, cache_path=os.path.join(OUTPUT_DIR, "listing_cache.json"))
+    cache = _read_json(os.path.join(OUTPUT_DIR, "listing_cache.json")) or {}
+    today = datetime.now(timezone.utc).date().isoformat()
+    failures = {url: result for url, result in cache.items() if result.get("failed_on") == today}
+    pool = _read_json(os.path.join(OUTPUT_DIR, "candidates.json")) or {}
+    invalidated = []
+    for candidate in pool.get("jobs", []):
+        url = next((url for url in _job_urls(candidate) if url in failures), None)
+        if url:
+            job = dict(candidate)
+            error = failures[url].get("error", "")
+            status = "expired" if re.search(r"closed|inactive|404|410", error, re.I) else "unavailable"
+            job["listing_verification"] = {"status": status, "checked_on": today, "listing_url": url, "detail": error}
+            invalidated.append(job)
+    if invalidated:
+        _merge_into_all_jobs(invalidated)
     save_jobs_output(jobs, basename="gaming_jobs", title=f"{PROFILE_LABEL} - Gaming Boards",
                      subtitle=PROFILE_SUBTITLE, accent="#276749",
                      empty_message="No current matching gaming roles.", window_label="posted within 21 days")
