@@ -41,7 +41,8 @@ jobs:
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f output/
           git diff --cached --quiet || git commit -m "chore: daily current job refresh"
-          git pull --rebase origin main
+          # In a rebase, theirs is this run's generated data, not the remote side.
+          git pull --rebase -X theirs origin main
           git push origin main
       - name: Rebuild the published dashboard
         if: vars.ENABLE_DATA_COMMITS == 'true'
