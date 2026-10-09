@@ -1,10 +1,6 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-10-09 18:51 UTC*
+*Last updated: 2026-10-09 20:31 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**0 new role(s)** since last run · 0 total in last 24h
 
-### [AV Systems Specialist & Audio Engineer](https://www.indeed.com/viewjob?jk=d23941152b3cdd1b) — Oaks Christian School
-- 📍 **Location:** Westlake Village, CA, USA
-- **Work mode:** On-site
-- **Job type:** Full time
-- 🕒 **Posted:** 2026-10-01
+No new roles since the last run.
