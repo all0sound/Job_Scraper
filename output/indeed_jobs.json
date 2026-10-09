@@ -1,40 +1,7 @@
 {
-  "scraped_at": "2026-10-08 18:48 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-09 08:00 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Oaks Christian School",
-      "title": "AV Systems Specialist & Audio Engineer",
-      "location": "Westlake Village, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=d23941152b3cdd1b",
-      "direct_url": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/viewRequisition?org=OAKSCHRISTIAN&cws=43&rid=977",
-      "company_url": "https://www.indeed.com/cmp/Oaks-Christian-School",
-      "date_posted": "2026-10-01",
-      "description": "**Oaks Christian School**\n\nJob Description\n\nAV Systems Specialist & Audio Engineer\n\nFull-Time (12-month), Non-Exempt, Category 4\n\n**Department:** Campus Production\n\n**Reports to:** Director of Campus Production\n\nThe AV Systems Specialist & Audio Engineer supports high-caliber production needs across all campus facilities and departments, including performing arts, admissions, advancement, athletics, student life, spiritual life and administration. In addition to ensuring professional execution of school events, the AV Systems Specialist & Audio Engineer manages AV systems installed across campus and mentors students in the craft of live audio production. The role combines technical experience, creative judgment, and collaborative event execution.\n\n**Essential Functions**\n\n**Live Event Production (Audio Engineer)**\n\n* Serve as lead A1 audio engineer for school-wide events including concerts, theatre productions, chapels, ceremonies and campus events. This role also includes supervising, performing, and instructing others in the duties of an A2 audio assistant.\n* Coordinate, plan, and execute technical live production logistics including stage plots, input lists, setups, rehearsals, and live operation of AV systems.\n* Collaborate with event organizers and stakeholders to elevate aesthetic, functional, and technical requirements for diverse event types.\n* Set up and configure AV systems for campus events as needed (locations where there is no installed AV system).\n\n**Equipment / Venue Support**\n\n* Maintain the readiness of AV systems through executing preventative maintenance, repair and replacement plans for campus AV systems.\n* Optimize AV system capabilities to ensure consistent, high-quality experiences for users, performers, and audiences.\n* Identify needs for upgrades, repairs, or replacements and coordinate work with vendors and contractors as necessary\n* Reduce reliance on outside contracts by building in-house capabilities\n\n**Cross Departmental Collaboration**\n\n* Provide AV production support to all departments as needed, including advancement, admissions, athletics, student life, spiritual life, administration, and others.\n* Coordinate with Operations and CFM teams where event support needs intersect\n* Advise in the design and integration of AV equipment and systems across campus\n* Support the school’s mission and brand by ensuring events are technically polished and professionally presented\n* Provide support to the entire Campus Production team on special projects or operational tasks, as needed\n\n**Student Mentorship / Educational Integration**\n\n* Mentor students in technical aspects of AV production (specifically audio)\n* Provide structured, hands-on experiences for students in collaboration with the Campus Production team\n* Create opportunities for event organizers and students to practice and experiment in event spaces during scheduled downtime to better prepare them for performances\n* Train performing arts faculty on basic use of AV systems in their classrooms and rehearsal spaces\n\n**Skills, Knowledge & Abilities**\n\n* Expert knowledge of audio systems and front-of-house (FOH) audio mixing for live events. Knowledge of and experience with monitor mixing for live events a plus.\n* Expert knowledge in wireless frequency coordination\n* Able to manage and maintain a wide range of professional AV platforms and equipment, including but not limited to Q-Sys, Shure, Blackmagic Design, Avid, Dante, L-Acoustics, and entertainment network hardware\n* Excellent troubleshooting and improvisational skills under live conditions\n* Strong organizational ability for asset tracking, documentation, and scheduling\n* Commitment to safety protocols and best practices in live event environments\n* Ability to lift and move heavy equipment up to 50 pounds\n* First Aid and CPR certification required (can certify while in the role)\n* Flexibility to work nights and weekends according to school event schedule\n\n**Education and/or Experience**\n\n* Degree or certificate in technical theatre, live event production, audio engineering, or related field\n* 5+ years of experience as an audio engineer for performing arts and/or live events, including live sound engineering, theatrical lighting, technical direction, and/or venue management\n* Prior experience in K-12, higher education, or similar educational environments preferred\n* Demonstrated experience mentoring or leading students is strongly preferred",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "Full time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "listing_verification": {
-        "listing_url": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/viewRequisition?org=OAKSCHRISTIAN&cws=43&rid=977",
-        "checked_on": "2026-10-08",
-        "status": "verified",
-        "posting_date_or_recency": "2026-10-01"
-      },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
