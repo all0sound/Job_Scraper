@@ -6812,3 +6812,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "38084201756", "timestamp": "2026-10-10T20:33:33Z", "workflow": "scholarshipdb"}
 {"job_count": 0, "run_attempt": "1", "run_id": "38084633846", "timestamp": "2026-10-10T20:40:12Z", "workflow": "higheredjobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "38092001339", "timestamp": "2026-10-10T23:40:54Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "38095961903", "timestamp": "2026-10-10T23:43:39Z", "workflow": "ziprecruiter"}
