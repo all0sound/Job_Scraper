@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10 17:52 UTC",
+  "scraped_at": "2026-10-11 18:06 UTC",
   "total": 14,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Audio Engineer",
@@ -16,7 +16,7 @@
       "direct_url": "https://apply.workable.com/sideinc/j/019EEF61EB#/london-england-united-kingdom",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
         "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
         "date_source": "board",
@@ -53,7 +53,7 @@
       "direct_url": "https://apply.workable.com/sideinc/j/295A559DE9#/kuala-lumpur-federal-territory-of-kuala-lumpur-malaysia",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://apply.workable.com/sideinc/j/295A559DE9",
         "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
         "date_source": "board",
@@ -90,7 +90,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -123,7 +123,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -156,7 +156,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -184,7 +184,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -212,7 +212,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159",
         "posting_date_or_recency": "2026-10-01T14:16:45.788Z",
         "date_source": "employer",
@@ -223,15 +223,16 @@
         "Grackle HQ",
         "Hitmarker"
       ],
+      "salary": "14200 - 24400 per month",
+      "salary_currency": "USD",
       "duplicate_urls": [
         "https://gracklehq.com/rd/383041",
+        "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-4688244",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-5017807",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000147141259-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159"
       ],
-      "salary": "14200 - 24400 per month",
-      "salary_currency": "USD",
       "employment_category": "full_time",
       "compensation": {
         "nominal": "PLN 14200 - 24400 per month",
@@ -256,7 +257,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956183",
         "posting_date_or_recency": "2026-10-01T14:17:33.946Z",
         "date_source": "employer",
@@ -303,7 +304,7 @@
       "direct_url": "https://certainaffinityinc.applytojob.com/apply/nxCwnwjSmc/Senior-Technical-Sound-Designer",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://certainaffinityinc.applytojob.com/apply/nxCwnwjSmc/Senior-Technical-Sound-Designer",
         "posting_date_or_recency": "2026-10-01",
         "date_source": "employer",
@@ -334,7 +335,7 @@
       "direct_url": "https://certainaffinityinc.applytojob.com/apply/16N5sNqN99/Sound-Designer",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://certainaffinityinc.applytojob.com/apply/16N5sNqN99/Sound-Designer",
         "posting_date_or_recency": "2026-10-01",
         "date_source": "employer",
@@ -363,7 +364,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208583",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208585",
         "posting_date_or_recency": "2026-09-28T15:16:45.236Z",
         "date_source": "employer",
@@ -410,7 +411,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist---EA-Sports-FC/216308",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist---EA-Sports-FC/216308",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -439,7 +440,7 @@
       "direct_url": "https://jobs.lever.co/larian/fb34c40e-c03c-459d-af2c-02c45581b737",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://jobs.lever.co/larian/fb34c40e-c03c-459d-af2c-02c45581b737",
         "posting_date_or_recency": "2026-09-24",
         "date_source": "employer",
@@ -474,7 +475,7 @@
       "direct_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4982610101",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-10",
+        "checked_on": "2026-10-11",
         "listing_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4982610101",
         "posting_date_or_recency": "2026-09-22T07:09:24-04:00",
         "date_source": "employer",
@@ -495,43 +496,5 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Audio Engineer",
-      "company": "Side",
-      "url": "https://apply.workable.com/j/019EEF61EB#/london-england-united-kingdom",
-      "ats": "ASGC",
-      "job_type": "Part-Time",
-      "location": "London, England, United Kingdom",
-      "board_activated_on": "2026-10-09",
-      "date_posted": "2026-09-29T22:00:00+00:00",
-      "description": "Audio Engineer - Side",
-      "direct_url": "https://apply.workable.com/sideinc/j/019EEF61EB#/london-england-united-kingdom",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-10",
-        "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
-        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
-        "date_source": "board",
-        "employment_source": "board"
-      },
-      "sources": [
-        "ASGC",
-        "Hitmarker"
-      ],
-      "salary_currency": "USD",
-      "duplicate_urls": [
-        "https://apply.workable.com/sideinc/j/019EEF61EB",
-        "https://hitmarker.net/jobs/side-audio-engineer-5013068"
-      ],
-      "employment_category": "part_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exclusion": "Part-time role is outside 100 miles"
-    }
-  ]
+  "new_jobs": []
 }
