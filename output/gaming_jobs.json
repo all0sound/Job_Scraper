@@ -1,82 +1,8 @@
 {
-  "scraped_at": "2026-10-14 18:02 UTC",
+  "scraped_at": "2026-10-15 17:48 UTC",
   "total": 13,
-  "new_count": 1,
+  "new_count": 2,
   "jobs": [
-    {
-      "title": "Audio Engineer",
-      "company": "Side",
-      "url": "https://apply.workable.com/j/019EEF61EB#/london-england-united-kingdom",
-      "ats": "ASGC",
-      "job_type": "Part-Time",
-      "location": "London, England, United Kingdom",
-      "board_activated_on": "2026-10-09",
-      "date_posted": "2026-09-29T22:00:00+00:00",
-      "description": "Audio Engineer - Side",
-      "direct_url": "https://apply.workable.com/sideinc/j/019EEF61EB#/london-england-united-kingdom",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-14",
-        "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
-        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
-        "date_source": "board",
-        "employment_source": "board"
-      },
-      "sources": [
-        "ASGC",
-        "Hitmarker"
-      ],
-      "salary_currency": "USD",
-      "duplicate_urls": [
-        "https://apply.workable.com/sideinc/j/019EEF61EB",
-        "https://hitmarker.net/jobs/side-audio-engineer-5013068"
-      ],
-      "employment_category": "part_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exclusion": "Part-time role is outside 100 miles"
-    },
-    {
-      "title": "Freelance Audio Editor",
-      "company": "Side",
-      "url": "https://apply.workable.com/j/295A559DE9#/kuala-lumpur-federal-territory-of-kuala-lumpur-malaysia",
-      "ats": "ASGC",
-      "job_type": "Full-Time",
-      "location": "Kuala Lumpur, Kuala Lumpur, Malaysia",
-      "board_activated_on": "2026-10-09",
-      "date_posted": "2026-09-29T22:00:00+00:00",
-      "description": "Freelance Audio Editor - Side",
-      "direct_url": "https://apply.workable.com/sideinc/j/295A559DE9#/kuala-lumpur-federal-territory-of-kuala-lumpur-malaysia",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-14",
-        "listing_url": "https://apply.workable.com/sideinc/j/295A559DE9",
-        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
-        "date_source": "board",
-        "employment_source": "board"
-      },
-      "sources": [
-        "ASGC",
-        "Hitmarker"
-      ],
-      "salary_currency": "USD",
-      "duplicate_urls": [
-        "https://apply.workable.com/sideinc/j/295A559DE9",
-        "https://hitmarker.net/jobs/side-freelance-audio-editor-5013071"
-      ],
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
     {
       "title": "Audio Artist II - FC",
       "company": "EA Sports",
@@ -90,7 +16,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -123,7 +49,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -156,7 +82,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -184,7 +110,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -212,7 +138,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159",
         "posting_date_or_recency": "2026-10-01T14:16:45.788Z",
         "date_source": "employer",
@@ -223,16 +149,15 @@
         "Grackle HQ",
         "Hitmarker"
       ],
-      "salary": "14200 - 24400 per month",
-      "salary_currency": "USD",
       "duplicate_urls": [
         "https://gracklehq.com/rd/383041",
-        "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-4688244",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-5017807",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000147141259-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159"
       ],
+      "salary": "14200 - 24400 per month",
+      "salary_currency": "USD",
       "employment_category": "full_time",
       "compensation": {
         "nominal": "PLN 14200 - 24400 per month",
@@ -257,7 +182,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956183",
         "posting_date_or_recency": "2026-10-01T14:17:33.946Z",
         "date_source": "employer",
@@ -304,7 +229,7 @@
       "direct_url": "https://certainaffinityinc.applytojob.com/apply/nxCwnwjSmc/Senior-Technical-Sound-Designer",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://certainaffinityinc.applytojob.com/apply/nxCwnwjSmc/Senior-Technical-Sound-Designer",
         "posting_date_or_recency": "2026-10-01",
         "date_source": "employer",
@@ -335,7 +260,7 @@
       "direct_url": "https://certainaffinityinc.applytojob.com/apply/16N5sNqN99/Sound-Designer",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://certainaffinityinc.applytojob.com/apply/16N5sNqN99/Sound-Designer",
         "posting_date_or_recency": "2026-10-01",
         "date_source": "employer",
@@ -364,7 +289,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208583",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208585",
         "posting_date_or_recency": "2026-09-28T15:16:45.236Z",
         "date_source": "employer",
@@ -411,7 +336,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist---EA-Sports-FC/216308",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist---EA-Sports-FC/216308",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -440,7 +365,7 @@
       "direct_url": "https://jobs.lever.co/larian/fb34c40e-c03c-459d-af2c-02c45581b737",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
+        "checked_on": "2026-10-15",
         "listing_url": "https://jobs.lever.co/larian/fb34c40e-c03c-459d-af2c-02c45581b737",
         "posting_date_or_recency": "2026-09-24",
         "date_source": "employer",
@@ -461,41 +386,124 @@
         "source_label": "Reputable secondary board"
       },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "title": "Audio Artist III - FC",
-      "company": "EA Sports",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
-      "ats": "ASGC",
-      "job_type": "Full-Time",
-      "location": "Vancouver, British Columbia, Canada",
-      "board_activated_on": "2026-10-05",
-      "date_posted": "2026-10-05T05:20:00+00:00",
-      "description": "Audio Artist III - FC - 216309 - Electronic Arts Skip to content Electronic Arts Open Roles About EA EA Careers EA News Login English - US Chinese English - US Finnish Français Italian Korean Malay Polish Romanian Spanish Swedish Audio Artist III - FC Home ... Open Roles Role Detail General Information Locations : Vancouver, British Columbia, Canada Role ID 216309 Worker Type Temporary Employee Studio/Department EA Studios - SPORTS Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions worldwide to the sports they love through a portfolio of industry-leading video games. Building on an incredible 30-year foundation, we’re redefining football with EA SPORTS FC - a genre-leading ecosystem of interactive experiences, bringing a global community of football fans closer to The World's Game. Together, we’re taking the largest football club in the world to new heights – and this is just the beginning! With more opportunities than ever to innovate and create new, authentic experiences that bring joy, inclusivity, and immersion to fans everywhere, we invite you to join us as we pioneer the future of football with EA SPORTS FC and welcome everyone to the club! FC Audio team is looking for an experienced Audio Artist who can immediately contribute to audio development. You will oversee the audio-specific project(s) to create/maintain a quality audio experience. You are expected to have experience in all audio design and production phases, with proficiency in at least one audio discipline/area. Experience with VO and technical implementation of game audio are prerequisites. You will report to the Development Manager and work with the Audio leads. If this sounds like you – submit your application and join us on this journey! Responsibilities Create quality audio for our video games, with a high focus on authentic dialogue to suit our story-driven game experiences Author small, well-defined audio-related tasks with a high focus on content pipelines Directly support feature(s), small project(s), or task(s) within the Speech discipline Complete technical implementation, logic, and data-basing tasks, all catered to the user experience Participates in project problem solving with audio team Manage editor package imports, sample handling, and database updates Preform Quality control review for the project's audio (pre-CQC) on all applicable platforms Create software design to support custom source elements Manage source control, submit to file depots, and handle build pipelines Participate in team collaboration but also work independently Collaborate in prototyping and driving innovation and improvements Take direction from Audio Leads and other senior audio artists on the project, but still express your creativity and design insight Qualifications 7-10 years' studio engineering/recording/VO experience (or equivalent) 5+ years game audio experience Technical game audio implementation experience required Proficiency in at least one audio middleware software (Wwise, Fmod) Experience with third-party game engines (Unity, Unreal, etc.) Expert in Microsoft Office tools (Excel, Word, Access, PowerPoint) Knowledge of code or scripting language (C#, C++, SQL, Python, Lua, etc.) Knowledge of the sport and game (FC27) Database experience (MS Access, Excel, Google Sheets) working with large data sets Solid experience using game audio development tools, technology, and pipelines Proficiency with modern audio creation equipment, software and recording techniques, with a high level of proficiency in at least one DAW Solid knowledge of PC and console audio hardware Exceptional sound design skills Works well as part of a team but also autonomously Experience with tracking documentation Able to methodically manage & track large amounts of data Bonus Skills Experience with Quality Assurance Verification Experience with onboarding new team members Knowledge and familiarity with Professional sports (mainly Football/Soccer), teams, leagues Proficiency with VBA macros, SQL, Python, JavaScript, etc. Experience with remote VO recording sessions Pay Transparency - North America COMPENSATION AND BENEFITS The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). PAY RANGES * British Columbia (depending on location e.g. Vancouver vs. Victoria) *$77,700 - $107,900 CAD Pay is just one part of the overall compensation at EA. In Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance. About Electronic Arts We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth. We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do. Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. Post To External careers site, Internal careers site LinkedInID 74884070 Back to Role List Apply Share this role: LinkedIn X WhatsApp Email Facebook © 2026\n\n                                    Electronic Arts Inc. Copyright ©\n\n                                    2026 Candidate Privacy Notice Notice at Collection (California)",
-      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
+      "title": "Audio Engineer",
+      "url": "https://hitmarker.net/jobs/side-audio-engineer-5013068",
+      "company": "Side",
+      "description": "Audio Engineer - Side",
+      "ats": "Hitmarker",
+      "direct_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
+      "job_type": "Contract",
+      "date_posted": "2026-09-29T22:00:00+00:00",
+      "location": "London, UK",
+      "salary": "",
+      "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-14",
-        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
-        "posting_date_or_recency": "",
+        "checked_on": "2026-10-15",
+        "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
+        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
         "date_source": "board",
         "employment_source": "board"
       },
-      "sources": [
-        "ASGC",
-        "Hitmarker"
-      ],
-      "salary_currency": "USD",
-      "employment_category": "full_time",
+      "employment_category": "unknown",
       "compensation": {
         "nominal": "",
         "period": "",
         "source": "reputable_secondary_board",
         "source_label": "Reputable secondary board"
       },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+      "policy_exclusion": "Employment schedule is not stated"
+    },
+    {
+      "title": "Freelance Audio Editor",
+      "url": "https://hitmarker.net/jobs/side-freelance-audio-editor-5013071",
+      "company": "Side",
+      "description": "Freelance Audio Editor - Side",
+      "ats": "Hitmarker",
+      "direct_url": "https://apply.workable.com/sideinc/j/295A559DE9",
+      "job_type": "Freelance",
+      "date_posted": "2026-09-29T22:00:00+00:00",
+      "location": "Kuala Lumpur, Malaysia",
+      "salary": "",
+      "salary_currency": "USD",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-10-15",
+        "listing_url": "https://apply.workable.com/sideinc/j/295A559DE9",
+        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
+        "date_source": "board",
+        "employment_source": "board"
+      },
+      "employment_category": "unknown",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exclusion": "Employment schedule is not stated"
+    }
+  ],
+  "new_jobs": [
+    {
+      "title": "Audio Engineer",
+      "url": "https://hitmarker.net/jobs/side-audio-engineer-5013068",
+      "company": "Side",
+      "description": "Audio Engineer - Side",
+      "ats": "Hitmarker",
+      "direct_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
+      "job_type": "Contract",
+      "date_posted": "2026-09-29T22:00:00+00:00",
+      "location": "London, UK",
+      "salary": "",
+      "salary_currency": "USD",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-10-15",
+        "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
+        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
+        "date_source": "board",
+        "employment_source": "board"
+      },
+      "employment_category": "unknown",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exclusion": "Employment schedule is not stated"
+    },
+    {
+      "title": "Freelance Audio Editor",
+      "url": "https://hitmarker.net/jobs/side-freelance-audio-editor-5013071",
+      "company": "Side",
+      "description": "Freelance Audio Editor - Side",
+      "ats": "Hitmarker",
+      "direct_url": "https://apply.workable.com/sideinc/j/295A559DE9",
+      "job_type": "Freelance",
+      "date_posted": "2026-09-29T22:00:00+00:00",
+      "location": "Kuala Lumpur, Malaysia",
+      "salary": "",
+      "salary_currency": "USD",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-10-15",
+        "listing_url": "https://apply.workable.com/sideinc/j/295A559DE9",
+        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
+        "date_source": "board",
+        "employment_source": "board"
+      },
+      "employment_category": "unknown",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exclusion": "Employment schedule is not stated"
     }
   ]
 }
