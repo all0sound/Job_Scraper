@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17 16:25 UTC",
+  "scraped_at": "2026-10-18 16:33 UTC",
   "total": 14,
   "new_count": 1,
   "jobs": [
@@ -20,7 +20,7 @@
       "direct_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
         "posting_date_or_recency": "2026-10-16",
         "date_source": "employer",
@@ -43,21 +43,21 @@
       "distance_miles": 386.9
     },
     {
-      "title": "Sound Designer – Unpublished R&D Product (Contract)",
-      "company": "Riot Games",
-      "url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
+      "title": "Composer / Sound Designer",
+      "company": "Playtech",
+      "url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
       "ats": "ASGC",
-      "job_type": "Full-Time",
-      "location": "Guangzhou, China",
+      "job_type": "Full-time",
+      "location": "Sofia, , Bulgaria",
       "board_activated_on": "2026-10-15",
-      "date_posted": "2026-10-15T02:13:06-04:00",
-      "description": "岗位定位 我们希望找到一位对游戏、玩家体验和声音设计充满热情的游戏音频设计师。 你将与游戏设计、美术、叙事、动画、工程等团队紧密合作 。 这不仅是一个“制作声音资产”的岗位。你需要理解 为什么需要这个声音、玩家什么时候听到它，以及它如何服务于玩法和体验。 主要职责 负责游戏中 音效的设计、制作与实现。 根据玩法目标和玩家体验，建立清晰、有辨识度且具有情绪表现力的声音语言。 参与游戏音乐设计 。 使用 Wwise / FMOD / Unreal / Unity 或内部引擎 完成音频资产的游戏内实现。 设计音乐与音效的 state 、Transition、Layer、Trigger及其他交互逻辑。 与 Game Design、Art、Narrative、Animation、Engineering 等团队合作，将抽象体验目标转化为可执行的音频方案。 在保证艺术品质的同时，关注 玩法信息传达、声音层级、可读性以及游戏性能 。 主动根据玩家反馈、测试结果和团队反馈持续迭代。 与外部作曲家、录音师、音频供应商等合作，并能够提供明确、有效的创作反馈。 任职要求 具备成熟的 游戏音效设计与制作能力 ，能够独立完成从概念到游戏内落地的完整流程。 熟练使用主流 DAW 及声音设计工具，如 Pro Tools、Reaper、Nuendo、Ableton、iZotope 等。 熟悉 Wwise / FMOD 等音频中间件，并具备实际游戏项目实施经验。 理解游戏引擎中的音频工作方式，具备 Unreal、Unity 或其他商业/自研引擎经验。 对 Gameplay Feedback、声音层级、空间音频和交互式音频系统 有深入理解。 能够理解产品和设计目标，而不是仅从单一声音资产的品质出发进行设计。 具备良好的跨职能沟通能力，能够清晰表达设计意图，并处理来自不同专业方向的反馈和分歧。 我们尤其看重 能够从 玩家体验 而不是单纯从音频专业角度判断方案。 能够解释自己的设计决策，而不仅仅依赖个人审美。 面对设计、工程或制作限制时，能够找到体验、品质和成本之间的合理平衡。 能够主动发现体验问题，并推动相关团队一起解决。 对反馈开放，同时拥有明确的专业判断和设计立场。 加分项 参与过完整上线的 PC / Console / Mobile 游戏项目。 熟悉交互式音乐设计及实时音乐系统。 具有作曲、编曲或乐器演奏能力。 具有 Voice Over 制作、录音及后期经验。 具备基础 Blueprint / Lua / Python 或其他脚本能力。 有大型全球化团队或跨地区协作经验。 作品集要求 作品集建议包含： 游戏内实际音效设计案例 Gameplay Feedback 音频案例 环境及空间声音设计 交互式音乐或音乐系统案例 Wwise / FMOD / 游戏引擎内实现案例 我们尤其希望看到的不只是最终 Demo，而是： 设计目标 → 音频思路 → 游戏内实现 → 最终玩家体验 并请明确说明每个案例中 你本人负责的具体部分 。 用工性质：与专业人事服务公司FESCO Adecco签订劳动合同 #LI-DNP",
-      "direct_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
+      "date_posted": "2026-10-15T11:06:32.048Z",
+      "description": "About Playtech Founded in 1999, the company has a premium listing on the Main Market of the London Stock Exchange and is focused on regulated and regulating markets across its B2B business. By leveraging its proprietary technology, Playtech delivers innovative products and services to ensure a safe, engaging and entertaining gaming experience. As the gaming industry's leading technology company, it combines business intelligence-driven software, services, content, and platform technology to drive excellence and innovation across the sector. Read more about who we are and what we do here: www.playtechpeople.com and www.playtech.com Here at Playtech, we genuinely believe that people are our biggest asset. Diverse thoughts, experiences, and individual characteristics enrich our work environment and lead to better business decisions. Embracing differences and maintaining transparency in our processes is the core of Playtech's overall commitment to responsible business practices. Ready to level up your career? Playtech's Sound team is looking for a talented Composer/Sound Designer to collaborate with our international team and create immersive in-game music, design sound effects, and prepare sound packages for our online slot games. HOW TO APPLY? A portfolio showcasing music and sound design work created for slot games is a mandatory part of the application. Please submit your CV together with multiple relevant work samples and, where possible, video demonstrations of completed projects. Your influential mission. You will... Create in-game music in a variety of genres for online slot games. Design sound effects and musical parts for animations and game events. Prepare game packages in a variety of sound formats. Edit and mix sound for promo videos. Components for success. You... Possess 1+ years of experience in composing and sound design in the slot industry. Ability to provide examples of completed slot game work, ideally including video demonstrations of the final implementation. Have a passion for composing music and creating engaging audio experiences for players. Have access to a home studio with your own music production setup and extensive SFX libraries. Have experience composing original music across multiple genres, including orchestral, traditional, rock, electronic, and dance. Have a strong understanding of adaptive and interactive game audio, including loopable music, gameplay-driven transitions, anticipation builds, and bonus stingers. Are experienced creating high-quality sound effects for games and interactive products. Demonstrate strong audio editing, arranging, mixing, and mastering skills. Possess advanced proficiency with professional DAWs such as Ableton, Nuendo, Pro Tools, or similar. Have strong knowledge of industry-standard plugins, virtual instruments, and modern music production workflows. Are comfortable playing and recording musical instruments as part of the creative process. Understand player behaviour and the role audio plays in engagement and game performance. Thrive in a collaborative environment and enjoy working closely with designers, artists, developers, product teams, and external partners. Are able to work independently and confidently guide the creative direction of projects through music references and concepts. Communicate proficiently in English. You'll get extra points for... Prior experience in the gaming/slot industry. Thrive in a culture that values... Initiative-taking and confident approach at the workplace. Global scope and inclusive working environment. Constant learning and development opportunities. Active lifestyle and mental well-being. Fun and engaging company events. SOUND TEAM There are several global game production studios within the Playtech family. Each studio is made up of Game Producers, Artists, Animators, Mathematicians, and Developers who collaborate to create high‑quality content for top‑performing games. These games are then distributed to our clients and players around the world. As a Composer/Sound Designer, you will be part of our Ash studio sound creative team and work closely with Game Producers and Studio Artists to bring our content to life through music and sound effects. Playtech is an equal opportunities employer. Our mission is to welcome everyone and create inclusive teams. We celebrate differences and encourage everyone to join us and be themselves at work.",
+      "direct_url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
-        "listing_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
-        "posting_date_or_recency": "2026-10-15T02:13:06-04:00",
+        "checked_on": "2026-10-18",
+        "listing_url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
+        "posting_date_or_recency": "2026-10-15T11:06:32.048Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
@@ -71,21 +71,21 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
-      "title": "Composer / Sound Designer",
-      "company": "Playtech",
-      "url": "https://jobs.smartrecruiters.com/playtech/744000155730880",
+      "title": "Sound Designer – Unpublished R&D Product (Contract)",
+      "company": "Riot Games",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
       "ats": "ASGC",
-      "job_type": "Full-time",
-      "location": "Sofia, , Bulgaria",
+      "job_type": "Full-Time",
+      "location": "Guangzhou, China",
       "board_activated_on": "2026-10-15",
-      "date_posted": "2026-10-15T11:06:32.048Z",
-      "description": "About Playtech Founded in 1999, the company has a premium listing on the Main Market of the London Stock Exchange and is focused on regulated and regulating markets across its B2B business. By leveraging its proprietary technology, Playtech delivers innovative products and services to ensure a safe, engaging and entertaining gaming experience. As the gaming industry's leading technology company, it combines business intelligence-driven software, services, content, and platform technology to drive excellence and innovation across the sector. Read more about who we are and what we do here: www.playtechpeople.com and www.playtech.com Here at Playtech, we genuinely believe that people are our biggest asset. Diverse thoughts, experiences, and individual characteristics enrich our work environment and lead to better business decisions. Embracing differences and maintaining transparency in our processes is the core of Playtech's overall commitment to responsible business practices. Ready to level up your career? Playtech's Sound team is looking for a talented Composer/Sound Designer to collaborate with our international team and create immersive in-game music, design sound effects, and prepare sound packages for our online slot games. HOW TO APPLY? A portfolio showcasing music and sound design work created for slot games is a mandatory part of the application. Please submit your CV together with multiple relevant work samples and, where possible, video demonstrations of completed projects. Your influential mission. You will... Create in-game music in a variety of genres for online slot games. Design sound effects and musical parts for animations and game events. Prepare game packages in a variety of sound formats. Edit and mix sound for promo videos. Components for success. You... Possess 1+ years of experience in composing and sound design in the slot industry. Ability to provide examples of completed slot game work, ideally including video demonstrations of the final implementation. Have a passion for composing music and creating engaging audio experiences for players. Have access to a home studio with your own music production setup and extensive SFX libraries. Have experience composing original music across multiple genres, including orchestral, traditional, rock, electronic, and dance. Have a strong understanding of adaptive and interactive game audio, including loopable music, gameplay-driven transitions, anticipation builds, and bonus stingers. Are experienced creating high-quality sound effects for games and interactive products. Demonstrate strong audio editing, arranging, mixing, and mastering skills. Possess advanced proficiency with professional DAWs such as Ableton, Nuendo, Pro Tools, or similar. Have strong knowledge of industry-standard plugins, virtual instruments, and modern music production workflows. Are comfortable playing and recording musical instruments as part of the creative process. Understand player behaviour and the role audio plays in engagement and game performance. Thrive in a collaborative environment and enjoy working closely with designers, artists, developers, product teams, and external partners. Are able to work independently and confidently guide the creative direction of projects through music references and concepts. Communicate proficiently in English. You'll get extra points for... Prior experience in the gaming/slot industry. Thrive in a culture that values... Initiative-taking and confident approach at the workplace. Global scope and inclusive working environment. Constant learning and development opportunities. Active lifestyle and mental well-being. Fun and engaging company events. SOUND TEAM There are several global game production studios within the Playtech family. Each studio is made up of Game Producers, Artists, Animators, Mathematicians, and Developers who collaborate to create high‑quality content for top‑performing games. These games are then distributed to our clients and players around the world. As a Composer/Sound Designer, you will be part of our Ash studio sound creative team and work closely with Game Producers and Studio Artists to bring our content to life through music and sound effects. Playtech is an equal opportunities employer. Our mission is to welcome everyone and create inclusive teams. We celebrate differences and encourage everyone to join us and be themselves at work.",
-      "direct_url": "https://jobs.smartrecruiters.com/playtech/744000155730880",
+      "date_posted": "2026-10-15T02:13:06-04:00",
+      "description": "岗位定位 我们希望找到一位对游戏、玩家体验和声音设计充满热情的游戏音频设计师。 你将与游戏设计、美术、叙事、动画、工程等团队紧密合作 。 这不仅是一个“制作声音资产”的岗位。你需要理解 为什么需要这个声音、玩家什么时候听到它，以及它如何服务于玩法和体验。 主要职责 负责游戏中 音效的设计、制作与实现。 根据玩法目标和玩家体验，建立清晰、有辨识度且具有情绪表现力的声音语言。 参与游戏音乐设计 。 使用 Wwise / FMOD / Unreal / Unity 或内部引擎 完成音频资产的游戏内实现。 设计音乐与音效的 state 、Transition、Layer、Trigger及其他交互逻辑。 与 Game Design、Art、Narrative、Animation、Engineering 等团队合作，将抽象体验目标转化为可执行的音频方案。 在保证艺术品质的同时，关注 玩法信息传达、声音层级、可读性以及游戏性能 。 主动根据玩家反馈、测试结果和团队反馈持续迭代。 与外部作曲家、录音师、音频供应商等合作，并能够提供明确、有效的创作反馈。 任职要求 具备成熟的 游戏音效设计与制作能力 ，能够独立完成从概念到游戏内落地的完整流程。 熟练使用主流 DAW 及声音设计工具，如 Pro Tools、Reaper、Nuendo、Ableton、iZotope 等。 熟悉 Wwise / FMOD 等音频中间件，并具备实际游戏项目实施经验。 理解游戏引擎中的音频工作方式，具备 Unreal、Unity 或其他商业/自研引擎经验。 对 Gameplay Feedback、声音层级、空间音频和交互式音频系统 有深入理解。 能够理解产品和设计目标，而不是仅从单一声音资产的品质出发进行设计。 具备良好的跨职能沟通能力，能够清晰表达设计意图，并处理来自不同专业方向的反馈和分歧。 我们尤其看重 能够从 玩家体验 而不是单纯从音频专业角度判断方案。 能够解释自己的设计决策，而不仅仅依赖个人审美。 面对设计、工程或制作限制时，能够找到体验、品质和成本之间的合理平衡。 能够主动发现体验问题，并推动相关团队一起解决。 对反馈开放，同时拥有明确的专业判断和设计立场。 加分项 参与过完整上线的 PC / Console / Mobile 游戏项目。 熟悉交互式音乐设计及实时音乐系统。 具有作曲、编曲或乐器演奏能力。 具有 Voice Over 制作、录音及后期经验。 具备基础 Blueprint / Lua / Python 或其他脚本能力。 有大型全球化团队或跨地区协作经验。 作品集要求 作品集建议包含： 游戏内实际音效设计案例 Gameplay Feedback 音频案例 环境及空间声音设计 交互式音乐或音乐系统案例 Wwise / FMOD / 游戏引擎内实现案例 我们尤其希望看到的不只是最终 Demo，而是： 设计目标 → 音频思路 → 游戏内实现 → 最终玩家体验 并请明确说明每个案例中 你本人负责的具体部分 。 用工性质：与专业人事服务公司FESCO Adecco签订劳动合同 #LI-DNP",
+      "direct_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
-        "listing_url": "https://jobs.smartrecruiters.com/playtech/744000155730880",
-        "posting_date_or_recency": "2026-10-15T11:06:32.048Z",
+        "checked_on": "2026-10-18",
+        "listing_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
+        "posting_date_or_recency": "2026-10-15T02:13:06-04:00",
         "date_source": "employer",
         "employment_source": "listing"
       },
@@ -111,7 +111,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -134,27 +134,22 @@
     {
       "title": "Audio Artist III - FC",
       "company": "EA Sports",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
       "ats": "ASGC",
       "job_type": "Full-Time",
       "location": "Vancouver, British Columbia, Canada",
       "board_activated_on": "2026-10-05",
-      "date_posted": "2026-10-05T05:20:00+00:00",
+      "date_posted": "",
       "description": "Audio Artist III - FC - 216309 - Electronic Arts Skip to content Electronic Arts Open Roles About EA EA Careers EA News Login English - US Chinese English - US Finnish Français Italian Korean Malay Polish Romanian Spanish Swedish Audio Artist III - FC Home ... Open Roles Role Detail General Information Locations : Vancouver, British Columbia, Canada Role ID 216309 Worker Type Temporary Employee Studio/Department EA Studios - SPORTS Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions worldwide to the sports they love through a portfolio of industry-leading video games. Building on an incredible 30-year foundation, we’re redefining football with EA SPORTS FC - a genre-leading ecosystem of interactive experiences, bringing a global community of football fans closer to The World's Game. Together, we’re taking the largest football club in the world to new heights – and this is just the beginning! With more opportunities than ever to innovate and create new, authentic experiences that bring joy, inclusivity, and immersion to fans everywhere, we invite you to join us as we pioneer the future of football with EA SPORTS FC and welcome everyone to the club! FC Audio team is looking for an experienced Audio Artist who can immediately contribute to audio development. You will oversee the audio-specific project(s) to create/maintain a quality audio experience. You are expected to have experience in all audio design and production phases, with proficiency in at least one audio discipline/area. Experience with VO and technical implementation of game audio are prerequisites. You will report to the Development Manager and work with the Audio leads. If this sounds like you – submit your application and join us on this journey! Responsibilities Create quality audio for our video games, with a high focus on authentic dialogue to suit our story-driven game experiences Author small, well-defined audio-related tasks with a high focus on content pipelines Directly support feature(s), small project(s), or task(s) within the Speech discipline Complete technical implementation, logic, and data-basing tasks, all catered to the user experience Participates in project problem solving with audio team Manage editor package imports, sample handling, and database updates Preform Quality control review for the project's audio (pre-CQC) on all applicable platforms Create software design to support custom source elements Manage source control, submit to file depots, and handle build pipelines Participate in team collaboration but also work independently Collaborate in prototyping and driving innovation and improvements Take direction from Audio Leads and other senior audio artists on the project, but still express your creativity and design insight Qualifications 7-10 years' studio engineering/recording/VO experience (or equivalent) 5+ years game audio experience Technical game audio implementation experience required Proficiency in at least one audio middleware software (Wwise, Fmod) Experience with third-party game engines (Unity, Unreal, etc.) Expert in Microsoft Office tools (Excel, Word, Access, PowerPoint) Knowledge of code or scripting language (C#, C++, SQL, Python, Lua, etc.) Knowledge of the sport and game (FC27) Database experience (MS Access, Excel, Google Sheets) working with large data sets Solid experience using game audio development tools, technology, and pipelines Proficiency with modern audio creation equipment, software and recording techniques, with a high level of proficiency in at least one DAW Solid knowledge of PC and console audio hardware Exceptional sound design skills Works well as part of a team but also autonomously Experience with tracking documentation Able to methodically manage & track large amounts of data Bonus Skills Experience with Quality Assurance Verification Experience with onboarding new team members Knowledge and familiarity with Professional sports (mainly Football/Soccer), teams, leagues Proficiency with VBA macros, SQL, Python, JavaScript, etc. Experience with remote VO recording sessions Pay Transparency - North America COMPENSATION AND BENEFITS The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). PAY RANGES * British Columbia (depending on location e.g. Vancouver vs. Victoria) *$77,700 - $107,900 CAD Pay is just one part of the overall compensation at EA. In Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance. About Electronic Arts We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth. We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do. Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. Post To External careers site, Internal careers site LinkedInID 74884070 Back to Role List Apply Share this role: LinkedIn X WhatsApp Email Facebook © 2026\n\n                                    Electronic Arts Inc. Copyright ©\n\n                                    2026 Candidate Privacy Notice Notice at Collection (California)",
-      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
+      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
-        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
+        "checked_on": "2026-10-18",
+        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
         "employment_source": "board"
       },
-      "sources": [
-        "ASGC",
-        "Hitmarker"
-      ],
-      "salary_currency": "USD",
       "employment_category": "full_time",
       "compensation": {
         "nominal": "",
@@ -177,7 +172,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -200,17 +195,26 @@
       "job_type": "Full-Time",
       "location": "Vancouver, British Columbia, Canada",
       "board_activated_on": "2026-10-05",
-      "date_posted": "",
+      "date_posted": "2026-10-05T05:20:00+00:00",
       "description": "Audio Artist III - FC - 216309 - Electronic Arts Skip to content Electronic Arts Open Roles About EA EA Careers EA News Login English - US Chinese English - US Finnish Français Italian Korean Malay Polish Romanian Spanish Swedish Audio Artist III - FC Home ... Open Roles Role Detail General Information Locations : Vancouver, British Columbia, Canada Role ID 216309 Worker Type Temporary Employee Studio/Department EA Studios - SPORTS Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions worldwide to the sports they love through a portfolio of industry-leading video games. Building on an incredible 30-year foundation, we’re redefining football with EA SPORTS FC - a genre-leading ecosystem of interactive experiences, bringing a global community of football fans closer to The World's Game. Together, we’re taking the largest football club in the world to new heights – and this is just the beginning! With more opportunities than ever to innovate and create new, authentic experiences that bring joy, inclusivity, and immersion to fans everywhere, we invite you to join us as we pioneer the future of football with EA SPORTS FC and welcome everyone to the club! FC Audio team is looking for an experienced Audio Artist who can immediately contribute to audio development. You will oversee the audio-specific project(s) to create/maintain a quality audio experience. You are expected to have experience in all audio design and production phases, with proficiency in at least one audio discipline/area. Experience with VO and technical implementation of game audio are prerequisites. You will report to the Development Manager and work with the Audio leads. If this sounds like you – submit your application and join us on this journey! Responsibilities Create quality audio for our video games, with a high focus on authentic dialogue to suit our story-driven game experiences Author small, well-defined audio-related tasks with a high focus on content pipelines Directly support feature(s), small project(s), or task(s) within the Speech discipline Complete technical implementation, logic, and data-basing tasks, all catered to the user experience Participates in project problem solving with audio team Manage editor package imports, sample handling, and database updates Preform Quality control review for the project's audio (pre-CQC) on all applicable platforms Create software design to support custom source elements Manage source control, submit to file depots, and handle build pipelines Participate in team collaboration but also work independently Collaborate in prototyping and driving innovation and improvements Take direction from Audio Leads and other senior audio artists on the project, but still express your creativity and design insight Qualifications 7-10 years' studio engineering/recording/VO experience (or equivalent) 5+ years game audio experience Technical game audio implementation experience required Proficiency in at least one audio middleware software (Wwise, Fmod) Experience with third-party game engines (Unity, Unreal, etc.) Expert in Microsoft Office tools (Excel, Word, Access, PowerPoint) Knowledge of code or scripting language (C#, C++, SQL, Python, Lua, etc.) Knowledge of the sport and game (FC27) Database experience (MS Access, Excel, Google Sheets) working with large data sets Solid experience using game audio development tools, technology, and pipelines Proficiency with modern audio creation equipment, software and recording techniques, with a high level of proficiency in at least one DAW Solid knowledge of PC and console audio hardware Exceptional sound design skills Works well as part of a team but also autonomously Experience with tracking documentation Able to methodically manage & track large amounts of data Bonus Skills Experience with Quality Assurance Verification Experience with onboarding new team members Knowledge and familiarity with Professional sports (mainly Football/Soccer), teams, leagues Proficiency with VBA macros, SQL, Python, JavaScript, etc. Experience with remote VO recording sessions Pay Transparency - North America COMPENSATION AND BENEFITS The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). PAY RANGES * British Columbia (depending on location e.g. Vancouver vs. Victoria) *$77,700 - $107,900 CAD Pay is just one part of the overall compensation at EA. In Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance. About Electronic Arts We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth. We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do. Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. Post To External careers site, Internal careers site LinkedInID 74884070 Back to Role List Apply Share this role: LinkedIn X WhatsApp Email Facebook © 2026\n\n                                    Electronic Arts Inc. Copyright ©\n\n                                    2026 Candidate Privacy Notice Notice at Collection (California)",
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
-        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
-        "posting_date_or_recency": "",
+        "checked_on": "2026-10-18",
+        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
+        "posting_date_or_recency": "2026-10-05T05:20:00+00:00",
         "date_source": "board",
         "employment_source": "board"
       },
+      "sources": [
+        "ASGC",
+        "Hitmarker"
+      ],
+      "salary_currency": "USD",
+      "duplicate_urls": [
+        "https://hitmarker.net/jobs/electronic-arts-audio-artist-iii-fc-5058007",
+        "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309"
+      ],
       "employment_category": "full_time",
       "compensation": {
         "nominal": "",
@@ -233,7 +237,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159",
         "posting_date_or_recency": "2026-10-01T14:16:45.788Z",
         "date_source": "employer",
@@ -244,16 +248,15 @@
         "Grackle HQ",
         "Hitmarker"
       ],
-      "salary": "14200 - 24400 per month",
-      "salary_currency": "USD",
       "duplicate_urls": [
         "https://gracklehq.com/rd/383041",
-        "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-4688244",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-5017807",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000147141259-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159"
       ],
+      "salary": "14200 - 24400 per month",
+      "salary_currency": "USD",
       "employment_category": "full_time",
       "compensation": {
         "nominal": "PLN 14200 - 24400 per month",
@@ -278,7 +281,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956183",
         "posting_date_or_recency": "2026-10-01T14:17:33.946Z",
         "date_source": "employer",
@@ -325,7 +328,7 @@
       "direct_url": "https://certainaffinityinc.applytojob.com/apply/nxCwnwjSmc/Senior-Technical-Sound-Designer",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://certainaffinityinc.applytojob.com/apply/nxCwnwjSmc/Senior-Technical-Sound-Designer",
         "posting_date_or_recency": "2026-10-01",
         "date_source": "employer",
@@ -356,7 +359,7 @@
       "direct_url": "https://certainaffinityinc.applytojob.com/apply/16N5sNqN99/Sound-Designer",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://certainaffinityinc.applytojob.com/apply/16N5sNqN99/Sound-Designer",
         "posting_date_or_recency": "2026-10-01",
         "date_source": "employer",
@@ -385,7 +388,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208583",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208585",
         "posting_date_or_recency": "2026-09-28T15:16:45.236Z",
         "date_source": "employer",
@@ -433,7 +436,7 @@
       "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
         "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
         "date_source": "board",
@@ -462,7 +465,7 @@
       "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
+        "checked_on": "2026-10-18",
         "listing_url": "https://apply.workable.com/sideinc/j/295A559DE9",
         "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
         "date_source": "board",
@@ -480,43 +483,32 @@
   ],
   "new_jobs": [
     {
-      "title": "Audio Engineer, Live Video",
-      "company": "OpenAI",
-      "url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
+      "title": "Audio Artist III - FC",
+      "company": "EA Sports",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
       "ats": "ASGC",
-      "job_type": "FULL TIME",
-      "location": "San Francisco, California, United States",
-      "board_activated_on": "2026-10-16",
-      "date_posted": "2026-10-16",
-      "description": "About the Team OpenAI’s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. The Global Events Studio Team creates exceptional live and recorded video for Press, Marketing, Developer Experience, and Communications. About the Role The Audio Engineer will be the senior audio authority for high-profile livestreams, broadcast-style productions, studio recordings, public venue events, and critical on-location shoots. This person will design resilient audio systems, serve as A1 when failures are immediately visible, and deliver exceptional spoken-word audio across live, recorded, remote, and AI-enabled production workflows. In this role, you will: Own audio design and A1 execution for complex broadcasts, live stage events, podcasts, and critical film/on-location shoots Build and operate redundant program, stream, multitrack, camera, backup-recorder, and archival audio paths with real-time monitoring and recovery procedures. Mix full-duplex speech-to-speech audio between humans and AI models Design, commission, standardize, document, and improve audio signal flow for studios, control rooms, event spaces, and portable production systems. Rapidly assess unfamiliar venues and design reliable systems around acoustic, power, network, access, RF, and footprint constraints. Lead rigorous preproduction: technical designs, input lists, patch plans, frequency plans, rehearsals, testing, monitoring, redundancy, and fallback capture. Diagnose and repair signal-chain, DSP, synchronization, routing, RF, networking, and hardware faults during live production. Lead audio crews and freelancers, challenge flawed technical plans, and communicate decisive options under pressure. Own multitrack recording, editorial handoff, backup, delivery, and archival workflows across professional formats and specifications. You might thrive in this role if you have: 8+ years engineering complex live, broadcast, and studio production, including high-profile livestreams, public venue events, design, configuration, and programming of physical audio infrastructure, and critical on-location filming or streaming. Proven experience serving as A1 when failures are immediately visible and time for sophisticated workarounds is measured in seconds. Expert command of gain structure, routing, EQ, dynamics, automixing, feedback control, real time noise suppression, mix-minus, IFB, intercom, playback, comms, and latency management. Deep experience designing and troubleshooting redundant program, stream, multitrack, camera, backup-recorder, and archival audio paths. Advanced proficiency with networked audio and DSP systems such as Dante, AVB, SMPTE ST 2110, Q-SYS, Yamaha, and Shure. Strong IP-networking knowledge, including clocking, multicast, VLANs, QoS, and diagnosing failures across audio, control, and enterprise IT environments. Expert wireless-microphone and RF coordination skills across crowded, high-consequence production environments, including frequency planning, antenna distribution, and intermodulation. Ability to capture exceptional spoken-word audio for keynote presenters, executive livestream hosts, stage panels, podcasts, voiceover, remote guests, and acoustically difficult spaces. Advanced microphone selection and placement skills, including lavalier concealment, boom technique, room treatment, noise control, and feedback prevention. Ability to mix full-duplex speech-to-speech audio between humans and AI models for a variety of different event formats Fluency with broadcast encoders, embedded audio, streaming protocols, conferencing platforms, and external distribution endpoints. Expert-level understanding of room acoustics and a fundamental understanding of acoustic science. Demonstrated success diagnosing and repairing signal-chain, DSP, synchronization, routing, RF, networking, and hardware faults during live production. Strong multitrack recording, timecode, sync, metadata, editing, mixing, delivery, backup, and archival judgment across professional formats and loudness specifications. Functional audio post-production skills, including dialogue cleanup, noise reduction, EQ, dynamics, mix revisions, and delivery preparation. Ability to lead audio crews, support technical freelancers, challenge flawed technical plans, and communicate decisive options under pressure. Willingness to work onsite, travel globally as needed, and support rehearsals or productions outside standard hours when critical productions require it. Workplace & Location This is an onsite role and will require 5 days a week in our San Francisco office, with global travel and support outside standard hours when critical productions require it. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement . Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations. To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form . No response will be provided to inquiries unrelated to job posting compliance. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link . OpenAI Global Applicant Privacy Policy At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
-      "salary": "$240000 - $266000/yr",
-      "salary_currency": "USD",
-      "is_remote": false,
-      "compensation_source": "employer_confirmed",
-      "direct_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
+      "job_type": "Full-Time",
+      "location": "Vancouver, British Columbia, Canada",
+      "board_activated_on": "2026-10-05",
+      "date_posted": "",
+      "description": "Audio Artist III - FC - 216309 - Electronic Arts Skip to content Electronic Arts Open Roles About EA EA Careers EA News Login English - US Chinese English - US Finnish Français Italian Korean Malay Polish Romanian Spanish Swedish Audio Artist III - FC Home ... Open Roles Role Detail General Information Locations : Vancouver, British Columbia, Canada Role ID 216309 Worker Type Temporary Employee Studio/Department EA Studios - SPORTS Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions worldwide to the sports they love through a portfolio of industry-leading video games. Building on an incredible 30-year foundation, we’re redefining football with EA SPORTS FC - a genre-leading ecosystem of interactive experiences, bringing a global community of football fans closer to The World's Game. Together, we’re taking the largest football club in the world to new heights – and this is just the beginning! With more opportunities than ever to innovate and create new, authentic experiences that bring joy, inclusivity, and immersion to fans everywhere, we invite you to join us as we pioneer the future of football with EA SPORTS FC and welcome everyone to the club! FC Audio team is looking for an experienced Audio Artist who can immediately contribute to audio development. You will oversee the audio-specific project(s) to create/maintain a quality audio experience. You are expected to have experience in all audio design and production phases, with proficiency in at least one audio discipline/area. Experience with VO and technical implementation of game audio are prerequisites. You will report to the Development Manager and work with the Audio leads. If this sounds like you – submit your application and join us on this journey! Responsibilities Create quality audio for our video games, with a high focus on authentic dialogue to suit our story-driven game experiences Author small, well-defined audio-related tasks with a high focus on content pipelines Directly support feature(s), small project(s), or task(s) within the Speech discipline Complete technical implementation, logic, and data-basing tasks, all catered to the user experience Participates in project problem solving with audio team Manage editor package imports, sample handling, and database updates Preform Quality control review for the project's audio (pre-CQC) on all applicable platforms Create software design to support custom source elements Manage source control, submit to file depots, and handle build pipelines Participate in team collaboration but also work independently Collaborate in prototyping and driving innovation and improvements Take direction from Audio Leads and other senior audio artists on the project, but still express your creativity and design insight Qualifications 7-10 years' studio engineering/recording/VO experience (or equivalent) 5+ years game audio experience Technical game audio implementation experience required Proficiency in at least one audio middleware software (Wwise, Fmod) Experience with third-party game engines (Unity, Unreal, etc.) Expert in Microsoft Office tools (Excel, Word, Access, PowerPoint) Knowledge of code or scripting language (C#, C++, SQL, Python, Lua, etc.) Knowledge of the sport and game (FC27) Database experience (MS Access, Excel, Google Sheets) working with large data sets Solid experience using game audio development tools, technology, and pipelines Proficiency with modern audio creation equipment, software and recording techniques, with a high level of proficiency in at least one DAW Solid knowledge of PC and console audio hardware Exceptional sound design skills Works well as part of a team but also autonomously Experience with tracking documentation Able to methodically manage & track large amounts of data Bonus Skills Experience with Quality Assurance Verification Experience with onboarding new team members Knowledge and familiarity with Professional sports (mainly Football/Soccer), teams, leagues Proficiency with VBA macros, SQL, Python, JavaScript, etc. Experience with remote VO recording sessions Pay Transparency - North America COMPENSATION AND BENEFITS The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). PAY RANGES * British Columbia (depending on location e.g. Vancouver vs. Victoria) *$77,700 - $107,900 CAD Pay is just one part of the overall compensation at EA. In Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance. About Electronic Arts We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth. We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do. Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. Post To External careers site, Internal careers site LinkedInID 74884070 Back to Role List Apply Share this role: LinkedIn X WhatsApp Email Facebook © 2026\n\n                                    Electronic Arts Inc. Copyright ©\n\n                                    2026 Candidate Privacy Notice Notice at Collection (California)",
+      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-17",
-        "listing_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
-        "posting_date_or_recency": "2026-10-16",
-        "date_source": "employer",
-        "employment_source": "listing"
+        "checked_on": "2026-10-18",
+        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III/216309",
+        "posting_date_or_recency": "",
+        "date_source": "board",
+        "employment_source": "board"
       },
-      "work_arrangement": "On-site",
       "employment_category": "full_time",
       "compensation": {
-        "nominal": "$240000 - $266000/yr",
-        "period": "annual",
-        "source": "employer_confirmed",
-        "source_label": "Employer-confirmed",
-        "currency": "USD",
-        "annual_min": 240000,
-        "annual_max": 266000,
-        "california_equivalent_annual_max": 266000,
-        "cost_of_living_method": "BEA RPP 2023: $266,000 x CA 112.6 / CA 112.6",
-        "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
       },
-      "distance_miles": 386.9
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     }
   ]
 }
