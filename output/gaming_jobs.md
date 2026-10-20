@@ -1,9 +1,10 @@
 # Music Technology & Audio - Gaming Boards
-*Last updated: 2026-10-19 19:20 UTC*
+*Last updated: 2026-10-20 18:00 UTC*
 
-**1 new role(s)** since last run · 13 total in posted within 21 days
+**1 new role(s)** since last run · 12 total in posted within 21 days
 
-### [Audio Artist III - FC](https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309) — EA Sports
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- **Job type:** Full-Time
-- 🕒 **Posted:** 2026-10-05T05:20:00+00:00
+### [Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)](https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar) — velpTEC GmbH
+- 📍 **Location:** Remote; 
+- **Work mode:** Remote in-state eligible
+- **Job type:** FULL TIME
+- 🕒 **Posted:** 2026-10-16T17:07:25.970Z
