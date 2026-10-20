@@ -6959,3 +6959,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "39393752133", "timestamp": "2026-10-20T10:04:01Z", "workflow": "biotech"}
 {"job_count": 0, "run_attempt": "1", "run_id": "39481580649", "timestamp": "2026-10-20T19:39:09Z", "workflow": "linkedin"}
 {"job_count": 1, "run_attempt": "1", "run_id": "39484694104", "timestamp": "2026-10-20T19:40:47Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "39488848480", "timestamp": "2026-10-20T20:05:24Z", "workflow": "ziprecruiter"}
