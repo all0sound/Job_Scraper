@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T18:03:24.059932+00:00",
+  "updated_at": "2026-10-21T18:06:44.385466+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-10-20T17:57:51.694261+00:00",
-      "raw": 119,
-      "verified": 24,
-      "errors": 71,
+      "checked_at": "2026-10-21T18:00:18.817924+00:00",
+      "raw": 133,
+      "verified": 26,
+      "errors": 66,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -16,7 +16,7 @@
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-10-20T17:59:07.448405+00:00",
+      "checked_at": "2026-10-21T18:01:33.899795+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-10-20T17:59:07.448424+00:00",
+      "checked_at": "2026-10-21T18:01:33.899809+00:00",
       "raw": 4,
       "verified": 4,
       "errors": 0,
@@ -37,10 +37,10 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-10-20T17:59:09.255663+00:00",
-      "raw": 39,
+      "checked_at": "2026-10-21T18:01:36.239193+00:00",
+      "raw": 38,
       "verified": 26,
-      "errors": 13,
+      "errors": 12,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-10-20T17:59:35.218959+00:00",
+      "checked_at": "2026-10-21T18:02:21.610755+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,19 +60,19 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-10-20T17:59:35.848419+00:00",
-      "raw": 38,
+      "checked_at": "2026-10-21T18:02:22.460112+00:00",
+      "raw": 37,
       "verified": 0,
-      "errors": 38,
+      "errors": 37,
       "status": "error",
-      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Audio-Producer-at-Cloud-Imperium-Games-9634",
+      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Recording-Engineer-at-Kojima-Productions",
       "details_limit": 100,
       "truncated": false
     },
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-10-20T17:59:41.294669+00:00",
+      "checked_at": "2026-10-21T18:02:28.333387+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-10-20T17:59:41.294689+00:00",
+      "checked_at": "2026-10-21T18:02:28.333405+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -94,7 +94,7 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-10-20T17:59:41.610618+00:00",
+      "checked_at": "2026-10-21T18:02:28.704349+00:00",
       "raw": 14,
       "verified": 7,
       "errors": 7,
@@ -106,7 +106,7 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-10-20T18:00:45.100642+00:00",
+      "checked_at": "2026-10-21T18:04:05.468089+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -118,7 +118,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-10-20T18:00:45.628354+00:00",
+      "checked_at": "2026-10-21T18:04:06.281269+00:00",
       "raw": 3,
       "verified": 3,
       "errors": 0,
@@ -129,7 +129,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-10-20T18:00:47.013988+00:00",
+      "checked_at": "2026-10-21T18:04:06.750642+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -139,7 +139,7 @@
     {
       "source": "Indeed",
       "status": "candidates_found",
-      "raw": 21,
+      "raw": 20,
       "detail": "See workflow logs for query/page errors."
     },
     {

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-20 18:00 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-10-21 18:04 UTC",
+  "total": 10,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Audio Engineer, Live Video",
@@ -20,7 +20,7 @@
       "direct_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
         "posting_date_or_recency": "2026-10-16",
         "date_source": "employer",
@@ -56,13 +56,41 @@
       "direct_url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
         "posting_date_or_recency": "2026-10-16T17:07:25.970Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "work_arrangement": "Remote in-state eligible",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
+    {
+      "title": "Composer / Sound Designer",
+      "company": "Playtech",
+      "url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
+      "ats": "ASGC",
+      "job_type": "Full-time",
+      "location": "Sofia, , Bulgaria",
+      "board_activated_on": "2026-10-15",
+      "date_posted": "2026-10-15T11:06:32.048Z",
+      "description": "About Playtech Founded in 1999, the company has a premium listing on the Main Market of the London Stock Exchange and is focused on regulated and regulating markets across its B2B business. By leveraging its proprietary technology, Playtech delivers innovative products and services to ensure a safe, engaging and entertaining gaming experience. As the gaming industry's leading technology company, it combines business intelligence-driven software, services, content, and platform technology to drive excellence and innovation across the sector. Read more about who we are and what we do here: www.playtechpeople.com and www.playtech.com Here at Playtech, we genuinely believe that people are our biggest asset. Diverse thoughts, experiences, and individual characteristics enrich our work environment and lead to better business decisions. Embracing differences and maintaining transparency in our processes is the core of Playtech's overall commitment to responsible business practices. Ready to level up your career? Playtech's Sound team is looking for a talented Composer/Sound Designer to collaborate with our international team and create immersive in-game music, design sound effects, and prepare sound packages for our online slot games. HOW TO APPLY? A portfolio showcasing music and sound design work created for slot games is a mandatory part of the application. Please submit your CV together with multiple relevant work samples and, where possible, video demonstrations of completed projects. Your influential mission. You will... Create in-game music in a variety of genres for online slot games. Design sound effects and musical parts for animations and game events. Prepare game packages in a variety of sound formats. Edit and mix sound for promo videos. Components for success. You... Possess 1+ years of experience in composing and sound design in the slot industry. Ability to provide examples of completed slot game work, ideally including video demonstrations of the final implementation. Have a passion for composing music and creating engaging audio experiences for players. Have access to a home studio with your own music production setup and extensive SFX libraries. Have experience composing original music across multiple genres, including orchestral, traditional, rock, electronic, and dance. Have a strong understanding of adaptive and interactive game audio, including loopable music, gameplay-driven transitions, anticipation builds, and bonus stingers. Are experienced creating high-quality sound effects for games and interactive products. Demonstrate strong audio editing, arranging, mixing, and mastering skills. Possess advanced proficiency with professional DAWs such as Ableton, Nuendo, Pro Tools, or similar. Have strong knowledge of industry-standard plugins, virtual instruments, and modern music production workflows. Are comfortable playing and recording musical instruments as part of the creative process. Understand player behaviour and the role audio plays in engagement and game performance. Thrive in a collaborative environment and enjoy working closely with designers, artists, developers, product teams, and external partners. Are able to work independently and confidently guide the creative direction of projects through music references and concepts. Communicate proficiently in English. You'll get extra points for... Prior experience in the gaming/slot industry. Thrive in a culture that values... Initiative-taking and confident approach at the workplace. Global scope and inclusive working environment. Constant learning and development opportunities. Active lifestyle and mental well-being. Fun and engaging company events. SOUND TEAM There are several global game production studios within the Playtech family. Each studio is made up of Game Producers, Artists, Animators, Mathematicians, and Developers who collaborate to create high‑quality content for top‑performing games. These games are then distributed to our clients and players around the world. As a Composer/Sound Designer, you will be part of our Ash studio sound creative team and work closely with Game Producers and Studio Artists to bring our content to life through music and sound effects. Playtech is an equal opportunities employer. Our mission is to welcome everyone and create inclusive teams. We celebrate differences and encourage everyone to join us and be themselves at work.",
+      "direct_url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-10-21",
+        "listing_url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
+        "posting_date_or_recency": "2026-10-15T11:06:32.048Z",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
       "employment_category": "full_time",
       "compensation": {
         "nominal": "",
@@ -85,37 +113,9 @@
       "direct_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
         "posting_date_or_recency": "2026-10-15T02:13:06-04:00",
-        "date_source": "employer",
-        "employment_source": "listing"
-      },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
-    {
-      "title": "Composer / Sound Designer",
-      "company": "Playtech",
-      "url": "https://jobs.smartrecruiters.com/playtech/744000155730880",
-      "ats": "ASGC",
-      "job_type": "Full-time",
-      "location": "Sofia, , Bulgaria",
-      "board_activated_on": "2026-10-15",
-      "date_posted": "2026-10-15T11:06:32.048Z",
-      "description": "About Playtech Founded in 1999, the company has a premium listing on the Main Market of the London Stock Exchange and is focused on regulated and regulating markets across its B2B business. By leveraging its proprietary technology, Playtech delivers innovative products and services to ensure a safe, engaging and entertaining gaming experience. As the gaming industry's leading technology company, it combines business intelligence-driven software, services, content, and platform technology to drive excellence and innovation across the sector. Read more about who we are and what we do here: www.playtechpeople.com and www.playtech.com Here at Playtech, we genuinely believe that people are our biggest asset. Diverse thoughts, experiences, and individual characteristics enrich our work environment and lead to better business decisions. Embracing differences and maintaining transparency in our processes is the core of Playtech's overall commitment to responsible business practices. Ready to level up your career? Playtech's Sound team is looking for a talented Composer/Sound Designer to collaborate with our international team and create immersive in-game music, design sound effects, and prepare sound packages for our online slot games. HOW TO APPLY? A portfolio showcasing music and sound design work created for slot games is a mandatory part of the application. Please submit your CV together with multiple relevant work samples and, where possible, video demonstrations of completed projects. Your influential mission. You will... Create in-game music in a variety of genres for online slot games. Design sound effects and musical parts for animations and game events. Prepare game packages in a variety of sound formats. Edit and mix sound for promo videos. Components for success. You... Possess 1+ years of experience in composing and sound design in the slot industry. Ability to provide examples of completed slot game work, ideally including video demonstrations of the final implementation. Have a passion for composing music and creating engaging audio experiences for players. Have access to a home studio with your own music production setup and extensive SFX libraries. Have experience composing original music across multiple genres, including orchestral, traditional, rock, electronic, and dance. Have a strong understanding of adaptive and interactive game audio, including loopable music, gameplay-driven transitions, anticipation builds, and bonus stingers. Are experienced creating high-quality sound effects for games and interactive products. Demonstrate strong audio editing, arranging, mixing, and mastering skills. Possess advanced proficiency with professional DAWs such as Ableton, Nuendo, Pro Tools, or similar. Have strong knowledge of industry-standard plugins, virtual instruments, and modern music production workflows. Are comfortable playing and recording musical instruments as part of the creative process. Understand player behaviour and the role audio plays in engagement and game performance. Thrive in a collaborative environment and enjoy working closely with designers, artists, developers, product teams, and external partners. Are able to work independently and confidently guide the creative direction of projects through music references and concepts. Communicate proficiently in English. You'll get extra points for... Prior experience in the gaming/slot industry. Thrive in a culture that values... Initiative-taking and confident approach at the workplace. Global scope and inclusive working environment. Constant learning and development opportunities. Active lifestyle and mental well-being. Fun and engaging company events. SOUND TEAM There are several global game production studios within the Playtech family. Each studio is made up of Game Producers, Artists, Animators, Mathematicians, and Developers who collaborate to create high‑quality content for top‑performing games. These games are then distributed to our clients and players around the world. As a Composer/Sound Designer, you will be part of our Ash studio sound creative team and work closely with Game Producers and Studio Artists to bring our content to life through music and sound effects. Playtech is an equal opportunities employer. Our mission is to welcome everyone and create inclusive teams. We celebrate differences and encourage everyone to join us and be themselves at work.",
-      "direct_url": "https://jobs.smartrecruiters.com/playtech/744000155730880",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-20",
-        "listing_url": "https://jobs.smartrecruiters.com/playtech/744000155730880",
-        "posting_date_or_recency": "2026-10-15T11:06:32.048Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
@@ -141,7 +141,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -174,7 +174,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -207,7 +207,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -235,7 +235,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -263,7 +263,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159",
         "posting_date_or_recency": "2026-10-01T14:16:45.788Z",
         "date_source": "employer",
@@ -274,15 +274,16 @@
         "Grackle HQ",
         "Hitmarker"
       ],
+      "salary": "14200 - 24400 per month",
+      "salary_currency": "USD",
       "duplicate_urls": [
         "https://gracklehq.com/rd/383041",
+        "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-4688244",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-audio-design-qa-analyst-5017807",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000147141259-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152955387-senior-audio-design-qa-analyst",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956159"
       ],
-      "salary": "14200 - 24400 per month",
-      "salary_currency": "USD",
       "employment_category": "full_time",
       "compensation": {
         "nominal": "PLN 14200 - 24400 per month",
@@ -307,7 +308,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-20",
+        "checked_on": "2026-10-21",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956183",
         "posting_date_or_recency": "2026-10-01T14:17:33.946Z",
         "date_source": "employer",
@@ -338,96 +339,7 @@
         "comparison_note": "Published in PLN; no USD conversion assumed"
       },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
-    {
-      "title": "Audio Engineer",
-      "url": "https://hitmarker.net/jobs/side-audio-engineer-5013068",
-      "company": "Side",
-      "description": "Audio Engineer - Side",
-      "ats": "Hitmarker",
-      "direct_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
-      "job_type": "Contract",
-      "date_posted": "2026-09-29T22:00:00+00:00",
-      "location": "London, UK",
-      "salary": "",
-      "salary_currency": "USD",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-20",
-        "listing_url": "https://apply.workable.com/sideinc/j/019EEF61EB",
-        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
-        "date_source": "board",
-        "employment_source": "board"
-      },
-      "employment_category": "unknown",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exclusion": "Employment schedule is not stated"
-    },
-    {
-      "title": "Freelance Audio Editor",
-      "url": "https://hitmarker.net/jobs/side-freelance-audio-editor-5013071",
-      "company": "Side",
-      "description": "Freelance Audio Editor - Side",
-      "ats": "Hitmarker",
-      "direct_url": "https://apply.workable.com/sideinc/j/295A559DE9",
-      "job_type": "Freelance",
-      "date_posted": "2026-09-29T22:00:00+00:00",
-      "location": "Kuala Lumpur, Malaysia",
-      "salary": "",
-      "salary_currency": "USD",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-20",
-        "listing_url": "https://apply.workable.com/sideinc/j/295A559DE9",
-        "posting_date_or_recency": "2026-09-29T22:00:00+00:00",
-        "date_source": "board",
-        "employment_source": "board"
-      },
-      "employment_category": "unknown",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exclusion": "Employment schedule is not stated"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
-      "company": "velpTEC GmbH",
-      "url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
-      "ats": "ASGC",
-      "job_type": "FULL TIME",
-      "location": "Remote; ",
-      "board_activated_on": "2026-10-16",
-      "date_posted": "2026-10-16T17:07:25.970Z",
-      "description": "Als Visual & Audio Designer (m/w/d) gestaltest du kreative Bild-, Video- und Audioproduktionen für digitale Medien und unterschiedliche Kommunikationskanäle. In dieser Weiterbildung vertiefst du deine Kenntnisse in der professionellen Mediengestaltung und lernst, wie du moderne Designsoftware, audiovisuelle Produktionstechniken und Künstliche Intelligenz gezielt einsetzt, um überzeugende visuelle und akustische Inhalte zu entwickeln. Aufgaben Welche Inhalte erwarten dich in der Weiterbildung? Adobe Photoshop – professionelle Bildbearbeitung und digitale Bildgestaltung Adobe Premiere Pro – Videoschnitt und professionelle Videobearbeitung Adobe After Effects – Animationen, Motion Design und visuelle Effekte DaVinci Resolve – professionelle Videobearbeitung, Farbkorrektur und Color Grading Audio Engineering – Audiobearbeitung, Sounddesign und professionelle Tonproduktion Adobe Generative AI – KI-gestützte Bildgestaltung und kreative Content-Produktion Qualifikation Abgeschlossene Ausbildung und/oder abgeschlossenes Studium oder ersatzweise mindestens dreijährige Berufserfahrung in einem relevanten Bereich Deutschkenntnisse auf Niveau B2 Grundlegende Kenntnisse und erste praktische Erfahrungen im kreativen oder medialen Bereich, idealerweise in der Mediengestaltung bzw. im digitalen Design Benefits Wir schauen nach vorne: Bei velpTEC stehen wir für praxis- und zukunftsorientierte Weiterbildungen. Wir helfen dir, dich mit dem digitalen Wandel weiterzuentwickeln. Wir stellen dir modernste Lehrmethoden und Technologien bereit, mit denen du zukunftsgerichtete Qualifikationen erwirbst. Du hast lebenslangen Zugriff auf wichtige Theorieinhalte und aktuelle Fachartikel. Damit du effektiv lernen kannst, erhältst du bei Bedarf während der Laufzeit einen Laptop von uns. Du lernst lieber vor Ort? Wir haben mehr als 50 Standorte in Deutschland. Mit unserer eigenen Personalvermittlung unterstützen wir dich aktiv bei deinem Berufseinstieg. Dank aktuell über 1.000 offenen Unternehmensanfragen helfen wir dir, nach Abschluss deiner Weiterbildung einen passenden Job zu finden.",
-      "is_remote": true,
-      "direct_url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-20",
-        "listing_url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
-        "posting_date_or_recency": "2026-10-16T17:07:25.970Z",
-        "date_source": "employer",
-        "employment_source": "listing"
-      },
-      "work_arrangement": "Remote in-state eligible",
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    }
-  ]
+  "new_jobs": []
 }
