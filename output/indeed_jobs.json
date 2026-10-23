@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22 22:47 UTC",
+  "scraped_at": "2026-10-23 01:00 UTC",
   "total": 1,
   "new_count": 0,
   "jobs": [
@@ -22,7 +22,7 @@
       "ats": "Indeed",
       "listing_verification": {
         "listing_url": "https://laccd.csod.com/ats/careersite/JobDetails.aspx?site=6&id=2316",
-        "checked_on": "2026-10-22",
+        "checked_on": "2026-10-23",
         "status": "verified",
         "posting_date_or_recency": "2026-10-22"
       },
