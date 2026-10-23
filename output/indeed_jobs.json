@@ -1,41 +1,7 @@
 {
-  "scraped_at": "2026-10-23 01:54 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-23 06:30 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Los Angeles Community College District",
-      "title": "Adjunct - AY27 Multimedia Instructor, Game and Art Design",
-      "location": "Los Angeles, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=9ab0ce4e87331ada",
-      "direct_url": "https://laccd.csod.com/ats/careersite/JobDetails.aspx?site=6&id=2316",
-      "company_url": "https://www.indeed.com/cmp/Los-Angeles-Community-College-District",
-      "date_posted": "2026-10-22",
-      "description": "LOS ANGELES COMMUNITY COLLEGE DISTRICT\n\n**P****ROFESSIONAL** **O****PPORTUNITIES**\n\n**Adjunct - AY27 Multimedia Instructor, Game and Art Design**\n\n**Temporary Assignment - Pool Announcement**\n\n**APPLICATION CLOSING DATE:** **Open Until Filled**\n\nThe Los Angeles Community College District (LACCD) is the largest community college district in the United States and one of the largest in the world. The LACCD is comprised of nine colleges serving all or part of more than 40 cities in Southern California and spanning a service area of 882 square miles. Its colleges offer instruction to 225,000 students, annually, in 600 associates’ degree and 400 certificate of achievement programs in general, career-technical and transfer education, and contribute significantly to the economic and social well-being of its students, the regional economy and the greater Los Angeles area. For more information about the LACCD, please visit our website at www.laccd.edu.\n\n**POSITION**\n============\n\nThe instructor will teach a mix of courses in the Multimedia Game Art & Design and Animation disciplines. Department responsibilities include participating in eSports lab, Student Learning Outcome Committee. This is an adjunct, hourly, academic position that may include teaching day, evening, weekend, hybrid, online, in-person, and/or dual enrollment classes. Duties beyond the classroom include office hours. Excellent collaboration, organization and communication skills required.\n\n  \n\n**DUTIES AND RESPONSIBILITIES:**\n\n* Teach classes assigned by the Chair on campus (in-person classes), hybrid, online, or at dual enrollment sites.\n\n* Teach beginning, intermediate, and advanced courses in game art & design, animation, virtual production, visual development, and production courses.\n\n* Create an engaging and inclusive learning environment.\n\n* Remain current in the discipline, teaching methods, and instructional technology\n\n* Supervise student projects in a production environment.\n\n* Possible participation in outreach to high schools, open houses (include summer bootcamp), and dual enrollment activities.\n\n* Advise and mentor game art & design, and animation majors on pathways to careers, certificates, degrees, and transfers processes to promote student success.\n\n* Assess student performance and maintain accurate student records (rosters and grades), and other administrative requirements.\n\n* Use a variety of teaching tools, including software, video, and audio technology, including specialty software in animation and game art design.\n\n* Assignments may be day, evening, or weekends, and may be on the campus, online, or at a Dual Enrollment site. Opportunities exist for summer and winter intersession teaching.\n\n**MINIMUM QUALIFICATIONS:**\n\n* **Bachelor’s** degree and two years of professional experience **OR**;\n* **Associate’s** degree and six years of professional experience.\n* A sensitivity to and an understanding of the diverse academic, socioeconomic, cultural, disability, and ethnic backgrounds of community college students.\n\n**NOTE:** Professional experience must be directly related to the teaching assignment.\n\n  \n\n**HEALTH:**\n\nA medical certificate indicating fitness to instruct or associate with students is required at the applicant's expense after selection from an eligible list and prior to employment.\n\n**ELIGIBILITY REQUIREMENT**\n\nPursuant to LACCD Board of Trustee's Policy 2900 all employees must be fully vaccinated or have an approved exemption. LACCD employees are required to provide their vaccination status in compliance with the LACCD Board of Trustees’ policy. Newly hired employees **will be** required to provide their vaccination status prior to starting a position or, at the latest, by their position start date.\n\n**DESIRABLE QUALIFICATIONS (any from below):**\n\n* Professional work experience in game production, pre-visualization or virtual production with an emphasis on game level design and game prototyping with Unreal Engine or similar game engine.\n\n* Expertise in a wide range game art & design and animation software.\n\n* Experience working with 3D modeling applications such as Autodesk Maya, Blender and Zbrush.\n\n* Experience teaching students or leading a team in a content production environment.\n\n* College level teaching experience specialty courses in game art & design or animation.\n\n* Teaching underprepared students in a community college.\n\n* Teaching a diverse student population.\n\n* MFA in animation or game art & design.\n\n* Possess strong oral, written, and visual communication skills.\n\n* Networks in local, regional, or national professional or educational organizations.\n\n* Ability to establish partnerships game or animation companies to build internship or apprenticeship pathways for students.\n\n* Evidence of learner-centered teaching and ability to inspire, motivate and empower students to succeed.\n\n* Experience with a variety of teaching strategies to accommodate diverse learning styles.\n\n**COMPENSATION**\n================\n\nThe salary schedule for adjunct instructors begins at **$89.72** per standard hour, plus an office hour differential of **$20.99** per hour for classroom assignments. Applicants with a doctoral degree are eligible for a doctoral differential.\n\n**APPLICATION PROCEDURE:**\n\nFor consideration in the selection process, all interested candidates must submit the following using the LACCD On-Line System. Please visit **https://laccd.csod.com/ats/careersite/search.aspx?site=6&c=laccd** to apply for this position. Applications must include the following:\n\n* Letter of Interest, not to exceed three pages, highlighting how you meet the minimum and desirable qualifications. Please include a link to your professional work.\n* Current resume or CV.\n* Contact information for three (3) references (phone numbers and Email).\n* Copies of all transcripts-undergraduate and graduate (Official transcripts are required for candidates invited to the final interview.) All degrees must be granted by an accredited c",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "AcademicJobs@email.laccd.edu",
-      "ats": "Indeed",
-      "listing_verification": {
-        "listing_url": "https://laccd.csod.com/ats/careersite/JobDetails.aspx?site=6&id=2316",
-        "checked_on": "2026-10-23",
-        "status": "verified",
-        "posting_date_or_recency": "2026-10-22"
-      },
-      "distance_miles": 56.8,
-      "employment_category": "part_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
