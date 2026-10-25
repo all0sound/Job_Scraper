@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-24 16:37 UTC",
+  "scraped_at": "2026-10-25 17:05 UTC",
   "total": 10,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Audio Artist - EA Sports NHL",
@@ -16,7 +16,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -40,6 +40,39 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
+      "title": "Concepteur audio technique / Technical Audio Designer",
+      "company": "Highdive",
+      "url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
+      "ats": "ASGC",
+      "job_type": "Full-Time",
+      "location": "Greater Montreal",
+      "board_activated_on": "2026-10-23",
+      "date_posted": "2026-10-23T14:29:18-04:00",
+      "description": "En tant que concepteur audio technique, vous vous situez à l’intersection du design sonore et de l’ingénierie, transformant les éléments audio en systèmes en jeu performants et peaufinés. En collaboration avec les concepteurs sonores, les ingénieurs et les concepteurs techniques, vous intégrerez l’audio dans Unreal Engine et Wwise, concevrez des outils et optimiserez les performances. Il s’agit d’un rôle pratique destiné à une personne souhaitant évoluer à la jonction de la création et de la technique. Contrat de 12 mois Responsabilités: Intégrer les éléments audio dans Unreal Engine à l’aide du moteur sonore Wwise, de l’élément source jusqu’au système jouable. Concevoir et maintenir des systèmes audio basés sur les Blueprints. Développer et améliorer des outils permettant d’accélérer le flux de travail des concepteurs sonores. Profiler et optimiser l’audio en termes de CPU, mémoire, nombre de voix et flux (streaming) à l’aide du Wwise Profiler et d’Unreal Audio Insights. Respecter les directives d’organisation des données et de mixage de Wwise afin de garantir la cohérence du contenu et sa capacité à passer à l’échelle. Diagnostiquer et résoudre les problèmes audio en collaboration avec l’équipe de développement. Rédiger et maintenir la documentation technique des fonctionnalités, outils et flux de travail audio. Communiquer clairement les progrès et les contraintes techniques aux collaborateurs non techniques. Exigences: 3 ans ou plus d’expérience en audio technique, incluant un cycle de production complet jusqu’au lancement du jeu. Compétences démontrables en intégration audio avec Unreal Engine et Wwise. Solide maîtrise des Blueprints Unreal pour l’intégration audio. Maîtrise de Wwise. Connaissance pratique d’une station de travail audio numérique (DAW) telle que Reaper ou Pro Tools. Fortes capacités de résolution de problèmes et souci du détail. Capacité à apprendre rapidement de nouvelles technologies, outils et concepts. Bonnes aptitudes en communication et travail d’équipe, incluant la capacité d’expliquer des contraintes techniques à des collaborateurs non techniques. Intérêt réel pour l’audio technique appliqué au jeu vidéo, couplé à une bonne oreille. Atouts: Bonne compréhension de Wwise Spatial Audio. Connaissance pratique de l’API Wwise Authoring (WAAPI). Compétences en programmation d’scripts en Python ou C#. Connaissance de base du C++ et de son rôle dans Unreal Engine. Technical Audio Designer As a Technical Audio Designer, you sit between sound design and engineering, turning audio assets into polished, performant in-game systems. Working with audio designers, engineers, and technical designers, you will implement audio in Unreal Engine and Wwise, build tooling, and optimize for performance. This is a hands-on role for someone who wants to grow at the intersection of creative and technical craft. 12-month contract Responsibilities: Integrate audio assets into Unreal Engine using the Wwise sound engine, from source asset to playable system. Build and maintain Blueprint-based audio systems. Develop and improve tools that speed up the audio designers' workflow. Profile and optimize audio for CPU, memory, voice count, and streaming using the Wwise Profiler and Unreal Audio Insights. Uphold Wwise data organization and mixing guidelines so content stays consistent and scales across the project. Troubleshoot and resolve audio issues in collaboration with the development team. Write and maintain technical documentation for audio features, tools, and workflows. Communicate progress and technical constraints clearly to non-technical collaborators. Required: 3+ years of technical audio experience, including one full production cycle through ship. Demonstrable audio implementation skills with Unreal Engine and Wwise. Strong command of Unreal Blueprints for audio implementation. Proficient with Wwise. Working knowledge of a DAW such as Reaper or Pro Tools. Strong problem-solving skills and attention to detail. Ability to quickly learn new technology, tools, and concepts. Good communication and teamwork abilities, including explaining technical constraints to non-technical collaborators. Genuine interest in technical audio for games, with a good ear. Nice to have: Good understanding of Wwise Spatial Audio. Working knowledge of the Wwise Authoring API (WAAPI). Scripting abilities in Python or C#. Surface level understanding of C++ and its role in Unreal Engine. Justification des exigences linguistiques NetEase s'engage à favoriser un environnement de travail francophone pour ses employés au Québec. Tous les efforts ont été faits pour éviter d'exiger une langue autre que le français pour ce poste. Cependant, la maîtrise de l'anglais est essentielle pour ce poste, car l'employé devra communiquer régulièrement avec des collègues et des parties prenantes situés à l'extérieur du Québec, où l'anglais est la principale langue de communication entre les bureaux. Language Requirement Justification NetEase is committed to supporting a French-speaking workenvironment for its employees in Quebec. Every effort has been made to avoidrequiring a language other than French for this position. However, proficiency in English is essential for thisrole because the employee will be required to communicate regularly with colleagues and stakeholders located outside Quebec, where English is theprimary language of communication between offices.",
+      "direct_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-10-25",
+        "listing_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
+        "posting_date_or_recency": "2026-10-23T14:29:18-04:00",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
+      "sources": [
+        "ASGC",
+        "Hitmarker"
+      ],
+      "salary_currency": "USD",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
+    {
       "title": "Audio Engineer, Live Video",
       "company": "OpenAI",
       "url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
@@ -56,7 +89,7 @@
       "direct_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
         "posting_date_or_recency": "2026-10-16",
         "date_source": "employer",
@@ -92,7 +125,7 @@
       "direct_url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://join.com/companies/velptec/16839052-weiterbildung-zum-visual-und-audio-designer-m-w-d-100-foerderbar",
         "posting_date_or_recency": "2026-10-16T17:07:25.970Z",
         "date_source": "employer",
@@ -121,7 +154,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.smartrecruiters.com/Playtech/744000155730880",
         "posting_date_or_recency": "2026-10-15T11:06:32.048Z",
         "date_source": "employer",
@@ -149,7 +182,7 @@
       "direct_url": "https://www.riotgames.com/en/work-with-us/job/8187444/sound-designer-unpublished-r-d-product-contract-guangzhou-china",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://www.riotgames.com/en/work-with-us/job/8187444?gh_jid=8187444",
         "posting_date_or_recency": "2026-10-15T02:13:06-04:00",
         "date_source": "employer",
@@ -183,7 +216,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II-FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -216,7 +249,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -249,7 +282,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-II---FC/216315",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -277,7 +310,7 @@
       "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
+        "checked_on": "2026-10-25",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III---FC/216309",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -291,94 +324,33 @@
         "source_label": "Reputable secondary board"
       },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
-    {
-      "title": "Concepteur audio technique / Technical Audio Designer",
-      "url": "https://hitmarker.net/jobs/highdive-concepteur-audio-technique-technical-audio-designer-5364162",
-      "company": "Highdive",
-      "description": "En tant que concepteur audio technique, vous vous situez à l’intersection du design sonore et de l’ingénierie, transformant les éléments audio en systèmes en jeu performants et peaufinés. En collaboration avec les concepteurs sonores, les ingénieurs et les concepteurs techniques, vous intégrerez l’audio dans Unreal Engine et Wwise, concevrez des outils et optimiserez les performances. Il s’agit d’un rôle pratique destiné à une personne souhaitant évoluer à la jonction de la création et de la technique. Contrat de 12 mois Responsabilités: Intégrer les éléments audio dans Unreal Engine à l’aide du moteur sonore Wwise, de l’élément source jusqu’au système jouable. Concevoir et maintenir des systèmes audio basés sur les Blueprints. Développer et améliorer des outils permettant d’accélérer le flux de travail des concepteurs sonores. Profiler et optimiser l’audio en termes de CPU, mémoire, nombre de voix et flux (streaming) à l’aide du Wwise Profiler et d’Unreal Audio Insights. Respecter les directives d’organisation des données et de mixage de Wwise afin de garantir la cohérence du contenu et sa capacité à passer à l’échelle. Diagnostiquer et résoudre les problèmes audio en collaboration avec l’équipe de développement. Rédiger et maintenir la documentation technique des fonctionnalités, outils et flux de travail audio. Communiquer clairement les progrès et les contraintes techniques aux collaborateurs non techniques. Exigences: 3 ans ou plus d’expérience en audio technique, incluant un cycle de production complet jusqu’au lancement du jeu. Compétences démontrables en intégration audio avec Unreal Engine et Wwise. Solide maîtrise des Blueprints Unreal pour l’intégration audio. Maîtrise de Wwise. Connaissance pratique d’une station de travail audio numérique (DAW) telle que Reaper ou Pro Tools. Fortes capacités de résolution de problèmes et souci du détail. Capacité à apprendre rapidement de nouvelles technologies, outils et concepts. Bonnes aptitudes en communication et travail d’équipe, incluant la capacité d’expliquer des contraintes techniques à des collaborateurs non techniques. Intérêt réel pour l’audio technique appliqué au jeu vidéo, couplé à une bonne oreille. Atouts: Bonne compréhension de Wwise Spatial Audio. Connaissance pratique de l’API Wwise Authoring (WAAPI). Compétences en programmation d’scripts en Python ou C#. Connaissance de base du C++ et de son rôle dans Unreal Engine. Technical Audio Designer As a Technical Audio Designer, you sit between sound design and engineering, turning audio assets into polished, performant in-game systems. Working with audio designers, engineers, and technical designers, you will implement audio in Unreal Engine and Wwise, build tooling, and optimize for performance. This is a hands-on role for someone who wants to grow at the intersection of creative and technical craft. 12-month contract Responsibilities: Integrate audio assets into Unreal Engine using the Wwise sound engine, from source asset to playable system. Build and maintain Blueprint-based audio systems. Develop and improve tools that speed up the audio designers' workflow. Profile and optimize audio for CPU, memory, voice count, and streaming using the Wwise Profiler and Unreal Audio Insights. Uphold Wwise data organization and mixing guidelines so content stays consistent and scales across the project. Troubleshoot and resolve audio issues in collaboration with the development team. Write and maintain technical documentation for audio features, tools, and workflows. Communicate progress and technical constraints clearly to non-technical collaborators. Required: 3+ years of technical audio experience, including one full production cycle through ship. Demonstrable audio implementation skills with Unreal Engine and Wwise. Strong command of Unreal Blueprints for audio implementation. Proficient with Wwise. Working knowledge of a DAW such as Reaper or Pro Tools. Strong problem-solving skills and attention to detail. Ability to quickly learn new technology, tools, and concepts. Good communication and teamwork abilities, including explaining technical constraints to non-technical collaborators. Genuine interest in technical audio for games, with a good ear. Nice to have: Good understanding of Wwise Spatial Audio. Working knowledge of the Wwise Authoring API (WAAPI). Scripting abilities in Python or C#. Surface level understanding of C++ and its role in Unreal Engine. Justification des exigences linguistiques NetEase s'engage à favoriser un environnement de travail francophone pour ses employés au Québec. Tous les efforts ont été faits pour éviter d'exiger une langue autre que le français pour ce poste. Cependant, la maîtrise de l'anglais est essentielle pour ce poste, car l'employé devra communiquer régulièrement avec des collègues et des parties prenantes situés à l'extérieur du Québec, où l'anglais est la principale langue de communication entre les bureaux. Language Requirement Justification NetEase is committed to supporting a French-speaking workenvironment for its employees in Quebec. Every effort has been made to avoidrequiring a language other than French for this position. However, proficiency in English is essential for thisrole because the employee will be required to communicate regularly with colleagues and stakeholders located outside Quebec, where English is theprimary language of communication between offices.",
-      "ats": "Hitmarker",
-      "direct_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
-      "job_type": "Full Time",
-      "date_posted": "2026-10-23T14:29:18-04:00",
-      "location": "Greater Montreal",
-      "salary": "",
-      "salary_currency": "USD",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-24",
-        "listing_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
-        "posting_date_or_recency": "2026-10-23T14:29:18-04:00",
-        "date_source": "employer",
-        "employment_source": "listing"
-      },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     }
   ],
   "new_jobs": [
     {
-      "title": "Audio Artist - EA Sports NHL",
-      "company": "EA Sports",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383",
+      "title": "Concepteur audio technique / Technical Audio Designer",
+      "company": "Highdive",
+      "url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
       "ats": "ASGC",
       "job_type": "Full-Time",
-      "location": "Vancouver, British Columbia, Canada",
+      "location": "Greater Montreal",
       "board_activated_on": "2026-10-23",
-      "date_posted": "2026-10-24T05:20:00+00:00",
-      "description": "Audio Artist - EA Sports NHL - 216383 - Electronic Arts Skip to content Electronic Arts Open Roles About EA EA Careers EA News Login English - US Chinese English - US Finnish Français Italian Korean Malay Polish Romanian Spanish Swedish Audio Artist - EA Sports NHL Home ... Open Roles Role Detail General Information Locations : Vancouver, British Columbia, Canada Role ID 216383 Worker Type Temporary Employee Studio/Department EA Studios - SPORTS Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. Audio Artist II – Speech Production EA SPORTS™ NHL Who We Are EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games. EA SPORTS NHL has revolutionised sports gaming for millions of players worldwide. We've pioneered award-winning creative technology and experiences to connect players to the speed, skill, and heart of the NHL. Role Overview We are looking for an Audio Artist II to join the EA SPORTS NHL Audio team. The primary focus of this role is mastering, organising, and delivering high-quality recorded speech for commentary, voice-over, and other in-game experiences. You will also support speech-production workflows using AI tools that help the team maintain content at scale. Reporting to the Audio Lead, you will work independently within a defined area, applying editorial judgement and technical discipline to ensure assets meet creative, pipeline, and in-game quality standards. The Challenge Ahead Your challenge will be to turn recorded and generated source material into game-ready assets while maintaining accuracy across naming, metadata, versioning, and delivery. You will review content critically and work with speech leads, audio leadership, production, and technical partners to resolve issues. You will contribute ideas within your area, help improve established workflows, estimate your work with guidance, and communicate status, dependencies, and risks early. Who You Are You are an audio professional with dialogue-editing and mastering skills. You are comfortable working through high volumes of content without losing consistency, and you understand how editorial choices affect clarity, authenticity, and the player experience. You evaluate and integrate new tools through active testing and structured analysis. You will review audio outputs to identify artifacts and inconsistencies, correct manageable issues through direct editing, and escalate complex problems to the speech team. You will maintain structured asset workflows, integrate team reviews into your daily process, and implement solutions to increase our audio processing pipeline's reliability. Responsibilities Master, clean, and quality-check commentary, dialogue, and other speech assets. Use approved speech-generation and processing tools to create or adapt content, then evaluate and prepare outputs to team standards. Identify issues involving noise, level, dynamics, spectral balance, timing, pronunciation, continuity, or processing artifacts. Maintain accurate naming, metadata, versioning, source files, and delivery structures. Prepare, import, and validate speech assets in game-audio tools, databases, and established pipelines. Track assigned work, provide estimates with lead support, and communicate priorities, dependencies, and schedule risks. Participate in troubleshooting and recommend practical improvements to tools and workflows. Document processes and share knowledge. Requirements Professional experience editing and mastering dialogue, commentary, VO, ADR, broadcast, or comparable speech content. Advanced proficiency with Pro Tools or another professional DAW, including dialogue cleanup, EQ, dynamics, noise reduction, loudness control, and batch workflows. Demonstrated experience evaluating audio to identify subtle quality, consistency, and processing errors. 3+ years of experience managing assets against technical specifications, naming conventions, metadata, and version-control requirements. Experience with game-audio authoring tools, databases, or content pipelines. You will document technical workflows, track project milestones, and coordinate asset deliveries across multiple technical and creative departments. Experience with modern speech-production, voice-processing, automation, or scripting workflows is an asset. Pay Transparency - North America COMPENSATION AND BENEFITS The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). PAY RANGES * British Columbia (depending on location e.g. Vancouver vs. Victoria) *$67,000 - $92,700 CAD Pay is just one part of the overall compensation at EA. In Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance. About Electronic Arts We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth. We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do. Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. Post To External careers site, Internal careers site LinkedInID 74884070 Back to Role List Apply Share this role: LinkedIn X WhatsApp Email Facebook © 2026\n\n                                    Electronic Arts Inc. Copyright ©\n\n                                    2026 Candidate Privacy Notice Notice at Collection (California)",
-      "direct_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383",
+      "date_posted": "2026-10-23T14:29:18-04:00",
+      "description": "En tant que concepteur audio technique, vous vous situez à l’intersection du design sonore et de l’ingénierie, transformant les éléments audio en systèmes en jeu performants et peaufinés. En collaboration avec les concepteurs sonores, les ingénieurs et les concepteurs techniques, vous intégrerez l’audio dans Unreal Engine et Wwise, concevrez des outils et optimiserez les performances. Il s’agit d’un rôle pratique destiné à une personne souhaitant évoluer à la jonction de la création et de la technique. Contrat de 12 mois Responsabilités: Intégrer les éléments audio dans Unreal Engine à l’aide du moteur sonore Wwise, de l’élément source jusqu’au système jouable. Concevoir et maintenir des systèmes audio basés sur les Blueprints. Développer et améliorer des outils permettant d’accélérer le flux de travail des concepteurs sonores. Profiler et optimiser l’audio en termes de CPU, mémoire, nombre de voix et flux (streaming) à l’aide du Wwise Profiler et d’Unreal Audio Insights. Respecter les directives d’organisation des données et de mixage de Wwise afin de garantir la cohérence du contenu et sa capacité à passer à l’échelle. Diagnostiquer et résoudre les problèmes audio en collaboration avec l’équipe de développement. Rédiger et maintenir la documentation technique des fonctionnalités, outils et flux de travail audio. Communiquer clairement les progrès et les contraintes techniques aux collaborateurs non techniques. Exigences: 3 ans ou plus d’expérience en audio technique, incluant un cycle de production complet jusqu’au lancement du jeu. Compétences démontrables en intégration audio avec Unreal Engine et Wwise. Solide maîtrise des Blueprints Unreal pour l’intégration audio. Maîtrise de Wwise. Connaissance pratique d’une station de travail audio numérique (DAW) telle que Reaper ou Pro Tools. Fortes capacités de résolution de problèmes et souci du détail. Capacité à apprendre rapidement de nouvelles technologies, outils et concepts. Bonnes aptitudes en communication et travail d’équipe, incluant la capacité d’expliquer des contraintes techniques à des collaborateurs non techniques. Intérêt réel pour l’audio technique appliqué au jeu vidéo, couplé à une bonne oreille. Atouts: Bonne compréhension de Wwise Spatial Audio. Connaissance pratique de l’API Wwise Authoring (WAAPI). Compétences en programmation d’scripts en Python ou C#. Connaissance de base du C++ et de son rôle dans Unreal Engine. Technical Audio Designer As a Technical Audio Designer, you sit between sound design and engineering, turning audio assets into polished, performant in-game systems. Working with audio designers, engineers, and technical designers, you will implement audio in Unreal Engine and Wwise, build tooling, and optimize for performance. This is a hands-on role for someone who wants to grow at the intersection of creative and technical craft. 12-month contract Responsibilities: Integrate audio assets into Unreal Engine using the Wwise sound engine, from source asset to playable system. Build and maintain Blueprint-based audio systems. Develop and improve tools that speed up the audio designers' workflow. Profile and optimize audio for CPU, memory, voice count, and streaming using the Wwise Profiler and Unreal Audio Insights. Uphold Wwise data organization and mixing guidelines so content stays consistent and scales across the project. Troubleshoot and resolve audio issues in collaboration with the development team. Write and maintain technical documentation for audio features, tools, and workflows. Communicate progress and technical constraints clearly to non-technical collaborators. Required: 3+ years of technical audio experience, including one full production cycle through ship. Demonstrable audio implementation skills with Unreal Engine and Wwise. Strong command of Unreal Blueprints for audio implementation. Proficient with Wwise. Working knowledge of a DAW such as Reaper or Pro Tools. Strong problem-solving skills and attention to detail. Ability to quickly learn new technology, tools, and concepts. Good communication and teamwork abilities, including explaining technical constraints to non-technical collaborators. Genuine interest in technical audio for games, with a good ear. Nice to have: Good understanding of Wwise Spatial Audio. Working knowledge of the Wwise Authoring API (WAAPI). Scripting abilities in Python or C#. Surface level understanding of C++ and its role in Unreal Engine. Justification des exigences linguistiques NetEase s'engage à favoriser un environnement de travail francophone pour ses employés au Québec. Tous les efforts ont été faits pour éviter d'exiger une langue autre que le français pour ce poste. Cependant, la maîtrise de l'anglais est essentielle pour ce poste, car l'employé devra communiquer régulièrement avec des collègues et des parties prenantes situés à l'extérieur du Québec, où l'anglais est la principale langue de communication entre les bureaux. Language Requirement Justification NetEase is committed to supporting a French-speaking workenvironment for its employees in Quebec. Every effort has been made to avoidrequiring a language other than French for this position. However, proficiency in English is essential for thisrole because the employee will be required to communicate regularly with colleagues and stakeholders located outside Quebec, where English is theprimary language of communication between offices.",
+      "direct_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-10-24",
-        "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383",
-        "posting_date_or_recency": "",
-        "date_source": "board",
-        "employment_source": "board"
+        "checked_on": "2026-10-25",
+        "listing_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
+        "posting_date_or_recency": "2026-10-23T14:29:18-04:00",
+        "date_source": "employer",
+        "employment_source": "listing"
       },
       "sources": [
         "ASGC",
         "Hitmarker"
       ],
-      "salary": "CAD $67,000 to $92,700 / year",
       "salary_currency": "USD",
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "CAD $67,000 to $92,700 / year",
-        "currency": "CAD",
-        "period": "annual",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "comparison_note": "Published in CAD; no USD conversion assumed"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
-    {
-      "title": "Concepteur audio technique / Technical Audio Designer",
-      "url": "https://hitmarker.net/jobs/highdive-concepteur-audio-technique-technical-audio-designer-5364162",
-      "company": "Highdive",
-      "description": "En tant que concepteur audio technique, vous vous situez à l’intersection du design sonore et de l’ingénierie, transformant les éléments audio en systèmes en jeu performants et peaufinés. En collaboration avec les concepteurs sonores, les ingénieurs et les concepteurs techniques, vous intégrerez l’audio dans Unreal Engine et Wwise, concevrez des outils et optimiserez les performances. Il s’agit d’un rôle pratique destiné à une personne souhaitant évoluer à la jonction de la création et de la technique. Contrat de 12 mois Responsabilités: Intégrer les éléments audio dans Unreal Engine à l’aide du moteur sonore Wwise, de l’élément source jusqu’au système jouable. Concevoir et maintenir des systèmes audio basés sur les Blueprints. Développer et améliorer des outils permettant d’accélérer le flux de travail des concepteurs sonores. Profiler et optimiser l’audio en termes de CPU, mémoire, nombre de voix et flux (streaming) à l’aide du Wwise Profiler et d’Unreal Audio Insights. Respecter les directives d’organisation des données et de mixage de Wwise afin de garantir la cohérence du contenu et sa capacité à passer à l’échelle. Diagnostiquer et résoudre les problèmes audio en collaboration avec l’équipe de développement. Rédiger et maintenir la documentation technique des fonctionnalités, outils et flux de travail audio. Communiquer clairement les progrès et les contraintes techniques aux collaborateurs non techniques. Exigences: 3 ans ou plus d’expérience en audio technique, incluant un cycle de production complet jusqu’au lancement du jeu. Compétences démontrables en intégration audio avec Unreal Engine et Wwise. Solide maîtrise des Blueprints Unreal pour l’intégration audio. Maîtrise de Wwise. Connaissance pratique d’une station de travail audio numérique (DAW) telle que Reaper ou Pro Tools. Fortes capacités de résolution de problèmes et souci du détail. Capacité à apprendre rapidement de nouvelles technologies, outils et concepts. Bonnes aptitudes en communication et travail d’équipe, incluant la capacité d’expliquer des contraintes techniques à des collaborateurs non techniques. Intérêt réel pour l’audio technique appliqué au jeu vidéo, couplé à une bonne oreille. Atouts: Bonne compréhension de Wwise Spatial Audio. Connaissance pratique de l’API Wwise Authoring (WAAPI). Compétences en programmation d’scripts en Python ou C#. Connaissance de base du C++ et de son rôle dans Unreal Engine. Technical Audio Designer As a Technical Audio Designer, you sit between sound design and engineering, turning audio assets into polished, performant in-game systems. Working with audio designers, engineers, and technical designers, you will implement audio in Unreal Engine and Wwise, build tooling, and optimize for performance. This is a hands-on role for someone who wants to grow at the intersection of creative and technical craft. 12-month contract Responsibilities: Integrate audio assets into Unreal Engine using the Wwise sound engine, from source asset to playable system. Build and maintain Blueprint-based audio systems. Develop and improve tools that speed up the audio designers' workflow. Profile and optimize audio for CPU, memory, voice count, and streaming using the Wwise Profiler and Unreal Audio Insights. Uphold Wwise data organization and mixing guidelines so content stays consistent and scales across the project. Troubleshoot and resolve audio issues in collaboration with the development team. Write and maintain technical documentation for audio features, tools, and workflows. Communicate progress and technical constraints clearly to non-technical collaborators. Required: 3+ years of technical audio experience, including one full production cycle through ship. Demonstrable audio implementation skills with Unreal Engine and Wwise. Strong command of Unreal Blueprints for audio implementation. Proficient with Wwise. Working knowledge of a DAW such as Reaper or Pro Tools. Strong problem-solving skills and attention to detail. Ability to quickly learn new technology, tools, and concepts. Good communication and teamwork abilities, including explaining technical constraints to non-technical collaborators. Genuine interest in technical audio for games, with a good ear. Nice to have: Good understanding of Wwise Spatial Audio. Working knowledge of the Wwise Authoring API (WAAPI). Scripting abilities in Python or C#. Surface level understanding of C++ and its role in Unreal Engine. Justification des exigences linguistiques NetEase s'engage à favoriser un environnement de travail francophone pour ses employés au Québec. Tous les efforts ont été faits pour éviter d'exiger une langue autre que le français pour ce poste. Cependant, la maîtrise de l'anglais est essentielle pour ce poste, car l'employé devra communiquer régulièrement avec des collègues et des parties prenantes situés à l'extérieur du Québec, où l'anglais est la principale langue de communication entre les bureaux. Language Requirement Justification NetEase is committed to supporting a French-speaking workenvironment for its employees in Quebec. Every effort has been made to avoidrequiring a language other than French for this position. However, proficiency in English is essential for thisrole because the employee will be required to communicate regularly with colleagues and stakeholders located outside Quebec, where English is theprimary language of communication between offices.",
-      "ats": "Hitmarker",
-      "direct_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
-      "job_type": "Full Time",
-      "date_posted": "2026-10-23T14:29:18-04:00",
-      "location": "Greater Montreal",
-      "salary": "",
-      "salary_currency": "USD",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-10-24",
-        "listing_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
-        "posting_date_or_recency": "2026-10-23T14:29:18-04:00",
-        "date_source": "employer",
-        "employment_source": "listing"
-      },
       "employment_category": "full_time",
       "compensation": {
         "nominal": "",

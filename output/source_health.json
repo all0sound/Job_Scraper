@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-24T16:40:01.733923+00:00",
+  "updated_at": "2026-10-25T17:07:47.536591+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-10-24T16:34:02.603277+00:00",
-      "raw": 144,
-      "verified": 24,
-      "errors": 72,
+      "checked_at": "2026-10-25T17:02:26.373381+00:00",
+      "raw": 143,
+      "verified": 25,
+      "errors": 67,
       "status": "partial",
       "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Sound-Engineer-at-Keywords-Studios",
       "details_limit": 100,
@@ -16,7 +16,7 @@
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-10-24T16:35:32.181270+00:00",
+      "checked_at": "2026-10-25T17:03:40.866416+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-10-24T16:35:32.181285+00:00",
+      "checked_at": "2026-10-25T17:03:40.866429+00:00",
       "raw": 4,
       "verified": 4,
       "errors": 0,
@@ -37,7 +37,7 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-10-24T16:35:34.258354+00:00",
+      "checked_at": "2026-10-25T17:03:42.880548+00:00",
       "raw": 43,
       "verified": 30,
       "errors": 13,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-10-24T16:36:14.396498+00:00",
+      "checked_at": "2026-10-25T17:04:15.091882+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,19 +60,19 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-10-24T16:36:15.128273+00:00",
-      "raw": 38,
+      "checked_at": "2026-10-25T17:04:15.816879+00:00",
+      "raw": 40,
       "verified": 0,
-      "errors": 38,
+      "errors": 40,
       "status": "error",
-      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Recording-Engineer-at-Kojima-Productions",
+      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Audio-Producer-at-Cloud-Imperium-Games-9634",
       "details_limit": 100,
       "truncated": false
     },
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-10-24T16:36:20.901806+00:00",
+      "checked_at": "2026-10-25T17:04:21.760776+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-10-24T16:36:20.901818+00:00",
+      "checked_at": "2026-10-25T17:04:21.760796+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -94,7 +94,7 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-10-24T16:36:21.257374+00:00",
+      "checked_at": "2026-10-25T17:04:22.142133+00:00",
       "raw": 14,
       "verified": 7,
       "errors": 7,
@@ -106,7 +106,7 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-10-24T16:37:33.172060+00:00",
+      "checked_at": "2026-10-25T17:05:12.710833+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -118,7 +118,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-10-24T16:37:33.844691+00:00",
+      "checked_at": "2026-10-25T17:05:13.426679+00:00",
       "raw": 2,
       "verified": 2,
       "errors": 0,
@@ -129,7 +129,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-10-24T16:37:34.657595+00:00",
+      "checked_at": "2026-10-25T17:05:14.191702+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
