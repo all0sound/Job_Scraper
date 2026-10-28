@@ -1,7 +1,85 @@
 {
-  "scraped_at": "2026-10-27 20:30 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-28 00:17 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "suno",
+      "title": "IT Engineer",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=e11cc3ffc454bdf1",
+      "direct_url": "https://jobs.ashbyhq.com/suno/13ab742b-aac0-483b-a895-c0468a05e3e0?utm_source=n3DElNN88q",
+      "company_url": "https://www.indeed.com/cmp/Suno",
+      "date_posted": "2026-10-27",
+      "description": "**About Suno**\n==============\n\nWe're building the world's first creative entertainment platform, where the entire world can feel the joy and fulfillment of making music. Music is for everyone: Our users include everyone from grandmothers creating songs for their loved ones, to Grammy winners using Suno Studio, our power tool, to make the most popular hits in the world.\n\nBuilding the future of entertainment requires ambition. The pace is fast, the problems are hard, and the work demands ownership and intensity. For the right people, it’s incredibly rewarding: a chance to shape a new medium, work with a small team that cares deeply about quality, make music, drink too much coffee, and build something that millions of people use to express themselves in ways that were never before possible.\n\nSuno is the fastest growing consumer entertainment company and the leader in AI music. We are backed by leading investors including Bond Capital, Menlo Ventures, Lightspeed Venture Partners, IVP, Forerunner, Union Square Ventures, Alkeon, Quiet, Matrix Partners, Schroders Capital and, NVentures (venture arm of NVIDIA).\n\n**About the Role**\n------------------\n\nOur Los Angeles office is home to Suno's largest concentration of musicians, producers, and music-industry partners, and the technology they depend on is different from a typical office: studios, DAWs, audio interfaces, monitoring, high-resolution playback, and the networks and storage that move large sessions around. As Staff IT Engineer, you'll own the audio and studio technology domain for Suno company-wide — designing, building, and supporting the production environments our Music team works in — while also serving as the senior IT presence on the ground in LA.\n\nYou'll report to the Senior Manager, IT Operations and work alongside IT Engineers in Cambridge, NYC, and San Francisco, who manage identity, endpoint, SaaS, and office-infrastructure. You'll work with the rest of the team to manage our Corporate IT systems stack, but you'll be our audio and A/V expert.\n\n**Listen to the song we made about it:** https://suno.com/s/ldMCcRAh5ln0LgNA\n\n**What You'll Do**\n------------------\n\n* **Run IT for the LA office** — identity and onboarding, endpoint management, SaaS Administration, wired/wireless networking, zero-trust VPN, and A/V and videoconferencing.\n* **Own audio and studio systems as a domain** — set the standard for how Suno builds and supports production spaces across offices: studio and listening-room design in partnership with acousticians and integrators, DAW and plugin management, audio interfaces and I/O, monitoring and calibration, and the storage and networking that production work needs.\n* **Support the Music team at a professional bar** — keep sessions running; manage DAW environments (Pro Tools, Logic, Ableton, and others), licensing, plugin fleets, and audio drivers across a Mac fleet; troubleshoot latency, clocking, and routing problems the rest of IT can't.\n* **Partner on the product** — work with Engineering and the Suno Studio team to make sure internal creators have the hardware, routing, and environments they need to use and test our tools the way professional producers do.\n* **Design for the next space** — specify audio, A/V, and network requirements for LA buildouts and expansions and for studio spaces in other offices; manage integrators and vendors to a result.\n* **Scale support** — write runbooks and knowledge articles that let office managers and AI-powered self-service handle the routine, and automate what you've done twice.\n\n**What You'll Need**\n--------------------\n\n### **Must-Haves**\n\n* 10+ years of IT engineering experience, including significant time supporting professional audio production environments — studios, post-production, broadcast, live, or music-technology companies.\n* Deep professional-audio competence — signal flow, digital audio (sample rates, clocking, word clock, Dante or AVB), DAW administration, audio interfaces and converters, monitoring and room calibration — and the ability to diagnose problems producers describe by ear.\n* Demonstrated breadth across the IT stack — identity, endpoint, SaaS administration, networking, and office IT — with the depth to operate independently as the only IT engineer in an office.\n* Experience owning a technical domain end to end — you've set the standard others follow, not just executed it.\n* Strong written and verbal communication — you can work comfortably with producers, engineers, executives, and vendors, and translate between them.\n* Learning agility — you pick up new platforms quickly, you're comfortable being the first person at the company to figure something out, and you aren't afraid to ask for help.\n\n### **Nice-to-Haves**\n\n* Studio design and buildout experience — acoustic treatment, room tuning, patchbay and infrastructure design, working with acousticians and AV integrators.\n* Hands-on experience with a modern IdP (Okta or equivalent), modern Apple MDM (Iru, Jamf, Jumpcloud), and endpoint security (CrowdStrike or similar).\n* Networking depth — AV-over-IP, multicast, QoS for audio networks, and managed switching.\n* Experience supporting creative or music teams at a technology company, or IT at a label, studio, or music-tech company.\n* Comfort with at least one scripting language (Python, TypeScript, or Bash) and config-as-code approaches.\n* Working knowledge of music production — you've made or recorded music yourself.\n\n**Work Location Policy**\n------------------------\n\nThis role is expected to work from the designated Suno office 5 days a week, per Suno's company policy. Full-time employees will receive competitive equity packages, and comprehensive benefits. The actual base salary offered may vary depending on location, skills, qualifications, and experience.\n\n**Additional Notes**\n\nApplicants must be eligible to work in the US.\n\nWillingness to travel (up to 20%) to collaborate with team members and support studio spaces across Suno office locations.\n\n*",
+      "salary": "$160k–$217k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "FULL TIME",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "listing_verification": {
+        "listing_url": "https://jobs.ashbyhq.com/suno/13ab742b-aac0-483b-a895-c0468a05e3e0?utm_source=n3DElNN88q",
+        "checked_on": "2026-10-28",
+        "status": "verified",
+        "posting_date_or_recency": "2026-10-27"
+      },
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "$160k–$217k/yr",
+        "period": "annual",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "currency": "USD",
+        "annual_min": 160000,
+        "annual_max": 217000,
+        "california_equivalent_annual_max": 217000,
+        "cost_of_living_method": "BEA RPP 2023: $217,000 x CA 112.6 / CA 112.6",
+        "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+      },
+      "distance_miles": 56.8
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "suno",
+      "title": "IT Engineer",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=e11cc3ffc454bdf1",
+      "direct_url": "https://jobs.ashbyhq.com/suno/13ab742b-aac0-483b-a895-c0468a05e3e0?utm_source=n3DElNN88q",
+      "company_url": "https://www.indeed.com/cmp/Suno",
+      "date_posted": "2026-10-27",
+      "description": "**About Suno**\n==============\n\nWe're building the world's first creative entertainment platform, where the entire world can feel the joy and fulfillment of making music. Music is for everyone: Our users include everyone from grandmothers creating songs for their loved ones, to Grammy winners using Suno Studio, our power tool, to make the most popular hits in the world.\n\nBuilding the future of entertainment requires ambition. The pace is fast, the problems are hard, and the work demands ownership and intensity. For the right people, it’s incredibly rewarding: a chance to shape a new medium, work with a small team that cares deeply about quality, make music, drink too much coffee, and build something that millions of people use to express themselves in ways that were never before possible.\n\nSuno is the fastest growing consumer entertainment company and the leader in AI music. We are backed by leading investors including Bond Capital, Menlo Ventures, Lightspeed Venture Partners, IVP, Forerunner, Union Square Ventures, Alkeon, Quiet, Matrix Partners, Schroders Capital and, NVentures (venture arm of NVIDIA).\n\n**About the Role**\n------------------\n\nOur Los Angeles office is home to Suno's largest concentration of musicians, producers, and music-industry partners, and the technology they depend on is different from a typical office: studios, DAWs, audio interfaces, monitoring, high-resolution playback, and the networks and storage that move large sessions around. As Staff IT Engineer, you'll own the audio and studio technology domain for Suno company-wide — designing, building, and supporting the production environments our Music team works in — while also serving as the senior IT presence on the ground in LA.\n\nYou'll report to the Senior Manager, IT Operations and work alongside IT Engineers in Cambridge, NYC, and San Francisco, who manage identity, endpoint, SaaS, and office-infrastructure. You'll work with the rest of the team to manage our Corporate IT systems stack, but you'll be our audio and A/V expert.\n\n**Listen to the song we made about it:** https://suno.com/s/ldMCcRAh5ln0LgNA\n\n**What You'll Do**\n------------------\n\n* **Run IT for the LA office** — identity and onboarding, endpoint management, SaaS Administration, wired/wireless networking, zero-trust VPN, and A/V and videoconferencing.\n* **Own audio and studio systems as a domain** — set the standard for how Suno builds and supports production spaces across offices: studio and listening-room design in partnership with acousticians and integrators, DAW and plugin management, audio interfaces and I/O, monitoring and calibration, and the storage and networking that production work needs.\n* **Support the Music team at a professional bar** — keep sessions running; manage DAW environments (Pro Tools, Logic, Ableton, and others), licensing, plugin fleets, and audio drivers across a Mac fleet; troubleshoot latency, clocking, and routing problems the rest of IT can't.\n* **Partner on the product** — work with Engineering and the Suno Studio team to make sure internal creators have the hardware, routing, and environments they need to use and test our tools the way professional producers do.\n* **Design for the next space** — specify audio, A/V, and network requirements for LA buildouts and expansions and for studio spaces in other offices; manage integrators and vendors to a result.\n* **Scale support** — write runbooks and knowledge articles that let office managers and AI-powered self-service handle the routine, and automate what you've done twice.\n\n**What You'll Need**\n--------------------\n\n### **Must-Haves**\n\n* 10+ years of IT engineering experience, including significant time supporting professional audio production environments — studios, post-production, broadcast, live, or music-technology companies.\n* Deep professional-audio competence — signal flow, digital audio (sample rates, clocking, word clock, Dante or AVB), DAW administration, audio interfaces and converters, monitoring and room calibration — and the ability to diagnose problems producers describe by ear.\n* Demonstrated breadth across the IT stack — identity, endpoint, SaaS administration, networking, and office IT — with the depth to operate independently as the only IT engineer in an office.\n* Experience owning a technical domain end to end — you've set the standard others follow, not just executed it.\n* Strong written and verbal communication — you can work comfortably with producers, engineers, executives, and vendors, and translate between them.\n* Learning agility — you pick up new platforms quickly, you're comfortable being the first person at the company to figure something out, and you aren't afraid to ask for help.\n\n### **Nice-to-Haves**\n\n* Studio design and buildout experience — acoustic treatment, room tuning, patchbay and infrastructure design, working with acousticians and AV integrators.\n* Hands-on experience with a modern IdP (Okta or equivalent), modern Apple MDM (Iru, Jamf, Jumpcloud), and endpoint security (CrowdStrike or similar).\n* Networking depth — AV-over-IP, multicast, QoS for audio networks, and managed switching.\n* Experience supporting creative or music teams at a technology company, or IT at a label, studio, or music-tech company.\n* Comfort with at least one scripting language (Python, TypeScript, or Bash) and config-as-code approaches.\n* Working knowledge of music production — you've made or recorded music yourself.\n\n**Work Location Policy**\n------------------------\n\nThis role is expected to work from the designated Suno office 5 days a week, per Suno's company policy. Full-time employees will receive competitive equity packages, and comprehensive benefits. The actual base salary offered may vary depending on location, skills, qualifications, and experience.\n\n**Additional Notes**\n\nApplicants must be eligible to work in the US.\n\nWillingness to travel (up to 20%) to collaborate with team members and support studio spaces across Suno office locations.\n\n*",
+      "salary": "$160k–$217k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "FULL TIME",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "listing_verification": {
+        "listing_url": "https://jobs.ashbyhq.com/suno/13ab742b-aac0-483b-a895-c0468a05e3e0?utm_source=n3DElNN88q",
+        "checked_on": "2026-10-28",
+        "status": "verified",
+        "posting_date_or_recency": "2026-10-27"
+      },
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "$160k–$217k/yr",
+        "period": "annual",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "currency": "USD",
+        "annual_min": 160000,
+        "annual_max": 217000,
+        "california_equivalent_annual_max": 217000,
+        "cost_of_living_method": "BEA RPP 2023: $217,000 x CA 112.6 / CA 112.6",
+        "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+      },
+      "distance_miles": 56.8
+    }
+  ]
 }
