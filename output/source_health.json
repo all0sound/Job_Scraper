@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-29T19:02:18.504794+00:00",
+  "updated_at": "2026-10-30T18:39:37.600415+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-10-29T18:56:29.007492+00:00",
-      "raw": 119,
-      "verified": 39,
-      "errors": 52,
+      "checked_at": "2026-10-30T18:34:25.806190+00:00",
+      "raw": 143,
+      "verified": 31,
+      "errors": 49,
       "status": "partial",
-      "last_error": "Response does not contain the direct job listing",
+      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Sound-Designer-Star-Wars-Jedi-at-Electronic-Arts",
       "details_limit": 100,
       "truncated": true
     },
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-10-29T18:57:53.978949+00:00",
+      "checked_at": "2026-10-30T18:35:43.652172+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-10-29T18:57:53.978963+00:00",
+      "checked_at": "2026-10-30T18:35:43.652190+00:00",
       "raw": 4,
       "verified": 4,
       "errors": 0,
@@ -37,10 +37,10 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-10-29T18:57:56.453711+00:00",
+      "checked_at": "2026-10-30T18:35:45.704970+00:00",
       "raw": 44,
-      "verified": 31,
-      "errors": 13,
+      "verified": 30,
+      "errors": 14,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-10-29T18:58:21.992217+00:00",
+      "checked_at": "2026-10-30T18:36:14.631440+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,7 +60,7 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-10-29T18:58:22.817068+00:00",
+      "checked_at": "2026-10-30T18:36:15.360030+00:00",
       "raw": 38,
       "verified": 0,
       "errors": 38,
@@ -72,7 +72,7 @@
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-10-29T18:58:29.667748+00:00",
+      "checked_at": "2026-10-30T18:36:23.522705+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-10-29T18:58:29.667767+00:00",
+      "checked_at": "2026-10-30T18:36:23.522725+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -94,10 +94,10 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-10-29T18:58:30.136029+00:00",
-      "raw": 14,
+      "checked_at": "2026-10-30T18:36:23.899699+00:00",
+      "raw": 13,
       "verified": 7,
-      "errors": 7,
+      "errors": 6,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -106,7 +106,7 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-10-29T18:59:38.202211+00:00",
+      "checked_at": "2026-10-30T18:37:00.023621+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -118,7 +118,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-10-29T18:59:39.110498+00:00",
+      "checked_at": "2026-10-30T18:37:00.728350+00:00",
       "raw": 2,
       "verified": 2,
       "errors": 0,
@@ -129,7 +129,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-10-29T18:59:39.926526+00:00",
+      "checked_at": "2026-10-30T18:37:01.587995+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -139,7 +139,7 @@
     {
       "source": "Indeed",
       "status": "candidates_found",
-      "raw": 17,
+      "raw": 16,
       "detail": "See workflow logs for query/page errors."
     },
     {
