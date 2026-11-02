@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-01T18:30:01.409843+00:00",
+  "updated_at": "2026-11-02T22:23:03.999389+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-11-01T18:24:25.309956+00:00",
-      "raw": 155,
-      "verified": 27,
-      "errors": 56,
+      "checked_at": "2026-11-02T22:17:33.975667+00:00",
+      "raw": 154,
+      "verified": 29,
+      "errors": 65,
       "status": "partial",
-      "last_error": "410 Client Error: Gone for url: https://careers.highmoonstudios.com/job/R028077/Activision-2027-Summer-Internships-Audio-Design",
+      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Sound-Designer-Star-Wars-Jedi-at-Electronic-Arts",
       "details_limit": 100,
       "truncated": true
     },
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-11-01T18:25:46.171730+00:00",
+      "checked_at": "2026-11-02T22:18:52.557963+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-11-01T18:25:46.171740+00:00",
+      "checked_at": "2026-11-02T22:18:52.557985+00:00",
       "raw": 4,
       "verified": 4,
       "errors": 0,
@@ -37,10 +37,10 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-11-01T18:25:48.354524+00:00",
+      "checked_at": "2026-11-02T22:18:54.740561+00:00",
       "raw": 42,
-      "verified": 30,
-      "errors": 12,
+      "verified": 31,
+      "errors": 11,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-11-01T18:26:16.299509+00:00",
+      "checked_at": "2026-11-02T22:19:27.541825+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,19 +60,19 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-11-01T18:26:17.003895+00:00",
+      "checked_at": "2026-11-02T22:19:28.265473+00:00",
       "raw": 36,
       "verified": 0,
       "errors": 36,
       "status": "error",
-      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Recording-Engineer-at-Kojima-Productions",
+      "last_error": "403 Client Error: Forbidden for url: https://gamejobs.co/Audio-Artist-EA-Sports-NHL-at-Electronic-Arts",
       "details_limit": 100,
       "truncated": false
     },
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-11-01T18:26:24.224785+00:00",
+      "checked_at": "2026-11-02T22:19:35.698968+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-11-01T18:26:24.224805+00:00",
+      "checked_at": "2026-11-02T22:19:35.698982+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -94,7 +94,7 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-11-01T18:26:24.578611+00:00",
+      "checked_at": "2026-11-02T22:19:36.072288+00:00",
       "raw": 13,
       "verified": 7,
       "errors": 6,
@@ -106,17 +106,19 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-11-01T18:27:22.778134+00:00",
+      "checked_at": "2026-11-02T22:20:19.676488+00:00",
       "raw": 0,
       "verified": 0,
-      "errors": 1,
-      "status": "blocked",
-      "detail": "403 Client Error: Forbidden for url: https://www.skillsearch.com/search?keywords=audio"
+      "errors": 0,
+      "status": "no_parseable_listings",
+      "details_limit": 100,
+      "truncated": false,
+      "detail": "No relevant job links exposed in public HTML; source may require JavaScript or a feed."
     },
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-11-01T18:27:23.309102+00:00",
+      "checked_at": "2026-11-02T22:20:20.358440+00:00",
       "raw": 2,
       "verified": 2,
       "errors": 0,
@@ -127,7 +129,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-11-01T18:27:24.106431+00:00",
+      "checked_at": "2026-11-02T22:20:21.131379+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -137,7 +139,7 @@
     {
       "source": "Indeed",
       "status": "candidates_found",
-      "raw": 14,
+      "raw": 16,
       "detail": "See workflow logs for query/page errors."
     },
     {
