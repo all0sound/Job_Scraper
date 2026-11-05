@@ -1,37 +1,34 @@
 # Music Technology & Audio - Gaming Boards
-*Last updated: 2026-11-04 20:28 UTC*
+*Last updated: 2026-11-05 20:41 UTC*
 
-**6 new role(s)** since last run · 6 total in posted within 21 days
+**5 new role(s)** since last run · 8 total in posted within 21 days
 
-### [Lead Sound Designer](https://jobs.smartrecruiters.com/cdprojektred/744000158547549) — CD PROJEKT RED
-- 📍 **Location:** Warsaw, , Poland
-- 💰 **Salary:** PLN zł31,800 to zł43,725 / month
-- **Job type:** Full-time
-- 🕒 **Posted:** 2026-10-29T15:12:23.681Z
+### [Senior Audio Designer (FTC)](https://careers.dsdambuster.com/job/982085) — Dambuster Studios
+- 📍 **Location:** Nottinghamshire, United Kingdom
+- **Work mode:** On-site
+- **Job type:** FULL TIME
+- 🕒 **Posted:** 2026-11-04
 
-### [Audio Artist - EA Sports NHL](https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist---EA-Sports-NHL/216383) — Electronic Arts
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- **Job type:** Full-Time
+### [Lead Sound Engineer](https://apply.workable.com/keywords-intl1/j/CDCAC9452E/) — Keywords Studios International
+- 📍 **Location:** Mexico City, Mexico City, Mexico
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-11-04T21:11:15.965Z
 
-### [Concepteur audio technique / Technical Audio Designer](https://gamejobs.co/Concepteur-audio-technique-Technical-Audio-Designer-at-Highdive) — Highdive
+### [Concepteur audio technique / Technical Audio Designer](https://job-boards.greenhouse.io/highdive/jobs/5273976007) — Highdive
 - 📍 **Location:** Greater Montreal
 - **Job type:** Full-Time
 - 🕒 **Posted:** 2026-10-23T14:29:18-04:00
 
-### [Composer / Sound Designer](https://jobs.smartrecruiters.com/Playtech/744000155730880) — Playtech
-- 📍 **Location:** Sofia, , Bulgaria
-- **Job type:** Full-time
-- 🕒 **Posted:** 2026-10-15T11:06:32.048Z
-
-### [Sound Designer](https://hitmarker.net/jobs/aristocrat-sound-designer-5489077) — Aristocrat
-- 📍 **Location:** Las Vegas, NV, USA
-- 💰 **Salary:** USD $56,000 to $104,000 / year
+### [Lead Sound Engineer](https://jobs.workable.com/view/tRm7QekvWJAen2XsoPC6Sv/hybrid-lead-sound-engineer-in-s%C3%A3o-paulo-at-keywords-studios) — Keywords Studios
+- 📍 **Location:** Remote; São Paulo, São Paulo, Brazil
+- **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-11-04T13:00:00+00:00
+- 🕒 **Posted:** 2026-11-04T21:11:16.492Z
 
-### [SENIOR SOUND DESIGNER](https://careers.bulkhead.com/jobs/8544418-senior-sound-designer) — BULKHEAD
-- 📍 **Location:** Derby, East Midlands, GB
-- 💰 **Salary:** $43000 - $58000/yr
+### [Sound Designer](https://careers.aristocrat.com/en/jobs/r0023121/sound-designer/?rx_ch=connector&rx_id=3423f086-d7a4-11f1-8bff-cb68348f5e83&rx_job=R0023121-EN&rx_medium=post&rx_paid=1&rx_product=programmatic-ppc%2Ccore&rx_r=none&rx_source=hitmarker&rx_ts=20261105T121610Z&rx_vp=jobpost&source=Hitmarker&rx_viewer=16c67eaad95911f1867557ce5ea7fd0a5717618ce3dd4ad39d4a2deef3fcbea6) — Aristocrat
+- 📍 **Location:** Las Vegas, Nevada, US
+- 💰 **Salary:** $56000 - $104000/yr
 - **Work mode:** On-site
 - **Job type:** FULL TIME
-- 🕒 **Posted:** 2026-10-14T10:23:47+01:00
+- 🕒 **Posted:** 2026-11-02

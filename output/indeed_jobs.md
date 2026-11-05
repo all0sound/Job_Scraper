@@ -1,10 +1,11 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-11-05 02:09 UTC*
+*Last updated: 2026-11-05 20:42 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [Adjunct - AY27 Music Instructor, Theory/Composition Emphasis](https://www.indeed.com/viewjob?jk=0546d01b19428781) — Los Angeles Community College District
-- 📍 **Location:** Los Angeles, CA, USA
+### [Lead Audio Engineer](https://www.indeed.com/viewjob?jk=489b93d54a409172) — ocV!BE
+- 📍 **Location:** Anaheim, CA, USA
+- 💰 **Salary:** $45.50–$52.50/hr
 - **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-11-05
+- **Job type:** FULL TIME
+- 🕒 **Posted:** 2026-10-20
