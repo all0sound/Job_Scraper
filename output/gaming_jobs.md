@@ -1,34 +1,28 @@
 # Music Technology & Audio - Gaming Boards
-*Last updated: 2026-11-05 20:41 UTC*
+*Last updated: 2026-11-06 18:03 UTC*
 
-**5 new role(s)** since last run · 8 total in posted within 21 days
+**4 new role(s)** since last run · 9 total in posted within 21 days
 
-### [Senior Audio Designer (FTC)](https://careers.dsdambuster.com/job/982085) — Dambuster Studios
-- 📍 **Location:** Nottinghamshire, United Kingdom
-- **Work mode:** On-site
-- **Job type:** FULL TIME
-- 🕒 **Posted:** 2026-11-04
-
-### [Lead Sound Engineer](https://apply.workable.com/keywords-intl1/j/CDCAC9452E/) — Keywords Studios International
-- 📍 **Location:** Mexico City, Mexico City, Mexico
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-11-04T21:11:15.965Z
-
-### [Concepteur audio technique / Technical Audio Designer](https://job-boards.greenhouse.io/highdive/jobs/5273976007) — Highdive
-- 📍 **Location:** Greater Montreal
+### [Audio Artist  – EA SPORTS FC](https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-III-RFT/216639) — EA Sports
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** CAD $77,700 to $107,900 / year
 - **Job type:** Full-Time
-- 🕒 **Posted:** 2026-10-23T14:29:18-04:00
+- 🕒 **Posted:** 2026-11-06T06:20:00+00:00
 
-### [Lead Sound Engineer](https://jobs.workable.com/view/tRm7QekvWJAen2XsoPC6Sv/hybrid-lead-sound-engineer-in-s%C3%A3o-paulo-at-keywords-studios) — Keywords Studios
-- 📍 **Location:** Remote; São Paulo, São Paulo, Brazil
+### [Lead Sound Engineer](https://apply.workable.com/j/CDCAC9452E) — Keywords Studios
+- 📍 **Location:** Sao Paulo, São Paulo, Brazil
 - **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
 - 🕒 **Posted:** 2026-11-04T21:11:16.492Z
 
-### [Sound Designer](https://careers.aristocrat.com/en/jobs/r0023121/sound-designer/?rx_ch=connector&rx_id=3423f086-d7a4-11f1-8bff-cb68348f5e83&rx_job=R0023121-EN&rx_medium=post&rx_paid=1&rx_product=programmatic-ppc%2Ccore&rx_r=none&rx_source=hitmarker&rx_ts=20261105T121610Z&rx_vp=jobpost&source=Hitmarker&rx_viewer=16c67eaad95911f1867557ce5ea7fd0a5717618ce3dd4ad39d4a2deef3fcbea6) — Aristocrat
-- 📍 **Location:** Las Vegas, Nevada, US
-- 💰 **Salary:** $56000 - $104000/yr
-- **Work mode:** On-site
-- **Job type:** FULL TIME
-- 🕒 **Posted:** 2026-11-02
+### [Audio Artist - EA Sports NHL](https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383) — EA Sports
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** CAD $67,000 to $92,700 / year
+- **Job type:** Full-Time
+- 🕒 **Posted:** 2026-10-24T05:20:00+00:00
+
+### [Lead Sound Engineer](https://jobs.workable.com/view/cDwAkn1jPSGwTCVaiTLYTL/hybrid-lead-sound-engineer-in-mexico-city-at-keywords-studios) — Keywords Studios
+- 📍 **Location:** Remote; Mexico City, Mexico City, Mexico
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-11-04T21:11:15.965Z
