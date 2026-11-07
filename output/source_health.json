@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-06T19:59:28.130116+00:00",
+  "updated_at": "2026-11-07T18:06:50.733870+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-11-06T19:56:26.245243+00:00",
-      "raw": 158,
-      "verified": 38,
-      "errors": 54,
+      "checked_at": "2026-11-07T18:00:37.582815+00:00",
+      "raw": 157,
+      "verified": 39,
+      "errors": 53,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -16,7 +16,7 @@
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-11-06T19:56:41.683354+00:00",
+      "checked_at": "2026-11-07T18:02:07.773949+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-11-06T19:56:41.683376+00:00",
+      "checked_at": "2026-11-07T18:02:07.773971+00:00",
       "raw": 4,
       "verified": 4,
       "errors": 0,
@@ -37,7 +37,7 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-11-06T19:56:42.902679+00:00",
+      "checked_at": "2026-11-07T18:02:09.621521+00:00",
       "raw": 46,
       "verified": 35,
       "errors": 11,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-11-06T19:56:45.367054+00:00",
+      "checked_at": "2026-11-07T18:02:51.461493+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,7 +60,7 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-11-06T19:56:46.154409+00:00",
+      "checked_at": "2026-11-07T18:02:52.086161+00:00",
       "raw": 39,
       "verified": 27,
       "errors": 12,
@@ -72,7 +72,7 @@
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-11-06T19:56:46.794300+00:00",
+      "checked_at": "2026-11-07T18:03:17.114107+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-11-06T19:56:46.794323+00:00",
+      "checked_at": "2026-11-07T18:03:17.114119+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 1,
@@ -92,7 +92,7 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-11-06T19:56:46.990092+00:00",
+      "checked_at": "2026-11-07T18:03:17.296374+00:00",
       "raw": 13,
       "verified": 7,
       "errors": 6,
@@ -104,7 +104,7 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-11-06T19:56:48.821231+00:00",
+      "checked_at": "2026-11-07T18:03:57.931287+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -116,7 +116,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-11-06T19:56:49.640629+00:00",
+      "checked_at": "2026-11-07T18:03:58.436287+00:00",
       "raw": 2,
       "verified": 2,
       "errors": 0,
@@ -127,7 +127,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-11-06T19:56:49.968760+00:00",
+      "checked_at": "2026-11-07T18:03:59.448733+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -137,7 +137,7 @@
     {
       "source": "Indeed",
       "status": "candidates_found",
-      "raw": 20,
+      "raw": 22,
       "detail": "See workflow logs for query/page errors."
     },
     {
