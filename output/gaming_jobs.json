@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-12 20:50 UTC",
+  "scraped_at": "2026-11-13 20:31 UTC",
   "total": 8,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "direct_url": "https://job-boards.greenhouse.io/mobentertainment/jobs/5236271007",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://job-boards.greenhouse.io/mobentertainment/jobs/5236271007",
         "posting_date_or_recency": "2026-11-10T15:45:00-05:00",
         "date_source": "employer",
@@ -55,7 +55,7 @@
       "direct_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
         "posting_date_or_recency": "2026-11-09T10:37:11-05:00",
         "date_source": "employer",
@@ -92,7 +92,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445",
         "posting_date_or_recency": "2026-11-09T17:09:04.899Z",
         "date_source": "employer",
@@ -142,7 +142,7 @@
       "direct_url": "https://apply.workable.com/keywords-intl1/j/CDCAC9452E",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://apply.workable.com/keywords-intl1/j/CDCAC9452E",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -183,7 +183,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547551",
         "posting_date_or_recency": "2026-10-29T15:12:23.681Z",
         "date_source": "employer",
@@ -234,7 +234,7 @@
       "direct_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://job-boards.greenhouse.io/highdive/jobs/5273976007",
         "posting_date_or_recency": "2026-10-23T14:29:18-04:00",
         "date_source": "employer",
@@ -272,7 +272,7 @@
       "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://jobs.ea.com/en_US/careers/JobDetail/Audio-Artist-EA-Sports-NHL/216383",
         "posting_date_or_recency": "2026-10-24T05:20:00+00:00",
         "date_source": "board",
@@ -304,7 +304,7 @@
       "is_remote": true,
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-12",
+        "checked_on": "2026-11-13",
         "listing_url": "https://jobs.workable.com/view/cDwAkn1jPSGwTCVaiTLYTL/hybrid-lead-sound-engineer-in-mexico-city-at-keywords-studios",
         "posting_date_or_recency": "2026-11-04T21:11:15.965Z",
         "date_source": "employer",
