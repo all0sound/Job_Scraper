@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Music Technology & Audio Roles
-*Last updated: 2026-11-13 11:27 UTC*
+*Last updated: 2026-11-13 22:04 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
