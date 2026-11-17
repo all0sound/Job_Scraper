@@ -1,6 +1,6 @@
 # 🟦 Indeed — Music Technology & Audio Roles
-*Last updated: 2026-11-17 21:49 UTC*
+*Last updated: 2026-11-17 23:23 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**0 new role(s)** since last run · 0 total in last 24h
 
 No new roles since the last run.
