@@ -1,8 +1,83 @@
 {
-  "scraped_at": "2026-11-17 21:47 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-11-18 21:26 UTC",
+  "total": 6,
+  "new_count": 2,
   "jobs": [
+    {
+      "title": "Lead Audio Designer ",
+      "company": "2K",
+      "url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
+      "ats": "ASGC",
+      "job_type": "Full-Time",
+      "location": "Burnaby, British Columbia, Canada",
+      "board_activated_on": "2026-11-17",
+      "date_posted": "2026-11-17T10:19:35-05:00",
+      "description": "Who We Are Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! What We Need Small Axe Studios is looking for a curious and adventurous audiophile to join our development team as a Lead Audio Designer. You will be responsible for delivering extraordinary sound design that supports both complex, non-deterministic gameplay systems; as well as linear, non-interactive sequences. In collaboration with our Head of Engineering and Audio SEs, you will help define our audio systems, asset pipeline, and tool set. Finally, you will work with the Audio Director and other creative partners to help define the vision for the project. What You’ll Do Collaborate with the Audio Director to help define the direction for the project’s soundscape. Design and script audio control logic. Create, manage and implement walla, foley, crowd reactions, world ambience, music, UI SFX and all other non-VO related audio. Implement and manage any associated databases. Lead field recordings for foley, crowd reactions, and other ambience. Lead remote & onsite recording sessions of walla groups. Debug and problem solve issues with the audio logic. Mix and master audio assets and systems. Drive quality at both the implementation stage, as well as through regular play sessions. Mentor junior audio designers and share knowledge with the rest of the audio team. Work closely with other game areas to improve workflows, optimize asset pipelines, and achieve our combined vision for the game. What Will Make You A Great Fit 5 years’ experience in AAA sound design. Exceptional organizational and time management skills. Strong written and verbal communications skills. Proficiency with Wwise, Unreal, and Perforce. Proficiency in visual programming. Proficiency in audio scripting, with expertise in a language such as Python, SQL or Lua. Proficiency with DAWs and sample editors such as Pro Tools and Reaper. Proficiency in mastering for linear and non-linear media. Experience recording and implementing foley and other ambience. Experience working in recording studios directing walla groups. Experience collaborating with cross-functional teams to deliver high quality in an efficient manner. A love for making and playing games. A resume of work that demonstrates these qualities. Located in the Vancouver area or willing to relocate. Beneficial Qualifications Experience working on sports games. A passion for sports. The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts. #LI-Hybrid",
+      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-11-18",
+        "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
+        "posting_date_or_recency": "2026-11-17T10:19:35-05:00",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
+      "sources": [
+        "ASGC",
+        "GameJobs.co",
+        "Grackle HQ",
+        "Hitmarker"
+      ],
+      "salary_currency": "USD",
+      "duplicate_urls": [
+        "https://gamejobs.co/Lead-Audio-Designer-at-2K-260",
+        "https://gracklehq.com/rd/384943"
+      ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
+    {
+      "title": "Audio Editor",
+      "company": "Side",
+      "url": "https://apply.workable.com/j/5978DCFA54",
+      "ats": "ASGC",
+      "job_type": "Full-Time",
+      "location": "Kuala Lumpur, Kuala Lumpur, Malaysia",
+      "board_activated_on": "2026-11-17",
+      "date_posted": "2026-11-17T00:00:00+00:00",
+      "description": "Audio Editor - Side",
+      "direct_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-11-18",
+        "listing_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
+        "posting_date_or_recency": "",
+        "date_source": "board",
+        "employment_source": "board"
+      },
+      "sources": [
+        "ASGC",
+        "Hitmarker"
+      ],
+      "salary_currency": "USD",
+      "duplicate_urls": [
+        "https://apply.workable.com/sideinc/j/5978DCFA54"
+      ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
     {
       "title": "Assistant Audio Producer, Dateline (contract)",
       "company": "NBCUniversal",
@@ -16,7 +91,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-17",
+        "checked_on": "2026-11-18",
         "listing_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
         "posting_date_or_recency": "2026-11-13T15:04:05.989Z",
         "date_source": "employer",
@@ -44,7 +119,7 @@
       "direct_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-17",
+        "checked_on": "2026-11-18",
         "listing_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
         "posting_date_or_recency": "2026-11-09T10:37:11-05:00",
         "date_source": "employer",
@@ -81,7 +156,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-17",
+        "checked_on": "2026-11-18",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445",
         "posting_date_or_recency": "2026-11-09T17:09:04.899Z",
         "date_source": "employer",
@@ -131,7 +206,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-17",
+        "checked_on": "2026-11-18",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547551",
         "posting_date_or_recency": "2026-10-29T15:12:23.681Z",
         "date_source": "employer",
@@ -168,36 +243,38 @@
         "comparison_note": "Published in PLN; no USD conversion assumed"
       },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
+    }
+  ],
+  "new_jobs": [
     {
       "title": "Lead Audio Designer ",
-      "url": "https://hitmarker.net/jobs/2k-lead-audio-designer-5641468",
       "company": "2K",
-      "description": "Who We Are Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! What We Need Small Axe Studios is looking for a curious and adventurous audiophile to join our development team as a Lead Audio Designer. You will be responsible for delivering extraordinary sound design that supports both complex, non-deterministic gameplay systems; as well as linear, non-interactive sequences. In collaboration with our Head of Engineering and Audio SEs, you will help define our audio systems, asset pipeline, and tool set. Finally, you will work with the Audio Director and other creative partners to help define the vision for the project. What You’ll Do Collaborate with the Audio Director to help define the direction for the project’s soundscape. Design and script audio control logic. Create, manage and implement walla, foley, crowd reactions, world ambience, music, UI SFX and all other non-VO related audio. Implement and manage any associated databases. Lead field recordings for foley, crowd reactions, and other ambience. Lead remote & onsite recording sessions of walla groups. Debug and problem solve issues with the audio logic. Mix and master audio assets and systems. Drive quality at both the implementation stage, as well as through regular play sessions. Mentor junior audio designers and share knowledge with the rest of the audio team. Work closely with other game areas to improve workflows, optimize asset pipelines, and achieve our combined vision for the game. What Will Make You A Great Fit 5 years’ experience in AAA sound design. Exceptional organizational and time management skills. Strong written and verbal communications skills. Proficiency with Wwise, Unreal, and Perforce. Proficiency in visual programming. Proficiency in audio scripting, with expertise in a language such as Python, SQL or Lua. Proficiency with DAWs and sample editors such as Pro Tools and Reaper. Proficiency in mastering for linear and non-linear media. Experience recording and implementing foley and other ambience. Experience working in recording studios directing walla groups. Experience collaborating with cross-functional teams to deliver high quality in an efficient manner. A love for making and playing games. A resume of work that demonstrates these qualities. Located in the Vancouver area or willing to relocate. Beneficial Qualifications Experience working on sports games. A passion for sports. The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts. #LI-Hybrid",
-      "ats": "Hitmarker",
-      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-      "job_type": "Full Time",
-      "date_posted": "2026-11-17T10:19:35-05:00",
+      "url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
+      "ats": "ASGC",
+      "job_type": "Full-Time",
       "location": "Burnaby, British Columbia, Canada",
-      "salary": "",
-      "salary_currency": "USD",
+      "board_activated_on": "2026-11-17",
+      "date_posted": "2026-11-17T10:19:35-05:00",
+      "description": "Who We Are Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! What We Need Small Axe Studios is looking for a curious and adventurous audiophile to join our development team as a Lead Audio Designer. You will be responsible for delivering extraordinary sound design that supports both complex, non-deterministic gameplay systems; as well as linear, non-interactive sequences. In collaboration with our Head of Engineering and Audio SEs, you will help define our audio systems, asset pipeline, and tool set. Finally, you will work with the Audio Director and other creative partners to help define the vision for the project. What You’ll Do Collaborate with the Audio Director to help define the direction for the project’s soundscape. Design and script audio control logic. Create, manage and implement walla, foley, crowd reactions, world ambience, music, UI SFX and all other non-VO related audio. Implement and manage any associated databases. Lead field recordings for foley, crowd reactions, and other ambience. Lead remote & onsite recording sessions of walla groups. Debug and problem solve issues with the audio logic. Mix and master audio assets and systems. Drive quality at both the implementation stage, as well as through regular play sessions. Mentor junior audio designers and share knowledge with the rest of the audio team. Work closely with other game areas to improve workflows, optimize asset pipelines, and achieve our combined vision for the game. What Will Make You A Great Fit 5 years’ experience in AAA sound design. Exceptional organizational and time management skills. Strong written and verbal communications skills. Proficiency with Wwise, Unreal, and Perforce. Proficiency in visual programming. Proficiency in audio scripting, with expertise in a language such as Python, SQL or Lua. Proficiency with DAWs and sample editors such as Pro Tools and Reaper. Proficiency in mastering for linear and non-linear media. Experience recording and implementing foley and other ambience. Experience working in recording studios directing walla groups. Experience collaborating with cross-functional teams to deliver high quality in an efficient manner. A love for making and playing games. A resume of work that demonstrates these qualities. Located in the Vancouver area or willing to relocate. Beneficial Qualifications Experience working on sports games. A passion for sports. The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts. #LI-Hybrid",
+      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-17",
+        "checked_on": "2026-11-18",
         "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
         "posting_date_or_recency": "2026-11-17T10:19:35-05:00",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "sources": [
+        "ASGC",
         "GameJobs.co",
         "Grackle HQ",
         "Hitmarker"
       ],
+      "salary_currency": "USD",
       "duplicate_urls": [
         "https://gamejobs.co/Lead-Audio-Designer-at-2K-260",
-        "https://gracklehq.com/rd/384943",
-        "https://job-boards.greenhouse.io/2k/jobs/8207038003"
+        "https://gracklehq.com/rd/384943"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -207,38 +284,33 @@
         "source_label": "Reputable secondary board"
       },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "title": "Lead Audio Designer ",
-      "url": "https://hitmarker.net/jobs/2k-lead-audio-designer-5641468",
-      "company": "2K",
-      "description": "Who We Are Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! What We Need Small Axe Studios is looking for a curious and adventurous audiophile to join our development team as a Lead Audio Designer. You will be responsible for delivering extraordinary sound design that supports both complex, non-deterministic gameplay systems; as well as linear, non-interactive sequences. In collaboration with our Head of Engineering and Audio SEs, you will help define our audio systems, asset pipeline, and tool set. Finally, you will work with the Audio Director and other creative partners to help define the vision for the project. What You’ll Do Collaborate with the Audio Director to help define the direction for the project’s soundscape. Design and script audio control logic. Create, manage and implement walla, foley, crowd reactions, world ambience, music, UI SFX and all other non-VO related audio. Implement and manage any associated databases. Lead field recordings for foley, crowd reactions, and other ambience. Lead remote & onsite recording sessions of walla groups. Debug and problem solve issues with the audio logic. Mix and master audio assets and systems. Drive quality at both the implementation stage, as well as through regular play sessions. Mentor junior audio designers and share knowledge with the rest of the audio team. Work closely with other game areas to improve workflows, optimize asset pipelines, and achieve our combined vision for the game. What Will Make You A Great Fit 5 years’ experience in AAA sound design. Exceptional organizational and time management skills. Strong written and verbal communications skills. Proficiency with Wwise, Unreal, and Perforce. Proficiency in visual programming. Proficiency in audio scripting, with expertise in a language such as Python, SQL or Lua. Proficiency with DAWs and sample editors such as Pro Tools and Reaper. Proficiency in mastering for linear and non-linear media. Experience recording and implementing foley and other ambience. Experience working in recording studios directing walla groups. Experience collaborating with cross-functional teams to deliver high quality in an efficient manner. A love for making and playing games. A resume of work that demonstrates these qualities. Located in the Vancouver area or willing to relocate. Beneficial Qualifications Experience working on sports games. A passion for sports. The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts. #LI-Hybrid",
-      "ats": "Hitmarker",
-      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-      "job_type": "Full Time",
-      "date_posted": "2026-11-17T10:19:35-05:00",
-      "location": "Burnaby, British Columbia, Canada",
-      "salary": "",
-      "salary_currency": "USD",
+      "title": "Audio Editor",
+      "company": "Side",
+      "url": "https://apply.workable.com/j/5978DCFA54",
+      "ats": "ASGC",
+      "job_type": "Full-Time",
+      "location": "Kuala Lumpur, Kuala Lumpur, Malaysia",
+      "board_activated_on": "2026-11-17",
+      "date_posted": "2026-11-17T00:00:00+00:00",
+      "description": "Audio Editor - Side",
+      "direct_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-17",
-        "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-        "posting_date_or_recency": "2026-11-17T10:19:35-05:00",
-        "date_source": "employer",
-        "employment_source": "listing"
+        "checked_on": "2026-11-18",
+        "listing_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
+        "posting_date_or_recency": "",
+        "date_source": "board",
+        "employment_source": "board"
       },
       "sources": [
-        "GameJobs.co",
-        "Grackle HQ",
+        "ASGC",
         "Hitmarker"
       ],
+      "salary_currency": "USD",
       "duplicate_urls": [
-        "https://gamejobs.co/Lead-Audio-Designer-at-2K-260",
-        "https://gracklehq.com/rd/384943",
-        "https://job-boards.greenhouse.io/2k/jobs/8207038003"
+        "https://apply.workable.com/sideinc/j/5978DCFA54"
       ],
       "employment_category": "full_time",
       "compensation": {
