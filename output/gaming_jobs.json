@@ -1,47 +1,8 @@
 {
-  "scraped_at": "2026-11-18 21:26 UTC",
+  "scraped_at": "2026-11-19 21:32 UTC",
   "total": 6,
-  "new_count": 2,
+  "new_count": 3,
   "jobs": [
-    {
-      "title": "Lead Audio Designer ",
-      "company": "2K",
-      "url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-      "ats": "ASGC",
-      "job_type": "Full-Time",
-      "location": "Burnaby, British Columbia, Canada",
-      "board_activated_on": "2026-11-17",
-      "date_posted": "2026-11-17T10:19:35-05:00",
-      "description": "Who We Are Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! What We Need Small Axe Studios is looking for a curious and adventurous audiophile to join our development team as a Lead Audio Designer. You will be responsible for delivering extraordinary sound design that supports both complex, non-deterministic gameplay systems; as well as linear, non-interactive sequences. In collaboration with our Head of Engineering and Audio SEs, you will help define our audio systems, asset pipeline, and tool set. Finally, you will work with the Audio Director and other creative partners to help define the vision for the project. What You’ll Do Collaborate with the Audio Director to help define the direction for the project’s soundscape. Design and script audio control logic. Create, manage and implement walla, foley, crowd reactions, world ambience, music, UI SFX and all other non-VO related audio. Implement and manage any associated databases. Lead field recordings for foley, crowd reactions, and other ambience. Lead remote & onsite recording sessions of walla groups. Debug and problem solve issues with the audio logic. Mix and master audio assets and systems. Drive quality at both the implementation stage, as well as through regular play sessions. Mentor junior audio designers and share knowledge with the rest of the audio team. Work closely with other game areas to improve workflows, optimize asset pipelines, and achieve our combined vision for the game. What Will Make You A Great Fit 5 years’ experience in AAA sound design. Exceptional organizational and time management skills. Strong written and verbal communications skills. Proficiency with Wwise, Unreal, and Perforce. Proficiency in visual programming. Proficiency in audio scripting, with expertise in a language such as Python, SQL or Lua. Proficiency with DAWs and sample editors such as Pro Tools and Reaper. Proficiency in mastering for linear and non-linear media. Experience recording and implementing foley and other ambience. Experience working in recording studios directing walla groups. Experience collaborating with cross-functional teams to deliver high quality in an efficient manner. A love for making and playing games. A resume of work that demonstrates these qualities. Located in the Vancouver area or willing to relocate. Beneficial Qualifications Experience working on sports games. A passion for sports. The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts. #LI-Hybrid",
-      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-11-18",
-        "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-        "posting_date_or_recency": "2026-11-17T10:19:35-05:00",
-        "date_source": "employer",
-        "employment_source": "listing"
-      },
-      "sources": [
-        "ASGC",
-        "GameJobs.co",
-        "Grackle HQ",
-        "Hitmarker"
-      ],
-      "salary_currency": "USD",
-      "duplicate_urls": [
-        "https://gamejobs.co/Lead-Audio-Designer-at-2K-260",
-        "https://gracklehq.com/rd/384943"
-      ],
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "",
-        "period": "",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    },
     {
       "title": "Audio Editor",
       "company": "Side",
@@ -55,7 +16,7 @@
       "direct_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
+        "checked_on": "2026-11-19",
         "listing_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -91,7 +52,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
+        "checked_on": "2026-11-19",
         "listing_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
         "posting_date_or_recency": "2026-11-13T15:04:05.989Z",
         "date_source": "employer",
@@ -119,7 +80,7 @@
       "direct_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
+        "checked_on": "2026-11-19",
         "listing_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
         "posting_date_or_recency": "2026-11-09T10:37:11-05:00",
         "date_source": "employer",
@@ -144,26 +105,65 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
-      "title": "Senior Tech QA Analyst - Audio",
-      "company": "CD PROJEKT RED",
-      "url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443",
-      "ats": "ASGC",
-      "job_type": "Full-time",
-      "location": "Warsaw, Masovian Voivodeship, Poland",
-      "board_activated_on": "2026-11-09",
-      "date_posted": "2026-11-09T17:09:04.899Z",
-      "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for a Senior Tech QA Analyst - Audio to take ownership of quality, stability and performance across our shared audio technologies. Working closely with Audio Code, Sound Design, Music and QA teams, you will be responsible for validating complex audio systems, investigating difficult technical problems and building effective testing solutions. You will work across C++, Unreal Engine and Wwise, using debugging and profiling tools to understand not only when something fails, but why. As a Senior, you will own complex technical quality topics end-to-end, make risk-based recommendations, develop testing and automation solutions, improve pipelines and practices, and help other QA team members grow their technical capabilities. Responsibilities Oversee the stability, performance, and quality of shared audio systems throughout the entire development lifecycle. Create comprehensive test strategies and coverage plans to identify technical risks early and define effective validation approaches. Conduct deep-dive investigations and root-cause analysis on complex audio issues using C++, Unreal Engine, and Wwise. Monitor and validate audio system performance metrics, including CPU usage, memory, streaming, and runtime behavior. Design and maintain automated testing solutions, functional test environments, and debugging tools to increase investigation efficiency. Work closely with Audio Code and Design teams to evaluate technical solutions and provide data-driven quality recommendations. Drive improvements to testing pipelines, workflows, and QA practices by researching and integrating new testing technologies. Manage technical QA efforts across in-house and external teams to ensure consistent coverage for complex audio features. Elevate team capabilities through clear technical documentation, knowledge sharing, workshops, and mentoring. 5+ years of professional experience in technical QA, software testing, or game development with a focus on complex technical systems. Proven track record of owning quality, stability, and performance for technical features throughout the development cycle. Strong practical knowledge of Unreal Engine and C++, with the ability to read, investigate, and debug production code. Proficiency with audio middleware like Wwise, including technical debugging and performance profiling. Expertise in using diagnostic and profiling tools such as Unreal Insights, PIX, or Razor to analyze performance data, logs, and traces. Experience designing and implementing automated or programmatic testing solutions, pipelines, and internal tools. Demonstrated ability to perform root-cause analysis across complex systems to identify and resolve technical issues. Skill in designing comprehensive test strategies and coverage plans for technically complex features. Ability to assess technical quality risks and data-driven insights to make actionable recommendations. Nice to have Professional experience in game audio technology, technical audio, or Audio QA with a shipped PC or console title. Hands-on programming experience, including implementing fixes, tooling, or production features. Expertise in creating test frameworks, internal QA tools, and custom testing infrastructure. Experience with automated testing integrated into CI or development pipelines. Strong understanding of audio programming concepts (DSP, mixing, streaming, voice management) and engine-level performance optimization. Advanced Wwise skills, including integration, optimization, and complex profiling. Experience creating debug levels, instrumentation, or visualization tools for complex systems. Working mode Office-First: working primarily from the Warsaw studio in a full time or hybrid mode. Relocation Support Relocation package – flight ticket, company apartment for your first month, relocating your pet, shipping your belongings — it’s all covered. Relocation assistance — processing your legalization operations for you, assistance with finding residence, tax settlements — all you need to feel right at home is taken care of. Polish lessons for foreign employees — and for your spouse or partner, too. Health & Well-Being Private medical healthcare — a selection of medical plans with dental care and unlimited rehabilitation to choose from, which are also accessible for your partner and relatives. Life insurance — comprehensive pension and insurance plans to protect you and your loved ones. Annual screenings for cancer prevention covered by the company. Psychological and psychiatrist care — free mental health support and various well-being initiatives. Sports card — gain access to a wide number of sporting and fitness facilities across the city. Menstrual leave — employees who menstruate can take one extra day off when experiencing period pain. RED Parents Network — support for working parents, including childcare benefits, and family-friendly events. RED Summer Camp for Kids — a fun summer program for children aged 5–12, majority paid by the company. Perks & Professional Growth A welcome pack filled with goodies — to help you feel right at home once you join the team. Trainings, lectures, and courses — workshops and trainings for each employee, knowledge-sharing initiatives, online tutorials, and e-learning classes are all available. There’s always something to learn! REDs have access to the cafeteria platform through which they can receive subscription benefits, additional medical packages or vouchers and codes to shops, cinemas, and public transport reimbursement. Gifts for newborn rebels and regular chances to nab some cool swag! Social Activities & Life in the Office Dog-friendly office — dog owner? Bring your pooch with you and look after them while working! There’s always a furry friend or two to meet at the studio. Social events — we host regular gatherings at the studio where we can all unwind, play games, and just have some fun together. Healthy selections — ​​canteens. Truly international working environment — a chance to meet and work with a diverse selection of people from all around the world. Sustainability is an ongoing commitment for us, and our campus has  electric car charging points, green zones, and much more. Read all about it on our Beyond the Game Blog. A designated space for your bicycle, as well as bicycle repair equipment and showers available whenever you need them. An onsite, well-equipped gym with a climbing wall, daily Gym Assistant support, and yoga and boxing classes. No dress-code — we like to keep it casual. Estimated pay range for this position: 17 800 - 27 800 PLN gross monthly. Final offers are dependent on job-related factors like experience and qualifications. Contract type in Poland: Employment contract (umowa o pracę) If you've observed any irregularities (i.e. legal or ethical violations) in our recruitment process, please click here to report them anonymously. #LI_Hybrid ",
-      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443",
+      "title": "Senior Gameplay Audio Software Engineer",
+      "url": "https://hitmarker.net/jobs/2k-senior-gameplay-audio-software-engineer-5661321",
+      "company": "2K",
+      "description": "WHO WE ARE Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! WHAT WE NEED Our studio in Vancouver is seeking a Senior Audio / AI Software Engineer to join our development team in working on a new AAA Sports game. This role will partner with engineers from all game areas, audio artists, and designers. Within this role, you will be focused on writing new AI analysis logic, tools, and workflows to support the audio design team. WHAT YOU’LL DO Implement and debug core C++ game logic for audio features, such as dynamic crowd reactions, player-specific commentary, and contextual sound effects (SFX) Work closely with Gameplay Engineers (AI, Animation) and Audio Designers to integrate new audio systems with game behavior and animation pipelines Drive development of tools and workflows that leverage AI analysis to provide necessary data for the Audio team Contribute to a large, performant C++ codebase, participating in code reviews and embracing a culture of technical excellence and continuous improvement WHAT WILL MAKE YOU A GREAT FIT Bachelor’s degree in Computer Science, or equivalent experience 5+ years of professional experience, or significant academic/personal project experience, writing C++ code for gameplay systems or large-scale applications Proficiency in C++ and object-oriented programming is important, with a foundational understanding of game engine principles (ideally Unreal Engine) Familiarity with AI, game/team-based behavior systems, and a passion for sports is a strong plus Excellent 3D math and linear algebra skills A commitment to writing clean, well-documented, and efficient code, paired with the ability to clearly communicate technical concepts to non-technical partners (Art, Design, Production) BENEFICIAL QUALIFICATIONS Experience developing and shipping AAA games on Unreal Engine 4 and 5 Familiarity with Python and/or C# The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/ or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. If hired the company reserves the right to modify base salary (as well as any other discretionary payment or compensation or benefit program) at any time, including for reasons related to individual performance, company or indivi dual department/team performance, and market factors. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are p rovided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note t hat 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts.",
+      "ats": "Hitmarker",
+      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
+      "job_type": "Full Time",
+      "date_posted": "2026-11-19T12:45:26-05:00",
+      "location": "Vancouver, British Columbia, Canada",
+      "salary": "",
+      "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
+        "checked_on": "2026-11-19",
+        "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
+        "posting_date_or_recency": "2026-11-19T12:45:26-05:00",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
+      "sources": [
+        "GameJobs.co",
+        "Grackle HQ",
+        "Hitmarker"
+      ],
+      "duplicate_urls": [
+        "https://gamejobs.co/Senior-Gameplay-Audio-Software-Engineer-at-2K",
+        "https://gracklehq.com/rd/385022",
+        "https://job-boards.greenhouse.io/2k/jobs/8201826003"
+      ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
+    {
+      "title": "Senior Tech QA Analyst - Audio",
+      "url": "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5542727",
+      "company": "CD PROJEKT RED",
+      "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for a Senior Tech QA Analyst - Audio to take ownership of quality, stability and performance across our shared audio technologies. Working closely with Audio Code, Sound Design, Music and QA teams, you will be responsible for validating complex audio systems, investigating difficult technical problems and building effective testing solutions. You will work across C++, Unreal Engine and Wwise, using debugging and profiling tools to understand not only when something fails, but why. As a Senior, you will own complex technical quality topics end-to-end, make risk-based recommendations, develop testing and automation solutions, improve pipelines and practices, and help other QA team members grow their technical capabilities. Responsibilities Oversee the stability, performance, and quality of shared audio systems throughout the entire development lifecycle. Create comprehensive test strategies and coverage plans to identify technical risks early and define effective validation approaches. Conduct deep-dive investigations and root-cause analysis on complex audio issues using C++, Unreal Engine, and Wwise. Monitor and validate audio system performance metrics, including CPU usage, memory, streaming, and runtime behavior. Design and maintain automated testing solutions, functional test environments, and debugging tools to increase investigation efficiency. Work closely with Audio Code and Design teams to evaluate technical solutions and provide data-driven quality recommendations. Drive improvements to testing pipelines, workflows, and QA practices by researching and integrating new testing technologies. Manage technical QA efforts across in-house and external teams to ensure consistent coverage for complex audio features. Elevate team capabilities through clear technical documentation, knowledge sharing, workshops, and mentoring. 5+ years of professional experience in technical QA, software testing, or game development with a focus on complex technical systems. Proven track record of owning quality, stability, and performance for technical features throughout the development cycle. Strong practical knowledge of Unreal Engine and C++, with the ability to read, investigate, and debug production code. Proficiency with audio middleware like Wwise, including technical debugging and performance profiling. Expertise in using diagnostic and profiling tools such as Unreal Insights, PIX, or Razor to analyze performance data, logs, and traces. Experience designing and implementing automated or programmatic testing solutions, pipelines, and internal tools. Demonstrated ability to perform root-cause analysis across complex systems to identify and resolve technical issues. Skill in designing comprehensive test strategies and coverage plans for technically complex features. Ability to assess technical quality risks and data-driven insights to make actionable recommendations. Nice to have Professional experience in game audio technology, technical audio, or Audio QA with a shipped PC or console title. Hands-on programming experience, including implementing fixes, tooling, or production features. Expertise in creating test frameworks, internal QA tools, and custom testing infrastructure. Experience with automated testing integrated into CI or development pipelines. Strong understanding of audio programming concepts (DSP, mixing, streaming, voice management) and engine-level performance optimization. Advanced Wwise skills, including integration, optimization, and complex profiling. Experience creating debug levels, instrumentation, or visualization tools for complex systems. Working mode Office-First: working primarily from the Warsaw studio in a full time or hybrid mode. Relocation Support Relocation package – flight ticket, company apartment for your first month, relocating your pet, shipping your belongings — it’s all covered. Relocation assistance — processing your legalization operations for you, assistance with finding residence, tax settlements — all you need to feel right at home is taken care of. Polish lessons for foreign employees — and for your spouse or partner, too. Health & Well-Being Private medical healthcare — a selection of medical plans with dental care and unlimited rehabilitation to choose from, which are also accessible for your partner and relatives. Life insurance — comprehensive pension and insurance plans to protect you and your loved ones. Annual screenings for cancer prevention covered by the company. Psychological and psychiatrist care — free mental health support and various well-being initiatives. Sports card — gain access to a wide number of sporting and fitness facilities across the city. Menstrual leave — employees who menstruate can take one extra day off when experiencing period pain. RED Parents Network — support for working parents, including childcare benefits, and family-friendly events. RED Summer Camp for Kids — a fun summer program for children aged 5–12, majority paid by the company. Perks & Professional Growth A welcome pack filled with goodies — to help you feel right at home once you join the team. Trainings, lectures, and courses — workshops and trainings for each employee, knowledge-sharing initiatives, online tutorials, and e-learning classes are all available. There’s always something to learn! REDs have access to the cafeteria platform through which they can receive subscription benefits, additional medical packages or vouchers and codes to shops, cinemas, and public transport reimbursement. Gifts for newborn rebels and regular chances to nab some cool swag! Social Activities & Life in the Office Dog-friendly office — dog owner? Bring your pooch with you and look after them while working! There’s always a furry friend or two to meet at the studio. Social events — we host regular gatherings at the studio where we can all unwind, play games, and just have some fun together. Healthy selections — ​​canteens. Truly international working environment — a chance to meet and work with a diverse selection of people from all around the world. Sustainability is an ongoing commitment for us, and our campus has  electric car charging points, green zones, and much more. Read all about it on our Beyond the Game Blog. A designated space for your bicycle, as well as bicycle repair equipment and showers available whenever you need them. An onsite, well-equipped gym with a climbing wall, daily Gym Assistant support, and yoga and boxing classes. No dress-code — we like to keep it casual. Estimated pay range for this position: 17 800 - 27 800 PLN gross monthly. Final offers are dependent on job-related factors like experience and qualifications. Contract type in Poland: Employment contract (umowa o pracę) If you've observed any irregularities (i.e. legal or ethical violations) in our recruitment process, please click here to report them anonymously. #LI_Hybrid ",
+      "ats": "Hitmarker",
+      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio",
+      "job_type": "Full-time",
+      "date_posted": "2026-11-09T17:09:04.899Z",
+      "location": "Warsaw, Masovian Voivodeship, Poland",
+      "salary": "PLN zł17,800 to zł27,800 / month",
+      "salary_currency": "USD",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-11-19",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445",
         "posting_date_or_recency": "2026-11-09T17:09:04.899Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "sources": [
-        "ASGC",
         "GameJobs.co",
         "Grackle HQ",
         "Hitmarker"
@@ -173,15 +173,11 @@
         "https://gracklehq.com/rd/384600",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-4883157",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5017805",
-        "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5542727",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000151027796-senior-tech-qa-analyst-audio",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181-senior-tech-qa-analyst-audio",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445"
       ],
-      "salary": "PLN zł17,800 to zł27,800 / month",
-      "salary_currency": "USD",
       "employment_category": "full_time",
       "compensation": {
         "nominal": "PLN zł17,800 to zł27,800 / month",
@@ -195,38 +191,35 @@
     },
     {
       "title": "Lead Sound Designer",
+      "url": "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-5431552",
       "company": "CD PROJEKT RED",
-      "url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549",
-      "ats": "ASGC",
-      "job_type": "Full-time",
-      "location": "Warsaw, , Poland",
-      "board_activated_on": "2026-10-29",
-      "date_posted": "2026-10-29T15:12:23.681Z",
       "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for an experienced Lead Sound Designer to join our studio in Warsaw to drive audio development of Witcher 4. As a Lead Sound Designer, you will be responsible for leading the Sound Design team and collaborating with cross-discipline teams to create and deliver an immersive audio experience for our upcoming game. If you are an accomplished game audio artist and experienced leader with a passion for crafting soundscapes for widely respected, narrative-driven RPGs, we want to hear from you! Daily Responsibilities: Lead a team of Sound Designers and drive game audio development in the project. Help define and maintain aesthetic continuity throughout the game and trailers, in alignment with previous releases in the IP where appropriate. Collaborate closely with project Directors, Leads, Producers, and cross-discipline teams (Music, VO, Programmers) to craft immersive, high-quality, and technologically advanced audio experiences. Plan, revise, track, and execute milestones, sprints, and roadmap deliverables. Support and coach team members to achieve impactful and high-quality in-game results while fostering their growth and development. Support the design and development of innovative audio systems using Unreal Engine 5, Wwise middleware, and in-house tools. Design, implement, and mix original and rich sound effects. 7+ years of professional experience in the video game industry, with involvement in multiple shipped AAA titles. At least 2 years of experience in a leadership role related to sound design or audio direction. Strong creative skills and a focus on quality, evidenced by a portfolio, demo reel, or game credits. Collaborative approach to navigating challenges and resolving design obstacles. Exceptional artistic and creative competence. Effective cross-disciplinary communication skills. Ability to manage timelines and coordinate with teams. Skilled communicator experienced in collaborating across development teams and providing supportive leadership to direct reports. Nice to Have: (These skills are not required to apply for the position) Experience with Atmos, Surround Sound, 3D Audio, and HRTF. Experience working with performance capture. Experience planning and executing field and Foley recording sessions. Working mode In-office in a hybrid or full-time capacity in Warsaw, Poland. Relocation is required. Relocation Support Relocation package — flight ticket, company apartment for your first month, relocating your pet and family, shipping your belongings. It’s all covered. Relocation assistance — processing your legalization operations for you and  tax settlements — all you need to feel right at home is taken care of. Polish lessons for foreign employees — and for your spouse or partner, too. Paid Leave — from 20 to 26 days of holiday per year, and paid sick leave. Health & Well-Being Private medical healthcare — a selection of medical plans with dental care and unlimited rehabilitation to choose from, which are also accessible for your partner and relatives. Life insurance — comprehensive pension and insurance plans to protect you and your loved ones. Annual screenings for cancer prevention covered by the company. Psychological and psychiatrist care — free mental health support and various well-being initiatives. Sports card — gain access to a wide number of sporting and fitness facilities across the city. Menstrual leave — employees who menstruate can take one extra day off when experiencing period pain. RED Parents Network — support for working parents, including childcare benefits, and family-friendly events. RED Summer Camp for Kids — a fun summer program for children aged 5–12, majoritively paid by the company. Perks & Professional Growth A welcome pack filled with goodies — to help you feel right at home once you join the team. Trainings, lectures, and courses — workshops and trainings for each employee, knowledge-sharing initiatives, online tutorials, and e-learning classes are all available. There’s always something to learn! REDs have access to the cafeteria platform through which they can receive subscription benefits, additional medical packages or vouchers and codes to shops, cinemas, and public transport reimbursement. Gifts for newborn rebels and regular chances to nab some cool swag! Social Activities & Life in the Office Dog-friendly office — dog owner? Bring your pooch with you and look after them while working! There’s always a furry friend or two to meet at the studio. Social events — we host regular gatherings at the studio where we can all unwind, play games, and just have some fun together. Healthy selections — ​​canteens. Truly international working environment — a chance to meet and work with a diverse selection of people from all around the world. Sustainability is an ongoing commitment for us, and our campus has  electric car charging points, green zones, and much more. Read all about it on our Beyond the Game Blog . A designated space for your bicycle, as well as bicycle repair equipment and showers available whenever you need them. An onsite, well-equipped gym with a climbing wall, daily Gym Assistant support, and yoga and boxing classes. No dress-code — we like to keep it casual. Estimated pay range for this position: 31 800 – 43 725 PLN gross monthly. This role may be eligible for a long term incentive program (option to purchase CDPR stock after the vesting period). Final offers are dependent on job-related factors like experience and qualifications. Type of contract: Employment Contract (\"Umowa o pracę\"). If you've observed any irregularities (i.e. legal or ethical violations) in our recruitment process, please click here to report them anonymously. #LI-Hybrid ",
-      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549",
+      "ats": "Hitmarker",
+      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549-lead-sound-designer",
+      "job_type": "Full-time",
+      "date_posted": "2026-10-29T15:12:23.681Z",
+      "location": "Warsaw, , Poland",
+      "salary": "PLN zł31,800 to zł43,725 / month",
+      "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
+        "checked_on": "2026-11-19",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547551",
         "posting_date_or_recency": "2026-10-29T15:12:23.681Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "sources": [
-        "ASGC",
         "GameJobs.co",
         "Grackle HQ",
         "Hitmarker"
       ],
-      "salary": "PLN zł31,800 to zł43,725 / month",
-      "salary_currency": "USD",
       "duplicate_urls": [
         "https://gamejobs.co/Lead-Sound-Designer-at-CD-Projekt-1153",
         "https://gracklehq.com/rd/384225",
         "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-1629285",
         "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-4425452",
         "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-4972153",
-        "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-5431552",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000105605960-lead-sound-designer",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000142632739-lead-sound-designer",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208583-lead-sound-designer",
@@ -247,34 +240,34 @@
   ],
   "new_jobs": [
     {
-      "title": "Lead Audio Designer ",
+      "title": "Senior Gameplay Audio Software Engineer",
+      "url": "https://hitmarker.net/jobs/2k-senior-gameplay-audio-software-engineer-5661321",
       "company": "2K",
-      "url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-      "ats": "ASGC",
-      "job_type": "Full-Time",
-      "location": "Burnaby, British Columbia, Canada",
-      "board_activated_on": "2026-11-17",
-      "date_posted": "2026-11-17T10:19:35-05:00",
-      "description": "Who We Are Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! What We Need Small Axe Studios is looking for a curious and adventurous audiophile to join our development team as a Lead Audio Designer. You will be responsible for delivering extraordinary sound design that supports both complex, non-deterministic gameplay systems; as well as linear, non-interactive sequences. In collaboration with our Head of Engineering and Audio SEs, you will help define our audio systems, asset pipeline, and tool set. Finally, you will work with the Audio Director and other creative partners to help define the vision for the project. What You’ll Do Collaborate with the Audio Director to help define the direction for the project’s soundscape. Design and script audio control logic. Create, manage and implement walla, foley, crowd reactions, world ambience, music, UI SFX and all other non-VO related audio. Implement and manage any associated databases. Lead field recordings for foley, crowd reactions, and other ambience. Lead remote & onsite recording sessions of walla groups. Debug and problem solve issues with the audio logic. Mix and master audio assets and systems. Drive quality at both the implementation stage, as well as through regular play sessions. Mentor junior audio designers and share knowledge with the rest of the audio team. Work closely with other game areas to improve workflows, optimize asset pipelines, and achieve our combined vision for the game. What Will Make You A Great Fit 5 years’ experience in AAA sound design. Exceptional organizational and time management skills. Strong written and verbal communications skills. Proficiency with Wwise, Unreal, and Perforce. Proficiency in visual programming. Proficiency in audio scripting, with expertise in a language such as Python, SQL or Lua. Proficiency with DAWs and sample editors such as Pro Tools and Reaper. Proficiency in mastering for linear and non-linear media. Experience recording and implementing foley and other ambience. Experience working in recording studios directing walla groups. Experience collaborating with cross-functional teams to deliver high quality in an efficient manner. A love for making and playing games. A resume of work that demonstrates these qualities. Located in the Vancouver area or willing to relocate. Beneficial Qualifications Experience working on sports games. A passion for sports. The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts. #LI-Hybrid",
-      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
+      "description": "WHO WE ARE Founded in 2023, Small Axe Studios is 2K’s newest stand-alone studio, built to push the boundaries of game development and bring 2K’s next groundbreaking sports franchise to life. Headquartered in Burnaby, we are assembling a world-class team of visionaries, builders, and passionate gamers who thrive on creative collaboration, technical excellence, and bold ideas. At Small Axe Studios, we believe big things start with sharp focus—and we’re crafting an exceptional, player-first experience from the ground up. If you’re ready to tackle unique challenges, leave your mark on a brand-new IP, and help shape the future of interactive sports entertainment, we want you on our team! WHAT WE NEED Our studio in Vancouver is seeking a Senior Audio / AI Software Engineer to join our development team in working on a new AAA Sports game. This role will partner with engineers from all game areas, audio artists, and designers. Within this role, you will be focused on writing new AI analysis logic, tools, and workflows to support the audio design team. WHAT YOU’LL DO Implement and debug core C++ game logic for audio features, such as dynamic crowd reactions, player-specific commentary, and contextual sound effects (SFX) Work closely with Gameplay Engineers (AI, Animation) and Audio Designers to integrate new audio systems with game behavior and animation pipelines Drive development of tools and workflows that leverage AI analysis to provide necessary data for the Audio team Contribute to a large, performant C++ codebase, participating in code reviews and embracing a culture of technical excellence and continuous improvement WHAT WILL MAKE YOU A GREAT FIT Bachelor’s degree in Computer Science, or equivalent experience 5+ years of professional experience, or significant academic/personal project experience, writing C++ code for gameplay systems or large-scale applications Proficiency in C++ and object-oriented programming is important, with a foundational understanding of game engine principles (ideally Unreal Engine) Familiarity with AI, game/team-based behavior systems, and a passion for sports is a strong plus Excellent 3D math and linear algebra skills A commitment to writing clean, well-documented, and efficient code, paired with the ability to clearly communicate technical concepts to non-technical partners (Art, Design, Production) BENEFICIAL QUALIFICATIONS Experience developing and shipping AAA games on Unreal Engine 4 and 5 Familiarity with Python and/or C# The pay range for this position in British Columbia at the start of employment is expected to be between $99,800 and $147,680 per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for employees in regular roles may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/ or other benefits, provided that temporary or intern roles will not be eligible for many of these payments or benefits. Details of participation in compensation and benefit plans (if applicable) will be provided if an employee receives an offer of employment. If hired the company reserves the right to modify base salary (as well as any other discretionary payment or compensation or benefit program) at any time, including for reasons related to individual performance, company or indivi dual department/team performance, and market factors. As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are p rovided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation. Please note t hat 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts.",
+      "ats": "Hitmarker",
+      "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
+      "job_type": "Full Time",
+      "date_posted": "2026-11-19T12:45:26-05:00",
+      "location": "Vancouver, British Columbia, Canada",
+      "salary": "",
+      "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
-        "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8207038003",
-        "posting_date_or_recency": "2026-11-17T10:19:35-05:00",
+        "checked_on": "2026-11-19",
+        "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
+        "posting_date_or_recency": "2026-11-19T12:45:26-05:00",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "sources": [
-        "ASGC",
         "GameJobs.co",
         "Grackle HQ",
         "Hitmarker"
       ],
-      "salary_currency": "USD",
       "duplicate_urls": [
-        "https://gamejobs.co/Lead-Audio-Designer-at-2K-260",
-        "https://gracklehq.com/rd/384943"
+        "https://gamejobs.co/Senior-Gameplay-Audio-Software-Engineer-at-2K",
+        "https://gracklehq.com/rd/385022",
+        "https://job-boards.greenhouse.io/2k/jobs/8201826003"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -286,38 +279,96 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     },
     {
-      "title": "Audio Editor",
-      "company": "Side",
-      "url": "https://apply.workable.com/j/5978DCFA54",
-      "ats": "ASGC",
-      "job_type": "Full-Time",
-      "location": "Kuala Lumpur, Kuala Lumpur, Malaysia",
-      "board_activated_on": "2026-11-17",
-      "date_posted": "2026-11-17T00:00:00+00:00",
-      "description": "Audio Editor - Side",
-      "direct_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
+      "title": "Senior Tech QA Analyst - Audio",
+      "url": "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5542727",
+      "company": "CD PROJEKT RED",
+      "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for a Senior Tech QA Analyst - Audio to take ownership of quality, stability and performance across our shared audio technologies. Working closely with Audio Code, Sound Design, Music and QA teams, you will be responsible for validating complex audio systems, investigating difficult technical problems and building effective testing solutions. You will work across C++, Unreal Engine and Wwise, using debugging and profiling tools to understand not only when something fails, but why. As a Senior, you will own complex technical quality topics end-to-end, make risk-based recommendations, develop testing and automation solutions, improve pipelines and practices, and help other QA team members grow their technical capabilities. Responsibilities Oversee the stability, performance, and quality of shared audio systems throughout the entire development lifecycle. Create comprehensive test strategies and coverage plans to identify technical risks early and define effective validation approaches. Conduct deep-dive investigations and root-cause analysis on complex audio issues using C++, Unreal Engine, and Wwise. Monitor and validate audio system performance metrics, including CPU usage, memory, streaming, and runtime behavior. Design and maintain automated testing solutions, functional test environments, and debugging tools to increase investigation efficiency. Work closely with Audio Code and Design teams to evaluate technical solutions and provide data-driven quality recommendations. Drive improvements to testing pipelines, workflows, and QA practices by researching and integrating new testing technologies. Manage technical QA efforts across in-house and external teams to ensure consistent coverage for complex audio features. Elevate team capabilities through clear technical documentation, knowledge sharing, workshops, and mentoring. 5+ years of professional experience in technical QA, software testing, or game development with a focus on complex technical systems. Proven track record of owning quality, stability, and performance for technical features throughout the development cycle. Strong practical knowledge of Unreal Engine and C++, with the ability to read, investigate, and debug production code. Proficiency with audio middleware like Wwise, including technical debugging and performance profiling. Expertise in using diagnostic and profiling tools such as Unreal Insights, PIX, or Razor to analyze performance data, logs, and traces. Experience designing and implementing automated or programmatic testing solutions, pipelines, and internal tools. Demonstrated ability to perform root-cause analysis across complex systems to identify and resolve technical issues. Skill in designing comprehensive test strategies and coverage plans for technically complex features. Ability to assess technical quality risks and data-driven insights to make actionable recommendations. Nice to have Professional experience in game audio technology, technical audio, or Audio QA with a shipped PC or console title. Hands-on programming experience, including implementing fixes, tooling, or production features. Expertise in creating test frameworks, internal QA tools, and custom testing infrastructure. Experience with automated testing integrated into CI or development pipelines. Strong understanding of audio programming concepts (DSP, mixing, streaming, voice management) and engine-level performance optimization. Advanced Wwise skills, including integration, optimization, and complex profiling. Experience creating debug levels, instrumentation, or visualization tools for complex systems. Working mode Office-First: working primarily from the Warsaw studio in a full time or hybrid mode. Relocation Support Relocation package – flight ticket, company apartment for your first month, relocating your pet, shipping your belongings — it’s all covered. Relocation assistance — processing your legalization operations for you, assistance with finding residence, tax settlements — all you need to feel right at home is taken care of. Polish lessons for foreign employees — and for your spouse or partner, too. Health & Well-Being Private medical healthcare — a selection of medical plans with dental care and unlimited rehabilitation to choose from, which are also accessible for your partner and relatives. Life insurance — comprehensive pension and insurance plans to protect you and your loved ones. Annual screenings for cancer prevention covered by the company. Psychological and psychiatrist care — free mental health support and various well-being initiatives. Sports card — gain access to a wide number of sporting and fitness facilities across the city. Menstrual leave — employees who menstruate can take one extra day off when experiencing period pain. RED Parents Network — support for working parents, including childcare benefits, and family-friendly events. RED Summer Camp for Kids — a fun summer program for children aged 5–12, majority paid by the company. Perks & Professional Growth A welcome pack filled with goodies — to help you feel right at home once you join the team. Trainings, lectures, and courses — workshops and trainings for each employee, knowledge-sharing initiatives, online tutorials, and e-learning classes are all available. There’s always something to learn! REDs have access to the cafeteria platform through which they can receive subscription benefits, additional medical packages or vouchers and codes to shops, cinemas, and public transport reimbursement. Gifts for newborn rebels and regular chances to nab some cool swag! Social Activities & Life in the Office Dog-friendly office — dog owner? Bring your pooch with you and look after them while working! There’s always a furry friend or two to meet at the studio. Social events — we host regular gatherings at the studio where we can all unwind, play games, and just have some fun together. Healthy selections — ​​canteens. Truly international working environment — a chance to meet and work with a diverse selection of people from all around the world. Sustainability is an ongoing commitment for us, and our campus has  electric car charging points, green zones, and much more. Read all about it on our Beyond the Game Blog. A designated space for your bicycle, as well as bicycle repair equipment and showers available whenever you need them. An onsite, well-equipped gym with a climbing wall, daily Gym Assistant support, and yoga and boxing classes. No dress-code — we like to keep it casual. Estimated pay range for this position: 17 800 - 27 800 PLN gross monthly. Final offers are dependent on job-related factors like experience and qualifications. Contract type in Poland: Employment contract (umowa o pracę) If you've observed any irregularities (i.e. legal or ethical violations) in our recruitment process, please click here to report them anonymously. #LI_Hybrid ",
+      "ats": "Hitmarker",
+      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio",
+      "job_type": "Full-time",
+      "date_posted": "2026-11-09T17:09:04.899Z",
+      "location": "Warsaw, Masovian Voivodeship, Poland",
+      "salary": "PLN zł17,800 to zł27,800 / month",
+      "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-18",
-        "listing_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
-        "posting_date_or_recency": "",
-        "date_source": "board",
-        "employment_source": "board"
+        "checked_on": "2026-11-19",
+        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445",
+        "posting_date_or_recency": "2026-11-09T17:09:04.899Z",
+        "date_source": "employer",
+        "employment_source": "listing"
       },
       "sources": [
-        "ASGC",
+        "GameJobs.co",
+        "Grackle HQ",
         "Hitmarker"
       ],
-      "salary_currency": "USD",
       "duplicate_urls": [
-        "https://apply.workable.com/sideinc/j/5978DCFA54"
+        "https://gamejobs.co/Senior-Tech-QA-Analyst-Audio-at-CD-Projekt-1490",
+        "https://gracklehq.com/rd/384600",
+        "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-4883157",
+        "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5017805",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000151027796-senior-tech-qa-analyst-audio",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181-senior-tech-qa-analyst-audio",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445"
       ],
       "employment_category": "full_time",
       "compensation": {
-        "nominal": "",
-        "period": "",
+        "nominal": "PLN zł17,800 to zł27,800 / month",
+        "currency": "PLN",
+        "period": "monthly",
         "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board"
+        "source_label": "Reputable secondary board",
+        "comparison_note": "Published in PLN; no USD conversion assumed"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
+    {
+      "title": "Lead Sound Designer",
+      "url": "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-5431552",
+      "company": "CD PROJEKT RED",
+      "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for an experienced Lead Sound Designer to join our studio in Warsaw to drive audio development of Witcher 4. As a Lead Sound Designer, you will be responsible for leading the Sound Design team and collaborating with cross-discipline teams to create and deliver an immersive audio experience for our upcoming game. If you are an accomplished game audio artist and experienced leader with a passion for crafting soundscapes for widely respected, narrative-driven RPGs, we want to hear from you! Daily Responsibilities: Lead a team of Sound Designers and drive game audio development in the project. Help define and maintain aesthetic continuity throughout the game and trailers, in alignment with previous releases in the IP where appropriate. Collaborate closely with project Directors, Leads, Producers, and cross-discipline teams (Music, VO, Programmers) to craft immersive, high-quality, and technologically advanced audio experiences. Plan, revise, track, and execute milestones, sprints, and roadmap deliverables. Support and coach team members to achieve impactful and high-quality in-game results while fostering their growth and development. Support the design and development of innovative audio systems using Unreal Engine 5, Wwise middleware, and in-house tools. Design, implement, and mix original and rich sound effects. 7+ years of professional experience in the video game industry, with involvement in multiple shipped AAA titles. At least 2 years of experience in a leadership role related to sound design or audio direction. Strong creative skills and a focus on quality, evidenced by a portfolio, demo reel, or game credits. Collaborative approach to navigating challenges and resolving design obstacles. Exceptional artistic and creative competence. Effective cross-disciplinary communication skills. Ability to manage timelines and coordinate with teams. Skilled communicator experienced in collaborating across development teams and providing supportive leadership to direct reports. Nice to Have: (These skills are not required to apply for the position) Experience with Atmos, Surround Sound, 3D Audio, and HRTF. Experience working with performance capture. Experience planning and executing field and Foley recording sessions. Working mode In-office in a hybrid or full-time capacity in Warsaw, Poland. Relocation is required. Relocation Support Relocation package — flight ticket, company apartment for your first month, relocating your pet and family, shipping your belongings. It’s all covered. Relocation assistance — processing your legalization operations for you and  tax settlements — all you need to feel right at home is taken care of. Polish lessons for foreign employees — and for your spouse or partner, too. Paid Leave — from 20 to 26 days of holiday per year, and paid sick leave. Health & Well-Being Private medical healthcare — a selection of medical plans with dental care and unlimited rehabilitation to choose from, which are also accessible for your partner and relatives. Life insurance — comprehensive pension and insurance plans to protect you and your loved ones. Annual screenings for cancer prevention covered by the company. Psychological and psychiatrist care — free mental health support and various well-being initiatives. Sports card — gain access to a wide number of sporting and fitness facilities across the city. Menstrual leave — employees who menstruate can take one extra day off when experiencing period pain. RED Parents Network — support for working parents, including childcare benefits, and family-friendly events. RED Summer Camp for Kids — a fun summer program for children aged 5–12, majoritively paid by the company. Perks & Professional Growth A welcome pack filled with goodies — to help you feel right at home once you join the team. Trainings, lectures, and courses — workshops and trainings for each employee, knowledge-sharing initiatives, online tutorials, and e-learning classes are all available. There’s always something to learn! REDs have access to the cafeteria platform through which they can receive subscription benefits, additional medical packages or vouchers and codes to shops, cinemas, and public transport reimbursement. Gifts for newborn rebels and regular chances to nab some cool swag! Social Activities & Life in the Office Dog-friendly office — dog owner? Bring your pooch with you and look after them while working! There’s always a furry friend or two to meet at the studio. Social events — we host regular gatherings at the studio where we can all unwind, play games, and just have some fun together. Healthy selections — ​​canteens. Truly international working environment — a chance to meet and work with a diverse selection of people from all around the world. Sustainability is an ongoing commitment for us, and our campus has  electric car charging points, green zones, and much more. Read all about it on our Beyond the Game Blog . A designated space for your bicycle, as well as bicycle repair equipment and showers available whenever you need them. An onsite, well-equipped gym with a climbing wall, daily Gym Assistant support, and yoga and boxing classes. No dress-code — we like to keep it casual. Estimated pay range for this position: 31 800 – 43 725 PLN gross monthly. This role may be eligible for a long term incentive program (option to purchase CDPR stock after the vesting period). Final offers are dependent on job-related factors like experience and qualifications. Type of contract: Employment Contract (\"Umowa o pracę\"). If you've observed any irregularities (i.e. legal or ethical violations) in our recruitment process, please click here to report them anonymously. #LI-Hybrid ",
+      "ats": "Hitmarker",
+      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549-lead-sound-designer",
+      "job_type": "Full-time",
+      "date_posted": "2026-10-29T15:12:23.681Z",
+      "location": "Warsaw, , Poland",
+      "salary": "PLN zł31,800 to zł43,725 / month",
+      "salary_currency": "USD",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-11-19",
+        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547551",
+        "posting_date_or_recency": "2026-10-29T15:12:23.681Z",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
+      "sources": [
+        "GameJobs.co",
+        "Grackle HQ",
+        "Hitmarker"
+      ],
+      "duplicate_urls": [
+        "https://gamejobs.co/Lead-Sound-Designer-at-CD-Projekt-1153",
+        "https://gracklehq.com/rd/384225",
+        "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-1629285",
+        "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-4425452",
+        "https://hitmarker.net/jobs/cd-projekt-red-lead-sound-designer-4972153",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000105605960-lead-sound-designer",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000142632739-lead-sound-designer",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152208583-lead-sound-designer",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547549-lead-sound-designer",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000158547551"
+      ],
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "PLN zł31,800 to zł43,725 / month",
+        "currency": "PLN",
+        "period": "monthly",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "comparison_note": "Published in PLN; no USD conversion assumed"
       },
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     }

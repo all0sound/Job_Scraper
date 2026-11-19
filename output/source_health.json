@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-18T21:29:11.637892+00:00",
+  "updated_at": "2026-11-19T21:35:27.542857+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-11-18T21:22:48.316639+00:00",
-      "raw": 170,
-      "verified": 27,
-      "errors": 64,
+      "checked_at": "2026-11-19T21:27:37.830031+00:00",
+      "raw": 164,
+      "verified": 26,
+      "errors": 65,
       "status": "partial",
-      "last_error": "429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/Japan-Tokyo-Business-Tower/-Sound-Designer_R108164",
+      "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
       "truncated": true
     },
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-11-18T21:24:14.287140+00:00",
+      "checked_at": "2026-11-19T21:29:03.934870+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-11-18T21:24:14.287157+00:00",
+      "checked_at": "2026-11-19T21:29:03.934884+00:00",
       "raw": 3,
       "verified": 3,
       "errors": 0,
@@ -37,10 +37,10 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-11-18T21:24:16.280058+00:00",
-      "raw": 47,
+      "checked_at": "2026-11-19T21:29:05.844509+00:00",
+      "raw": 48,
       "verified": 31,
-      "errors": 16,
+      "errors": 17,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-11-18T21:24:57.927409+00:00",
+      "checked_at": "2026-11-19T21:29:48.124151+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,19 +60,19 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-11-18T21:24:58.720071+00:00",
-      "raw": 38,
-      "verified": 23,
-      "errors": 15,
+      "checked_at": "2026-11-19T21:29:48.855660+00:00",
+      "raw": 37,
+      "verified": 24,
+      "errors": 13,
       "status": "partial",
-      "last_error": "429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/Japan-Tokyo-Business-Tower/-Senior-Sound-Designer_R105151",
+      "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
       "truncated": false
     },
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-11-18T21:25:54.150369+00:00",
+      "checked_at": "2026-11-19T21:30:20.125322+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-11-18T21:25:54.150389+00:00",
+      "checked_at": "2026-11-19T21:30:20.125353+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 1,
@@ -92,7 +92,7 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-11-18T21:25:54.362917+00:00",
+      "checked_at": "2026-11-19T21:30:20.383273+00:00",
       "raw": 14,
       "verified": 7,
       "errors": 7,
@@ -104,7 +104,7 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-11-18T21:26:12.194180+00:00",
+      "checked_at": "2026-11-19T21:32:31.181010+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -116,7 +116,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-11-18T21:26:13.019224+00:00",
+      "checked_at": "2026-11-19T21:32:31.874677+00:00",
       "raw": 3,
       "verified": 3,
       "errors": 0,
@@ -127,7 +127,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-11-18T21:26:14.004310+00:00",
+      "checked_at": "2026-11-19T21:32:32.855740+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
