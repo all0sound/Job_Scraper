@@ -1,9 +1,10 @@
 # Music Technology & Audio - Gaming Boards
-*Last updated: 2026-11-20 21:06 UTC*
+*Last updated: 2026-11-21 20:07 UTC*
 
 **1 new role(s)** since last run · 5 total in posted within 21 days
 
-### [Senior Gameplay Audio Software Engineer](https://job-boards.greenhouse.io/2k/jobs/8201826003) — 2K
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- **Job type:** Full-Time
-- 🕒 **Posted:** 2026-11-19T12:45:26-05:00
+### [Senior Tech QA Analyst - Audio](https://jobs.smartrecruiters.com/cdprojektred/744000160673443) — CD PROJEKT RED
+- 📍 **Location:** Warsaw, Masovian Voivodeship, Poland
+- 💰 **Salary:** PLN zł17,800 to zł27,800 / month
+- **Job type:** Full-time
+- 🕒 **Posted:** 2026-11-09T17:09:04.899Z
