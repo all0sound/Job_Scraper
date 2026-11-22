@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-21 20:08 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-11-22 20:23 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Los Angeles Community College District",
@@ -22,7 +22,7 @@
       "ats": "Indeed",
       "listing_verification": {
         "listing_url": "https://laccd.csod.com/ats/careersite/JobDetails.aspx?site=6&id=2323",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "status": "verified",
         "posting_date_or_recency": "2026-11-05"
       },
@@ -41,7 +41,7 @@
       "title": "SoC Audio Engineer, Platform Architecture",
       "location": "San Diego, CA, USA",
       "url": "https://www.indeed.com/viewjob?jk=7c4c46061938c49d",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200683639-3543-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200683639-3543%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D51b31814-d7fe-11f1-a99c-0328b4b5feb8%26rx_job%3D200683639-3543-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T200534Z%26rx_vp%3Dcpc",
+      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200683639-3543-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200683639-3543%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D51b31814-d7fe-11f1-a99c-0328b4b5feb8%26rx_job%3D200683639-3543-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T200413Z%26rx_vp%3Dcpc",
       "company_url": "https://www.indeed.com/cmp/Apple",
       "date_posted": "2026-11-04",
       "description": "Summary\n  \n  \nDo you love crafting elegant solutions to the hardest problems in audio and acoustics? Are you a big-picture, forward-thinking engineer who understands how audio subsystems integrate into a SoC and a system? At Apple, our Architecture group is responsible for connecting the hardware and software that bring sound to life across our products. Join this team, and you'll collaborate with engineers across Apple to design how our audio technologies work in unison!\n  \n  \nDescription\n  \n  \nWe are looking for a SoC Audio Architect to join our team defining the audio subsystem architecture for Apple's SoCs — technology that powers experiences across nearly every Apple product, from ultra-low-power keyword detection to high-fidelity spatial audio. This is primarily an audio subsystem architecture role, not an audio IP design role; experience designing audio IP is valued as background but is not the core function of the position. In this highly visible role, you will own the multi-generational subsystem architecture and roadmap for audio subsystems, collaborating closely with Silicon Engineering, Software Engineering, and Hardware Engineering teams to size subsystems and optimize trade-offs between performance, power, and area. You will have visibility across every product line and be accountable for architectures that scale across the portfolio, from early concept through tape-out and into shipping product.\n  \n  \nMinimum Qualifications  \n  \n  \n\n* Bachelor’s degree\n* Experience with SoC architecture principles\n* Experience with SoC audio processing\n\n  \n  \n  \nPreferred Qualifications  \n  \n  \n\n* Master's degree with 10+ years of relevant industry experience\n* Experience defining architecture specifications for audio, DSP, or signal processing subsystems within an SoC\n* In-depth understanding of SoC architecture concepts, such as on-chip fabric protocols, memory concepts, and clocking, reset, and power management\n* Skilled in digital signal processing algorithms, including audio algorithms\n* Understanding of SoC power modeling and Power/Performance/Area (PPA) optimization\n* Understanding of SoC audio interfaces (e.g., I2S, PDM, TDM, MIPI SWI3S)\n* Proficiency in hardware/software co-design, including familiarity with RTL design concepts (e.g., System Verilog)\n* Excellent interpersonal, leadership, and collaboration skills, with the ability to influence across organizations.\n\n  \n  \n  \nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,000 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location.  \n  \nApple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  \n  \nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.  \n  \n  \n\nApple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant\n\n  \n  \n  \n\nAt Apple, we believe accessibility is a fundamental human right. You’ll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.  \n  \nLearn about accessibility in Apple’s workplace  \n  \nLearn about reasonable accommodations for job applicants\n\n  \n  \n  \n\nApple accepts applications to this posting on an ongoing basis.",
@@ -54,8 +54,8 @@
       "emails": "",
       "ats": "Indeed",
       "listing_verification": {
-        "listing_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200683639-3543-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200683639-3543%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D51b31814-d7fe-11f1-a99c-0328b4b5feb8%26rx_job%3D200683639-3543-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T200534Z%26rx_vp%3Dcpc",
-        "checked_on": "2026-11-21",
+        "listing_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200683639-3543-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200683639-3543%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D51b31814-d7fe-11f1-a99c-0328b4b5feb8%26rx_job%3D200683639-3543-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T200413Z%26rx_vp%3Dcpc",
+        "checked_on": "2026-11-22",
         "status": "verified",
         "posting_date_or_recency": "2026-11-04"
       },
@@ -73,7 +73,76 @@
         "cost_of_living_source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
       },
       "distance_miles": 92.5
+    },
+    {
+      "company": "WWE",
+      "title": "Manager, TV Audio Infrastructure",
+      "location": "Remote, USA",
+      "url": "https://www.indeed.com/viewjob?jk=bf17554c37a3bbe6",
+      "direct_url": "https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Manager--TV-Audio-Infrastructure_R0008632-1",
+      "company_url": "https://www.indeed.com/cmp/Wwe",
+      "date_posted": "2026-11-16",
+      "description": "**Who We Are:**\n\nWWE® is the global leader in sports entertainment. The company creates and delivers original content 52 weeks a year to a global audience. WWE is committed to family-friendly entertainment on its television programming, Premium Live Events, digital media, and publishing platforms. WWE's TV-PG programming can be seen in more than 1 billion households worldwide in more than 20 languages through world-class distribution partners including Netflix, ESPN, NBCUniversal, USA Network and The CW. WWE is part of TKO Group Holdings (NYSE: TKO). Additional information on WWE can be found at wwe.com and corporate.wwe.com. TKO Group Holdings, Inc. (NYSE: TKO) is a premium sports and entertainment company. TKO owns iconic properties including UFC, the world’s premier mixed martial arts organization; WWE, the global leader in sports entertainment; and PBR, the world’s premier bull riding organization. Together, these properties reach 1 billion households across 210 countries and territories and organize more than 500 live events year-round, attracting more than three million fans. TKO also services and partners with major sports rights holders through IMG, an industry-leading global sports marketing agency; and On Location, a global leader in premium experiential hospitality.\n\n**This position requires weekly travel to WWE shows (Raw, Smackdown, Live Events and PLE's), both domestically and internationally, based on the show schedule.**\n\n**Position Summary**\n--------------------\n\nThe Manager of Broadcast TV Audio Infrastructure assists senior management with responsibilities for the design, operation, maintenance, and strategic development of audio systems while supporting live and recorded television production. This role supports a team of broadcast audio technicians, ensuring reliable, high-quality audio across studios, control rooms, remote productions, and transmission facilities. The manager works closely with production, engineering, IT, and operations teams to support current workflows while planning future technology upgrades.\n\n**Key Responsibilities**\n------------------------\n\n### **Audio Infrastructure Management**\n\n* Oversee the operation and maintenance of broadcast audio systems, including intercoms (wired/wireless), audio-over-IP networks, RFOF systems, RF Microphones and IEM monitoring systems.\n* Develop and maintain preventative maintenance schedules and system documentation.\n* Collaborate with external vendors to prioritize, schedule, and expedite repairs, ensuring maximum system reliability and uptime.\n\n### **Technical Leadership**\n\n* Lead troubleshooting and resolution of complex audio and broadcast infrastructure issues.\n* Evaluate emerging technologies and recommend upgrades to improve efficiency, scalability, and audio quality.\n* Collaborate with IT teams on networked audio systems.\n\n### **Project Management**\n\n* Plan and execute capital projects, upgrades, technical work books, equipment refreshes, and system integrations.\n* Coordinate installation, testing, commissioning, and acceptance of new systems.\n* Demoing new audio technologies.\n\n### **Team Leadership**\n\n* Collaborate with upper management to supervise, mentor, and develop broadcast audio engineers and technical staff.\n* Coordinate staffing and technical support coverage for live events and special productions.\n\n### \n\n### **Operational Support**\n\n* Support live broadcast, entertainment, and special event productions.\n* Ensure compliance with FCC regulations, company standards, and industry best practices.\n* Participate in on-call escalation support for critical broadcast operations.\n\n**Required Qualifications**\n---------------------------\n\n* Bachelor's degree in Broadcast Engineering, Audio Engineering, Electrical Engineering, Information Technology, or a related field, or equivalent experience.\n* 7+ years of experience in broadcast engineering, professional audio, or television infrastructure environments.\n* Extensive knowledge of broadcast audio systems, signal routing, and transmission workflows.\n* Understanding Dante platforms.\n* Strong understanding of television production environments and live broadcast operations.\n\n**Preferred Qualifications**\n----------------------------\n\n* Experience supporting large-scale network television operations.\n* Familiarity with broadcast intercom systems.\n* Professional certifications in broadcast engineering.\n* Experience with wireless communications, and Audio production technologies.\n\n**Key Competencies**\n--------------------\n\n* Broadcast systems infrastructure\n* Audio engineering expertise\n* Project planning and execution\n* Problem-solving under pressure\n* This role combines broadcast audio engineering expertise with operational leadership to ensure reliable, high-quality audio delivery across all television platforms.\n\nPer local requirements and in the interest of transparency, the hourly rate shown below reflects the prevalent current hiring range for this position. Hiring pay rates are based on a number of factors, including location and may vary depending on job-related qualifications, knowledge, skills and experience. The company strives to provide locally competitive rewards packages, which include base rate along with, as applicable, short- and long-term incentives, growth and developmental opportunities, and robust benefits, such as health care, retirement, vacation and other paid time off, and additional offerings.\n\nHiring Rate Minimum:\n\n$101,250 annually (minimum will not fall below the applicable State/local minimum salary thresholds)\n\nHiring Rate Maximum:\n\n$135,000 annually\n\nWWE is an Equal Opportunity Employer and complies with all applicable federal, state, and local laws regarding non-discrimination in employment. WWE makes employment decisions based on merit and qualifications, without considering an employee’s or applicant’s race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, marital stat",
+      "salary": "$101k–$135k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "FULL TIME",
+      "is_remote": false,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "listing_verification": {
+        "listing_url": "https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Manager--TV-Audio-Infrastructure_R0008632-1",
+        "checked_on": "2026-11-22",
+        "status": "verified",
+        "posting_date_or_recency": "2026-11-16"
+      },
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "$101k–$135k/yr",
+        "period": "annual",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "currency": "USD",
+        "annual_min": 101000,
+        "annual_max": 135000
+      }
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "WWE",
+      "title": "Manager, TV Audio Infrastructure",
+      "location": "Remote, USA",
+      "url": "https://www.indeed.com/viewjob?jk=bf17554c37a3bbe6",
+      "direct_url": "https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Manager--TV-Audio-Infrastructure_R0008632-1",
+      "company_url": "https://www.indeed.com/cmp/Wwe",
+      "date_posted": "2026-11-16",
+      "description": "**Who We Are:**\n\nWWE® is the global leader in sports entertainment. The company creates and delivers original content 52 weeks a year to a global audience. WWE is committed to family-friendly entertainment on its television programming, Premium Live Events, digital media, and publishing platforms. WWE's TV-PG programming can be seen in more than 1 billion households worldwide in more than 20 languages through world-class distribution partners including Netflix, ESPN, NBCUniversal, USA Network and The CW. WWE is part of TKO Group Holdings (NYSE: TKO). Additional information on WWE can be found at wwe.com and corporate.wwe.com. TKO Group Holdings, Inc. (NYSE: TKO) is a premium sports and entertainment company. TKO owns iconic properties including UFC, the world’s premier mixed martial arts organization; WWE, the global leader in sports entertainment; and PBR, the world’s premier bull riding organization. Together, these properties reach 1 billion households across 210 countries and territories and organize more than 500 live events year-round, attracting more than three million fans. TKO also services and partners with major sports rights holders through IMG, an industry-leading global sports marketing agency; and On Location, a global leader in premium experiential hospitality.\n\n**This position requires weekly travel to WWE shows (Raw, Smackdown, Live Events and PLE's), both domestically and internationally, based on the show schedule.**\n\n**Position Summary**\n--------------------\n\nThe Manager of Broadcast TV Audio Infrastructure assists senior management with responsibilities for the design, operation, maintenance, and strategic development of audio systems while supporting live and recorded television production. This role supports a team of broadcast audio technicians, ensuring reliable, high-quality audio across studios, control rooms, remote productions, and transmission facilities. The manager works closely with production, engineering, IT, and operations teams to support current workflows while planning future technology upgrades.\n\n**Key Responsibilities**\n------------------------\n\n### **Audio Infrastructure Management**\n\n* Oversee the operation and maintenance of broadcast audio systems, including intercoms (wired/wireless), audio-over-IP networks, RFOF systems, RF Microphones and IEM monitoring systems.\n* Develop and maintain preventative maintenance schedules and system documentation.\n* Collaborate with external vendors to prioritize, schedule, and expedite repairs, ensuring maximum system reliability and uptime.\n\n### **Technical Leadership**\n\n* Lead troubleshooting and resolution of complex audio and broadcast infrastructure issues.\n* Evaluate emerging technologies and recommend upgrades to improve efficiency, scalability, and audio quality.\n* Collaborate with IT teams on networked audio systems.\n\n### **Project Management**\n\n* Plan and execute capital projects, upgrades, technical work books, equipment refreshes, and system integrations.\n* Coordinate installation, testing, commissioning, and acceptance of new systems.\n* Demoing new audio technologies.\n\n### **Team Leadership**\n\n* Collaborate with upper management to supervise, mentor, and develop broadcast audio engineers and technical staff.\n* Coordinate staffing and technical support coverage for live events and special productions.\n\n### \n\n### **Operational Support**\n\n* Support live broadcast, entertainment, and special event productions.\n* Ensure compliance with FCC regulations, company standards, and industry best practices.\n* Participate in on-call escalation support for critical broadcast operations.\n\n**Required Qualifications**\n---------------------------\n\n* Bachelor's degree in Broadcast Engineering, Audio Engineering, Electrical Engineering, Information Technology, or a related field, or equivalent experience.\n* 7+ years of experience in broadcast engineering, professional audio, or television infrastructure environments.\n* Extensive knowledge of broadcast audio systems, signal routing, and transmission workflows.\n* Understanding Dante platforms.\n* Strong understanding of television production environments and live broadcast operations.\n\n**Preferred Qualifications**\n----------------------------\n\n* Experience supporting large-scale network television operations.\n* Familiarity with broadcast intercom systems.\n* Professional certifications in broadcast engineering.\n* Experience with wireless communications, and Audio production technologies.\n\n**Key Competencies**\n--------------------\n\n* Broadcast systems infrastructure\n* Audio engineering expertise\n* Project planning and execution\n* Problem-solving under pressure\n* This role combines broadcast audio engineering expertise with operational leadership to ensure reliable, high-quality audio delivery across all television platforms.\n\nPer local requirements and in the interest of transparency, the hourly rate shown below reflects the prevalent current hiring range for this position. Hiring pay rates are based on a number of factors, including location and may vary depending on job-related qualifications, knowledge, skills and experience. The company strives to provide locally competitive rewards packages, which include base rate along with, as applicable, short- and long-term incentives, growth and developmental opportunities, and robust benefits, such as health care, retirement, vacation and other paid time off, and additional offerings.\n\nHiring Rate Minimum:\n\n$101,250 annually (minimum will not fall below the applicable State/local minimum salary thresholds)\n\nHiring Rate Maximum:\n\n$135,000 annually\n\nWWE is an Equal Opportunity Employer and complies with all applicable federal, state, and local laws regarding non-discrimination in employment. WWE makes employment decisions based on merit and qualifications, without considering an employee’s or applicant’s race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, marital stat",
+      "salary": "$101k–$135k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "FULL TIME",
+      "is_remote": false,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "listing_verification": {
+        "listing_url": "https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Manager--TV-Audio-Infrastructure_R0008632-1",
+        "checked_on": "2026-11-22",
+        "status": "verified",
+        "posting_date_or_recency": "2026-11-16"
+      },
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "$101k–$135k/yr",
+        "period": "annual",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board",
+        "currency": "USD",
+        "annual_min": 101000,
+        "annual_max": 135000
+      }
+    }
+  ]
 }

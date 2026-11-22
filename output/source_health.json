@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-21T20:09:36.926337+00:00",
+  "updated_at": "2026-11-22T20:24:21.047684+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-11-21T20:03:49.118552+00:00",
-      "raw": 174,
-      "verified": 24,
-      "errors": 55,
+      "checked_at": "2026-11-22T20:18:30.987592+00:00",
+      "raw": 165,
+      "verified": 27,
+      "errors": 60,
       "status": "partial",
-      "last_error": "410 Client Error: Gone for url: https://careers.blizzard.com/global/en/job/R028221/Composers-Assistant---Temp-SFD-Cinematics",
+      "last_error": "Employer marks this job inactive",
       "details_limit": 100,
       "truncated": true
     },
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-11-21T20:05:07.691734+00:00",
+      "checked_at": "2026-11-22T20:19:48.182048+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-11-21T20:05:07.691774+00:00",
+      "checked_at": "2026-11-22T20:19:48.182069+00:00",
       "raw": 3,
       "verified": 3,
       "errors": 0,
@@ -37,7 +37,7 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-11-21T20:05:09.645522+00:00",
+      "checked_at": "2026-11-22T20:19:50.014339+00:00",
       "raw": 45,
       "verified": 31,
       "errors": 14,
@@ -49,7 +49,7 @@
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-11-21T20:05:45.210895+00:00",
+      "checked_at": "2026-11-22T20:20:25.356428+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,19 +60,19 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-11-21T20:05:46.003331+00:00",
-      "raw": 36,
+      "checked_at": "2026-11-22T20:20:26.026775+00:00",
+      "raw": 31,
       "verified": 23,
-      "errors": 13,
+      "errors": 8,
       "status": "partial",
-      "last_error": "429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/Japan-Tokyo-Business-Tower/-Senior-Sound-Designer_R105151",
+      "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
       "truncated": false
     },
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-11-21T20:06:12.867329+00:00",
+      "checked_at": "2026-11-22T20:20:45.702676+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-11-21T20:06:12.867354+00:00",
+      "checked_at": "2026-11-22T20:20:45.702697+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 1,
@@ -92,7 +92,7 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-11-21T20:06:13.075096+00:00",
+      "checked_at": "2026-11-22T20:20:45.919256+00:00",
       "raw": 14,
       "verified": 7,
       "errors": 7,
@@ -104,7 +104,7 @@
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-11-21T20:07:08.762926+00:00",
+      "checked_at": "2026-11-22T20:21:39.430762+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -116,7 +116,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-11-21T20:07:09.556769+00:00",
+      "checked_at": "2026-11-22T20:21:40.025178+00:00",
       "raw": 2,
       "verified": 2,
       "errors": 0,
@@ -127,7 +127,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-11-21T20:07:10.075918+00:00",
+      "checked_at": "2026-11-22T20:21:40.449134+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -137,7 +137,7 @@
     {
       "source": "Indeed",
       "status": "candidates_found",
-      "raw": 14,
+      "raw": 15,
       "detail": "See workflow logs for query/page errors."
     },
     {
