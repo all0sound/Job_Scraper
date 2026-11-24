@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-24 00:51 UTC",
+  "scraped_at": "2026-11-24 23:01 UTC",
   "total": 6,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Gameplay Audio Software Engineer",
@@ -63,13 +63,11 @@
       },
       "sources": [
         "ASGC",
-        "GameJobs.co",
         "Hitmarker"
       ],
       "salary_currency": "USD",
       "duplicate_urls": [
-        "https://apply.workable.com/sideinc/j/5978DCFA54",
-        "https://gamejobs.co/Audio-Editor-at-Side"
+        "https://apply.workable.com/sideinc/j/5978DCFA54"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -209,18 +207,21 @@
       "listing_verification": {
         "status": "verified",
         "checked_on": "2026-11-24",
-        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-",
+        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163188918",
         "posting_date_or_recency": "2026-11-23T10:32:11.323Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "sources": [
         "GameJobs.co",
+        "Grackle HQ",
         "Hitmarker"
       ],
       "duplicate_urls": [
         "https://gamejobs.co/Audio-QA-Lead-at-CD-Projekt",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-"
+        "https://gracklehq.com/rd/385177",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-",
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163188918"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -234,45 +235,5 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Audio QA Lead ",
-      "url": "https://hitmarker.net/jobs/cd-projekt-red-audio-qa-lead-5682734",
-      "company": "CD PROJEKT RED",
-      "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for an Audio QA Lead to lead and develop our Audio QA capability within Shared Development. This is a central role supporting multiple projects at different stages of development, from early production through release and live updates. You will help projects deliver audio experiences that meet both technical requirements and creative intent. You will lead the Audio QA team, establish effective testing approaches, and work closely with project QA teams and partners across Audio, Development, Production, and Publishing. The Audio QA Lead contributes to project QA direction and owns Audio QA planning and execution within the discipline. You will balance the needs of individual projects with the opportunity to improve shared practices, visibility, and consistency across the studio. Responsibilities: Lead, mentor, and develop Audio Design QA Analysts, setting clear expectations, priorities, goals, and quality standards. Plan and coordinate Audio QA work across multiple projects, aligning coverage and resources with milestones, schedules, risks, and team capacity. Translate project QA direction into practical Audio QA strategies, test plans, coverage, and measurable quality expectations. Oversee testing across audio domains, including sound effects, music, dialogue, ambience, audio systems, and mixing. Ensure audio is evaluated for both technical functionality and creative goals, including gameplay readability, immersion, consistency, and emotional impact. Support the investigation of complex audio issues across assets, implementation, logic, and systems, using tools such as Wwise and Unreal Engine. Ensure audio issues are clearly reported, prioritized, followed up, and verified through resolution. Lead testing efforts for major audio features, establishing priorities, validation approaches, and suitable test environments. Maintain visibility of Audio QA status, coverage, risks, blockers, and readiness; provide reliable input to project milestone and release assessments. Identify quality risks, dependencies, and delivery concerns early, and work with project stakeholders to agree and follow through on mitigation plans. Collaborate with Sound Design, Music, Audio Programming, Development, Production, project QA, and Publishing to align quality expectations and drive solutions. Use testing results, issue trends, and stakeholder feedback to provide clear, data-informed quality recommendations. Improve Audio QA workflows, testing methodologies, tools, documentation, and reporting practices across projects. Support recruitment, onboarding, performance feedback, career development, and sustainable workload planning for the team. Share effective practices across projects and contribute to consistent Audio QA standards within Shared Development and the wider QA organization. Significant experience in game QA, audio, or a related development discipline, including responsibility for the quality of complex audio features throughout production. Experience leading, mentoring, or coordinating QA professionals, with the ability to set clear priorities and support people’s development. Strong understanding of interactive game audio, including sound effects, ambience, music, dialogue, and how they work together during gameplay. A critical ear and the ability to evaluate audio beyond basic functionality, considering consistency, balance, creative intent, and player experience. Experience creating and maintaining test strategies, test plans, and structured coverage for complex features. Familiarity with audio middleware such as Wwise and game engines such as Unreal Engine, with the ability to investigate implementation-related issues. Ability to assess quality risks and player impact, prioritize issues, and communicate clear recommendations. Experience providing detailed, constructive, and actionable feedback to both creative and technical specialists. Strong organizational skills and the ability to coordinate work across multiple projects and stakeholders. Clear communication and collaboration skills, including the confidence to raise concerns, challenge plans constructively, and follow through on decisions. Strong spoken and written English. A proactive, accountable approach to problem-solving and continuous improvement. Nice to Have A professional background in Sound Design, Technical Sound Design, or Audio Implementation. Experience shipping at least one PC or console game. Strong understanding of audio production fundamentals, including mixing, dynamics, and signal flow. Experience with digital audio workstations such as Reaper or Pro Tools. Experience with 3D or spatial audio and testing interactive music, dialogue, and ambience. Familiarity with accessibility and gameplay readability considerations, and evaluating audio across different hardware and playback environments. Experience coordinating testing with external QA teams or creating custom test maps and debug tools for audio validation. Work mode: Office-First: working primarily from the Warsaw studio in a full time or hybrid mode. Relocation is required. Relocation Support Relocation package — flight ticket, company apartment for your first month, relocating your pet and family, shipping your belongings. It’s all covered. Relocation assistance — processing your legalization operations for you and  tax settlements — all you need to feel right at home is taken care of. Polish lessons for foreign employees — and for your spouse or partner, too. Paid Leave — from 20 to 26 days of holiday per year, and paid sick leave. Health & Well-Being Private medical healthcare — a selection of medical plans with dental care and unlimited rehabilitation to choose from, which are also accessible for your partner and relatives. Life insurance — comprehensive pension and insurance plans to protect you and your loved ones. Annual screenings for cancer prevention covered by the company. Psychological and psychiatrist care — free mental health support and various well-being initiatives. Sports card — gain access to a wide number of sporting and fitness facilities across the city. Menstrual leave — employees who menstruate can take one extra day off when experiencing period pain. RED Parents Network — support for working parents, including childcare benefits, and family-friendly events. RED Summer Camp for Kids — a fun summer program for children aged 5–12, majoritively paid by the company. Perks & Professional Growth A welcome pack filled with goodies — to help you feel right at home once you join the team. Trainings, lectures, and courses — workshops and trainings for each employee, knowledge-sharing initiatives, online tutorials, and e-learning classes are all available. There’s always something to learn! REDs have access to the cafeteria platform through which they can receive subscription benefits, additional medical packages or vouchers and codes to shops, cinemas, and public transport reimbursement. Gifts for newborn rebels and regular chances to nab some cool swag! Social Activities & Life in the Office Dog-friendly office — dog owner? Bring your pooch with you and look after them while working! There’s always a furry friend or two to meet at the studio. Social events — we host regular gatherings at the studio where we can all unwind, play games, and just have some fun together. Healthy selections — ​​canteens. Truly international working environment — a chance to meet and work with a diverse selection of people from all around the world. Sustainability is an ongoing commitment for us, and our campus has  electric car charging points, green zones, and much more. Read all about it on our Beyond the Game Blog . A designated space for your bicycle, as well as bicycle repair equipment and showers available whenever you need them. An onsite, well-equipped gym with a climbing wall, daily Gym Assistant support, and yoga and boxing classes. No dress-code — we like to keep it casual. Estimated pay range for this position: 23 900 – 32 800  PLN gross monthly. This role may be eligible for a long term incentive program (option to purchase CDPR stock after the vesting period). Final offers are dependent on job-related factors like experience and qualifications. Type of contract: Employment Contract (\"Umowa o pracę\"). If you've observed any irregularities (i.e. legal or ethical violations) in our recruitment process, please click here to report them anonymously. ",
-      "ats": "Hitmarker",
-      "direct_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-",
-      "job_type": "Full-time",
-      "date_posted": "2026-11-23T10:32:11.323Z",
-      "location": "Warsaw, Masovian Voivodeship, Poland",
-      "salary": "PLN zł23,900 to zł32,800 / month",
-      "salary_currency": "USD",
-      "listing_verification": {
-        "status": "verified",
-        "checked_on": "2026-11-24",
-        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-",
-        "posting_date_or_recency": "2026-11-23T10:32:11.323Z",
-        "date_source": "employer",
-        "employment_source": "listing"
-      },
-      "sources": [
-        "GameJobs.co",
-        "Hitmarker"
-      ],
-      "duplicate_urls": [
-        "https://gamejobs.co/Audio-QA-Lead-at-CD-Projekt",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-"
-      ],
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "PLN zł23,900 to zł32,800 / month",
-        "currency": "PLN",
-        "period": "monthly",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "comparison_note": "Published in PLN; no USD conversion assumed"
-      },
-      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
-    }
-  ]
+  "new_jobs": []
 }
