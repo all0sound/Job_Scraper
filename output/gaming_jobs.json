@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-25 22:33 UTC",
+  "scraped_at": "2026-11-26 22:21 UTC",
   "total": 6,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-25",
+        "checked_on": "2026-11-26",
         "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
         "posting_date_or_recency": "2026-11-19T12:45:26-05:00",
         "date_source": "employer",
@@ -55,7 +55,7 @@
       "direct_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-25",
+        "checked_on": "2026-11-26",
         "listing_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -91,7 +91,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-25",
+        "checked_on": "2026-11-26",
         "listing_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
         "posting_date_or_recency": "2026-11-13T15:04:05.989Z",
         "date_source": "employer",
@@ -119,7 +119,7 @@
       "direct_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-25",
+        "checked_on": "2026-11-26",
         "listing_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
         "posting_date_or_recency": "2026-11-09T10:37:11-05:00",
         "date_source": "employer",
@@ -156,7 +156,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/cdprojektred/744000160673443",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-25",
+        "checked_on": "2026-11-26",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445",
         "posting_date_or_recency": "2026-11-09T17:09:04.899Z",
         "date_source": "employer",
@@ -206,7 +206,7 @@
       "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-25",
+        "checked_on": "2026-11-26",
         "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163188918",
         "posting_date_or_recency": "2026-11-23T10:32:11.323Z",
         "date_source": "employer",
