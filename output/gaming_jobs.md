@@ -1,6 +1,10 @@
 # Music Technology & Audio - Gaming Boards
-*Last updated: 2026-11-26 22:21 UTC*
+*Last updated: 2026-11-27 21:58 UTC*
 
-**0 new role(s)** since last run · 6 total in posted within 21 days
+**1 new role(s)** since last run · 7 total in posted within 21 days
 
-No current matching gaming roles.
+### [Lead Audio Designer](https://companiongroupltd.recruitee.com/o/lead-audio-designer) — Companion Group Ltd
+- 📍 **Location:** Remote; Remote , BE, DE
+- **Work mode:** Remote in-state eligible
+- **Job type:** FULL TIME
+- 🕒 **Posted:** 2026-11-26

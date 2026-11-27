@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-26 22:22 UTC",
+  "scraped_at": "2026-11-27 22:00 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LPL Financial",
@@ -22,7 +22,7 @@
       "ats": "Indeed",
       "listing_verification": {
         "listing_url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego/Audio-Visual-Technician---Audio-Engineer_R-053651-1",
-        "checked_on": "2026-11-26",
+        "checked_on": "2026-11-27",
         "status": "verified",
         "posting_date_or_recency": "2026-11-12"
       },
@@ -58,7 +58,7 @@
       "ats": "Indeed",
       "listing_verification": {
         "listing_url": "https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Manager--TV-Audio-Infrastructure_R0008632-1",
-        "checked_on": "2026-11-26",
+        "checked_on": "2026-11-27",
         "status": "verified",
         "posting_date_or_recency": "2026-11-16"
       },
@@ -74,42 +74,5 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "LPL Financial",
-      "title": "Audio Visual Technician – Audio Engineer",
-      "location": "San Diego, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=549f36b9b0f6fe39",
-      "direct_url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego/Audio-Visual-Technician---Audio-Engineer_R-053651-1",
-      "company_url": "https://www.indeed.com/cmp/Lpl-Financial",
-      "date_posted": "2026-11-12",
-      "description": "**Where Ambition Meets Innovation**\n\nBuild a career that matches all your initiative with an impressive dose of innovation. From cutting-edge resources and a collaborative environment to the freedom to make an impact and more, you’ll find the ingredients you need at LPL Financial to shape your success while helping clients pursue their financial goals.\n\n**Job Overview**\n----------------\n\nLPL Financial is seeking an **Audio Visual Technician – Audio Engineer** with a strong background in audio engineering and live production to support corporate meetings, executive presentations, town halls, livestreams, and special events.\n\nThis role will primarily focus on professional audio production, including live sound mixing, microphone systems, audio signal routing, recording, system configuration, and troubleshooting. The position will also provide general AV and event support, including equipment setup and strike.\n\nThe ideal candidate is technically skilled, dependable, customer-focused, and comfortable working in a fast-paced corporate environment supporting high-visibility events.\n\n**Responsibilities**\n--------------------\n\nAudio Production & Engineering\n\n* Set up, operate, and troubleshoot professional audio systems for corporate meetings, executive events, town halls, livestreams, and live productions.\n* Operate digital audio consoles, wireless microphone systems, playback devices, processors, and related professional audio equipment.\n* Mix live audio for in-room audiences, broadcasts, livestreams, recordings, and virtual participants.\n* Manage audio signal flow, routing, gain structure, EQ, dynamics processing, and overall system levels.\n* Set up and manage wireless lavalier, handheld, podium, and other microphone systems.\n* Perform sound checks and ensure clear, consistent audio throughout live events.\n* Monitor RF and wireless microphone performance and quickly identify and resolve interference or connectivity issues.\n* Troubleshoot audio issues including feedback, distortion, signal loss, routing problems, and equipment failures.\n* Support audio integration with video conferencing, livestreaming, recording, and broadcast systems.\n* Record event audio and assist with media management and archiving as needed.\n\nGeneral AV & Event Support\n\n* Set up, operate, and strike AV equipment for meetings, conferences, and corporate events.\n* Provide general support for video systems, displays, projectors, lighting, presentation systems, and video conferencing.\n* Set up and strike pipe and drape, staging, and other event production equipment as needed.\n* Run, secure, and manage AV cabling while maintaining safe, clean, and professional event spaces.\n* Assist with equipment testing, maintenance, inventory, and organization.\n* Participate in rehearsals, pre-production meetings, event setup, and post-event breakdown.\n* Partner with presenters, executives, producers, event teams, and other AV professionals to deliver a high-quality event experience.\n\nPrimary Areas of Responsibility\n\nAudio Engineering | Live Sound | Corporate Events | Livestreaming | Broadcast Audio | General AV Support\n\n**What are we looking for?**\n----------------------------\n\nWe’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates **pursue greatness**, **act with integrity**, and are **driven to help our clients succeed**. We value those who embrace creativity, continuous improvement, and contribute to a culture where we **win together** and **create and share joy** in our work.\n\n**Requirements:**\n-----------------\n\n* **Live Video Production & Multi-Camera Operation:** minimum of 3 years supporting live corporate events, broadcasts, town halls, or livestreams with hands-on operation of professional cameras, PTZ cameras, and multi-camera production environments.\n* **Video Engineering & Signal Flow:** proven experience configuring and troubleshooting video signal routing, switching, distribution, resolutions, and frame rates with strong knowledge of SDI, HDMI, and NDI technologies.\n* **Livestreaming & Recording:** experience supporting livestreams, virtual events, encoding, recording, and content distribution and ability to monitor and troubleshoot live productions in real time.\n* **Video Switching & Production Equipment:** hands-on experience operating video switchers, routers, recording systems, monitors, and production control equipment.\n* **Video Editing & Post-Production:** experience editing recorded content using Adobe Premiere Pro, DaVinci Resolve, Final Cut Pro, or similar platforms and ability to create polished internal communications, executive videos, and event recordings.\n\n**Core Competencies:**\n----------------------\n\n* Professional video production and video engineering\n* Multi-camera production\n* Livestreaming and virtual event support\n* Video signal routing and troubleshooting\n* Camera setup, framing, focus, exposure, and color matching\n* Presentation playback and confidence monitors\n* Recording and media management\n* Video quality control during live events\n* Microsoft Teams, Zoom, and Webex support\n* Audio, display, projector, and lighting support\n* General AV event setup and breakdown\n* Cable management and event safety\n* Equipment testing, maintenance, inventory, and organization\n* Technical troubleshooting and problem-solving\n* Customer service and executive support\n* Ability to perform under pressure during live events\n* Team collaboration and event coordination\n\n**Preferences:**\n----------------\n\n* Experience supporting executive-level meetings and town halls\n* Corporate studio or broadcast production experience\n* Advanced livestreaming workflows\n* Advanced multi-camera production experience\n* Strong post-production and video editing background\n* Experience with vMix, OBS, Wirecast, or similar production platforms\n* Knowledge of network-based AV/video technology\n\n**Pay Range:**\n\n$34.47-$57.44/hour\n\n### \n\nActual bas",
-      "salary": "$34.47–$57.44/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "FULL TIME",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "listing_verification": {
-        "listing_url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego/Audio-Visual-Technician---Audio-Engineer_R-053651-1",
-        "checked_on": "2026-11-26",
-        "status": "verified",
-        "posting_date_or_recency": "2026-11-12"
-      },
-      "employment_category": "full_time",
-      "compensation": {
-        "nominal": "$34.47–$57.44/hr",
-        "period": "hourly",
-        "source": "reputable_secondary_board",
-        "source_label": "Reputable secondary board",
-        "currency": "USD",
-        "hourly_min": 34.47,
-        "hourly_max": 57.44,
-        "annualized_full_time_max": 119475
-      },
-      "distance_miles": 92.5
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T22:23:39.103216+00:00",
+  "updated_at": "2026-11-27T22:01:03.337870+00:00",
   "sources": [
     {
       "source": "ASGC",
       "url": "https://jobs.asgc.gg/",
-      "checked_at": "2026-11-26T22:16:48.886762+00:00",
-      "raw": 180,
-      "verified": 22,
-      "errors": 58,
+      "checked_at": "2026-11-27T21:55:50.553778+00:00",
+      "raw": 174,
+      "verified": 24,
+      "errors": 63,
       "status": "partial",
       "last_error": "Response does not contain the direct job listing",
       "details_limit": 100,
@@ -16,7 +16,7 @@
     {
       "source": "Games Jobs Index",
       "url": "https://gamesjobsindex.com/game-jobs/audio.html",
-      "checked_at": "2026-11-26T22:18:06.220020+00:00",
+      "checked_at": "2026-11-27T21:57:09.629906+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -26,7 +26,7 @@
     {
       "source": "Games Jobs Direct",
       "url": "https://www.gamesjobsdirect.com/results?k=audio",
-      "checked_at": "2026-11-26T22:18:06.220036+00:00",
+      "checked_at": "2026-11-27T21:57:09.629924+00:00",
       "raw": 3,
       "verified": 3,
       "errors": 0,
@@ -37,19 +37,19 @@
     {
       "source": "Hitmarker",
       "url": "https://hitmarker.net/jobs",
-      "checked_at": "2026-11-26T22:18:08.403779+00:00",
+      "checked_at": "2026-11-27T21:57:11.489721+00:00",
       "raw": 50,
-      "verified": 32,
-      "errors": 18,
+      "verified": 31,
+      "errors": 19,
       "status": "partial",
-      "last_error": "Response does not contain the direct job listing",
+      "last_error": "500 Server Error: Internal Server Error for url: https://careers.bohemia.net/en/open-positions/",
       "details_limit": 100,
       "truncated": false
     },
     {
       "source": "Remote Game Jobs",
       "url": "https://remotegamejobs.com/remote-game-music-sound-design-jobs",
-      "checked_at": "2026-11-26T22:18:42.680110+00:00",
+      "checked_at": "2026-11-27T21:57:49.655070+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -60,10 +60,10 @@
     {
       "source": "GameJobs.co",
       "url": "https://gamejobs.co/search?q=audio",
-      "checked_at": "2026-11-26T22:18:43.450664+00:00",
-      "raw": 34,
-      "verified": 23,
-      "errors": 11,
+      "checked_at": "2026-11-27T21:57:50.357514+00:00",
+      "raw": 33,
+      "verified": 21,
+      "errors": 12,
       "status": "partial",
       "last_error": "429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/Japan-Tokyo-Business-Tower/-Senior-Sound-Designer_R105151",
       "details_limit": 100,
@@ -72,7 +72,7 @@
     {
       "source": "GameDevJobs",
       "url": "https://gamejobs.co/",
-      "checked_at": "2026-11-26T22:19:09.920854+00:00",
+      "checked_at": "2026-11-27T21:58:11.069683+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -82,7 +82,7 @@
     {
       "source": "ArtStation",
       "url": "https://www.artstation.com/jobs",
-      "checked_at": "2026-11-26T22:19:09.920865+00:00",
+      "checked_at": "2026-11-27T21:58:11.069696+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 1,
@@ -92,19 +92,17 @@
     {
       "source": "Grackle HQ",
       "url": "https://gracklehq.com/jobs?department=Audio",
-      "checked_at": "2026-11-26T22:19:10.123833+00:00",
-      "raw": 26,
-      "verified": 8,
-      "errors": 18,
-      "status": "partial",
-      "last_error": "Response does not contain the direct job listing",
-      "details_limit": 100,
-      "truncated": false
+      "checked_at": "2026-11-27T21:58:11.294983+00:00",
+      "raw": 0,
+      "verified": 0,
+      "errors": 1,
+      "status": "error",
+      "detail": "HTTPSConnectionPool(host='gracklehq.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "source": "Skillsearch",
       "url": "https://www.skillsearch.com/search?keywords=audio",
-      "checked_at": "2026-11-26T22:21:03.824939+00:00",
+      "checked_at": "2026-11-27T21:58:36.551992+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -116,7 +114,7 @@
     {
       "source": "Work With Indies",
       "url": "https://www.workwithindies.com/categories/audio",
-      "checked_at": "2026-11-26T22:21:04.629212+00:00",
+      "checked_at": "2026-11-27T21:58:37.189375+00:00",
       "raw": 2,
       "verified": 2,
       "errors": 0,
@@ -127,7 +125,7 @@
     {
       "source": "PlayHire",
       "url": "https://playhire.io/",
-      "checked_at": "2026-11-26T22:21:05.036968+00:00",
+      "checked_at": "2026-11-27T21:58:37.662209+00:00",
       "raw": 0,
       "verified": 0,
       "errors": 0,
@@ -137,7 +135,7 @@
     {
       "source": "Indeed",
       "status": "candidates_found",
-      "raw": 14,
+      "raw": 11,
       "detail": "See workflow logs for query/page errors."
     },
     {

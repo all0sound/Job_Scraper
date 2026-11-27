@@ -1,8 +1,38 @@
 {
-  "scraped_at": "2026-11-26 22:21 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-11-27 21:58 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "Lead Audio Designer",
+      "company": "Companion Group Ltd",
+      "url": "https://companiongroupltd.recruitee.com/o/lead-audio-designer",
+      "ats": "ASGC",
+      "job_type": "FULL TIME",
+      "location": "Remote; Remote , BE, DE",
+      "board_activated_on": "2026-11-26",
+      "date_posted": "2026-11-26",
+      "description": "Companion Group is a AAA co-development gaming studio with a globally distributed and fully remote setup, renowned for its adeptness in overcoming the most intricate challenges in multiplayer game development. Our reputation precedes us as an excellent choice for clients aspiring to elevate their latest multiplayer titles, enabling scalability in player numbers, maximising player density, and crafting immersive gameplay experiences. Embedded seamlessly within a client's in-house team, we collaborate harmoniously to turn dreams into reality. Our portfolio boasts groundbreaking games developed in collaboration with major studios worldwide. As a fully remote studio with colleagues across the globe, we value and emphasise clear, continuous, and transparent communication as highly as technical skills. As a Lead Audio Designer, you'll define how multiplayer games sound and how they communicate with players. You will lead audio work and collaborate closely with engineers, designers and artists to create soundscapes that are immersive, informative and clear, even in the busiest multiplayer moments. Set and own the audio direction from pre-production through live service Design and implement audio for combat, abilities, characters, environments and UI Collaborate with engineers on audio systems, middleware integration, voice management and performance budgets Lead and mentor audio designers and manage external partners for music, VO and Foley Ensure audio clarity and readability in high-density multiplayer scenarios Plan audio for live content, events and updates Excellent communication, leadership and collaboration skills Strong problem-solving skills and attention to detail 7+ years of experience in game audio, including senior or lead roles Expert proficiency with Wwise or FMOD Experience implementing audio in Unreal Engine or a comparable engine Experience managing mix, prioritisation and voice limits in multiplayer games A reel demonstrating both sound design and implementation What makes you stand out Experience with UE's MetaSounds and Audio Mixer VO direction, including localised voice-over Scripting experience (e.g. Blueprints, Python, Lua) Experience with spatial audio German language skills",
+      "is_remote": true,
+      "direct_url": "https://companiongroupltd.recruitee.com/o/lead-audio-designer",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-11-27",
+        "listing_url": "https://companiongroupltd.recruitee.com/o/lead-audio-designer",
+        "posting_date_or_recency": "2026-11-26",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
+      "work_arrangement": "Remote in-state eligible",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    },
     {
       "title": "Senior Gameplay Audio Software Engineer",
       "company": "2K",
@@ -16,7 +46,7 @@
       "direct_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-26",
+        "checked_on": "2026-11-27",
         "listing_url": "https://job-boards.greenhouse.io/2k/jobs/8201826003",
         "posting_date_or_recency": "2026-11-19T12:45:26-05:00",
         "date_source": "employer",
@@ -25,13 +55,11 @@
       "sources": [
         "ASGC",
         "GameJobs.co",
-        "Grackle HQ",
         "Hitmarker"
       ],
       "salary_currency": "USD",
       "duplicate_urls": [
-        "https://gamejobs.co/Senior-Gameplay-Audio-Software-Engineer-at-2K",
-        "https://gracklehq.com/rd/385022"
+        "https://gamejobs.co/Senior-Gameplay-Audio-Software-Engineer-at-2K"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -55,7 +83,7 @@
       "direct_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-26",
+        "checked_on": "2026-11-27",
         "listing_url": "https://apply.workable.com/sideinc/j/5978DCFA54",
         "posting_date_or_recency": "",
         "date_source": "board",
@@ -91,7 +119,7 @@
       "direct_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-26",
+        "checked_on": "2026-11-27",
         "listing_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161506990",
         "posting_date_or_recency": "2026-11-13T15:04:05.989Z",
         "date_source": "employer",
@@ -119,7 +147,7 @@
       "direct_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-26",
+        "checked_on": "2026-11-27",
         "listing_url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/5031108101",
         "posting_date_or_recency": "2026-11-09T10:37:11-05:00",
         "date_source": "employer",
@@ -156,8 +184,8 @@
       "direct_url": "https://jobs.smartrecruiters.com/cdprojektred/744000160673443",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-26",
-        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445",
+        "checked_on": "2026-11-27",
+        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio",
         "posting_date_or_recency": "2026-11-09T17:09:04.899Z",
         "date_source": "employer",
         "employment_source": "listing"
@@ -165,21 +193,18 @@
       "sources": [
         "ASGC",
         "GameJobs.co",
-        "Grackle HQ",
         "Hitmarker"
       ],
       "salary": "PLN zł17,800 to zł27,800 / month",
       "salary_currency": "USD",
       "duplicate_urls": [
         "https://gamejobs.co/Senior-Tech-QA-Analyst-Audio-at-CD-Projekt-1490",
-        "https://gracklehq.com/rd/384600",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-4883157",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5017805",
         "https://hitmarker.net/jobs/cd-projekt-red-senior-tech-qa-analyst-audio-5542727",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000151027796-senior-tech-qa-analyst-audio",
         "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000152956181-senior-tech-qa-analyst-audio",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673445"
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000160673443-senior-tech-qa-analyst-audio"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -206,22 +231,19 @@
       "salary_currency": "USD",
       "listing_verification": {
         "status": "verified",
-        "checked_on": "2026-11-26",
-        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163188918",
+        "checked_on": "2026-11-27",
+        "listing_url": "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-",
         "posting_date_or_recency": "2026-11-23T10:32:11.323Z",
         "date_source": "employer",
         "employment_source": "listing"
       },
       "sources": [
         "GameJobs.co",
-        "Grackle HQ",
         "Hitmarker"
       ],
       "duplicate_urls": [
         "https://gamejobs.co/Audio-QA-Lead-at-CD-Projekt",
-        "https://gracklehq.com/rd/385177",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-",
-        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163188918"
+        "https://jobs.smartrecruiters.com/CDPROJEKTRED/744000163184526-audio-qa-lead-"
       ],
       "employment_category": "full_time",
       "compensation": {
@@ -235,5 +257,36 @@
       "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Lead Audio Designer",
+      "company": "Companion Group Ltd",
+      "url": "https://companiongroupltd.recruitee.com/o/lead-audio-designer",
+      "ats": "ASGC",
+      "job_type": "FULL TIME",
+      "location": "Remote; Remote , BE, DE",
+      "board_activated_on": "2026-11-26",
+      "date_posted": "2026-11-26",
+      "description": "Companion Group is a AAA co-development gaming studio with a globally distributed and fully remote setup, renowned for its adeptness in overcoming the most intricate challenges in multiplayer game development. Our reputation precedes us as an excellent choice for clients aspiring to elevate their latest multiplayer titles, enabling scalability in player numbers, maximising player density, and crafting immersive gameplay experiences. Embedded seamlessly within a client's in-house team, we collaborate harmoniously to turn dreams into reality. Our portfolio boasts groundbreaking games developed in collaboration with major studios worldwide. As a fully remote studio with colleagues across the globe, we value and emphasise clear, continuous, and transparent communication as highly as technical skills. As a Lead Audio Designer, you'll define how multiplayer games sound and how they communicate with players. You will lead audio work and collaborate closely with engineers, designers and artists to create soundscapes that are immersive, informative and clear, even in the busiest multiplayer moments. Set and own the audio direction from pre-production through live service Design and implement audio for combat, abilities, characters, environments and UI Collaborate with engineers on audio systems, middleware integration, voice management and performance budgets Lead and mentor audio designers and manage external partners for music, VO and Foley Ensure audio clarity and readability in high-density multiplayer scenarios Plan audio for live content, events and updates Excellent communication, leadership and collaboration skills Strong problem-solving skills and attention to detail 7+ years of experience in game audio, including senior or lead roles Expert proficiency with Wwise or FMOD Experience implementing audio in Unreal Engine or a comparable engine Experience managing mix, prioritisation and voice limits in multiplayer games A reel demonstrating both sound design and implementation What makes you stand out Experience with UE's MetaSounds and Audio Mixer VO direction, including localised voice-over Scripting experience (e.g. Blueprints, Python, Lua) Experience with spatial audio German language skills",
+      "is_remote": true,
+      "direct_url": "https://companiongroupltd.recruitee.com/o/lead-audio-designer",
+      "listing_verification": {
+        "status": "verified",
+        "checked_on": "2026-11-27",
+        "listing_url": "https://companiongroupltd.recruitee.com/o/lead-audio-designer",
+        "posting_date_or_recency": "2026-11-26",
+        "date_source": "employer",
+        "employment_source": "listing"
+      },
+      "work_arrangement": "Remote in-state eligible",
+      "employment_category": "full_time",
+      "compensation": {
+        "nominal": "",
+        "period": "",
+        "source": "reputable_secondary_board",
+        "source_label": "Reputable secondary board"
+      },
+      "policy_exception": "Final pay fallback; pay may be undisclosed or not comparable"
+    }
+  ]
 }
