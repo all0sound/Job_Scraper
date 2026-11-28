@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Music Technology & Audio Roles
-*Last updated: 2026-11-27 09:27 UTC*
+*Last updated: 2026-11-28 01:06 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
